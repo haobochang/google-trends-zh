@@ -41,14 +41,14 @@ export const trendsData: TrendItem[] = [
     "titleZh": "双子座麦克",
     "traffic": "100+",
     "started": "Thu, 16 Apr 2026 00:40:00 -0700",
-    "summary": "相关新闻主要集中在：Google Gemini Mac 应用程序注重速度而非深度集成。",
-    "explanation": "Google Trends 显示“双子座麦克”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Google Gemini Mac 应用程序注重速度而非深度集成。这些报道来自 AppleInsider 等媒体，因此带动了集中搜索。",
+    "summary": "相关新闻主要集中在：谷歌推出适用于苹果 MacOS 的独立 Gemini 应用程序。",
+    "explanation": "Google Trends 显示“双子座麦克”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：谷歌推出适用于苹果 MacOS 的独立 Gemini 应用程序。这些报道来自 Bloomberg.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Google Gemini Mac app focuses on speed over deep integration",
-        "url": "https://appleinsider.com/articles/26/04/15/google-gemini-mac-app-focuses-on-speed-over-deep-integration",
-        "source": "AppleInsider"
+        "title": "Google Debuts Standalone Gemini App for Apple’s MacOS",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-15/google-debuts-standalone-gemini-app-for-apple-s-macos",
+        "source": "Bloomberg.com"
       }
     ]
   },
