@@ -3,23 +3,40 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "philippine airlines",
-    "titleZh": "菲律宾航空",
+    "title": "avengers doomsday",
+    "titleZh": "复仇者联盟世界末日",
     "traffic": "100+",
-    "started": "Thu, 16 Apr 2026 00:10:00 -0700",
-    "summary": "相关新闻主要集中在：菲律宾航空 A320-200 压铸金属飞机模型 - 1:400 比例，长 16 厘米，合金结构。",
-    "explanation": "Google Trends 显示“菲律宾航空”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：菲律宾航空 A320-200 压铸金属飞机模型 - 1:400 比例，长 16 厘米，合金结构。这些报道来自 ruhrkanal.news 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 16 Apr 2026 00:40:00 -0700",
+    "summary": "相关新闻主要集中在：《复仇者联盟：世界末日》：克里斯·埃文斯和克里斯·海姆斯沃斯主演；纪念 X 最后一次出游的电影。",
+    "explanation": "Google Trends 显示“复仇者联盟世界末日”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《复仇者联盟：世界末日》：克里斯·埃文斯和克里斯·海姆斯沃斯主演；纪念 X 最后一次出游的电影。这些报道来自 The Times of India 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Philippine Airlines A320-200 Diecast Metal Aircraft Model - 1:400 Scale, 16cm Long, Alloy Construction",
-        "url": "https://ruhrkanal.news/Philippine-Airlines-A320-200-Diecast-Metal-Aircraft-Model-1080502",
-        "source": "ruhrkanal.news"
+        "title": "'Avengers: Doomsday': Chris Evans and Chris Hemsworth to play lead roles; film to mark FINAL outing for X",
+        "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/avengers-doomsday-chris-evans-and-chris-hemsworth-to-play-lead-roles-film-to-mark-finalouting-for-x-men-characters/articleshow/130270463.cms",
+        "source": "The Times of India"
       }
     ]
   },
   {
     "rank": 2,
+    "title": "gemini mac",
+    "titleZh": "双子座麦克",
+    "traffic": "100+",
+    "started": "Thu, 16 Apr 2026 00:40:00 -0700",
+    "summary": "相关新闻主要集中在：Google 推出适用于 MacOS 的 Gemini 应用程序。",
+    "explanation": "Google Trends 显示“双子座麦克”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Google 推出适用于 MacOS 的 Gemini 应用程序。这些报道来自 CNET 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Google Launches Dedicated Gemini App for MacOS",
+        "url": "https://www.cnet.com/tech/services-and-software/google-launches-dedicated-gemini-app-for-macos/",
+        "source": "CNET"
+      }
+    ]
+  },
+  {
+    "rank": 3,
     "title": "t rowe price",
     "titleZh": "特罗价格",
     "traffic": "100+",
@@ -36,24 +53,24 @@ export const trendsData: TrendItem[] = [
     ]
   },
   {
-    "rank": 3,
-    "title": "target pokemon collab",
-    "titleZh": "目标口袋妖怪合作",
-    "traffic": "2000+",
-    "started": "Wed, 15 Apr 2026 23:50:00 -0700",
-    "summary": "相关新闻主要集中在：口袋妖怪馅饼 25 年来首次回归，我现在就需要一个。",
-    "explanation": "Google Trends 显示“目标口袋妖怪合作”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：口袋妖怪馅饼 25 年来首次回归，我现在就需要一个。这些报道来自 GameSpot 等媒体，因此带动了集中搜索。",
+    "rank": 4,
+    "title": "philippine airlines",
+    "titleZh": "菲律宾航空",
+    "traffic": "100+",
+    "started": "Thu, 16 Apr 2026 00:10:00 -0700",
+    "summary": "相关新闻主要集中在：菲航在暂停 11 天后恢复利雅得航线并增加曼谷加油站。",
+    "explanation": "Google Trends 显示“菲律宾航空”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：菲航在暂停 11 天后恢复利雅得航线并增加曼谷加油站。这些报道来自 InsiderPH 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Pokemon Pop-Tarts Are Back For The First Time In 25 Years, And I Need One Right Now",
-        "url": "https://www.gamespot.com/articles/pokemon-pop-tarts-are-back-for-the-first-time-in-25-years-and-i-need-one-right-now/1100-6539426/",
-        "source": "GameSpot"
+        "title": "PAL brings back Riyadh route after 11-day pause, adds Bangkok fuel stop",
+        "url": "https://insiderph.com/pal-brings-back-riyadh-route-after-11-day-pause-adds-bangkok-fuel-stop",
+        "source": "InsiderPH"
       }
     ]
   },
   {
-    "rank": 4,
+    "rank": 5,
     "title": "the sopranos",
     "titleZh": "女高音",
     "traffic": "100+",
@@ -70,7 +87,7 @@ export const trendsData: TrendItem[] = [
     ]
   },
   {
-    "rank": 5,
+    "rank": 6,
     "title": "tsmc stock",
     "titleZh": "台积电股票",
     "traffic": "500+",
@@ -87,7 +104,7 @@ export const trendsData: TrendItem[] = [
     ]
   },
   {
-    "rank": 6,
+    "rank": 7,
     "title": "macbook pro",
     "titleZh": "MacBook Pro",
     "traffic": "100+",
@@ -104,24 +121,24 @@ export const trendsData: TrendItem[] = [
     ]
   },
   {
-    "rank": 7,
+    "rank": 8,
     "title": "mel brooks",
     "titleZh": "梅尔·布鲁克斯",
     "traffic": "1000+",
     "started": "Wed, 15 Apr 2026 22:40:00 -0700",
-    "summary": "相关新闻主要集中在：梅尔·布鲁克斯公布了《太空球》续集的标题。",
-    "explanation": "Google Trends 显示“梅尔·布鲁克斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：梅尔·布鲁克斯公布了《太空球》续集的标题。这些报道来自 The Hollywood Reporter 等媒体，因此带动了集中搜索。",
+    "summary": "相关新闻主要集中在：迈克尔·B·乔丹 (Michael B. Jordan) 自赢得奥斯卡奖以来首次亮相。",
+    "explanation": "Google Trends 显示“梅尔·布鲁克斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：迈克尔·B·乔丹 (Michael B. Jordan) 自赢得奥斯卡奖以来首次亮相。这些报道来自 People.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Mel Brooks Unveils Title to ‘Spaceballs’ Sequel",
-        "url": "https://www.hollywoodreporter.com/movies/movie-news/spaceballs-sequel-title-the-new-one-1236566078/",
-        "source": "The Hollywood Reporter"
+        "title": "Michael B. Jordan Steps Out for First Appearance Since Winning Oscar",
+        "url": "https://people.com/michael-b-jordan-steps-out-for-first-appearance-since-winning-oscar-11950492",
+        "source": "People.com"
       }
     ]
   },
   {
-    "rank": 8,
+    "rank": 9,
     "title": "earthquake now",
     "titleZh": "现在地震",
     "traffic": "5000+",
@@ -138,36 +155,19 @@ export const trendsData: TrendItem[] = [
     ]
   },
   {
-    "rank": 9,
+    "rank": 10,
     "title": "mlb standings",
-    "titleZh": "美国职棒大联盟积分榜",
+    "titleZh": "美国职业棒球大联盟积分榜",
     "traffic": "2000+",
     "started": "Wed, 15 Apr 2026 22:30:00 -0700",
     "summary": "相关新闻主要集中在：MLB 实力排名第 2 周：啤酒队、海盗队上升；红袜队摔倒。",
-    "explanation": "Google Trends 显示“美国职棒大联盟积分榜”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：MLB 实力排名第 2 周：啤酒队、海盗队上升；红袜队摔倒。这些报道来自 ESPN 等媒体，因此带动了集中搜索。",
+    "explanation": "Google Trends 显示“美国职业棒球大联盟积分榜”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：MLB 实力排名第 2 周：啤酒队、海盗队上升；红袜队摔倒。这些报道来自 ESPN 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
         "title": "MLB Power Rankings Week 2: Brewers, Pirates rise; Red Sox fall",
         "url": "https://www.espn.com/mlb/story/_/id/48429192/mlb-2026-power-rankings-week-2-dodgers-yankees-brewers-pirates-red-sox",
         "source": "ESPN"
-      }
-    ]
-  },
-  {
-    "rank": 10,
-    "title": "gen v",
-    "titleZh": "第五代",
-    "traffic": "500+",
-    "started": "Wed, 15 Apr 2026 22:30:00 -0700",
-    "summary": "相关新闻主要集中在：《男孩们》第五季如何为《沃特崛起》前传做好准备。",
-    "explanation": "Google Trends 显示“第五代”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《男孩们》第五季如何为《沃特崛起》前传做好准备。这些报道来自 Entertainment Weekly 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "How 'The Boys' season 5 tees up 'Vought Rising' prequel",
-        "url": "https://ew.com/vought-rising-references-the-boys-season-5-11950070",
-        "source": "Entertainment Weekly"
       }
     ]
   }
