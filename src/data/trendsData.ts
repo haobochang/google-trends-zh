@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "brunei",
-    "titleZh": "文莱",
-    "traffic": "100+",
-    "started": "Thu, 16 Apr 2026 01:30:00 -0700",
-    "summary": "相关新闻主要集中在：PM确保1亿升柴油；和谈新动力。",
-    "explanation": "Google Trends 显示“文莱”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：PM确保1亿升柴油；和谈新动力。这些报道来自 The Nightly 等媒体，因此带动了集中搜索。",
+    "title": "kraken vs avalanche",
+    "titleZh": "海妖 vs 雪崩",
+    "traffic": "1000+",
+    "started": "Thu, 16 Apr 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：开放主题：科罗拉多雪崩队 vs 西雅图海妖队（晚上 8:00）。",
+    "explanation": "Google Trends 显示“海妖 vs 雪崩”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：开放主题：科罗拉多雪崩队 vs 西雅图海妖队（晚上 8:00）。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "PM secures 100m litres of diesel; new push for peace talks",
-        "url": "https://thenightly.com.au/world/middle-east/us-iran-war-updates-trumps-strait-of-hormuz-blockade-tested-no-white-house-ceasefire-extension-requested-c-22147884",
-        "source": "The Nightly"
+        "title": "Open Thread: Colorado Avalanche vs. Seattle Kraken (8:00 p.m.)",
+        "url": "https://sports.yahoo.com/articles/open-thread-colorado-avalanche-vs-000000890.html",
+        "source": "Yahoo Sports"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "fortnite server status",
-    "titleZh": "堡垒之夜服务器状态",
-    "traffic": "200+",
-    "started": "Thu, 16 Apr 2026 01:10:00 -0700",
-    "summary": "相关新闻主要集中在：《堡垒之夜》为玩家在拯救世界免费游戏之前做好准备。",
-    "explanation": "Google Trends 显示“堡垒之夜服务器状态”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《堡垒之夜》为玩家在拯救世界免费游戏之前做好准备。这些报道来自 htxt.africa 等媒体，因此带动了集中搜索。",
+    "title": "the pitt season 3",
+    "titleZh": "皮特第三季",
+    "traffic": "500+",
+    "started": "Thu, 16 Apr 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：《皮特报》的 Supriya Ganesh 对 Samira Mohan 博士寄予厚望。",
+    "explanation": "Google Trends 显示“皮特第三季”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《皮特报》的 Supriya Ganesh 对 Samira Mohan 博士寄予厚望。这些报道来自 JoySauce 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Fortnite preps players ahead of Save the World F2P",
-        "url": "https://htxt.co.za/2026/04/fortnite-preps-players-ahead-of-save-the-world-f2p/",
-        "source": "htxt.africa"
+        "title": "Supriya Ganesh of ‘The Pitt’ has high hopes for Dr. Samira Mohan",
+        "url": "https://joysauce.com/supriya-ganesh-of-the-pitt-has-high-hopes-for-dr-samira-mohan/",
+        "source": "JoySauce"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "gemini mac",
-    "titleZh": "双子座麦克",
-    "traffic": "100+",
-    "started": "Thu, 16 Apr 2026 00:40:00 -0700",
-    "summary": "相关新闻主要集中在：谷歌推出适用于苹果 MacOS 的独立 Gemini 应用程序。",
-    "explanation": "Google Trends 显示“双子座麦克”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：谷歌推出适用于苹果 MacOS 的独立 Gemini 应用程序。这些报道来自 Bloomberg.com 等媒体，因此带动了集中搜索。",
+    "title": "arkansas baseball",
+    "titleZh": "阿肯色州棒球",
+    "traffic": "500+",
+    "started": "Thu, 16 Apr 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：每日 Dawg 主题：2026 年 4 月 16 日。",
+    "explanation": "Google Trends 显示“阿肯色州棒球”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：每日 Dawg 主题：2026 年 4 月 16 日。这些报道来自 Bulldawg Illustrated 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Google Debuts Standalone Gemini App for Apple’s MacOS",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-15/google-debuts-standalone-gemini-app-for-apple-s-macos",
-        "source": "Bloomberg.com"
+        "title": "Daily Dawg Thread: April 16, 2026",
+        "url": "https://bulldawgillustrated.com/daily-dawg-thread-april-16-2026/2026/",
+        "source": "Bulldawg Illustrated"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "avengers doomsday",
-    "titleZh": "复仇者联盟世界末日",
-    "traffic": "100+",
-    "started": "Thu, 16 Apr 2026 00:40:00 -0700",
-    "summary": "相关新闻主要集中在：《复仇者联盟：世界末日》：克里斯·埃文斯和克里斯·海姆斯沃斯主演；纪念 X 最后一次出游的电影。",
-    "explanation": "Google Trends 显示“复仇者联盟世界末日”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《复仇者联盟：世界末日》：克里斯·埃文斯和克里斯·海姆斯沃斯主演；纪念 X 最后一次出游的电影。这些报道来自 The Times of India 等媒体，因此带动了集中搜索。",
+    "title": "longleat",
+    "titleZh": "朗利特",
+    "traffic": "200+",
+    "started": "Thu, 16 Apr 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：图片中的英格兰西部：“朗利特 60 岁”和“巧克力工厂”。",
+    "explanation": "Google Trends 显示“朗利特”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：图片中的英格兰西部：“朗利特 60 岁”和“巧克力工厂”。这些报道来自 BBC 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "'Avengers: Doomsday': Chris Evans and Chris Hemsworth to play lead roles; film to mark FINAL outing for X",
-        "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/avengers-doomsday-chris-evans-and-chris-hemsworth-to-play-lead-roles-film-to-mark-finalouting-for-x-men-characters/articleshow/130270463.cms",
-        "source": "The Times of India"
+        "title": "West of England in pictures: 'Longleat at 60' and 'chocolate factory'",
+        "url": "https://www.bbc.co.uk/news/articles/c937dp7wv9vo",
+        "source": "BBC"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "nebraska cornhuskers football",
-    "titleZh": "内布拉斯加州玉米壳队橄榄球",
-    "traffic": "200+",
-    "started": "Thu, 16 Apr 2026 00:30:00 -0700",
-    "summary": "相关新闻主要集中在：The Mash：一名后卫对 Husker RB 评价很高；一位经验丰富的D线球员正在为他迄今为止最重要的角色而努力。",
-    "explanation": "Google Trends 显示“内布拉斯加州玉米壳队橄榄球”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：The Mash：一名后卫对 Husker RB 评价很高；一位经验丰富的D线球员正在为他迄今为止最重要的角色而努力。这些报道来自 247Sports 等媒体，因此带动了集中搜索。",
+    "title": "jesse mccartney",
+    "titleZh": "杰西·麦卡特尼",
+    "traffic": "500+",
+    "started": "Thu, 16 Apr 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：杰西·麦卡特尼详细介绍了他在第五季客串的《黑客》明星。",
+    "explanation": "Google Trends 显示“杰西·麦卡特尼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：杰西·麦卡特尼详细介绍了他在第五季客串的《黑客》明星。这些报道来自 TheWrap 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "The Mash: A defender speaks well of the Husker RBs; a veteran D-lineman working for his biggest role yet",
-        "url": "https://247sports.com/college/nebraska/article/husker-notebook-items-jahsear-whittington--281776784/",
-        "source": "247Sports"
+        "title": "Jesse McCartney Details Which ‘Hacks’ Star He DMed to Land That Season 5 Cameo",
+        "url": "https://www.thewrap.com/creative-content/tv-shows/jesse-mccartney-hacks-season-5-cameo-interview/",
+        "source": "TheWrap"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "t rowe price",
-    "titleZh": "特罗价格",
-    "traffic": "200+",
-    "started": "Thu, 16 Apr 2026 00:10:00 -0700",
-    "summary": "相关新闻主要集中在：T. Rowe 下一季度收益报告有何期待。",
-    "explanation": "Google Trends 显示“特罗价格”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：T. Rowe 下一季度收益报告有何期待。这些报道来自 Barchart.com 等媒体，因此带动了集中搜索。",
+    "title": "arizona senators",
+    "titleZh": "亚利桑那州参议员",
+    "traffic": "1000+",
+    "started": "Thu, 16 Apr 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：州长凯蒂·霍布斯 (Katie Hobbs) 周一签署了 32 项法案，然后宣布“暂停”。",
+    "explanation": "Google Trends 显示“亚利桑那州参议员”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：州长凯蒂·霍布斯 (Katie Hobbs) 周一签署了 32 项法案，然后宣布“暂停”。这些报道来自 12News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "What to Expect From T. Rowe's Next Quarterly Earnings Report",
-        "url": "https://www.barchart.com/story/news/1243403/what-to-expect-from-t-rowe-s-next-quarterly-earnings-report",
-        "source": "Barchart.com"
+        "title": "Gov. Katie Hobbs signed 32 bills on Monday before announcing 'moratorium'",
+        "url": "https://www.12news.com/article/news/local/arizona/governor-katie-hobbs-signed-32-bills-monday-before-announcing-moratorium-arizona/75-677eb4ed-61a2-46fb-9d05-f71e72093de3",
+        "source": "12News"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "philippine airlines",
-    "titleZh": "菲律宾航空",
-    "traffic": "100+",
-    "started": "Thu, 16 Apr 2026 00:10:00 -0700",
-    "summary": "相关新闻主要集中在：取消、关键日期和乘客选项的完整列表。",
-    "explanation": "Google Trends 显示“菲律宾航空”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：取消、关键日期和乘客选项的完整列表。这些报道来自 Ubiratã Online 等媒体，因此带动了集中搜索。",
+    "title": "josh gad",
+    "titleZh": "乔什·加德",
+    "traffic": "200+",
+    "started": "Thu, 16 Apr 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：乔什·加德和亚历珊德拉·达达里奥主演喜剧电影情侣周末预告片。",
+    "explanation": "Google Trends 显示“乔什·加德”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：乔什·加德和亚历珊德拉·达达里奥主演喜剧电影情侣周末预告片。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Full list of cancellations, key dates, and passenger options",
-        "url": "https://www.ubirataonline.com.br/full-list-of-cancellations-key-dates-and-passenger-options/",
-        "source": "Ubiratã Online"
+        "title": "Josh Gad & Alexandra Daddario Star in Comedy Movie Couples Weekend Trailer",
+        "url": "https://www.aol.com/josh-gad-alexandria-daddario-star-195441266.html",
+        "source": "AOL.com"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "bluesky down",
-    "titleZh": "蓝天下来",
-    "traffic": "500+",
-    "started": "Thu, 16 Apr 2026 00:00:00 -0700",
-    "summary": "相关新闻主要集中在：美国数千用户的 Bluesky 宕机。",
-    "explanation": "Google Trends 显示“蓝天下来”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：美国数千用户的 Bluesky 宕机。这些报道来自 The Economic Times 等媒体，因此带动了集中搜索。",
+    "title": "melanie lynskey",
+    "titleZh": "梅兰妮·林斯基",
+    "traffic": "2000+",
+    "started": "Thu, 16 Apr 2026 18:10:00 -0700",
+    "summary": "相关新闻主要集中在：马特洛克：“第一天”照片。",
+    "explanation": "Google Trends 显示“梅兰妮·林斯基”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：马特洛克：“第一天”照片。这些报道来自 Give Me My Remote 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Bluesky down for thousands of users in the US",
-        "url": "https://m.economictimes.com/tech/technology/bluesky-down-for-thousands-of-users-in-the-us/articleshow/130065809.cms",
-        "source": "The Economic Times"
+        "title": "MATLOCK: ‘Day One’ Photos",
+        "url": "https://www.givememyremote.com/remote/2026/04/16/matlock-day-one-photos/nggallery/image/3161108_2550b/",
+        "source": "Give Me My Remote"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "the sopranos",
-    "titleZh": "女高音",
-    "traffic": "100+",
-    "started": "Wed, 15 Apr 2026 23:40:00 -0700",
-    "summary": "相关新闻主要集中在：《黑道家族》每季最佳剧集。",
-    "explanation": "Google Trends 显示“女高音”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《黑道家族》每季最佳剧集。这些报道来自 OutKick 等媒体，因此带动了集中搜索。",
+    "title": "matlock",
+    "titleZh": "马特洛克",
+    "traffic": "2000+",
+    "started": "Thu, 16 Apr 2026 18:10:00 -0700",
+    "summary": "相关新闻主要集中在：CBS 2026 年秋季电视节目：完整时间表和首播日期。",
+    "explanation": "Google Trends 显示“马特洛克”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：CBS 2026 年秋季电视节目：完整时间表和首播日期。这些报道来自 TVGuide.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "The Best Episode Of Each Season Of 'The Sopranos'",
-        "url": "https://www.outkick.com/culture/best-episode-each-season-the-sopranos",
-        "source": "OutKick"
+        "title": "CBS Fall TV Shows 2026: The Complete Schedule and Premiere Dates",
+        "url": "https://www.tvguide.com/news/cbs-fall-tv-shows-2026-schedule/",
+        "source": "TVGuide.com"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "tsmc stock",
-    "titleZh": "台积电股票",
-    "traffic": "1000+",
-    "started": "Wed, 15 Apr 2026 23:20:00 -0700",
-    "summary": "相关新闻主要集中在：台积电盈利超出预期。它正在竞相满足芯片需求。。",
-    "explanation": "Google Trends 显示“台积电股票”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：台积电盈利超出预期。它正在竞相满足芯片需求。。这些报道来自 Barron's 等媒体，因此带动了集中搜索。",
+    "title": "apac",
+    "titleZh": "亚太地区",
+    "traffic": "500+",
+    "started": "Thu, 16 Apr 2026 18:10:00 -0700",
+    "summary": "相关新闻主要集中在：Jagex 将《RuneScape: Dragonwilds》扩展到亚太地区，推出中文、日文和韩文本地化版本，庆祝 RuneScape 系列成立 25 周年。",
+    "explanation": "Google Trends 显示“亚太地区”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Jagex 将《RuneScape: Dragonwilds》扩展到亚太地区，推出中文、日文和韩文本地化版本，庆祝 RuneScape 系列成立 25 周年。这些报道来自 Jagex 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "TSMC Earnings Beat Expectations. It’s Racing to Keep Up With Chip Demand.",
-        "url": "https://www.barrons.com/articles/tsmc-earnings-stock-price-887252c1",
-        "source": "Barron's"
+        "title": "Jagex Expands RuneScape: Dragonwilds into Asia Pacific with Chinese, Japanese & Korean Localisation as the RuneScape Franchise Celebrates Its 25th Anniversary",
+        "url": "https://www.jagex.com/news/jagex-expands-runescape-dragonwilds-into-asia-pacific-with-chinese-japanese-korean-localisation-as-the-runescape-franchise-celebrates-its-25th-anniversary",
+        "source": "Jagex"
       }
     ]
   }
