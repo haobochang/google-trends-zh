@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "thrash movie",
-    "titleZh": "鞭打电影",
+    "title": "roman reigns",
+    "titleZh": "罗马统治",
     "traffic": "1000+",
-    "started": "Fri, 17 Apr 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：《Thrash》在劣质电影制作中削弱了潜在的 B 级电影刺激。",
-    "explanation": "Google Trends 显示“鞭打电影”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《Thrash》在劣质电影制作中削弱了潜在的 B 级电影刺激。这些报道来自 Roger Ebert 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 18 Apr 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：罗曼·雷恩斯：我们正处于最动荡的时期，但像任何船长一样，我在方向盘上保持稳定。",
+    "explanation": "Google Trends 显示“罗马统治”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：罗曼·雷恩斯：我们正处于最动荡的时期，但像任何船长一样，我在方向盘上保持稳定。这些报道来自 Fightful 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Thrash sinks potential B-movie thrills in shoddy filmmaking",
-        "url": "https://www.rogerebert.com/reviews/thrash-netflix-shark-movie-review-2026",
-        "source": "Roger Ebert"
+        "title": "Roman Reigns: We Were In The Most Turbulent Time, But Like Any Captain, I Was Steady At The Wheel",
+        "url": "https://www.fightful.com/wrestling/roman-reigns-we-were-in-the-most-turbulent-time-but-like-any-captain-i-was-steady-at-the-wheel/",
+        "source": "Fightful"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "nancy grace",
-    "titleZh": "南希·格蕾丝",
+    "title": "iphone fold",
+    "titleZh": "苹果手机折叠",
     "traffic": "500+",
-    "started": "Fri, 17 Apr 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：南希·格思里失踪：第 75 天最新更新。",
-    "explanation": "Google Trends 显示“南希·格蕾丝”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：南希·格思里失踪：第 75 天最新更新。这些报道来自 FOX 10 Phoenix 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 18 Apr 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：新报告预测 iPhone Fold 将碾压三星。",
+    "explanation": "Google Trends 显示“苹果手机折叠”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：新报告预测 iPhone Fold 将碾压三星。这些报道来自 Tom's Guide 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Nancy Guthrie disappearance: Day 75 latest updates",
-        "url": "https://www.fox10phoenix.com/news/nancy-guthrie-disappearance-day-75-latest-updates",
-        "source": "FOX 10 Phoenix"
+        "title": "iPhone Fold predicted to crush Samsung in new report",
+        "url": "https://www.tomsguide.com/phones/iphones/apple-is-predicted-to-own-nearly-half-the-foldable-market-but-i-have-doubts-that-the-iphone-fold-can-help-achieve-it-heres-why",
+        "source": "Tom's Guide"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "sebastian stan",
-    "titleZh": "塞巴斯蒂安·斯坦",
+    "title": "stanley tucci",
+    "titleZh": "斯坦利·图奇",
     "traffic": "200+",
-    "started": "Fri, 17 Apr 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：好莱坞新闻 | ⚡塞巴斯蒂安·斯坦和安娜贝尔·沃利斯期待第一个孩子。",
-    "explanation": "Google Trends 显示“塞巴斯蒂安·斯坦”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：好莱坞新闻 | ⚡塞巴斯蒂安·斯坦和安娜贝尔·沃利斯期待第一个孩子。这些报道来自 LatestLY 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 18 Apr 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：安妮·海瑟薇揭晓《穿普拉达的女王 2》演员阵容中的“女主角”——她的回答可能会让你大吃一惊。",
+    "explanation": "Google Trends 显示“斯坦利·图奇”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：安妮·海瑟薇揭晓《穿普拉达的女王 2》演员阵容中的“女主角”——她的回答可能会让你大吃一惊。这些报道来自 Page Six 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Hollywood News | ⚡Sebastian Stan and Annabelle Wallis Expecting First Child",
-        "url": "https://www.latestly.com/quickly/entertainment/hollywood/sebastian-stan-and-annabelle-wallis-expecting-first-child-7392985.html",
-        "source": "LatestLY"
+        "title": "Anne Hathaway reveals ‘diva’ of ‘The Devil Wears Prada 2’ cast — and her answer might surprise you",
+        "url": "https://pagesix.com/2026/04/16/entertainment/anne-hathaway-reveals-diva-of-the-devil-wears-prada-2-cast/",
+        "source": "Page Six"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "keith mccullough hedgeye",
-    "titleZh": "基思·麦卡洛·赫吉耶",
-    "traffic": "200+",
-    "started": "Fri, 17 Apr 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：每日图表：SPX + SPY 名义未平仓合约总额为 1.97T 即将到期。",
-    "explanation": "Google Trends 显示“基思·麦卡洛·赫吉耶”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：每日图表：SPX + SPY 名义未平仓合约总额为 1.97T 即将到期。这些报道来自 Hedgeye 等媒体，因此带动了集中搜索。",
+    "title": "moon phase today",
+    "titleZh": "今天月相",
+    "traffic": "500+",
+    "started": "Sat, 18 Apr 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：四月新月——4月17日会是什么样子。",
+    "explanation": "Google Trends 显示“今天月相”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：四月新月——4月17日会是什么样子。这些报道来自 Українські Національні Новини (УНН) 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "CHART OF THE DAY: $1.97T In SPX + SPY Total Notional Open Interest Set To Expire",
-        "url": "https://app.hedgeye.com/insights/180973-chart-of-the-day-1-97t-in-spx-spy-total-notional-open-interest-set?type=macro%2Cmarket-insights",
-        "source": "Hedgeye"
+        "title": "New Moon in April - what April 17 will be like",
+        "url": "https://unn.ua/en/news/new-moon-in-april-new-moon-on-april-17",
+        "source": "Українські Національні Новини (УНН)"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "lindsey heaps",
-    "titleZh": "林赛堆",
+    "title": "jae'sean tate",
+    "titleZh": "杰西恩·塔特",
     "traffic": "200+",
-    "started": "Fri, 17 Apr 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：USWNT 老板艾玛·海耶斯 (Emma Hayes) 对 NWSL 回归后对林赛·希普斯 (Lindsey Heaps) 寄予厚望。",
-    "explanation": "Google Trends 显示“林赛堆”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：USWNT 老板艾玛·海耶斯 (Emma Hayes) 对 NWSL 回归后对林赛·希普斯 (Lindsey Heaps) 寄予厚望。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 18 Apr 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：Jae'Sean Tate 新闻：不再轮换。",
+    "explanation": "Google Trends 显示“杰西恩·塔特”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Jae'Sean Tate 新闻：不再轮换。这些报道来自 RotoWire 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "USWNT boss Emma Hayes sets high expectations for Lindsey Heaps upon NWSL return",
-        "url": "https://sports.yahoo.com/articles/uswnt-boss-emma-hayes-sets-222203902.html",
-        "source": "Yahoo Sports"
+        "title": "Jae'Sean Tate News: Removed from rotation",
+        "url": "https://www.rotowire.com/basketball/headlines/jaesean-tate-news-removed-from-rotation-528617",
+        "source": "RotoWire"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "nebraska baseball",
-    "titleZh": "内布拉斯加州棒球",
-    "traffic": "200+",
-    "started": "Fri, 17 Apr 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：剥壳者队将在周末对阵南加州大学的比赛中进行轮换。",
-    "explanation": "Google Trends 显示“内布拉斯加州棒球”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：剥壳者队将在周末对阵南加州大学的比赛中进行轮换。这些报道来自 247Sports 等媒体，因此带动了集中搜索。",
+    "title": "megan fox",
+    "titleZh": "梅根·福克斯",
+    "traffic": "1000+",
+    "started": "Sat, 18 Apr 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：“教授”梅根·福克斯和 Dr. Squatch：关于这位女演员最新合作的一切。",
+    "explanation": "Google Trends 显示“梅根·福克斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：“教授”梅根·福克斯和 Dr. Squatch：关于这位女演员最新合作的一切。这些报道来自 Sports Illustrated Lifestyle 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Huskers shuffling rotation with big weekend against USC ahead",
-        "url": "https://247sports.com/college/nebraska/article/nebraska-huskers-baseball-weekend-pitching-rotation--282005408/",
-        "source": "247Sports"
+        "title": "‘Professor’ Megan Fox and Dr. Squatch: Everything to Know About the Actress’s Latest Collab",
+        "url": "https://lifestyle.si.com/fashion-beauty/megan-fox-dr-squatch-collab-everything-to-know",
+        "source": "Sports Illustrated Lifestyle"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "sophia wilson",
-    "titleZh": "索菲亚·威尔逊",
-    "traffic": "200+",
-    "started": "Fri, 17 Apr 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：姆巴佩转会皇马后延续欧冠无奖杯纪录。",
-    "explanation": "Google Trends 显示“索菲亚·威尔逊”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：姆巴佩转会皇马后延续欧冠无奖杯纪录。这些报道来自 AP News 等媒体，因此带动了集中搜索。",
+    "title": "bronny james",
+    "titleZh": "布朗尼·詹姆斯",
+    "traffic": "2000+",
+    "started": "Sat, 18 Apr 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：NBA：布朗尼·詹姆斯协助父亲勒布朗赢得洛杉矶湖人队胜利。",
+    "explanation": "Google Trends 显示“布朗尼·詹姆斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：NBA：布朗尼·詹姆斯协助父亲勒布朗赢得洛杉矶湖人队胜利。这些报道来自 BBC 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Mbappé’s trophyless streak in the Champions League continues after move to Real Madrid",
-        "url": "https://apnews.com/article/mbappe-real-madrid-champions-league-b7a6d035db5ab52ab37ea5bf8a0bde85",
-        "source": "AP News"
+        "title": "NBA: Bronny James assists father LeBron in Los Angeles Lakers win",
+        "url": "https://www.bbc.com/sport/basketball/articles/cn431d7ee11o",
+        "source": "BBC"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "tornado watch vs warning",
-    "titleZh": "龙卷风观察与警告",
-    "traffic": "2000+",
-    "started": "Fri, 17 Apr 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：周三早上的暴风雨中确认了布兰奇县的龙卷风。",
-    "explanation": "Google Trends 显示“龙卷风观察与警告”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：周三早上的暴风雨中确认了布兰奇县的龙卷风。这些报道来自 WTVB 等媒体，因此带动了集中搜索。",
+    "title": "cody rhodes wife",
+    "titleZh": "科迪·罗兹的妻子",
+    "traffic": "1000+",
+    "started": "Sat, 18 Apr 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：报道：WWE顶级明星的妻子将拥有自己的真人秀节目。",
+    "explanation": "Google Trends 显示“科迪·罗兹的妻子”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：报道：WWE顶级明星的妻子将拥有自己的真人秀节目。这些报道来自 Wrestleview.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Tornado confirmed in Branch County in Wednesday morning storms",
-        "url": "https://wtvbam.com/2026/04/16/925065/",
-        "source": "WTVB"
+        "title": "Report: Wife of top WWE star getting own reality series",
+        "url": "https://www.wrestleview.com/featured-top-story/380424-report-wife-of-top-wwe-star-getting-own-reality-series/",
+        "source": "Wrestleview.com"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "ryan mcmahon",
-    "titleZh": "瑞恩·麦克马洪",
-    "traffic": "1000+",
-    "started": "Fri, 17 Apr 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：洋基队敦促大胆交易全明星三垒手以取代麦克马洪。",
-    "explanation": "Google Trends 显示“瑞恩·麦克马洪”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：洋基队敦促大胆交易全明星三垒手以取代麦克马洪。这些报道来自 Heavy.com 等媒体，因此带动了集中搜索。",
+    "title": "jack nicholson",
+    "titleZh": "杰克·尼克尔森",
+    "traffic": "500+",
+    "started": "Sat, 18 Apr 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：《飞越疯人院》带着当代风味回归。",
+    "explanation": "Google Trends 显示“杰克·尼克尔森”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《飞越疯人院》带着当代风味回归。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Yankees Urged to Make Bold Trade for All-Star Third Baseman to Replace McMahon",
-        "url": "https://heavy.com/sports/mlb/new-york-yankees/acquire-paredes-replace-mcmahon-move/",
-        "source": "Heavy.com"
+        "title": "‘One Flew Over the Cuckoo’s Nest’ Returns With Contemporary Bite",
+        "url": "https://www.nytimes.com/2026/04/16/theater/one-flew-over-the-cuckoos-nest-old-vic-london.html",
+        "source": "The New York Times"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "rhea ripley",
-    "titleZh": "瑞亚·里普利",
+    "title": "partidos de liga mx",
+    "titleZh": "MX 联赛",
     "traffic": "1000+",
-    "started": "Fri, 17 Apr 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：雷亚·里普利 (Rhea Ripley) 在《摔角狂热》第 42 届比赛前回应类固醇指控。",
-    "explanation": "Google Trends 显示“瑞亚·里普利”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：雷亚·里普利 (Rhea Ripley) 在《摔角狂热》第 42 届比赛前回应类固醇指控。这些报道来自 SEScoops 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 18 Apr 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：Cruz Azul vs Xolos、Chivas vs Puebla 以及 América vs Toluca：观看今天比赛直播的时间和地点 |墨西哥足球甲级联赛。",
+    "explanation": "Google Trends 显示“MX 联赛”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Cruz Azul vs Xolos、Chivas vs Puebla 以及 América vs Toluca：观看今天比赛直播的时间和地点 |墨西哥足球甲级联赛。这些报道来自 El Heraldo de México 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Rhea Ripley Addresses Steroid Accusations Ahead of WrestleMania 42",
-        "url": "https://www.sescoops.com/article/rhea-ripley-steroid-accusations-wrestlemania-42",
-        "source": "SEScoops"
+        "title": "Cruz Azul vs Xolos, Chivas vs Puebla y América vs Toluca: a qué hora y dónde ver en vivo los partidos de hoy | Liga MX",
+        "url": "https://heraldodemexico.com.mx/deportes/2026/4/18/cruz-azul-vs-xolos-chivas-vs-puebla-america-vs-toluca-que-hora-donde-ver-en-vivo-los-partidos-de-hoy-liga-mx-798185.html",
+        "source": "El Heraldo de México"
       }
     ]
   }
