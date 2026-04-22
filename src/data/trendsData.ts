@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "addison rae",
-    "titleZh": "艾迪森·雷",
-    "traffic": "2000+",
-    "started": "Mon, 20 Apr 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：奥利维亚·罗德里戈（Olivia Rodrigo）：《Drop Dead》评论——极简主义的迷恋，与节日相比只是一个小玩意。",
-    "explanation": "Google Trends 显示“艾迪森·雷”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：奥利维亚·罗德里戈（Olivia Rodrigo）：《Drop Dead》评论——极简主义的迷恋，与节日相比只是一个小玩意。这些报道来自 The Guardian 等媒体，因此带动了集中搜索。",
+    "title": "freddie freeman",
+    "titleZh": "弗雷迪·弗里曼",
+    "traffic": "500+",
+    "started": "Tue, 21 Apr 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：道奇队征召了去年太平洋海岸联盟 MVP 的重击手瑞安·沃德 (Ryan Ward)，并将弗雷迪·弗里曼 (Freddie Freeman) 列入亲子名单。",
+    "explanation": "Google Trends 显示“弗雷迪·弗里曼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：道奇队征召了去年太平洋海岸联盟 MVP 的重击手瑞安·沃德 (Ryan Ward)，并将弗雷迪·弗里曼 (Freddie Freeman) 列入亲子名单。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Olivia Rodrigo: Drop Dead review – a maximalist rush of infatuation that’s just a bauble short of festive",
-        "url": "https://www.theguardian.com/music/2026/apr/17/olivia-rodrigo-drop-dead-review-single",
-        "source": "The Guardian"
+        "title": "Dodgers call up slugger Ryan Ward, last year's Pacific Coast League MVP, put Freddie Freeman on paternity list",
+        "url": "https://sports.yahoo.com/mlb/article/dodgers-call-up-slugger-ryan-ward-last-years-pacific-coast-league-mvp-put-freddie-freeman-on-paternity-list-163334271.html",
+        "source": "Yahoo Sports"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "liv morgan",
-    "titleZh": "生命摩根",
-    "traffic": "2000+",
-    "started": "Mon, 20 Apr 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：查看 NJ 选手 Liv Morgan 在 Wrestlemania 42 上赢得 WWE 女子冠军的最佳照片。",
-    "explanation": "Google Trends 显示“生命摩根”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：查看 NJ 选手 Liv Morgan 在 Wrestlemania 42 上赢得 WWE 女子冠军的最佳照片。这些报道来自 Bergen Record 等媒体，因此带动了集中搜索。",
+    "title": "david hamilton",
+    "titleZh": "大卫·汉密尔顿",
+    "traffic": "200+",
+    "started": "Tue, 21 Apr 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：乔伊·奥尔蒂斯的击球困境：酿酒人可以依靠大卫·汉密尔顿的防守吗？。",
+    "explanation": "Google Trends 显示“大卫·汉密尔顿”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：乔伊·奥尔蒂斯的击球困境：酿酒人可以依靠大卫·汉密尔顿的防守吗？。这些报道来自 BVM Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "See best photos as NJ's Liv Morgan wins WWE Women's title at Wrestlemania 42",
-        "url": "https://www.northjersey.com/picture-gallery/entertainment/2026/04/18/liv-morgan-wins-wwe-women-world-championship-wrestlemania-42-photos/89684576007/",
-        "source": "Bergen Record"
+        "title": "Joey Ortiz’s Hitting Woes: Can Brewers Rely on David Hamilton’s Defense?",
+        "url": "https://bvmsports.com/2026/04/21/joey-ortizs-hitting-woes-can-brewers-rely-on-david-hamiltons-defense/",
+        "source": "BVM Sports"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "ducks vs oilers",
-    "titleZh": "鸭子与油工",
-    "traffic": "500+",
-    "started": "Mon, 20 Apr 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：鸭队对阵油人队：今晚在哪里免费观看斯坦利杯季后赛曲棍球。",
-    "explanation": "Google Trends 显示“鸭子与油工”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：鸭队对阵油人队：今晚在哪里免费观看斯坦利杯季后赛曲棍球。这些报道来自 MassLive 等媒体，因此带动了集中搜索。",
+    "title": "harley davidson",
+    "titleZh": "哈雷戴维森",
+    "traffic": "1000+",
+    "started": "Tue, 21 Apr 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：哈雷戴维森因后刹车缺失召回近 17,000 辆摩托车。",
+    "explanation": "Google Trends 显示“哈雷戴维森”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：哈雷戴维森因后刹车缺失召回近 17,000 辆摩托车。这些报道来自 FOX 32 Chicago 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Ducks vs. Oilers: Where to watch Stanley Cup playoff hockey for free tonight",
-        "url": "https://www.masslive.com/tv/2026/04/ducks-vs-oilers-where-to-watch-stanley-cup-playoff-hockey-for-free-tonight.html",
-        "source": "MassLive"
+        "title": "Harley-Davidson recalls nearly 17,000 motorcycles over loss of rear brakes",
+        "url": "https://www.fox32chicago.com/news/harley-davidson-recall-motorcycles-rear-brakes",
+        "source": "FOX 32 Chicago"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "nancy grace",
-    "titleZh": "南希·格蕾丝",
+    "title": "gpt chat",
+    "titleZh": "聊天室",
     "traffic": "500+",
-    "started": "Mon, 20 Apr 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：Nancy Guthrie 案第 72 天：YouTuber 骚扰投诉后，社区巡逻增加。",
-    "explanation": "Google Trends 显示“南希·格蕾丝”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Nancy Guthrie 案第 72 天：YouTuber 骚扰投诉后，社区巡逻增加。这些报道来自 KVOA 等媒体，因此带动了集中搜索。",
+    "started": "Tue, 21 Apr 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：据称，ChatGPT 向佛罗里达州枪手提供袭击时间和地点的建议。",
+    "explanation": "Google Trends 显示“聊天室”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：据称，ChatGPT 向佛罗里达州枪手提供袭击时间和地点的建议。这些报道来自 The Washington Post 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Day 72 of Nancy Guthrie case: Neighborhood patrols increase after YouTuber harassing complaints",
-        "url": "https://www.kvoa.com/news/nancy-guthrie/day-72-of-nancy-guthrie-case-neighborhood-patrols-increase-after-youtuber-harassing-complaints/article_e38518aa-8259-47db-9f98-2106b0a4a699.html",
-        "source": "KVOA"
+        "title": "ChatGPT allegedly advised Florida State shooter when and where to strike",
+        "url": "https://www.washingtonpost.com/technology/2026/04/21/chatgpt-fsu-shooting-openai/",
+        "source": "The Washington Post"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "nba.",
-    "titleZh": "NBA。",
-    "traffic": "5000+",
-    "started": "Mon, 20 Apr 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：底特律活塞队的奥萨尔·汤普森在年度最佳防守球员中排名第三。",
-    "explanation": "Google Trends 显示“NBA。”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：底特律活塞队的奥萨尔·汤普森在年度最佳防守球员中排名第三。这些报道来自 The Detroit News 等媒体，因此带动了集中搜索。",
+    "title": "devin williams",
+    "titleZh": "德文·威廉姆斯",
+    "traffic": "2000+",
+    "started": "Tue, 21 Apr 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：芝加哥小熊队在加时赛中以 2-1 获胜，取得了五连胜——在一些意想不到的来源的帮助下。",
+    "explanation": "Google Trends 显示“德文·威廉姆斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：芝加哥小熊队在加时赛中以 2-1 获胜，取得了五连胜——在一些意想不到的来源的帮助下。这些报道来自 Chicago Tribune 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Detroit Pistons' Ausar Thompson finishes third in Defensive Player of the Year",
-        "url": "https://www.detroitnews.com/story/sports/nba/pistons/2026/04/20/detroit-pistons-ausar-thompson-finishes-third-in-defensive-player-of-the-year/89697937007/",
-        "source": "The Detroit News"
+        "title": "Chicago Cubs’ extra-inning 2-1 win marks 5th straight — with help from some unlikely sources",
+        "url": "https://www.chicagotribune.com/2026/04/19/chicago-cubs-new-york-mets-extra-inning-win/",
+        "source": "Chicago Tribune"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "jon ossoff",
-    "titleZh": "乔恩·奥索夫",
-    "traffic": "1000+",
-    "started": "Mon, 20 Apr 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：乔恩·奥索夫 (Jon Ossoff) 在佐治亚州参议员竞选中斩获创纪录的 1400 万美元奖金。",
-    "explanation": "Google Trends 显示“乔恩·奥索夫”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：乔恩·奥索夫 (Jon Ossoff) 在佐治亚州参议员竞选中斩获创纪录的 1400 万美元奖金。这些报道来自 AJC.com 等媒体，因此带动了集中搜索。",
+    "title": "jake rogers",
+    "titleZh": "杰克·罗杰斯",
+    "traffic": "500+",
+    "started": "Tue, 21 Apr 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：降雨威胁迫使红袜队改变周日比赛的时间。",
+    "explanation": "Google Trends 显示“杰克·罗杰斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：降雨威胁迫使红袜队改变周日比赛的时间。这些报道来自 ESPN 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Jon Ossoff posts record $14M haul in high-stakes Georgia Senate race",
-        "url": "https://www.ajc.com/politics/2026/04/jon-ossoff-posts-record-14m-haul-in-high-stakes-georgia-senate-race/",
-        "source": "AJC.com"
+        "title": "Rain threat forces Red Sox to change time of Sunday's game",
+        "url": "https://www.espn.com/mlb/story/_/id/48526961/rain-threat-forces-red-sox-change-sunday-game",
+        "source": "ESPN"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "rae american idol",
-    "titleZh": "雷美国偶像",
-    "traffic": "200+",
-    "started": "Mon, 20 Apr 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：“美国偶像”的布鲁克斯·罗瑟通过“Bae”帖子助长了 Rae 的浪漫谣言。",
-    "explanation": "Google Trends 显示“雷美国偶像”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：“美国偶像”的布鲁克斯·罗瑟通过“Bae”帖子助长了 Rae 的浪漫谣言。这些报道来自 TV Insider 等媒体，因此带动了集中搜索。",
+    "title": "wyatt langford",
+    "titleZh": "怀亚特兰福德",
+    "traffic": "500+",
+    "started": "Tue, 21 Apr 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：流浪者队球星怀亚特·兰福德因右前臂紧张而离场。",
+    "explanation": "Google Trends 显示“怀亚特兰福德”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：流浪者队球星怀亚特·兰福德因右前臂紧张而离场。这些报道来自 Sports Illustrated 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "‘American Idol’s Brooks Rosser Fuels Rae Romance Rumors With ‘Bae’ Post",
-        "url": "https://www.tvinsider.com/1258875/american-idol-rae-brooks-rosser-romance-rumors-sign-bae/",
-        "source": "TV Insider"
+        "title": "Rangers Star Wyatt Langford Leaves Game with Right Forearm Tightness",
+        "url": "https://www.si.com/mlb/rangers/onsi/rangers-star-wyatt-langford-leaves-game-right-forearm-tightness",
+        "source": "Sports Illustrated"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "flyers goalie",
-    "titleZh": "传单守门员",
-    "traffic": "200+",
-    "started": "Mon, 20 Apr 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：企鹅队 vs. 飞人队赔率，预测：2026 年 NHL 季后赛选秀权，来自经过验证的模型的第 2 场比赛最佳投注。",
-    "explanation": "Google Trends 显示“传单守门员”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：企鹅队 vs. 飞人队赔率，预测：2026 年 NHL 季后赛选秀权，来自经过验证的模型的第 2 场比赛最佳投注。这些报道来自 CBS Sports 等媒体，因此带动了集中搜索。",
+    "title": "morgan geekie",
+    "titleZh": "摩根极客",
+    "traffic": "500+",
+    "started": "Tue, 21 Apr 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：一定要看看：棕熊队的 Geekie 幸运地从冰上弹跳得分。",
+    "explanation": "Google Trends 显示“摩根极客”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：一定要看看：棕熊队的 Geekie 幸运地从冰上弹跳得分。这些报道来自 Sportsnet 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Penguins vs. Flyers odds, prediction: 2026 NHL playoff picks, Game 2 best bets from proven model",
-        "url": "https://www.cbssports.com/nhl/news/penguins-flyers-odds-prediction-line-start-time-2026-nhl-playoff-picks-game-2-best-bets/",
-        "source": "CBS Sports"
+        "title": "Gotta See It: Bruins’ Geekie scores from centre-ice on lucky bounce",
+        "url": "https://www.sportsnet.ca/nhl/video/gotta-see-it-bruins-geekie-scores-from-centre-ice-on-lucky-bounce/",
+        "source": "Sportsnet"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "wild vs stars",
-    "titleZh": "狂野与明星",
-    "traffic": "10000+",
-    "started": "Mon, 20 Apr 2026 18:20:00 -0700",
-    "summary": "相关新闻主要集中在：达拉斯星队在另一场莫名其妙的梦游般的第一场比赛后最好醒来。",
-    "explanation": "Google Trends 显示“狂野与明星”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：达拉斯星队在另一场莫名其妙的梦游般的第一场比赛后最好醒来。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
+    "title": "nancy grace",
+    "titleZh": "南希·格蕾丝",
+    "traffic": "2000+",
+    "started": "Tue, 21 Apr 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：对秘密政府实验室工作人员死亡和失踪的调查。",
+    "explanation": "Google Trends 显示“南希·格蕾丝”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：对秘密政府实验室工作人员死亡和失踪的调查。这些报道来自 CBS News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Dallas Stars better wake up after inexplicably sleepwalking through another Game 1",
-        "url": "https://www.nytimes.com/athletic/7208758/2026/04/18/dallas-stars-wild-game-1-nhl/",
-        "source": "The New York Times"
+        "title": "Investigation into deaths, disappearances of staff at secretive government labs",
+        "url": "https://www.cbsnews.com/video/investigation-deaths-disappearances-staff-secretive-government-labs/",
+        "source": "CBS News"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "roxanne perez",
-    "titleZh": "罗克珊佩雷斯",
-    "traffic": "500+",
-    "started": "Mon, 20 Apr 2026 18:20:00 -0700",
-    "summary": "相关新闻主要集中在：罗克珊·佩雷斯（Roxanne Perez）清除脑震荡协议，在摔跤狂热大赛之前回到健身房。",
-    "explanation": "Google Trends 显示“罗克珊佩雷斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：罗克珊·佩雷斯（Roxanne Perez）清除脑震荡协议，在摔跤狂热大赛之前回到健身房。这些报道来自 Art Threat 等媒体，因此带动了集中搜索。",
+    "title": "chevrolet silverado ev",
+    "titleZh": "雪佛兰索罗德 EV",
+    "traffic": "200+",
+    "started": "Tue, 21 Apr 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：通用汽车刚刚取消了下一代雪佛兰索罗德电动汽车、GMC 悍马电动汽车和凯迪拉克凯雷德 IQ。",
+    "explanation": "Google Trends 显示“雪佛兰索罗德 EV”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：通用汽车刚刚取消了下一代雪佛兰索罗德电动汽车、GMC 悍马电动汽车和凯迪拉克凯雷德 IQ。这些报道来自 InsideEVs 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Roxanne Perez clears concussion protocol, she’s back in gym ahead of WrestleMania",
-        "url": "https://artthreat.net/22601-98371-roxanne-perez-clears-concussion-protocol-she-s-back-in-gym-ahead-of-wrestlemania/",
-        "source": "Art Threat"
+        "title": "GM Just Canceled The Next-Gen Chevy Silverado EV, GMC Hummer EV, And Cadillac Escalade IQ",
+        "url": "https://insideevs.com/news/793636/chevy-silverado-ev-sierra-ev-escalade-ev-canceled/",
+        "source": "InsideEVs"
       }
     ]
   }
