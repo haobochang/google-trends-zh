@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "mike repole",
-    "titleZh": "迈克·雷波尔",
-    "traffic": "200+",
-    "started": "Wed, 22 Apr 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：Everett Dobson 加入 Keeneland 主办的 TDN 作家室播客。",
-    "explanation": "Google Trends 显示“迈克·雷波尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Everett Dobson 加入 Keeneland 主办的 TDN 作家室播客。这些报道来自 Thoroughbred Daily News 等媒体，因此带动了集中搜索。",
+    "title": "avalanche vs kings",
+    "titleZh": "雪崩 vs 国王",
+    "traffic": "2000+",
+    "started": "Thu, 23 Apr 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：游戏三倾斜 |科罗拉多雪崩。",
+    "explanation": "Google Trends 显示“雪崩 vs 国王”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：游戏三倾斜 |科罗拉多雪崩。这些报道来自 NHL.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Everett Dobson Joins the TDN Writers' Room Podcast Presented by Keeneland",
-        "url": "https://www.thoroughbreddailynews.com/everett-dobson-joins-the-tdn-writers-room-podcast-presented-by-keeneland/",
-        "source": "Thoroughbred Daily News"
+        "title": "Game Three Tilt | Colorado Avalanche",
+        "url": "https://www.nhl.com/avalanche/news/game-preview-04-23-26",
+        "source": "NHL.com"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "okc thunder",
-    "titleZh": "雷霆队",
-    "traffic": "10000+",
-    "started": "Wed, 22 Apr 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：雷霆队与太阳队第 2 场比赛中值得关注的 3 件事。",
-    "explanation": "Google Trends 显示“雷霆队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：雷霆队与太阳队第 2 场比赛中值得关注的 3 件事。这些报道来自 NBA 等媒体，因此带动了集中搜索。",
+    "title": "caleb banks",
+    "titleZh": "迦勒银行",
+    "traffic": "1000+",
+    "started": "Thu, 23 Apr 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：潜在的德州选秀目标凯莱布·班克斯在 NFL 选秀前获得了良好的健康预测。",
+    "explanation": "Google Trends 显示“迦勒银行”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：潜在的德州选秀目标凯莱布·班克斯在 NFL 选秀前获得了良好的健康预测。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "3 things to watch in Thunder-Suns Game 2",
-        "url": "https://www.nba.com/news/3-things-to-watch-thunder-suns-game-2",
-        "source": "NBA"
-      }
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "atlanta braves",
-    "titleZh": "亚特兰大勇士队",
-    "traffic": "10000+",
-    "started": "Wed, 22 Apr 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：华盛顿国民队 vs 亚特兰大勇士队 比赛主题。",
-    "explanation": "Google Trends 显示“亚特兰大勇士队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：华盛顿国民队 vs 亚特兰大勇士队 比赛主题。这些报道来自 Federal Baseball 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Washington Nationals vs Atlanta Braves Game Thread",
-        "url": "https://www.federalbaseball.com/washington-nationals-discussions/90409/washington-nationals-vs-atlanta-braves-game-thread",
-        "source": "Federal Baseball"
-      }
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "mlb scores today",
-    "titleZh": "MLB 今天的比分",
-    "traffic": "500+",
-    "started": "Wed, 22 Apr 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：专栏：在瑞格利球场寒冷的一天嗅出棒球赛季初的趋势。",
-    "explanation": "Google Trends 显示“MLB 今天的比分”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：专栏：在瑞格利球场寒冷的一天嗅出棒球赛季初的趋势。这些报道来自 Chicago Tribune 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Column: Sniffing out baseball’s early-season trends on a chilly day at Wrigley Field",
-        "url": "https://www.chicagotribune.com/2026/04/19/wrigley-field-baseball-early-season-trends/",
-        "source": "Chicago Tribune"
-      }
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "braves standings",
-    "titleZh": "勇士队积分榜",
-    "traffic": "2000+",
-    "started": "Wed, 22 Apr 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：勇士队召回迪迪埃·富恩特斯，以获得令人兴奋的美国职业棒球大联盟对阵国民队的机会。",
-    "explanation": "Google Trends 显示“勇士队积分榜”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：勇士队召回迪迪埃·富恩特斯，以获得令人兴奋的美国职业棒球大联盟对阵国民队的机会。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Braves recall Didier Fuentes for exciting MLB opportunity vs. Nationals",
-        "url": "https://sports.yahoo.com/articles/braves-recall-didier-fuentes-exciting-133053446.html",
+        "title": "Potential Texans draft target Caleb Banks gets promising prognosis on health before NFL draft",
+        "url": "https://sports.yahoo.com/articles/potential-texans-draft-target-caleb-213719752.html",
         "source": "Yahoo Sports"
       }
     ]
   },
   {
-    "rank": 6,
-    "title": "kevin mckidd",
-    "titleZh": "凯文·麦基德",
-    "traffic": "200+",
-    "started": "Wed, 22 Apr 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：《实习医生格蕾》主演凯文·麦克基德将领衔 ITV 惊悚片《唯一嫌疑人》。",
-    "explanation": "Google Trends 显示“凯文·麦基德”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《实习医生格蕾》主演凯文·麦克基德将领衔 ITV 惊悚片《唯一嫌疑人》。这些报道来自 The Hollywood Reporter 等媒体，因此带动了集中搜索。",
+    "rank": 3,
+    "title": "atlanta hawks vs knicks match player stats",
+    "titleZh": "亚特兰大老鹰队 vs 尼克斯队 比赛球员统计",
+    "traffic": "500+",
+    "started": "Thu, 23 Apr 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：从强烈反对到太平洋冠军：金骑士队托托雷拉的赌博到目前为止得到了回报。",
+    "explanation": "Google Trends 显示“亚特兰大老鹰队 vs 尼克斯队 比赛球员统计”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：从强烈反对到太平洋冠军：金骑士队托托雷拉的赌博到目前为止得到了回报。这些报道来自 San Francisco Chronicle 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "‘Grey’s Anatomy’ Star Kevin McKidd to Lead ITV Thriller ‘The Only Suspect’",
-        "url": "https://www.hollywoodreporter.com/tv/tv-news/greys-anatomy-star-kevin-mckidd-itv-the-only-suspect-show-1236571676/",
-        "source": "The Hollywood Reporter"
+        "title": "From backlash to Pacific title: The Golden Knights’ Tortorella gamble paying off so far",
+        "url": "https://www.sfchronicle.com/sports/article/from-backlash-to-pacific-title-the-golden-22210908.php",
+        "source": "San Francisco Chronicle"
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "jeff probst",
+    "titleZh": "杰夫·普罗斯特",
+    "traffic": "500+",
+    "started": "Thu, 23 Apr 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：杰夫·普罗布斯特 (Jeff Probst) 有史以来第一次参加幸存者挑战赛，这一切都归功于吉米·法伦 (Jimmy Fallon)。",
+    "explanation": "Google Trends 显示“杰夫·普罗斯特”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：杰夫·普罗布斯特 (Jeff Probst) 有史以来第一次参加幸存者挑战赛，这一切都归功于吉米·法伦 (Jimmy Fallon)。这些报道来自 People.com 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Jeff Probst Competes in a Survivor Challenge for the First Time Ever, All Thanks to Jimmy Fallon",
+        "url": "https://people.com/jeff-probst-competes-survivor-challenge-first-time-11954784",
+        "source": "People.com"
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "title": "espn nba scores",
+    "titleZh": "ESPN NBA 比分",
+    "traffic": "500+",
+    "started": "Thu, 23 Apr 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：76人队伤病消息：尼克·纳斯提供乔尔·恩比德的最新消息。",
+    "explanation": "Google Trends 显示“ESPN NBA 比分”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：76人队伤病消息：尼克·纳斯提供乔尔·恩比德的最新消息。这些报道来自 Sixers Wire 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Sixers injury news: Nick Nurse gives latest update on Joel Embiid",
+        "url": "https://sixerswire.usatoday.com/story/sports/nba/sixers/2026/04/23/sixers-injury-news-nick-nurse-gives-latest-update-on-joel-embiid/89753788007/",
+        "source": "Sixers Wire"
+      }
+    ]
+  },
+  {
+    "rank": 6,
+    "title": "malachi lawrence",
+    "titleZh": "玛拉基·劳伦斯",
+    "traffic": "200+",
+    "started": "Thu, 23 Apr 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：前 UCF 杰出球员 Malachi Lawrence、Nyjalik Kelly 准备参加 NFL 选秀。",
+    "explanation": "Google Trends 显示“玛拉基·劳伦斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：前 UCF 杰出球员 Malachi Lawrence、Nyjalik Kelly 准备参加 NFL 选秀。这些报道来自 Orlando Sentinel 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Former UCF standouts Malachi Lawrence, Nyjalik Kelly ready for NFL draft",
+        "url": "https://www.orlandosentinel.com/2026/04/22/former-ucf-standouts-malachi-lawrence-nyjalik-kelly-ready-for-nfl-draft/",
+        "source": "Orlando Sentinel"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "dan vladar",
-    "titleZh": "和尺子",
-    "traffic": "1000+",
-    "started": "Wed, 22 Apr 2026 18:20:00 -0700",
-    "summary": "相关新闻主要集中在：丹·弗拉达尔 (Dan Vladar) 凭借声音领导力和绝杀率领费城飞人队 (Philadelphia Flyers) 领先。",
-    "explanation": "Google Trends 显示“和尺子”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：丹·弗拉达尔 (Dan Vladar) 凭借声音领导力和绝杀率领费城飞人队 (Philadelphia Flyers) 领先。这些报道来自 HarianBasis.co 等媒体，因此带动了集中搜索。",
+    "title": "mn timberwolves",
+    "titleZh": "百万森林狼队",
+    "traffic": "5000+",
+    "started": "Thu, 23 Apr 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：弗兰·达菲 (Fran Duffy) 2026 年 NFL 模拟选秀决赛：我们来了！。",
+    "explanation": "Google Trends 显示“百万森林狼队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：弗兰·达菲 (Fran Duffy) 2026 年 NFL 模拟选秀决赛：我们来了！。这些报道来自 PHLY Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Dan Vladar Leads Philadelphia Flyers with Vocal Leadership and Shutout",
-        "url": "https://www.harianbasis.co/en/vladar-vocal-leadership-flyers-playoffs",
-        "source": "HarianBasis.co"
+        "title": "Fran Duffy’s final 2026 NFL Mock Draft: We’ve arrived!",
+        "url": "https://allphly.com/fran-duffy-final-mock-draft-2026-nfl-draft/",
+        "source": "PHLY Sports"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "mls standings",
-    "titleZh": "美国职业足球大联盟积分榜",
-    "traffic": "1000+",
-    "started": "Wed, 22 Apr 2026 18:20:00 -0700",
-    "summary": "相关新闻主要集中在：国际迈阿密 CF 学院在德克萨斯州弗里斯科举办 2026 年 MLS NEXT Flex 比赛。",
-    "explanation": "Google Trends 显示“美国职业足球大联盟积分榜”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：国际迈阿密 CF 学院在德克萨斯州弗里斯科举办 2026 年 MLS NEXT Flex 比赛。这些报道来自 Inter Miami CF 等媒体，因此带动了集中搜索。",
+    "title": "rueben bain jr car accident",
+    "titleZh": "小鲁本·贝恩车祸",
+    "traffic": "2000+",
+    "started": "Thu, 23 Apr 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：鲁本·贝恩 (Rueben Bain) 车祸详细信息：关于 2024 年涉及迈阿密球星的致命事故，您需要了解什么。",
+    "explanation": "Google Trends 显示“小鲁本·贝恩车祸”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：鲁本·贝恩 (Rueben Bain) 车祸详细信息：关于 2024 年涉及迈阿密球星的致命事故，您需要了解什么。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Inter Miami CF Academy Takes on the 2026 MLS NEXT Flex in Frisco, TX",
-        "url": "https://www.intermiamicf.com/news/inter-miami-cf-academy-takes-on-the-2026-mls-next-flex-in-frisco-tx",
-        "source": "Inter Miami CF"
+        "title": "Rueben Bain car crash details: What to know about fatal 2024 accident involving Miami star",
+        "url": "https://sports.yahoo.com/articles/rueben-bain-car-crash-details-050002390.html",
+        "source": "Yahoo Sports"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "dodgers - giants",
-    "titleZh": "道奇队 - 巨人队",
-    "traffic": "10000+",
-    "started": "Wed, 22 Apr 2026 18:20:00 -0700",
-    "summary": "相关新闻主要集中在：Shohei Ohtani 力争保持对 Rafael Devers 的优势。",
-    "explanation": "Google Trends 显示“道奇队 - 巨人队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Shohei Ohtani 力争保持对 Rafael Devers 的优势。这些报道来自 True Blue LA 等媒体，因此带动了集中搜索。",
+    "title": "jerry west",
+    "titleZh": "杰里·韦斯特",
+    "traffic": "1000+",
+    "started": "Thu, 23 Apr 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：杰里·韦斯特博士：一个酗酒狂的评论。",
+    "explanation": "Google Trends 显示“杰里·韦斯特”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：杰里·韦斯特博士：一个酗酒狂的评论。这些报道来自 Card Chronicle 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Shohei Ohtani vies to maintain an edge over Rafael Devers",
-        "url": "https://www.truebluela.com/dodgers-scores-standings/114137/shohei-ohtani-matchup-rafael-devers-giants",
-        "source": "True Blue LA"
+        "title": "Jerry West Doc: A Hoopaholic’s Review",
+        "url": "https://www.cardchronicle.com/basketball/101879/jerry-west-doc-a-hoopaholics-review",
+        "source": "Card Chronicle"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "jon ossoff",
-    "titleZh": "乔恩·奥索夫",
-    "traffic": "500+",
-    "started": "Wed, 22 Apr 2026 18:20:00 -0700",
-    "summary": "相关新闻主要集中在：筹款更新：参议员 Jon Ossoff 刚刚披露了 1240 万美元的新筹款活动。",
-    "explanation": "Google Trends 显示“乔恩·奥索夫”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：筹款更新：参议员 Jon Ossoff 刚刚披露了 1240 万美元的新筹款活动。这些报道来自 Quiver Quantitative 等媒体，因此带动了集中搜索。",
+    "title": "alabama football",
+    "titleZh": "阿拉巴马州足球",
+    "traffic": "1000+",
+    "started": "Thu, 23 Apr 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：2026 年 NFL 选秀：阿拉巴马州球迷的第一轮讨论主题。",
+    "explanation": "Google Trends 显示“阿拉巴马州足球”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：2026 年 NFL 选秀：阿拉巴马州球迷的第一轮讨论主题。这些报道来自 Roll 'Bama Roll 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Fundraising Update: Senator Jon Ossoff just disclosed $12.4M of new fundraising",
-        "url": "https://www.quiverquant.com/news/Fundraising+Update%3A+Senator+Jon+Ossoff+just+disclosed+%2412.4M+of+new+fundraising",
-        "source": "Quiver Quantitative"
+        "title": "2026 NFL Draft: First Round Discussion Thread for Alabama fans",
+        "url": "https://www.rollbamaroll.com/alabama-crimson-tide-football/81178/2026-nfl-draft-first-round-discussion-thread-for-alabama-fans",
+        "source": "Roll 'Bama Roll"
       }
     ]
   }
