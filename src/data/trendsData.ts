@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "avalanche vs kings",
-    "titleZh": "雪崩 vs 国王",
-    "traffic": "2000+",
-    "started": "Thu, 23 Apr 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：游戏三倾斜 |科罗拉多雪崩。",
-    "explanation": "Google Trends 显示“雪崩 vs 国王”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：游戏三倾斜 |科罗拉多雪崩。这些报道来自 NHL.com 等媒体，因此带动了集中搜索。",
+    "title": "spurs vs trail blazers",
+    "titleZh": "马刺队 vs 开拓者队",
+    "traffic": "5000+",
+    "started": "Fri, 24 Apr 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：投票：如果温比无法上场，你对热刺的机会有多大信心？。",
+    "explanation": "Google Trends 显示“马刺队 vs 开拓者队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：投票：如果温比无法上场，你对热刺的机会有多大信心？。这些报道来自 WOAI 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Game Three Tilt | Colorado Avalanche",
-        "url": "https://www.nhl.com/avalanche/news/game-preview-04-23-26",
-        "source": "NHL.com"
+        "title": "POLL: How confident are you in the Spurs' chances if Wemby is unable to take the court?",
+        "url": "https://news4sanantonio.com/news/local/poll-how-confident-are-you-in-the-spurs-chances-if-wemby-is-unable-to-take-the-court-san-antonio-fans-portland-trailblazers-basketball-nba-playoffs",
+        "source": "WOAI"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "caleb banks",
-    "titleZh": "迦勒银行",
+    "title": "tacario davis",
+    "titleZh": "塔卡里奥·戴维斯",
     "traffic": "1000+",
-    "started": "Thu, 23 Apr 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：潜在的德州选秀目标凯莱布·班克斯在 NFL 选秀前获得了良好的健康预测。",
-    "explanation": "Google Trends 显示“迦勒银行”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：潜在的德州选秀目标凯莱布·班克斯在 NFL 选秀前获得了良好的健康预测。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "started": "Fri, 24 Apr 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：寻找未来圣徒：华盛顿哈士奇队角卫塔卡里奥·戴维斯。",
+    "explanation": "Google Trends 显示“塔卡里奥·戴维斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：寻找未来圣徒：华盛顿哈士奇队角卫塔卡里奥·戴维斯。这些报道来自 Saints Wire 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Potential Texans draft target Caleb Banks gets promising prognosis on health before NFL draft",
-        "url": "https://sports.yahoo.com/articles/potential-texans-draft-target-caleb-213719752.html",
-        "source": "Yahoo Sports"
+        "title": "Scouting Future Saints: Washington Huskies cornerback Tacario Davis",
+        "url": "https://saintswire.usatoday.com/story/sports/nfl/saints/2026/04/21/2026-nfl-draft-tacario-davis-scouting-report-washington-arizona-state/89558169007/",
+        "source": "Saints Wire"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "atlanta hawks vs knicks match player stats",
-    "titleZh": "亚特兰大老鹰队 vs 尼克斯队 比赛球员统计",
-    "traffic": "500+",
-    "started": "Thu, 23 Apr 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：从强烈反对到太平洋冠军：金骑士队托托雷拉的赌博到目前为止得到了回报。",
-    "explanation": "Google Trends 显示“亚特兰大老鹰队 vs 尼克斯队 比赛球员统计”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：从强烈反对到太平洋冠军：金骑士队托托雷拉的赌博到目前为止得到了回报。这些报道来自 San Francisco Chronicle 等媒体，因此带动了集中搜索。",
+    "title": "jabari smith jr.",
+    "titleZh": "小贾巴里·史密斯",
+    "traffic": "2000+",
+    "started": "Fri, 24 Apr 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：火箭0-2落后，濒临灾难和未来的严峻问题|香卡。",
+    "explanation": "Google Trends 显示“小贾巴里·史密斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：火箭0-2落后，濒临灾难和未来的严峻问题|香卡。这些报道来自 Houston Chronicle 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "From backlash to Pacific title: The Golden Knights’ Tortorella gamble paying off so far",
-        "url": "https://www.sfchronicle.com/sports/article/from-backlash-to-pacific-title-the-golden-22210908.php",
-        "source": "San Francisco Chronicle"
+        "title": "The Rockets are down 0-2 and on the verge of a disaster and hard questions on future | Shankar",
+        "url": "https://www.houstonchronicle.com/sports/rockets/article/houston-lakers-nba-playoffs-22221894.php",
+        "source": "Houston Chronicle"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "jeff probst",
-    "titleZh": "杰夫·普罗斯特",
-    "traffic": "500+",
-    "started": "Thu, 23 Apr 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：杰夫·普罗布斯特 (Jeff Probst) 有史以来第一次参加幸存者挑战赛，这一切都归功于吉米·法伦 (Jimmy Fallon)。",
-    "explanation": "Google Trends 显示“杰夫·普罗斯特”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：杰夫·普罗布斯特 (Jeff Probst) 有史以来第一次参加幸存者挑战赛，这一切都归功于吉米·法伦 (Jimmy Fallon)。这些报道来自 People.com 等媒体，因此带动了集中搜索。",
+    "title": "oilers vs ducks",
+    "titleZh": "油工 vs 鸭子",
+    "traffic": "1000+",
+    "started": "Fri, 24 Apr 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：埃德蒙顿油人队在对阵阿纳海姆鸭队的系列赛中需要改进的五个领域。",
+    "explanation": "Google Trends 显示“油工 vs 鸭子”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：埃德蒙顿油人队在对阵阿纳海姆鸭队的系列赛中需要改进的五个领域。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Jeff Probst Competes in a Survivor Challenge for the First Time Ever, All Thanks to Jimmy Fallon",
-        "url": "https://people.com/jeff-probst-competes-survivor-challenge-first-time-11954784",
-        "source": "People.com"
+        "title": "Five areas Edmonton Oilers need to improve in series against Anaheim Ducks",
+        "url": "https://www.nytimes.com/athletic/7222331/2026/04/24/five-areas-edmonton-oilers-need-to-improve-in-series-against-anaheim-ducks/",
+        "source": "The New York Times"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "espn nba scores",
-    "titleZh": "ESPN NBA 比分",
-    "traffic": "500+",
-    "started": "Thu, 23 Apr 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：76人队伤病消息：尼克·纳斯提供乔尔·恩比德的最新消息。",
-    "explanation": "Google Trends 显示“ESPN NBA 比分”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：76人队伤病消息：尼克·纳斯提供乔尔·恩比德的最新消息。这些报道来自 Sixers Wire 等媒体，因此带动了集中搜索。",
+    "title": "antonio williams nfl draft",
+    "titleZh": "安东尼奥·威廉姆斯 NFL 选秀",
+    "traffic": "1000+",
+    "started": "Fri, 24 Apr 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：钢人队预计将选秀 23-TD “路线技术员和 RAC 武器”来支持 HC 迈克·麦卡锡。",
+    "explanation": "Google Trends 显示“安东尼奥·威廉姆斯 NFL 选秀”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：钢人队预计将选秀 23-TD “路线技术员和 RAC 武器”来支持 HC 迈克·麦卡锡。这些报道来自 PFSN 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Sixers injury news: Nick Nurse gives latest update on Joel Embiid",
-        "url": "https://sixerswire.usatoday.com/story/sports/nba/sixers/2026/04/23/sixers-injury-news-nick-nurse-gives-latest-update-on-joel-embiid/89753788007/",
-        "source": "Sixers Wire"
+        "title": "Steelers Predicted To Draft 23-TD ‘Route Technician and a RAC Weapon’ To Support HC Mike McCarthy",
+        "url": "https://www.profootballnetwork.com/steelers-draft-technician-mike-mccarthy/",
+        "source": "PFSN"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "malachi lawrence",
-    "titleZh": "玛拉基·劳伦斯",
-    "traffic": "200+",
-    "started": "Thu, 23 Apr 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：前 UCF 杰出球员 Malachi Lawrence、Nyjalik Kelly 准备参加 NFL 选秀。",
-    "explanation": "Google Trends 显示“玛拉基·劳伦斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：前 UCF 杰出球员 Malachi Lawrence、Nyjalik Kelly 准备参加 NFL 选秀。这些报道来自 Orlando Sentinel 等媒体，因此带动了集中搜索。",
+    "title": "macaulay culkin",
+    "titleZh": "麦考利卡尔金",
+    "traffic": "500+",
+    "started": "Fri, 24 Apr 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：布伦达·宋（Brenda Song）将与合伙人麦考利·卡尔金（Macaulay Culkin）的争论称为“最琐碎”的话题。",
+    "explanation": "Google Trends 显示“麦考利卡尔金”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：布伦达·宋（Brenda Song）将与合伙人麦考利·卡尔金（Macaulay Culkin）的争论称为“最琐碎”的话题。这些报道来自 ComingSoon.net 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Former UCF standouts Malachi Lawrence, Nyjalik Kelly ready for NFL draft",
-        "url": "https://www.orlandosentinel.com/2026/04/22/former-ucf-standouts-malachi-lawrence-nyjalik-kelly-ready-for-nfl-draft/",
-        "source": "Orlando Sentinel"
+        "title": "Brenda Song Names ‘Pettiest’ Topic for Argument With Partner Macaulay Culkin",
+        "url": "https://www.comingsoon.net/tv/news/2124434-brenda-song-macaulay-culkin-argue-pettiest-thing",
+        "source": "ComingSoon.net"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "mn timberwolves",
-    "titleZh": "百万森林狼队",
-    "traffic": "5000+",
-    "started": "Thu, 23 Apr 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：弗兰·达菲 (Fran Duffy) 2026 年 NFL 模拟选秀决赛：我们来了！。",
-    "explanation": "Google Trends 显示“百万森林狼队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：弗兰·达菲 (Fran Duffy) 2026 年 NFL 模拟选秀决赛：我们来了！。这些报道来自 PHLY Sports 等媒体，因此带动了集中搜索。",
+    "title": "miles teller",
+    "titleZh": "英里出纳员",
+    "traffic": "500+",
+    "started": "Fri, 24 Apr 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：迈尔斯·特勒 (Miles Teller) 分享了他在完成 3.25 亿美元商业交易后是否会退出演艺圈。",
+    "explanation": "Google Trends 显示“英里出纳员”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：迈尔斯·特勒 (Miles Teller) 分享了他在完成 3.25 亿美元商业交易后是否会退出演艺圈。这些报道来自 E! News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Fran Duffy’s final 2026 NFL Mock Draft: We’ve arrived!",
-        "url": "https://allphly.com/fran-duffy-final-mock-draft-2026-nfl-draft/",
-        "source": "PHLY Sports"
+        "title": "Miles Teller Shares If He's Retiring From Acting After $325 Million Business Deal",
+        "url": "https://www.eonline.com/news/1431037/miles-teller-s325-million-long-drink-company-sale-not-retiring-actor",
+        "source": "E! News"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "rueben bain jr car accident",
-    "titleZh": "小鲁本·贝恩车祸",
-    "traffic": "2000+",
-    "started": "Thu, 23 Apr 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：鲁本·贝恩 (Rueben Bain) 车祸详细信息：关于 2024 年涉及迈阿密球星的致命事故，您需要了解什么。",
-    "explanation": "Google Trends 显示“小鲁本·贝恩车祸”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：鲁本·贝恩 (Rueben Bain) 车祸详细信息：关于 2024 年涉及迈阿密球星的致命事故，您需要了解什么。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "title": "russell westbrook",
+    "titleZh": "拉塞尔·威斯布鲁克",
+    "traffic": "200+",
+    "started": "Fri, 24 Apr 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：德玛尔·德罗赞和拉塞尔·威斯布鲁克会在萨克拉门托再次执教吗？。",
+    "explanation": "Google Trends 显示“拉塞尔·威斯布鲁克”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：德玛尔·德罗赞和拉塞尔·威斯布鲁克会在萨克拉门托再次执教吗？。这些报道来自 ABC10 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Rueben Bain car crash details: What to know about fatal 2024 accident involving Miami star",
-        "url": "https://sports.yahoo.com/articles/rueben-bain-car-crash-details-050002390.html",
-        "source": "Yahoo Sports"
+        "title": "Will DeMar DeRozan and Russell Westbrook return for ANOTHER TOUR of DUTY in Sacramento?",
+        "url": "https://www.abc10.com/video/sports/locked-on/lo-bay-area/sacramento-kings-show/will-demar-derozan-and-russell-westbrook-return-for-another-tour-of-duty-in-sacramento/535-ba416438-bc5c-4afd-b05f-a5440e2291e2",
+        "source": "ABC10"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "jerry west",
-    "titleZh": "杰里·韦斯特",
-    "traffic": "1000+",
-    "started": "Thu, 23 Apr 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：杰里·韦斯特博士：一个酗酒狂的评论。",
-    "explanation": "Google Trends 显示“杰里·韦斯特”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：杰里·韦斯特博士：一个酗酒狂的评论。这些报道来自 Card Chronicle 等媒体，因此带动了集中搜索。",
+    "title": "carlos cortes",
+    "titleZh": "卡洛斯削减",
+    "traffic": "200+",
+    "started": "Fri, 24 Apr 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：异常！美国职业棒球大联盟投手用自己的球衣接球（视频）#Baseball。",
+    "explanation": "Google Trends 显示“卡洛斯削减”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：异常！美国职业棒球大联盟投手用自己的球衣接球（视频）#Baseball。这些报道来自 www.xeudeportes.mx 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Jerry West Doc: A Hoopaholic’s Review",
-        "url": "https://www.cardchronicle.com/basketball/101879/jerry-west-doc-a-hoopaholics-review",
-        "source": "Card Chronicle"
+        "title": "¡Insólito! Pitcher de Grandes Ligas atrapa la pelota con su propio jersey (VIDEO) #Beisbol",
+        "url": "https://www.xeudeportes.mx/beisbol/1415736/insolito-pitcher-de-grandes-ligas-atrapa-la-pelota-con-su-propio-jersey-video",
+        "source": "www.xeudeportes.mx"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "alabama football",
-    "titleZh": "阿拉巴马州足球",
-    "traffic": "1000+",
-    "started": "Thu, 23 Apr 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：2026 年 NFL 选秀：阿拉巴马州球迷的第一轮讨论主题。",
-    "explanation": "Google Trends 显示“阿拉巴马州足球”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：2026 年 NFL 选秀：阿拉巴马州球迷的第一轮讨论主题。这些报道来自 Roll 'Bama Roll 等媒体，因此带动了集中搜索。",
+    "title": "hakeem jeffries",
+    "titleZh": "哈基姆·杰弗里斯",
+    "traffic": "200+",
+    "started": "Fri, 24 Apr 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：孩子问为什么选民对民主党的看法“如此糟糕”，杰弗里斯陷入困境。",
+    "explanation": "Google Trends 显示“哈基姆·杰弗里斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：孩子问为什么选民对民主党的看法“如此糟糕”，杰弗里斯陷入困境。这些报道来自 Fox News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "2026 NFL Draft: First Round Discussion Thread for Alabama fans",
-        "url": "https://www.rollbamaroll.com/alabama-crimson-tide-football/81178/2026-nfl-draft-first-round-discussion-thread-for-alabama-fans",
-        "source": "Roll 'Bama Roll"
+        "title": "Jeffries struggles after child asks why voters view Democrats ‘so poorly’",
+        "url": "https://www.foxnews.com/video/6393813751112",
+        "source": "Fox News"
       }
     ]
   }
