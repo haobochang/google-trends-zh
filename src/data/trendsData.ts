@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "is kevin durant playing tonight",
-    "titleZh": "凯文·杜兰特今晚上场吗",
-    "traffic": "2000+",
-    "started": "Sun, 26 Apr 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：据报道凯文·杜兰特预计将缺席湖人队与火箭队的第四场比赛。",
-    "explanation": "Google Trends 显示“凯文·杜兰特今晚上场吗”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：据报道凯文·杜兰特预计将缺席湖人队与火箭队的第四场比赛。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "title": "luke bryan",
+    "titleZh": "卢克·布莱恩",
+    "traffic": "500+",
+    "started": "Mon, 27 Apr 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：住在树篱之间？关于停车、门票的知识。",
+    "explanation": "Google Trends 显示“卢克·布莱恩”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：住在树篱之间？关于停车、门票的知识。这些报道来自 Online Athens 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Kevin Durant reportedly expected to miss Lakers-Rockets Game 4",
-        "url": "https://sports.yahoo.com/nba/breaking-news/article/kevin-durant-reportedly-expected-to-miss-lakers-rockets-game-4-192948170.html",
-        "source": "Yahoo Sports"
+        "title": "Going to Live Between the Hedges? What to know about parking, tickets",
+        "url": "https://www.onlineathens.com/story/news/2026/04/24/live-between-the-hedges-concert-parking-and-ticket-availability/89748843007/",
+        "source": "Online Athens"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "tornado columbia mo",
-    "titleZh": "哥伦比亚龙卷风莫",
+    "title": "rey mysterio",
+    "titleZh": "神秘人雷",
     "traffic": "2000+",
-    "started": "Sun, 26 Apr 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：周一严重威胁​​：破坏性大风、强龙卷风。",
-    "explanation": "Google Trends 显示“哥伦比亚龙卷风莫”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：周一严重威胁​​：破坏性大风、强龙卷风。这些报道来自 The Weather Channel 等媒体，因此带动了集中搜索。",
+    "started": "Mon, 27 Apr 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：Penta：能够与神秘人雷伊分享摔跤狂热是我永远不会忘记的事情。",
+    "explanation": "Google Trends 显示“神秘人雷”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Penta：能够与神秘人雷伊分享摔跤狂热是我永远不会忘记的事情。这些报道来自 Fightful 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Monday Severe Threat: Damaging Winds, Strong Tornadoes",
-        "url": "https://weather.com/storms/tornado/video/monday-severe-storms-midwest-tornado-wind",
-        "source": "The Weather Channel"
+        "title": "Penta: Being Able To Share A WrestleMania With Rey Mysterio Is Something I Will Never Forget",
+        "url": "https://www.fightful.com/wrestling/penta-being-able-to-share-a-wrestlemania-with-rey-mysterio-is-something-i-will-never-forget/",
+        "source": "Fightful"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "alperen sengun",
-    "titleZh": "阿尔佩伦先军",
-    "traffic": "1000+",
-    "started": "Sun, 26 Apr 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：没有人是不可触碰的：火箭队应该炸毁火箭的 5 个理由，从 Alperen Sengun 开始。",
-    "explanation": "Google Trends 显示“阿尔佩伦先军”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：没有人是不可触碰的：火箭队应该炸毁火箭的 5 个理由，从 Alperen Sengun 开始。这些报道来自 Fadeaway World 等媒体，因此带动了集中搜索。",
+    "title": "roman anthony",
+    "titleZh": "罗马安东尼",
+    "traffic": "500+",
+    "started": "Mon, 27 Apr 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：被解雇的红袜队教练以令人尴尬的方式被护送出球队酒店。",
+    "explanation": "Google Trends 显示“罗马安东尼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：被解雇的红袜队教练以令人尴尬的方式被护送出球队酒店。这些报道来自 Fox News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "No One Is Untouchable: 5 Reasons The Rockets Should Blow It Up, Starting With Alperen Sengun",
-        "url": "https://fadeawayworld.net/nba/houston-rockets/no-one-is-untouchable-5-reasons-the-rockets-should-blow-it-up-starting-with-alperen-sengun",
-        "source": "Fadeaway World"
+        "title": "Fired Red Sox coaches escorted from team hotel in embarrassing fashion",
+        "url": "https://www.foxnews.com/outkick-sports/fired-red-sox-coaches-escorted-team-hotel-embarrassing-fashion",
+        "source": "Fox News"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "nikita kucherov",
-    "titleZh": "尼基塔·库切罗夫",
-    "traffic": "2000+",
-    "started": "Sun, 26 Apr 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：哈特森用激光拍打加时赛获胜者。",
-    "explanation": "Google Trends 显示“尼基塔·库切罗夫”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：哈特森用激光拍打加时赛获胜者。这些报道来自 NHL.com 等媒体，因此带动了集中搜索。",
+    "title": "macaulay culkin",
+    "titleZh": "麦考利卡尔金",
+    "traffic": "1000+",
+    "started": "Mon, 27 Apr 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：《跑点》第二季演员指南：你看过所有的名人客串吗？。",
+    "explanation": "Google Trends 显示“麦考利卡尔金”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《跑点》第二季演员指南：你看过所有的名人客串吗？。这些报道来自 Netflix 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Hutson blasts in laser slap shot for OT winner",
-        "url": "https://www.nhl.com/video/tbl-mtl-hutson-scores-goal-against-andrei-vasilevskiy-6393836954112",
-        "source": "NHL.com"
+        "title": "Running Point Season 2 Cast Guide: Did You Catch All the Celeb Cameos?",
+        "url": "https://www.netflix.com/tudum/articles/running-point-season-2-cast-guide",
+        "source": "Netflix"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "robinhood",
-    "titleZh": "罗宾汉",
-    "traffic": "1000+",
-    "started": "Sun, 26 Apr 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：Zcash 价格预测显示实力，但 Pepeto 目标明确。",
-    "explanation": "Google Trends 显示“罗宾汉”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Zcash 价格预测显示实力，但 Pepeto 目标明确。这些报道来自 openPR.com 等媒体，因此带动了集中搜索。",
+    "title": "aaron judge",
+    "titleZh": "亚伦法官",
+    "traffic": "2000+",
+    "started": "Mon, 27 Apr 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：洋基队的亚伦·贾奇：周日打出第十个本垒打。",
+    "explanation": "Google Trends 显示“亚伦法官”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：洋基队的亚伦·贾奇：周日打出第十个本垒打。这些报道来自 CBS Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Zcash Price Prediction Shows Strength but Pepeto Targets",
-        "url": "https://www.openpr.com/news/4482718/zcash-price-prediction-shows-strength-but-pepeto-targets",
-        "source": "openPR.com"
+        "title": "Yankees' Aaron Judge: Blasts 10th homer Sunday",
+        "url": "https://www.cbssports.com/fantasy/baseball/news/yankees-aaron-judge-blasts-10th-homer-sunday/",
+        "source": "CBS Sports"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "chris brown",
-    "titleZh": "克里斯·布朗",
+    "title": "justin theroux",
+    "titleZh": "贾斯汀·塞洛克斯",
     "traffic": "1000+",
-    "started": "Sun, 26 Apr 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：R&B 巡演：Chris Brown 和 USHER。",
-    "explanation": "Google Trends 显示“克里斯·布朗”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：R&B 巡演：Chris Brown 和 USHER。这些报道来自 AT&T Stadium 等媒体，因此带动了集中搜索。",
+    "started": "Mon, 27 Apr 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：本周新闻：詹妮弗·安妮斯顿对贾斯汀·塞洛克斯婴儿公告的反应。",
+    "explanation": "Google Trends 显示“贾斯汀·塞洛克斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：本周新闻：詹妮弗·安妮斯顿对贾斯汀·塞洛克斯婴儿公告的反应。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "THE R&B TOUR: Chris Brown & USHER",
-        "url": "https://attstadium.com/events/the-rb-tour-chris-brown-usher-2/",
-        "source": "AT&T Stadium"
+        "title": "NEWS OF THE WEEK: Jennifer Aniston reacts to Justin Theroux's baby announcement",
+        "url": "https://www.yahoo.com/entertainment/videos/news-week-jennifer-aniston-reacts-100000543.html",
+        "source": "Yahoo"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "hunter schafer",
-    "titleZh": "猎人谢弗",
-    "traffic": "2000+",
-    "started": "Sun, 26 Apr 2026 18:20:00 -0700",
-    "summary": "相关新闻主要集中在：Euphoria 的 Hunter Schafer 放弃胸罩和内衣，穿着近乎裸露的连衣裙，参加非常活泼的第三季婚礼场景。",
-    "explanation": "Google Trends 显示“猎人谢弗”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Euphoria 的 Hunter Schafer 放弃胸罩和内衣，穿着近乎裸露的连衣裙，参加非常活泼的第三季婚礼场景。这些报道来自 The Sun 等媒体，因此带动了集中搜索。",
+    "title": "running point cast",
+    "titleZh": "跑点投射",
+    "traffic": "1000+",
+    "started": "Mon, 27 Apr 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：《跑点》演员阵容：热门喜剧背后的 3 个真实爱情故事。",
+    "explanation": "Google Trends 显示“跑点投射”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《跑点》演员阵容：热门喜剧背后的 3 个真实爱情故事。这些报道来自 El-Balad.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Euphoria's Hunter Schafer ditches bra AND underwear in nearly-naked dress for VERY racy Season 3 wedding scene",
-        "url": "https://www.thesun.co.uk/tv/38915072/hunter-schafer-ditches-bra-underwear-nearly-naked-dress/",
-        "source": "The Sun"
+        "title": "Running Point Cast: 3 Real-Life Love Stories Behind the Hit Comedy",
+        "url": "https://www.el-balad.com/16924243",
+        "source": "El-Balad.com"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "mina kimes",
-    "titleZh": "我的钟声",
-    "traffic": "1000+",
-    "started": "Sun, 26 Apr 2026 18:20:00 -0700",
-    "summary": "相关新闻主要集中在：公羊队通过 TE Max Klare 向特伦斯·弗格森发出明确无误的信息。",
-    "explanation": "Google Trends 显示“我的钟声”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：公羊队通过 TE Max Klare 向特伦斯·弗格森发出明确无误的信息。这些报道来自 Ramblin' Fan 等媒体，因此带动了集中搜索。",
+    "title": "carlyle illinois",
+    "titleZh": "卡莱尔伊利诺伊州",
+    "traffic": "2000+",
+    "started": "Mon, 27 Apr 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：强风穿过伊利诺伊州中部；风暴威胁正在减弱。",
+    "explanation": "Google Trends 显示“卡莱尔伊利诺伊州”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：强风穿过伊利诺伊州中部；风暴威胁正在减弱。这些报道来自 IPM Newsroom 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Rams send unmistakable message to Terrance Ferguson with TE Max Klare",
-        "url": "https://ramblinfan.com/rams-send-unmistakable-message-to-terrance-ferguson-with-te-max-klare",
-        "source": "Ramblin' Fan"
+        "title": "Heavy winds pass through central Illinois; storm threat is diminishing",
+        "url": "https://ipmnewsroom.org/gusty-winds-and-severe-storms-expected-in-central-illinois-on-monday/",
+        "source": "IPM Newsroom"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "lane thomas",
-    "titleZh": "莱恩·托马斯",
+    "title": "jazz chisholm jr.",
+    "titleZh": "小爵士奇泽姆",
     "traffic": "500+",
-    "started": "Sun, 26 Apr 2026 18:20:00 -0700",
-    "summary": "相关新闻主要集中在：托马斯在马拉松比赛中以11-9获胜，皇家队横扫天使队。",
-    "explanation": "Google Trends 显示“莱恩·托马斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：托马斯在马拉松比赛中以11-9获胜，皇家队横扫天使队。这些报道来自 Royals Review 等媒体，因此带动了集中搜索。",
+    "started": "Mon, 27 Apr 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：洋基队的奇泽姆爵士队击出全垒打，与红袜队扳平比分。",
+    "explanation": "Google Trends 显示“小爵士奇泽姆”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：洋基队的奇泽姆爵士队击出全垒打，与红袜队扳平比分。这些报道来自 FOX Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Thomas walks it off in marathon game 11-9, Royals sweep Angels",
-        "url": "https://www.royalsreview.com/kansas-city-royals-scores-standings/97733/thomas-walks-it-off-in-marathon-game-11-9-royals-sweep-angels",
-        "source": "Royals Review"
+        "title": "Yankees' Jazz Chisholm hits a homer to tie game against Red Sox",
+        "url": "https://www.foxsports.com/watch/fmc-zjczlzmlzoas9m12",
+        "source": "FOX Sports"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "tom cruise",
-    "titleZh": "汤姆·克鲁斯",
-    "traffic": "1000+",
-    "started": "Sun, 26 Apr 2026 18:20:00 -0700",
-    "summary": "相关新闻主要集中在：我们询问现实生活中的马拉松运动员：汤姆·克鲁斯在电影中的跑步姿势好吗？。",
-    "explanation": "Google Trends 显示“汤姆·克鲁斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：我们询问现实生活中的马拉松运动员：汤姆·克鲁斯在电影中的跑步姿势好吗？。这些报道来自 IMDb 等媒体，因此带动了集中搜索。",
+    "title": "they will kill you",
+    "titleZh": "他们会杀了你",
+    "traffic": "500+",
+    "started": "Mon, 27 Apr 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：电影专栏——他们会杀了你。",
+    "explanation": "Google Trends 显示“他们会杀了你”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：电影专栏——他们会杀了你。这些报道来自 Limerick Post 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "We Asked A Real-Life Marathon Runner: Does Tom Cruise Have Good Running Form In His Movies?",
-        "url": "https://www.imdb.com/it/news/ni65814322/?ref_=nm_nwr_1",
-        "source": "IMDb"
+        "title": "Film Column – They Will Kill You",
+        "url": "https://www.limerickpost.ie/2026/04/26/film-column-they-will-kill-you/",
+        "source": "Limerick Post"
       }
     ]
   }
