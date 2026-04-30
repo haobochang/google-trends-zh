@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "atlanta hawks",
-    "titleZh": "亚特兰大鹰队",
-    "traffic": "2000+",
-    "started": "Tue, 28 Apr 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：App State 与 Wake Forest（2026 年 4 月 28 日）逐场比赛。",
-    "explanation": "Google Trends 显示“亚特兰大鹰队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：App State 与 Wake Forest（2026 年 4 月 28 日）逐场比赛。这些报道来自 ESPN 等媒体，因此带动了集中搜索。",
+    "title": "paolo banchero",
+    "titleZh": "保罗·班切罗",
+    "traffic": "5000+",
+    "started": "Wed, 29 Apr 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：凯德·坎宁安 (Cade Cunningham) 欧洲步投篮。",
+    "explanation": "Google Trends 显示“保罗·班切罗”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：凯德·坎宁安 (Cade Cunningham) 欧洲步投篮。这些报道来自 ESPN 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "App State vs. Wake Forest (Apr 28, 2026) Play-by-Play",
-        "url": "https://www.espn.com/college-baseball/playbyplay/_/gameId/401849876",
+        "title": "Cade Cunningham Eurosteps his way for a bucket",
+        "url": "https://www.espn.com/video/clip/_/id/48613660",
         "source": "ESPN"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "ducks vs oilers",
-    "titleZh": "鸭子与油工",
+    "title": "st louis cardinals",
+    "titleZh": "圣路易斯红雀队",
     "traffic": "1000+",
-    "started": "Tue, 28 Apr 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：突然之间，对于埃德蒙顿油人队来说，与鸭子队的比赛一切可能都会崩溃。",
-    "explanation": "Google Trends 显示“鸭子与油工”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：突然之间，对于埃德蒙顿油人队来说，与鸭子队的比赛一切可能都会崩溃。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 29 Apr 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：红雀队对阵海盗队：预测、阵容、如何观看 (4/29/26)。",
+    "explanation": "Google Trends 显示“圣路易斯红雀队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：红雀队对阵海盗队：预测、阵容、如何观看 (4/29/26)。这些报道来自 Globely News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Suddenly, for the Edmonton Oilers, everything might be falling apart vs. Ducks",
-        "url": "https://www.nytimes.com/athletic/7228127/2026/04/25/oilers-ducks-game-3-analysis-nhl-playoffs/",
-        "source": "The New York Times"
+        "title": "Cardinals vs. Pirates: Prediction, Lineups, How to Watch (4/29/26)",
+        "url": "https://globelynews.com/sports/cardinals-vs-pirates-prediction-lineups-how-to-watch-4-29-26/",
+        "source": "Globely News"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "matt boldy",
-    "titleZh": "马特·大胆",
+    "title": "jarrett allen",
+    "titleZh": "贾勒特·艾伦",
     "traffic": "1000+",
-    "started": "Tue, 28 Apr 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：鬼魂暂时沉默了——是时候了：博迪终于扮演了英雄。",
-    "explanation": "Google Trends 显示“马特·大胆”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：鬼魂暂时沉默了——是时候了：博迪终于扮演了英雄。这些报道来自 Bring Me The News 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 29 Apr 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：猛龙队如何扼杀骑士队的莫布里以获得系列赛优势。",
+    "explanation": "Google Trends 显示“贾勒特·艾伦”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：猛龙队如何扼杀骑士队的莫布里以获得系列赛优势。这些报道来自 Sportsnet 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Ghosts silenced, for now — and about time: Boldy finally plays the hero",
-        "url": "https://bringmethenews.com/minnesota-sports/ghosts-silenced-for-now-and-about-time-boldy-finally-plays-the-hero",
-        "source": "Bring Me The News"
+        "title": "How Raptors have stifled Cavaliers’ Mobley for advantage in series",
+        "url": "https://www.sportsnet.ca/nba/video/how-raptors-have-stifled-cavaliers-mobley-for-advantage-in-series/",
+        "source": "Sportsnet"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "ozzie albies",
-    "titleZh": "奥齐·阿尔比斯",
-    "traffic": "500+",
-    "started": "Tue, 28 Apr 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：奥齐·阿尔比斯 (Ozzie Albies) 带领勇敢者队复兴 2026 年，但仍缺少标志性技能。",
-    "explanation": "Google Trends 显示“奥齐·阿尔比斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：奥齐·阿尔比斯 (Ozzie Albies) 带领勇敢者队复兴 2026 年，但仍缺少标志性技能。这些报道来自 House That Hank Built 等媒体，因此带动了集中搜索。",
+    "title": "braves game",
+    "titleZh": "勇敢者游戏",
+    "traffic": "2000+",
+    "started": "Wed, 29 Apr 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：底特律老虎队失去两名球员，然后输给亚特兰大勇士队。",
+    "explanation": "Google Trends 显示“勇敢者游戏”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：底特律老虎队失去两名球员，然后输给亚特兰大勇士队。这些报道来自 Detroit Free Press 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Ozzie Albies' resurgent 2026 with Braves is still missing signature skillset",
-        "url": "https://housethathankbuilt.com/ozzie-albies-resurgent-2026-with-braves-still-missing-signature-skillset",
-        "source": "House That Hank Built"
+        "title": "Detroit Tigers lose two players, then lose game vs Atlanta Braves",
+        "url": "https://www.freep.com/story/sports/mlb/tigers/2026/04/28/detroit-tigers-game-score-casey-mize-javier-baez/89846929007/",
+        "source": "Detroit Free Press"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "tolima - coquimbo unido",
-    "titleZh": "托利马 - 科金博联",
-    "traffic": "200+",
-    "started": "Tue, 28 Apr 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：“这可能是结局……”：在哥伦比亚，他们害怕杯卫士科金博·尤尼多斯（Coquimbo Unidos）。",
-    "explanation": "Google Trends 显示“托利马 - 科金博联”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：“这可能是结局……”：在哥伦比亚，他们害怕杯卫士科金博·尤尼多斯（Coquimbo Unidos）。这些报道来自 La Cuarta 等媒体，因此带动了集中搜索。",
+    "title": "dennis schroder",
+    "titleZh": "丹尼斯·施罗德",
+    "traffic": "500+",
+    "started": "Wed, 29 Apr 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：丹尼斯·施罗德以“独特”的骑士阵容瞄准首个 NBA 总决赛。",
+    "explanation": "Google Trends 显示“丹尼斯·施罗德”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：丹尼斯·施罗德以“独特”的骑士阵容瞄准首个 NBA 总决赛。这些报道来自 Eurohoops 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "“Puede ser el final…”: en Colombia le temen al copero Coquimbo Unido",
-        "url": "https://www.lacuarta.com/deportes/noticia/puede-ser-el-final-en-colombia-le-temen-al-copero-coquimbo-unido/",
-        "source": "La Cuarta"
+        "title": "Dennis Schroder targets first NBA Finals with ‘unique’ Cavaliers roster",
+        "url": "https://www.eurohoops.net/en/nba-news/1959365/dennis-schroder-talks-playoffs-cleveland-cavaliers-nba/",
+        "source": "Eurohoops"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "martha stewart",
-    "titleZh": "玛莎·斯图尔特",
-    "traffic": "200+",
-    "started": "Tue, 28 Apr 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：Way Day 即将上线，您的梦想之家正在出售。",
-    "explanation": "Google Trends 显示“玛莎·斯图尔特”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Way Day 即将上线，您的梦想之家正在出售。这些报道来自 Refinery29 等媒体，因此带动了集中搜索。",
+    "title": "liga mx femenil",
+    "titleZh": "女子MX联赛",
+    "traffic": "500+",
+    "started": "Wed, 29 Apr 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：Liga MX Femenil：四分之一决赛的赛程表是这样的。",
+    "explanation": "Google Trends 显示“女子MX联赛”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Liga MX Femenil：四分之一决赛的赛程表是这样的。这些报道来自 ESPN Deportes 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Way Day Is Live & Your Dream Home Is On Sale",
-        "url": "https://www.refinery29.com/en-us/way-day-sale-2026",
-        "source": "Refinery29"
+        "title": "Liga MX Femenil: Así quedan los horarios de los Cuartos de Final",
+        "url": "https://espndeportes.espn.com/futbol/mexico/nota/_/id/16635789/liga-mx-femenil-liguilla-clausura-2026-cruces-partidos-cuartos-final-horarios",
+        "source": "ESPN Deportes"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "piers morgan",
-    "titleZh": "皮尔斯·摩根",
+    "title": "chicago fire fc",
+    "titleZh": "芝加哥火焰队",
     "traffic": "200+",
-    "started": "Tue, 28 Apr 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：皮尔斯·摩根声称拉塞尔·布兰德在病毒式采访中“有不恰当的触觉”。",
-    "explanation": "Google Trends 显示“皮尔斯·摩根”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：皮尔斯·摩根声称拉塞尔·布兰德在病毒式采访中“有不恰当的触觉”。这些报道来自 Us Weekly 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 29 Apr 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：比赛预览 |圣路易斯城 SC 将在 SeatGeek 体育场举行的美国公开杯 16 强赛中迎战芝加哥火焰队。",
+    "explanation": "Google Trends 显示“芝加哥火焰队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：比赛预览 |圣路易斯城 SC 将在 SeatGeek 体育场举行的美国公开杯 16 强赛中迎战芝加哥火焰队。这些报道来自 St. Louis CITY SC 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Piers Morgan Claims Russell Brand Was ‘Inappropriately Tactile’ During Viral Interview",
-        "url": "https://www.usmagazine.com/celebrity-news/news/piers-morgan-says-russell-brand-was-inappropriately-tactile/",
-        "source": "Us Weekly"
+        "title": "Match Preview | St. Louis CITY SC to Face Chicago Fire FC in the U.S. Open Cup Round of 16 at SeatGeek Stadium",
+        "url": "https://www.stlcitysc.com/news/match-preview-st-louis-city-sc-to-face-chicago-fire-fc-in-the-u-s-open-cup-round-of-16-at-seatgeek-stadium",
+        "source": "St. Louis CITY SC"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "jake oettinger",
-    "titleZh": "杰克·奥廷格",
-    "traffic": "500+",
-    "started": "Tue, 28 Apr 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：明尼苏达狂野队发现了杰克·奥廷格的弱点。",
-    "explanation": "Google Trends 显示“杰克·奥廷格”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：明尼苏达狂野队发现了杰克·奥廷格的弱点。这些报道来自 The Hockey Writers 等媒体，因此带动了集中搜索。",
+    "title": "arturs silovs",
+    "titleZh": "阿图尔·西洛夫",
+    "traffic": "200+",
+    "started": "Wed, 29 Apr 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：企鹅队守门员阿图尔斯·西洛夫斯在对阵传单的系列赛中展现了强大的实力。",
+    "explanation": "Google Trends 显示“阿图尔·西洛夫”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：企鹅队守门员阿图尔斯·西洛夫斯在对阵传单的系列赛中展现了强大的实力。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "The Minnesota Wild Have Found a Weakness in Jake Oettinger",
-        "url": "https://thehockeywriters.com/the-minnesota-wild-have-found-a-weakness-in-jake-oettinger/",
-        "source": "The Hockey Writers"
+        "title": "Penguins' Goaltender Artūrs Šilovs Showing Big-Game Prowess In Series Against Flyers",
+        "url": "https://sports.yahoo.com/articles/penguins-goaltender-art-rs-ilovs-015234047.html",
+        "source": "Yahoo Sports"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "connor mcdavid",
-    "titleZh": "康纳·麦克戴维",
+    "title": "duncan robinson",
+    "titleZh": "邓肯·罗宾逊",
     "traffic": "1000+",
-    "started": "Tue, 28 Apr 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：诺布劳赫确认英格拉姆在第五场比赛前首发。",
-    "explanation": "Google Trends 显示“康纳·麦克戴维”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：诺布劳赫确认英格拉姆在第五场比赛前首发。这些报道来自 TSN 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 29 Apr 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：邓肯·罗宾逊为活塞队制造了季后赛大难题。",
+    "explanation": "Google Trends 显示“邓肯·罗宾逊”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：邓肯·罗宾逊为活塞队制造了季后赛大难题。这些报道来自 Detroit Jock City 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Knoblauch confirms Ingram as starter ahead of Game 5",
-        "url": "https://www.tsn.ca/nhl/article/ingram-in-edmonton-starters-net-ahead-of-game-5/",
-        "source": "TSN"
+        "title": "Duncan Robinson Creates Big Playoff Conundrum for Pistons",
+        "url": "https://detroitjockcity.com/duncan-robinson-creates-big-playoff-conundrum-pistons-01kq7gx7xzfb",
+        "source": "Detroit Jock City"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "chad bianco",
-    "titleZh": "查德·比安科",
+    "title": "sandro mamukelashvili",
+    "titleZh": "桑德罗·马穆克拉什维利",
     "traffic": "500+",
-    "started": "Tue, 28 Apr 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：加州州长候选人准备参加最新的电视辩论，邮寄选票即将发出。",
-    "explanation": "Google Trends 显示“查德·比安科”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：加州州长候选人准备参加最新的电视辩论，邮寄选票即将发出。这些报道来自 WRAL 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 29 Apr 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：多伦多队桑德罗·马穆克拉什维利 (Sandro Mamukelashvili) 的上场时间分别降至 11 和 13 分钟。",
+    "explanation": "Google Trends 显示“桑德罗·马穆克拉什维利”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：多伦多队桑德罗·马穆克拉什维利 (Sandro Mamukelashvili) 的上场时间分别降至 11 和 13 分钟。这些报道来自 El-Balad.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "California candidates for governor poised for latest TV debate with mail ballots about to go out",
-        "url": "https://www.wral.com/news/ap/e9c4b-california-candidates-for-governor-poised-for-latest-tv-debate-with-mail-ballots-about-to-go-out/",
-        "source": "WRAL"
+        "title": "Sandro Mamukelashvili’s Minutes Fall to 11 and 13 for Toronto",
+        "url": "https://www.el-balad.com/17000632",
+        "source": "El-Balad.com"
       }
     ]
   }
