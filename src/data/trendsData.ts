@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "nba playoff bracket",
-    "titleZh": "NBA季后赛分组",
-    "traffic": "5000+",
-    "started": "Thu, 30 Apr 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：恩比德带领的 76 人队击败波士顿队避免 NBA 季后赛出局。",
-    "explanation": "Google Trends 显示“NBA季后赛分组”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：恩比德带领的 76 人队击败波士顿队避免 NBA 季后赛出局。这些报道来自 The Grand Junction Daily Sentinel 等媒体，因此带动了集中搜索。",
+    "title": "zach benson",
+    "titleZh": "扎克·本森",
+    "traffic": "500+",
+    "started": "Fri, 1 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：扎克·本森新闻：波特在第四场比赛中进球获胜。",
+    "explanation": "Google Trends 显示“扎克·本森”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：扎克·本森新闻：波特在第四场比赛中进球获胜。这些报道来自 RotoWire 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Embiid-led 76ers beat Boston to avoid NBA playoff exit",
-        "url": "https://www.gjsentinel.com/news/national/embiid-led-76ers-beat-boston-to-avoid-nba-playoff-exit/article_a9b48832-c23e-55af-a2c4-529f99785049.html",
-        "source": "The Grand Junction Daily Sentinel"
+        "title": "Zach Benson News: Pots goal in Game 4 win",
+        "url": "https://www.rotowire.com/hockey/headlines/zach-benson-news-pots-goal-in-game-4-win-591201",
+        "source": "RotoWire"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "trae young",
-    "titleZh": "特雷·杨",
-    "traffic": "2000+",
-    "started": "Thu, 30 Apr 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：老鹰队计划以自由球员身份带回CJ麦科勒姆。",
-    "explanation": "Google Trends 显示“特雷·杨”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：老鹰队计划以自由球员身份带回CJ麦科勒姆。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "title": "yadier molina",
+    "titleZh": "亚迪尔·莫利纳",
+    "traffic": "1000+",
+    "started": "Fri, 1 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：普霍尔斯和莫利纳前往圣路易斯红雀队名人堂。",
+    "explanation": "Google Trends 显示“亚迪尔·莫利纳”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：普霍尔斯和莫利纳前往圣路易斯红雀队名人堂。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Hawks plan to bring back CJ McCollum in free agency",
-        "url": "https://sports.yahoo.com/articles/hawks-plan-bring-back-cj-191755870.html",
+        "title": "Pujols, Molina headed to the St. Louis Cardinals Hall of Fame",
+        "url": "https://sports.yahoo.com/articles/pujols-molina-headed-st-louis-000652270.html",
         "source": "Yahoo Sports"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "tatum",
-    "titleZh": "塔图姆",
-    "traffic": "500+",
-    "started": "Thu, 30 Apr 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：乔治·基特尔能为第一周做好准备吗？ 49ers TE 伤病更新。",
-    "explanation": "Google Trends 显示“塔图姆”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：乔治·基特尔能为第一周做好准备吗？ 49ers TE 伤病更新。这些报道来自 USA Today 等媒体，因此带动了集中搜索。",
+    "title": "espn nba scores",
+    "titleZh": "ESPN NBA 比分",
+    "traffic": "2000+",
+    "started": "Fri, 1 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：如何以 50 分输掉 NBA 季后赛。",
+    "explanation": "Google Trends 显示“ESPN NBA 比分”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：如何以 50 分输掉 NBA 季后赛。这些报道来自 GQ 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Will George Kittle be ready for Week 1? Injury update on 49ers TE",
-        "url": "https://www.usatoday.com/story/sports/nfl/2026/04/30/george-kittle-injury-update-return-49ers-week-1/89881401007/",
-        "source": "USA Today"
+        "title": "How to Lose an NBA Playoff Game by 50 Points",
+        "url": "https://www.gq.com/story/how-to-lose-nba-playoff-game-50-points-knicks-hawks-game-6",
+        "source": "GQ"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "drug resistant salmonella",
-    "titleZh": "耐药沙门氏菌",
+    "title": "montreal",
+    "titleZh": "蒙特利尔",
     "traffic": "200+",
-    "started": "Thu, 30 Apr 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：CDC 就耐药沙门氏菌爆发发出警告，该病已导致 34 人患病，其中大部分是儿童。",
-    "explanation": "Google Trends 显示“耐药沙门氏菌”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：CDC 就耐药沙门氏菌爆发发出警告，该病已导致 34 人患病，其中大部分是儿童。这些报道来自 People.com 等媒体，因此带动了集中搜索。",
+    "started": "Fri, 1 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：加拿大 0 - 闪电 0（第三节）|闪电队在第三节结束时发起了强力进攻。",
+    "explanation": "Google Trends 显示“蒙特利尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：加拿大 0 - 闪电 0（第三节）|闪电队在第三节结束时发起了强力进攻。这些报道来自 La Presse 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "CDC Issues Warning About Drug-Resistant Salmonella Outbreak That's Sickened 34 People, Mostly Children",
-        "url": "https://people.com/cdc-issues-warning-about-drug-resistant-salmonella-outbreak-11961075",
-        "source": "People.com"
+        "title": "Canadien 0 – Lightning 0 (3e période) | Le Lightning en avantage numérique en fin de troisième",
+        "url": "https://www.lapresse.ca/sports/hockey/2026-05-01/canadien-0-lightning-0-3e-periode/demidov-au-banc-des-punitions.php",
+        "source": "La Presse"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "medellín - cusco",
-    "titleZh": "麦德林 - 库斯科",
-    "traffic": "500+",
-    "started": "Thu, 30 Apr 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：“山神”急需胜利才能继续争夺16强资格。",
-    "explanation": "Google Trends 显示“麦德林 - 库斯科”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：“山神”急需胜利才能继续争夺16强资格。这些报道来自 Facebook 等媒体，因此带动了集中搜索。",
+    "title": "tigers game today",
+    "titleZh": "今天老虎队比赛",
+    "traffic": "200+",
+    "started": "Fri, 1 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：排名第一的老虎队在四月结束时战胜了勇士队：“奇怪的一个月”。",
+    "explanation": "Google Trends 显示“今天老虎队比赛”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：排名第一的老虎队在四月结束时战胜了勇士队：“奇怪的一个月”。这些报道来自 The Detroit News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "El \"Poderoso de la Montaña\" necesita la victoria con urgencia para seguir en la pelea para la clasificación a los octavos de final",
-        "url": "https://www.facebook.com/infobaecolombia/posts/el-poderoso-de-la-monta%C3%B1a-necesita-la-victoria-con-urgencia-para-seguir-en-la-pe/1414604307348994/",
-        "source": "Facebook"
+        "title": "First-place Tigers end April with win against Braves: 'Weird month'",
+        "url": "https://www.detroitnews.com/story/sports/mlb/tigers/2026/04/30/detroit-tigers-beat-the-braves-to-prevent-sweep-in-atlanta/89871467007/",
+        "source": "The Detroit News"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "iran us news",
-    "titleZh": "伊朗美国新闻",
-    "traffic": "500+",
-    "started": "Thu, 30 Apr 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：美国官员称，美国军事指挥官将向特朗普通报针对伊朗的军事选择。",
-    "explanation": "Google Trends 显示“伊朗美国新闻”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：美国官员称，美国军事指挥官将向特朗普通报针对伊朗的军事选择。这些报道来自 Reuters 等媒体，因此带动了集中搜索。",
+    "title": "syracuse lacrosse",
+    "titleZh": "锡拉丘兹长曲棍球",
+    "traffic": "200+",
+    "started": "Fri, 1 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：对于锡拉丘兹是否会在 ACCT 中击败北卡罗来纳州，击败作家们存在分歧。",
+    "explanation": "Google Trends 显示“锡拉丘兹长曲棍球”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：对于锡拉丘兹是否会在 ACCT 中击败北卡罗来纳州，击败作家们存在分歧。这些报道来自 The Daily Orange 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "US military commanders to brief Trump on military options against Iran, US official says",
-        "url": "https://www.reuters.com/world/middle-east/us-military-commanders-brief-trump-new-options-against-iran-axios-reports-2026-04-30/",
-        "source": "Reuters"
+        "title": "Beat writers split on whether Syracuse will beat North Carolina in ACCT",
+        "url": "https://dailyorange.com/2026/04/syracuse-mens-lacrosse-beat-writers-predict-north-carolina-acc-tournament/",
+        "source": "The Daily Orange"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "oj simpson",
-    "titleZh": "哦辛普森一家",
-    "traffic": "200+",
-    "started": "Thu, 30 Apr 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：克里斯·詹纳表示，她对科勒·卡戴珊真正的父亲是谁的“荒谬”谣言感到困扰。",
-    "explanation": "Google Trends 显示“哦辛普森一家”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：克里斯·詹纳表示，她对科勒·卡戴珊真正的父亲是谁的“荒谬”谣言感到困扰。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
+    "title": "franz wagner",
+    "titleZh": "弗兰兹·瓦格纳",
+    "traffic": "2000+",
+    "started": "Fri, 1 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：魔术队可以在主场淘汰活塞队；瓦格纳缺席第六场比赛。",
+    "explanation": "Google Trends 显示“弗兰兹·瓦格纳”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：魔术队可以在主场淘汰活塞队；瓦格纳缺席第六场比赛。这些报道来自 Orlando Sentinel 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Kris Jenner Says She's Bothered by 'Ridiculous' Rumors over Who Khloé Kardashian's Real Father Is",
-        "url": "https://www.aol.com/articles/kris-jenner-says-shes-bothered-155834347.html",
-        "source": "AOL.com"
+        "title": "Magic can eliminate Pistons at home; Wagner ruled out for Game 6",
+        "url": "https://www.orlandosentinel.com/2026/04/30/orlando-magic-detroit-pistons-paolo-banchero-franz-wagner-desmond-bane-wendell-carter-cade-cunningham-nba-playoffs-postseason-analysis-game-six-kia-center-jamahl-mosley/",
+        "source": "Orlando Sentinel"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "alabama baseball",
-    "titleZh": "阿拉巴马州棒球",
-    "traffic": "200+",
-    "started": "Thu, 30 Apr 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：阿拉巴马州在经历了艰难的时期后在 NCAA 锦标赛预测中的位置。",
-    "explanation": "Google Trends 显示“阿拉巴马州棒球”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：阿拉巴马州在经历了艰难的时期后在 NCAA 锦标赛预测中的位置。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "title": "aroldis chapman",
+    "titleZh": "阿罗迪斯·查普曼",
+    "traffic": "500+",
+    "started": "Fri, 1 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：费城人队需要“巨大的牵引力”才能以 98.2 英里/小时的速度接近。",
+    "explanation": "Google Trends 显示“阿罗迪斯·查普曼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：费城人队需要“巨大的牵引力”才能以 98.2 英里/小时的速度接近。这些报道来自 Sporting News AU 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Where Alabama sits in NCAA Tournament projections after rough stretch",
-        "url": "https://sports.yahoo.com/articles/where-alabama-sits-ncaa-tournament-120157965.html",
-        "source": "Yahoo Sports"
+        "title": "Phillies would require 'magnificent haul' to trade 98.2 mph closer",
+        "url": "https://www.sportingnews.com/us/mlb/philadelphia-phillies/news/phillies-require-magnificent-haul-trade-982-mph-closer/092a2ed19bf639a3e9255df8",
+        "source": "Sporting News AU"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "nuggets vs timberwolves",
-    "titleZh": "掘金队 vs 森林狼队",
-    "traffic": "50000+",
-    "started": "Thu, 30 Apr 2026 18:20:00 -0700",
-    "summary": "相关新闻主要集中在：森林狼队的伤病情况进一步恶化，多孙穆因小腿酸痛缺席第六场比赛，安德森也因病缺阵。",
-    "explanation": "Google Trends 显示“掘金队 vs 森林狼队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：森林狼队的伤病情况进一步恶化，多孙穆因小腿酸痛缺席第六场比赛，安德森也因病缺阵。这些报道来自 10TV 等媒体，因此带动了集中搜索。",
+    "title": "jamahl mosley",
+    "titleZh": "贾马尔·莫斯利",
+    "traffic": "500+",
+    "started": "Fri, 1 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：嘟！嘟！魔术队主教练贾马尔·莫斯利的赛前媒体会议因误报而中断。",
+    "explanation": "Google Trends 显示“贾马尔·莫斯利”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：嘟！嘟！魔术队主教练贾马尔·莫斯利的赛前媒体会议因误报而中断。这些报道来自 Weatherford Democrat 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Timberwolves' injury woes worsen with Dosunmu sidelined for Game 6 by sore calf, Anderson out ill",
-        "url": "https://www.10tv.com/article/syndication/associatedpress/timberwolves-injury-woes-worsen-with-dosunmu-sidelined-for-game-6-by-sore-calf-anderson-out-ill/616-46725456-7836-4362-bce9-0b6680645870",
-        "source": "10TV"
+        "title": "Beep! Beep! Magic coach Jamahl Mosley's pregame media session interrupted by false alarms",
+        "url": "https://www.weatherforddemocrat.com/texas/news/beep-beep-magic-coach-jamahl-mosleys-pregame-media-session-interrupted-by-false-alarms/article_5531558b-2020-581f-800a-3fceb3f7f9af.html",
+        "source": "Weatherford Democrat"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "nuggets game tonight",
-    "titleZh": "今晚掘金队比赛",
-    "traffic": "2000+",
-    "started": "Thu, 30 Apr 2026 18:20:00 -0700",
-    "summary": "相关新闻主要集中在：掘金队对阵森林狼队的比赛在哪个频道播出？如何观看第六场比赛。",
-    "explanation": "Google Trends 显示“今晚掘金队比赛”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：掘金队对阵森林狼队的比赛在哪个频道播出？如何观看第六场比赛。这些报道来自 The Arizona Republic 等媒体，因此带动了集中搜索。",
+    "title": "mickey moniak",
+    "titleZh": "米奇·莫尼亚克",
+    "traffic": "500+",
+    "started": "Fri, 1 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：米奇·莫尼亚克的突破似乎已经到来。",
+    "explanation": "Google Trends 显示“米奇·莫尼亚克”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：米奇·莫尼亚克的突破似乎已经到来。这些报道来自 Just Baseball 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "What channel is Nuggets vs Timberwolves game on? How to watch Game 6",
-        "url": "https://www.azcentral.com/story/sports/nba/2026/04/30/denver-nuggets-minnesota-timberwolves-tv-channel-schedule-game-6-thursday/89859963007/",
-        "source": "The Arizona Republic"
+        "title": "Mickey Moniak’s Breakthrough Seems To Have Arrived",
+        "url": "https://www.justbaseball.com/mlb/mickey-moniaks-breakthrough-seems-to-have-arrived/",
+        "source": "Just Baseball"
       }
     ]
   }
