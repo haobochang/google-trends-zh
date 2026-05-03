@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "zach benson",
-    "titleZh": "扎克·本森",
+    "title": "lafc vs san diego fc",
+    "titleZh": "洛杉矶足球俱乐部 vs 圣地亚哥足球俱乐部",
     "traffic": "500+",
-    "started": "Fri, 1 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：扎克·本森新闻：波特在第四场比赛中进球获胜。",
-    "explanation": "Google Trends 显示“扎克·本森”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：扎克·本森新闻：波特在第四场比赛中进球获胜。这些报道来自 RotoWire 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 2 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：历史性的第二个赛季陷入低迷：圣地亚哥足球俱乐部为何陷入困境？。",
+    "explanation": "Google Trends 显示“洛杉矶足球俱乐部 vs 圣地亚哥足球俱乐部”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：历史性的第二个赛季陷入低迷：圣地亚哥足球俱乐部为何陷入困境？。这些报道来自 MLSsoccer.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Zach Benson News: Pots goal in Game 4 win",
-        "url": "https://www.rotowire.com/hockey/headlines/zach-benson-news-pots-goal-in-game-4-win-591201",
-        "source": "RotoWire"
+        "title": "Historic season to sophomore slump: What is ailing San Diego FC?",
+        "url": "https://www.mlssoccer.com/news/historic-season-to-sophomore-slump-what-s-plaguing-san-diego-fc",
+        "source": "MLSsoccer.com"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "yadier molina",
-    "titleZh": "亚迪尔·莫利纳",
+    "title": "henry county va",
+    "titleZh": "弗吉尼亚州亨利县",
     "traffic": "1000+",
-    "started": "Fri, 1 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：普霍尔斯和莫利纳前往圣路易斯红雀队名人堂。",
-    "explanation": "Google Trends 显示“亚迪尔·莫利纳”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：普霍尔斯和莫利纳前往圣路易斯红雀队名人堂。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 2 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：亨利县治安官办公室将出现在“巡逻：现场”系列纪录片中。",
+    "explanation": "Google Trends 显示“弗吉尼亚州亨利县”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：亨利县治安官办公室将出现在“巡逻：现场”系列纪录片中。这些报道来自 WSLS 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Pujols, Molina headed to the St. Louis Cardinals Hall of Fame",
-        "url": "https://sports.yahoo.com/articles/pujols-molina-headed-st-louis-000652270.html",
-        "source": "Yahoo Sports"
+        "title": "Henry County Sheriff’s Office to be featured on ‘On Patrol: Live’ documentary series",
+        "url": "https://www.wsls.com/news/local/2026/04/30/henry-county-sheriffs-office-to-be-featured-on-on-patrol-live-documentary-series/",
+        "source": "WSLS"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "espn nba scores",
-    "titleZh": "ESPN NBA 比分",
-    "traffic": "2000+",
-    "started": "Fri, 1 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：如何以 50 分输掉 NBA 季后赛。",
-    "explanation": "Google Trends 显示“ESPN NBA 比分”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：如何以 50 分输掉 NBA 季后赛。这些报道来自 GQ 等媒体，因此带动了集中搜索。",
+    "title": "austin riley",
+    "titleZh": "奥斯汀·莱利",
+    "traffic": "200+",
+    "started": "Sat, 2 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：勇士队的奥斯汀·莱利揭示了赛季开局糟糕背后的真相。",
+    "explanation": "Google Trends 显示“奥斯汀·莱利”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：勇士队的奥斯汀·莱利揭示了赛季开局糟糕背后的真相。这些报道来自 Heavy.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "How to Lose an NBA Playoff Game by 50 Points",
-        "url": "https://www.gq.com/story/how-to-lose-nba-playoff-game-50-points-knicks-hawks-game-6",
-        "source": "GQ"
+        "title": "Braves’ Austin Riley Reveals Truth Behind Horrid Start to Season",
+        "url": "https://heavy.com/sports/mlb/atlanta-braves/braves-austin-riley-sends-message-regarding-horrid-start/",
+        "source": "Heavy.com"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "montreal",
-    "titleZh": "蒙特利尔",
+    "title": "walton goggins",
+    "titleZh": "沃尔顿·戈金斯",
     "traffic": "200+",
-    "started": "Fri, 1 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：加拿大 0 - 闪电 0（第三节）|闪电队在第三节结束时发起了强力进攻。",
-    "explanation": "Google Trends 显示“蒙特利尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：加拿大 0 - 闪电 0（第三节）|闪电队在第三节结束时发起了强力进攻。这些报道来自 La Presse 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 2 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：沃尔顿·戈金斯向塞缪尔·杰克逊寻求商业建议（独家）。",
+    "explanation": "Google Trends 显示“沃尔顿·戈金斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：沃尔顿·戈金斯向塞缪尔·杰克逊寻求商业建议（独家）。这些报道来自 People.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Canadien 0 – Lightning 0 (3e période) | Le Lightning en avantage numérique en fin de troisième",
-        "url": "https://www.lapresse.ca/sports/hockey/2026-05-01/canadien-0-lightning-0-3e-periode/demidov-au-banc-des-punitions.php",
-        "source": "La Presse"
+        "title": "Walton Goggins Turned to Samuel L. Jackson for Commercial Advice (Exclusive)",
+        "url": "https://people.com/walton-goggins-samuel-l-jackson-help-commercials-exclusive-11961385",
+        "source": "People.com"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "tigers game today",
-    "titleZh": "今天老虎队比赛",
+    "title": "oregon state baseball",
+    "titleZh": "俄勒冈州棒球",
     "traffic": "200+",
-    "started": "Fri, 1 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：排名第一的老虎队在四月结束时战胜了勇士队：“奇怪的一个月”。",
-    "explanation": "Google Trends 显示“今天老虎队比赛”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：排名第一的老虎队在四月结束时战胜了勇士队：“奇怪的一个月”。这些报道来自 The Detroit News 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 2 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：俄勒冈州立大学王牌达克斯·惠特尼不会在对阵 CSUN 的比赛中首发。",
+    "explanation": "Google Trends 显示“俄勒冈州棒球”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：俄勒冈州立大学王牌达克斯·惠特尼不会在对阵 CSUN 的比赛中首发。这些报道来自 OregonLive.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "First-place Tigers end April with win against Braves: 'Weird month'",
-        "url": "https://www.detroitnews.com/story/sports/mlb/tigers/2026/04/30/detroit-tigers-beat-the-braves-to-prevent-sweep-in-atlanta/89871467007/",
-        "source": "The Detroit News"
+        "title": "Oregon State ace Dax Whitney won’t start versus CSUN",
+        "url": "https://www.oregonlive.com/beavers/2026/04/oregon-state-ace-dax-whitney-wont-start-versus-csun.html",
+        "source": "OregonLive.com"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "syracuse lacrosse",
-    "titleZh": "锡拉丘兹长曲棍球",
-    "traffic": "200+",
-    "started": "Fri, 1 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：对于锡拉丘兹是否会在 ACCT 中击败北卡罗来纳州，击败作家们存在分歧。",
-    "explanation": "Google Trends 显示“锡拉丘兹长曲棍球”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：对于锡拉丘兹是否会在 ACCT 中击败北卡罗来纳州，击败作家们存在分歧。这些报道来自 The Daily Orange 等媒体，因此带动了集中搜索。",
+    "title": "lara trump",
+    "titleZh": "拉拉·特朗普",
+    "traffic": "1000+",
+    "started": "Sat, 2 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：唐纳德·特朗普的儿媳劳拉谈到巴伦的“时间旅行者”理论。",
+    "explanation": "Google Trends 显示“拉拉·特朗普”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：唐纳德·特朗普的儿媳劳拉谈到巴伦的“时间旅行者”理论。这些报道来自 Tyla 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Beat writers split on whether Syracuse will beat North Carolina in ACCT",
-        "url": "https://dailyorange.com/2026/04/syracuse-mens-lacrosse-beat-writers-predict-north-carolina-acc-tournament/",
-        "source": "The Daily Orange"
+        "title": "Donald Trump’s daughter-in-law Lara addresses Barron ‘time traveller’ theory",
+        "url": "https://www.tyla.com/news/barron-trump-time-traveller-theory-lara-donald-858172-20260501",
+        "source": "Tyla"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "franz wagner",
-    "titleZh": "弗兰兹·瓦格纳",
-    "traffic": "2000+",
-    "started": "Fri, 1 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：魔术队可以在主场淘汰活塞队；瓦格纳缺席第六场比赛。",
-    "explanation": "Google Trends 显示“弗兰兹·瓦格纳”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：魔术队可以在主场淘汰活塞队；瓦格纳缺席第六场比赛。这些报道来自 Orlando Sentinel 等媒体，因此带动了集中搜索。",
+    "title": "cal raleigh",
+    "titleZh": "卡尔罗利",
+    "traffic": "500+",
+    "started": "Sat, 2 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：水手队将卡尔·罗利从阵容中剔除，召唤接球手。",
+    "explanation": "Google Trends 显示“卡尔罗利”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：水手队将卡尔·罗利从阵容中剔除，召唤接球手。这些报道来自 Seattle Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Magic can eliminate Pistons at home; Wagner ruled out for Game 6",
-        "url": "https://www.orlandosentinel.com/2026/04/30/orlando-magic-detroit-pistons-paolo-banchero-franz-wagner-desmond-bane-wendell-carter-cade-cunningham-nba-playoffs-postseason-analysis-game-six-kia-center-jamahl-mosley/",
-        "source": "Orlando Sentinel"
+        "title": "Mariners scratch Cal Raleigh from lineup, call up catcher",
+        "url": "https://sports.mynorthwest.com/mlb/seattle-mariners/seattle-mariners-scratch-cal-raleigh-from-lineup-call-up-catcher/1847478",
+        "source": "Seattle Sports"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "aroldis chapman",
-    "titleZh": "阿罗迪斯·查普曼",
+    "title": "pge outage",
+    "titleZh": "PGE 中断",
     "traffic": "500+",
-    "started": "Fri, 1 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：费城人队需要“巨大的牵引力”才能以 98.2 英里/小时的速度接近。",
-    "explanation": "Google Trends 显示“阿罗迪斯·查普曼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：费城人队需要“巨大的牵引力”才能以 98.2 英里/小时的速度接近。这些报道来自 Sporting News AU 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 2 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：索诺拉市中心停电。",
+    "explanation": "Google Trends 显示“PGE 中断”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：索诺拉市中心停电。这些报道来自 myMotherLode.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Phillies would require 'magnificent haul' to trade 98.2 mph closer",
-        "url": "https://www.sportingnews.com/us/mlb/philadelphia-phillies/news/phillies-require-magnificent-haul-trade-982-mph-closer/092a2ed19bf639a3e9255df8",
-        "source": "Sporting News AU"
+        "title": "Power Outage In Downtown Sonora",
+        "url": "https://mymotherlode.com/news/local/10785422/power-outage-in-downtown-sonora-2.html",
+        "source": "myMotherLode.com"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "jamahl mosley",
-    "titleZh": "贾马尔·莫斯利",
-    "traffic": "500+",
-    "started": "Fri, 1 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：嘟！嘟！魔术队主教练贾马尔·莫斯利的赛前媒体会议因误报而中断。",
-    "explanation": "Google Trends 显示“贾马尔·莫斯利”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：嘟！嘟！魔术队主教练贾马尔·莫斯利的赛前媒体会议因误报而中断。这些报道来自 Weatherford Democrat 等媒体，因此带动了集中搜索。",
+    "title": "shakira",
+    "titleZh": "夏奇拉",
+    "traffic": "1000+",
+    "started": "Sat, 2 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：夏奇拉跟随麦当娜和 Lady Gaga 在科帕卡巴纳海滩举办大型免费音乐会。",
+    "explanation": "Google Trends 显示“夏奇拉”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：夏奇拉跟随麦当娜和 Lady Gaga 在科帕卡巴纳海滩举办大型免费音乐会。这些报道来自 The Killeen Daily Herald 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Beep! Beep! Magic coach Jamahl Mosley's pregame media session interrupted by false alarms",
-        "url": "https://www.weatherforddemocrat.com/texas/news/beep-beep-magic-coach-jamahl-mosleys-pregame-media-session-interrupted-by-false-alarms/article_5531558b-2020-581f-800a-3fceb3f7f9af.html",
-        "source": "Weatherford Democrat"
+        "title": "Shakira to follow Madonna and Lady Gaga in giving a huge free concert on Copacabana Beach",
+        "url": "https://kdhnews.com/living/ae/shakira-to-follow-madonna-and-lady-gaga-in-giving-a-huge-free-concert-on-copacabana/article_ce485fd5-288b-5064-a7b9-48a63aa4958f.html",
+        "source": "The Killeen Daily Herald"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "mickey moniak",
-    "titleZh": "米奇·莫尼亚克",
+    "title": "gavin adcock",
+    "titleZh": "加文·阿德科克",
     "traffic": "500+",
-    "started": "Fri, 1 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：米奇·莫尼亚克的突破似乎已经到来。",
-    "explanation": "Google Trends 显示“米奇·莫尼亚克”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：米奇·莫尼亚克的突破似乎已经到来。这些报道来自 Just Baseball 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 2 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：Husker Athletics 将在扎克·布莱恩 (Zach Bryan) 音乐会因天气原因延误后审查沟通情况。",
+    "explanation": "Google Trends 显示“加文·阿德科克”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Husker Athletics 将在扎克·布莱恩 (Zach Bryan) 音乐会因天气原因延误后审查沟通情况。这些报道来自 Lincoln Journal Star 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Mickey Moniak’s Breakthrough Seems To Have Arrived",
-        "url": "https://www.justbaseball.com/mlb/mickey-moniaks-breakthrough-seems-to-have-arrived/",
-        "source": "Just Baseball"
+        "title": "Husker Athletics to review communication following Zach Bryan concert weather delays",
+        "url": "https://journalstar.com/life-entertainment/local/music/article_7cb6e62b-e240-4606-b462-da91b3e815ac.html",
+        "source": "Lincoln Journal Star"
       }
     ]
   }
