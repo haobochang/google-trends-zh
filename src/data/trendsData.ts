@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "lafc vs san diego fc",
-    "titleZh": "洛杉矶足球俱乐部 vs 圣地亚哥足球俱乐部",
+    "title": "makar",
+    "titleZh": "马卡尔",
     "traffic": "500+",
-    "started": "Sat, 2 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：历史性的第二个赛季陷入低迷：圣地亚哥足球俱乐部为何陷入困境？。",
-    "explanation": "Google Trends 显示“洛杉矶足球俱乐部 vs 圣地亚哥足球俱乐部”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：历史性的第二个赛季陷入低迷：圣地亚哥足球俱乐部为何陷入困境？。这些报道来自 MLSsoccer.com 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 3 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：Avs 的斯科特·韦奇伍德 (Scott Wedgewood) 在季后赛对决中冻结了与 Wild 明星的友谊。",
+    "explanation": "Google Trends 显示“马卡尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Avs 的斯科特·韦奇伍德 (Scott Wedgewood) 在季后赛对决中冻结了与 Wild 明星的友谊。这些报道来自 Mile High Sticking 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Historic season to sophomore slump: What is ailing San Diego FC?",
-        "url": "https://www.mlssoccer.com/news/historic-season-to-sophomore-slump-what-s-plaguing-san-diego-fc",
-        "source": "MLSsoccer.com"
+        "title": "Avs’ Scott Wedgewood putting friendship with Wild star on ice in playoff matchup",
+        "url": "https://milehighsticking.com/avs-scott-wedgewood-putting-friendship-with-wild-star-on-ice-in-playoff-matchup-01kqqjhwh22r",
+        "source": "Mile High Sticking"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "henry county va",
-    "titleZh": "弗吉尼亚州亨利县",
-    "traffic": "1000+",
-    "started": "Sat, 2 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：亨利县治安官办公室将出现在“巡逻：现场”系列纪录片中。",
-    "explanation": "Google Trends 显示“弗吉尼亚州亨利县”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：亨利县治安官办公室将出现在“巡逻：现场”系列纪录片中。这些报道来自 WSLS 等媒体，因此带动了集中搜索。",
+    "title": "brock faber",
+    "titleZh": "布洛克·费伯",
+    "traffic": "500+",
+    "started": "Sun, 3 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：明尼苏达狂野收到积极的奎因休斯合同更新。",
+    "explanation": "Google Trends 显示“布洛克·费伯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：明尼苏达狂野收到积极的奎因休斯合同更新。这些报道来自 Heavy.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Henry County Sheriff’s Office to be featured on ‘On Patrol: Live’ documentary series",
-        "url": "https://www.wsls.com/news/local/2026/04/30/henry-county-sheriffs-office-to-be-featured-on-on-patrol-live-documentary-series/",
-        "source": "WSLS"
-      }
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "austin riley",
-    "titleZh": "奥斯汀·莱利",
-    "traffic": "200+",
-    "started": "Sat, 2 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：勇士队的奥斯汀·莱利揭示了赛季开局糟糕背后的真相。",
-    "explanation": "Google Trends 显示“奥斯汀·莱利”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：勇士队的奥斯汀·莱利揭示了赛季开局糟糕背后的真相。这些报道来自 Heavy.com 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Braves’ Austin Riley Reveals Truth Behind Horrid Start to Season",
-        "url": "https://heavy.com/sports/mlb/atlanta-braves/braves-austin-riley-sends-message-regarding-horrid-start/",
+        "title": "Minnesota Wild Receive Positive Quinn Hughes Contract Update",
+        "url": "https://heavy.com/sports/nhl/minnesota-wild/receive-positive-quinn-hughes-contract-update/",
         "source": "Heavy.com"
       }
     ]
   },
   {
-    "rank": 4,
-    "title": "walton goggins",
-    "titleZh": "沃尔顿·戈金斯",
+    "rank": 3,
+    "title": "where to watch timberwolves vs san antonio spurs",
+    "titleZh": "哪里可以观看森林狼队对阵圣安东尼奥马刺队的比赛",
     "traffic": "200+",
-    "started": "Sat, 2 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：沃尔顿·戈金斯向塞缪尔·杰克逊寻求商业建议（独家）。",
-    "explanation": "Google Trends 显示“沃尔顿·戈金斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：沃尔顿·戈金斯向塞缪尔·杰克逊寻求商业建议（独家）。这些报道来自 People.com 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 3 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：马刺队对阵森林狼队：如何观看第一场比赛，谁首发，谁出局。",
+    "explanation": "Google Trends 显示“哪里可以观看森林狼队对阵圣安东尼奥马刺队的比赛”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：马刺队对阵森林狼队：如何观看第一场比赛，谁首发，谁出局。这些报道来自 San Antonio Express-News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Walton Goggins Turned to Samuel L. Jackson for Commercial Advice (Exclusive)",
-        "url": "https://people.com/walton-goggins-samuel-l-jackson-help-commercials-exclusive-11961385",
-        "source": "People.com"
+        "title": "Spurs vs. Timberwolves: How to watch Game 1, who's starting, who's out",
+        "url": "https://www.expressnews.com/sports/spurs/article/spurs-vs-timberwolves-how-watch-game-1-22238051.php",
+        "source": "San Antonio Express-News"
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "sam malinski",
+    "titleZh": "萨姆·马林斯基",
+    "traffic": "1000+",
+    "started": "Sun, 3 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：萨姆·马林斯基、布洛克·尼尔森回家参加第三场和第四场比赛。",
+    "explanation": "Google Trends 显示“萨姆·马林斯基”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：萨姆·马林斯基、布洛克·尼尔森回家参加第三场和第四场比赛。这些报道来自 El-Balad.com 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Sam Malinski, Brock Nelson Head Home for Games 3 and 4",
+        "url": "https://www.el-balad.com/17003611",
+        "source": "El-Balad.com"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "oregon state baseball",
-    "titleZh": "俄勒冈州棒球",
-    "traffic": "200+",
-    "started": "Sat, 2 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：俄勒冈州立大学王牌达克斯·惠特尼不会在对阵 CSUN 的比赛中首发。",
-    "explanation": "Google Trends 显示“俄勒冈州棒球”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：俄勒冈州立大学王牌达克斯·惠特尼不会在对阵 CSUN 的比赛中首发。这些报道来自 OregonLive.com 等媒体，因此带动了集中搜索。",
+    "title": "avs",
+    "titleZh": "AVS",
+    "traffic": "2000+",
+    "started": "Sun, 3 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：狂野队的乔纳斯·布罗丁出局，乔尔·埃里克森·埃克在与雪崩队的第一场比赛中出战成疑。",
+    "explanation": "Google Trends 显示“AVS”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：狂野队的乔纳斯·布罗丁出局，乔尔·埃里克森·埃克在与雪崩队的第一场比赛中出战成疑。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Oregon State ace Dax Whitney won’t start versus CSUN",
-        "url": "https://www.oregonlive.com/beavers/2026/04/oregon-state-ace-dax-whitney-wont-start-versus-csun.html",
-        "source": "OregonLive.com"
+        "title": "Wild’s Jonas Brodin out, Joel Eriksson Ek questionable for Game 1 vs. Avalanche",
+        "url": "https://www.nytimes.com/athletic/7248530/2026/05/02/wild-jonas-brodin-joel-eriksson-ek-injuries-avalanche/",
+        "source": "The New York Times"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "lara trump",
-    "titleZh": "拉拉·特朗普",
-    "traffic": "1000+",
-    "started": "Sat, 2 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：唐纳德·特朗普的儿媳劳拉谈到巴伦的“时间旅行者”理论。",
-    "explanation": "Google Trends 显示“拉拉·特朗普”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：唐纳德·特朗普的儿媳劳拉谈到巴伦的“时间旅行者”理论。这些报道来自 Tyla 等媒体，因此带动了集中搜索。",
+    "title": "tigers",
+    "titleZh": "老虎",
+    "traffic": "5000+",
+    "started": "Sun, 3 May 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：德克萨斯游骑兵队 2026 年 5 月 3 日阵容。",
+    "explanation": "Google Trends 显示“老虎”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：德克萨斯游骑兵队 2026 年 5 月 3 日阵容。这些报道来自 Lone Star Ball 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Donald Trump’s daughter-in-law Lara addresses Barron ‘time traveller’ theory",
-        "url": "https://www.tyla.com/news/barron-trump-time-traveller-theory-lara-donald-858172-20260501",
-        "source": "Tyla"
+        "title": "Texas Rangers lineup for May 3, 2026",
+        "url": "https://www.lonestarball.com/rangers-game-day-lineups/90236/texas-rangers-lineup-for-may-3-2026",
+        "source": "Lone Star Ball"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "cal raleigh",
-    "titleZh": "卡尔罗利",
-    "traffic": "500+",
-    "started": "Sat, 2 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：水手队将卡尔·罗利从阵容中剔除，召唤接球手。",
-    "explanation": "Google Trends 显示“卡尔罗利”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：水手队将卡尔·罗利从阵容中剔除，召唤接球手。这些报道来自 Seattle Sports 等媒体，因此带动了集中搜索。",
+    "title": "tudn",
+    "titleZh": "知道",
+    "traffic": "1000+",
+    "started": "Sun, 3 May 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：Atlante 及其 Liga MX 新项目的关键：身份、Azteca 和竞争基础。",
+    "explanation": "Google Trends 显示“知道”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Atlante 及其 Liga MX 新项目的关键：身份、Azteca 和竞争基础。这些报道来自 Sports Illustrated 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Mariners scratch Cal Raleigh from lineup, call up catcher",
-        "url": "https://sports.mynorthwest.com/mlb/seattle-mariners/seattle-mariners-scratch-cal-raleigh-from-lineup-call-up-catcher/1847478",
-        "source": "Seattle Sports"
+        "title": "Atlante y las claves de su nuevo proyecto en Liga MX: identidad, Azteca y una base competitiva",
+        "url": "https://www.si.com/mx/futbol/atlante-las-claves-de-su-nuevo-proyecto-liga-mx-identidad-azteca-y-una-base-competitiva",
+        "source": "Sports Illustrated"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "pge outage",
-    "titleZh": "PGE 中断",
+    "title": "xelajú mc - marquense",
+    "titleZh": "xelaju mc - 侯爵",
     "traffic": "500+",
-    "started": "Sat, 2 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：索诺拉市中心停电。",
-    "explanation": "Google Trends 显示“PGE 中断”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：索诺拉市中心停电。这些报道来自 myMotherLode.com 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 3 May 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：纪事 |奶油队对阵两届冠军。",
+    "explanation": "Google Trends 显示“xelaju mc - 侯爵”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：纪事 |奶油队对阵两届冠军。这些报道来自 Guatefutbol.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Power Outage In Downtown Sonora",
-        "url": "https://mymotherlode.com/news/local/10785422/power-outage-in-downtown-sonora-2.html",
-        "source": "myMotherLode.com"
+        "title": "CRÓNICA | Los Cremas torean al Bicampeón",
+        "url": "https://guatefutbol.com/2026/05/02/cronica-los-cremas-torean-al-bicampeon/",
+        "source": "Guatefutbol.com"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "shakira",
-    "titleZh": "夏奇拉",
+    "title": "raptors coach",
+    "titleZh": "猛龙队教练",
     "traffic": "1000+",
-    "started": "Sat, 2 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：夏奇拉跟随麦当娜和 Lady Gaga 在科帕卡巴纳海滩举办大型免费音乐会。",
-    "explanation": "Google Trends 显示“夏奇拉”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：夏奇拉跟随麦当娜和 Lady Gaga 在科帕卡巴纳海滩举办大型免费音乐会。这些报道来自 The Killeen Daily Herald 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 3 May 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：肯尼·阿特金森可能会迫使骑士队做出一个不幸的决定。",
+    "explanation": "Google Trends 显示“猛龙队教练”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：肯尼·阿特金森可能会迫使骑士队做出一个不幸的决定。这些报道来自 King James Gospel 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Shakira to follow Madonna and Lady Gaga in giving a huge free concert on Copacabana Beach",
-        "url": "https://kdhnews.com/living/ae/shakira-to-follow-madonna-and-lady-gaga-in-giving-a-huge-free-concert-on-copacabana/article_ce485fd5-288b-5064-a7b9-48a63aa4958f.html",
-        "source": "The Killeen Daily Herald"
+        "title": "Kenny Atkinson could force Cavs to make an unfortunate decision",
+        "url": "https://kingjamesgospel.com/kenny-atkinson-could-force-cavs-to-make-an-unfortunate-decision",
+        "source": "King James Gospel"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "gavin adcock",
-    "titleZh": "加文·阿德科克",
+    "title": "bay bridge",
+    "titleZh": "海湾大桥",
     "traffic": "500+",
-    "started": "Sat, 2 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：Husker Athletics 将在扎克·布莱恩 (Zach Bryan) 音乐会因天气原因延误后审查沟通情况。",
-    "explanation": "Google Trends 显示“加文·阿德科克”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Husker Athletics 将在扎克·布莱恩 (Zach Bryan) 音乐会因天气原因延误后审查沟通情况。这些报道来自 Lincoln Journal Star 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 3 May 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：海湾大桥发生摩托车事故。",
+    "explanation": "Google Trends 显示“海湾大桥”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：海湾大桥发生摩托车事故。这些报道来自 KTVU 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Husker Athletics to review communication following Zach Bryan concert weather delays",
-        "url": "https://journalstar.com/life-entertainment/local/music/article_7cb6e62b-e240-4606-b462-da91b3e815ac.html",
-        "source": "Lincoln Journal Star"
+        "title": "Motorcycle crash on Bay Bridge",
+        "url": "https://www.ktvu.com/video/fmc-yonhnmjie6a5a1wt",
+        "source": "KTVU"
       }
     ]
   }
