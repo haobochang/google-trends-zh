@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "cody bellinger",
-    "titleZh": "科迪·贝林格",
+    "title": "sheep detectives",
+    "titleZh": "羊侦探",
     "traffic": "1000+",
-    "started": "Tue, 5 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：科迪·贝林格和特伦特·格里沙姆帮助洋基队再次战胜金莺队。",
-    "explanation": "Google Trends 显示“科迪·贝林格”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：科迪·贝林格和特伦特·格里沙姆帮助洋基队再次战胜金莺队。这些报道来自 New York Post 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 6 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：《绵羊侦探》是一部有深度的儿童电影 |审查。",
+    "explanation": "Google Trends 显示“羊侦探”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《绵羊侦探》是一部有深度的儿童电影 |审查。这些报道来自 The Seattle Times 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Cody Bellinger, Trent Grisham power Yankees to another win over Orioles",
-        "url": "https://nypost.com/2026/05/02/sports/cody-bellinger-trent-grisham-power-yankees-to-win-over-orioles/",
-        "source": "New York Post"
+        "title": "'The Sheep Detectives' is a children's movie with depth | Review",
+        "url": "https://www.seattletimes.com/entertainment/movies/the-sheep-detectives-review-an-enchanting-film-with-moving-messages/",
+        "source": "The Seattle Times"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "chad bianco",
-    "titleZh": "查德·比安科",
+    "title": "john starks",
+    "titleZh": "约翰·斯塔克斯",
     "traffic": "500+",
-    "started": "Tue, 5 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：5 月 18 日：警长查德·比安科 (Chad Bianco) 在佩塔卢马 (Petaluma) 举办 2026 年州长竞选活动。",
-    "explanation": "Google Trends 显示“查德·比安科”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：5 月 18 日：警长查德·比安科 (Chad Bianco) 在佩塔卢马 (Petaluma) 举办 2026 年州长竞选活动。这些报道来自 Adina’s Substack 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 6 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：尼克斯队的偶像们知道这支球队拥有一切所需的一切，甚至更多。",
+    "explanation": "Google Trends 显示“约翰·斯塔克斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：尼克斯队的偶像们知道这支球队拥有一切所需的一切，甚至更多。这些报道来自 New York Post 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "May 18: Sheriff Chad Bianco Brings 2026 Governor Campaign to Petaluma",
-        "url": "https://adinaflores.substack.com/p/may-18-sheriff-chad-bianco-brings",
-        "source": "Adina’s Substack"
+        "title": "Knicks icons know this team has everything it takes and more",
+        "url": "https://nypost.com/2026/05/06/sports/knicks-icons-know-this-team-has-everything-it-takes/",
+        "source": "New York Post"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "punisher one last kill",
-    "titleZh": "惩罚者最后一击",
-    "traffic": "2000+",
-    "started": "Tue, 5 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：《惩罚者：最后一击》主演乔·博恩瑟分享漫威特别发布会的新面貌。",
-    "explanation": "Google Trends 显示“惩罚者最后一击”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《惩罚者：最后一击》主演乔·博恩瑟分享漫威特别发布会的新面貌。这些报道来自 IMDb 等媒体，因此带动了集中搜索。",
+    "title": "tejay antone",
+    "titleZh": "特杰·安东",
+    "traffic": "200+",
+    "started": "Wed, 6 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：红军选择特杰·安东。",
+    "explanation": "Google Trends 显示“特杰·安东”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：红军选择特杰·安东。这些报道来自 MLB Trade Rumors 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "The Punisher: One Last Kill Star Jon Bernthal Shares New Look At Marvel Special Presentation",
-        "url": "https://www.imdb.com/news/ni65823974/?ref_=ttnw_art_perm",
-        "source": "IMDb"
+        "title": "Reds Select Tejay Antone",
+        "url": "https://www.mlbtraderumors.com/2026/05/reds-to-select-tejay-antone.html",
+        "source": "MLB Trade Rumors"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "rays",
-    "titleZh": "射线",
-    "traffic": "1000+",
-    "started": "Tue, 5 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：游戏＃36 GameThread：Jays @ Rays。",
-    "explanation": "Google Trends 显示“射线”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：游戏＃36 GameThread：Jays @ Rays。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "title": "spurs game tonight",
+    "titleZh": "今晚马刺队的比赛",
+    "traffic": "5000+",
+    "started": "Wed, 6 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：The Bounce：Victor Wembanyama 的阻挡实际上违反了规则吗？。",
+    "explanation": "Google Trends 显示“今晚马刺队的比赛”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：The Bounce：Victor Wembanyama 的阻挡实际上违反了规则吗？。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Game #36 GameThread: Jays @ Rays",
-        "url": "https://sports.yahoo.com/articles/game-36-gamethread-jays-rays-222430432.html",
-        "source": "Yahoo Sports"
+        "title": "The Bounce: Were Victor Wembanyama’s blocks actually against the rules?",
+        "url": "https://www.nytimes.com/athletic/7257970/2026/05/06/victor-wembanyama-blocks-nba-playoffs-the-bounce/",
+        "source": "The New York Times"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "tigres",
-    "titleZh": "老虎",
-    "traffic": "5000+",
-    "started": "Tue, 5 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：2026 年中北美及加勒比地区冠军杯，老虎队 vs 纳什维尔队，比看起来更接近。",
-    "explanation": "Google Trends 显示“老虎”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：2026 年中北美及加勒比地区冠军杯，老虎队 vs 纳什维尔队，比看起来更接近。这些报道来自 azcentral.com and The Arizona Republic 等媒体，因此带动了集中搜索。",
+    "title": "toluca",
+    "titleZh": "托卢卡",
+    "traffic": "2000+",
+    "started": "Wed, 6 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：墨西哥队与该国俱乐部之间的争议是什么？。",
+    "explanation": "Google Trends 显示“托卢卡”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：墨西哥队与该国俱乐部之间的争议是什么？。这些报道来自 CNN en Español 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Tigres vs Nashville, más cerrado de lo que parece, Concacaf Champions Cup 2026",
-        "url": "https://www.lavozarizona.com/story/deportes/futbol/2026/05/04/tigres-vs-nashville-previa-horario-donde-ver-concacaf-2026/89933758007/",
-        "source": "azcentral.com and The Arizona Republic"
+        "title": "¿De qué se trata la polémica entre la selección de México y los clubes del país?",
+        "url": "https://cnnespanol.cnn.com/2026/05/06/deportes/video/seleccion-mexico-polemica-clubes-deportes-tv",
+        "source": "CNN en Español"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "paul goldschmidt",
-    "titleZh": "保罗·戈德施密特",
+    "title": "alex lyon",
+    "titleZh": "亚历克斯·里昂",
     "traffic": "1000+",
-    "started": "Tue, 5 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：洋基队可能会对前 MVP 强击手做出令人惊讶的名单决定。",
-    "explanation": "Google Trends 显示“保罗·戈德施密特”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：洋基队可能会对前 MVP 强击手做出令人惊讶的名单决定。这些报道来自 Heavy.com 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 6 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：亚历克斯·里昂新闻：星期三在管道之间。",
+    "explanation": "Google Trends 显示“亚历克斯·里昂”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：亚历克斯·里昂新闻：星期三在管道之间。这些报道来自 RotoWire 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Yankees Could Make Surprising Roster Decision on Former MVP Slugger",
-        "url": "https://heavy.com/sports/mlb/new-york-yankees/surprise-decision-dfa-stanton/",
-        "source": "Heavy.com"
+        "title": "Alex Lyon News: Between pipes Wednesday",
+        "url": "https://www.rotowire.com/hockey/headlines/alex-lyon-news-between-pipes-wednesday-591600",
+        "source": "RotoWire"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "megan fox",
-    "titleZh": "梅根·福克斯",
-    "traffic": "1000+",
-    "started": "Tue, 5 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：为什么梅根·福克斯的《詹妮弗的身体》在上映 17 年后仍受到追捧。",
-    "explanation": "Google Trends 显示“梅根·福克斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：为什么梅根·福克斯的《詹妮弗的身体》在上映 17 年后仍受到追捧。这些报道来自 FandomWire 等媒体，因此带动了集中搜索。",
+    "title": "newt gingrich",
+    "titleZh": "纽特·金里奇",
+    "traffic": "500+",
+    "started": "Wed, 6 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：盖伊·恰罗基（Guy Ciarrocchi）：福利欺诈呈上升趋势——民主党人对此毫不在意。",
+    "explanation": "Google Trends 显示“纽特·金里奇”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：盖伊·恰罗基（Guy Ciarrocchi）：福利欺诈呈上升趋势——民主党人对此毫不在意。这些报道来自 Broad + Liberty 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Why Megan Fox’s Jennifer’s Body Became a Cult-Hit 17 Years After Release",
-        "url": "https://fandomwire.com/why-megan-fox-jennifers-body-became-cult-hit-17-years-after-release/",
-        "source": "FandomWire"
+        "title": "Guy Ciarrocchi: Welfare fraud is on the rise — and Democrats couldn’t care less",
+        "url": "https://broadandliberty.com/2026/05/06/guy-ciarrocchi-welfare-fraud-is-on-the-rise-and-democrats-couldnt-care-less/",
+        "source": "Broad + Liberty"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "antonio villaraigosa",
-    "titleZh": "安东尼奥·比利亚莱戈萨",
-    "traffic": "500+",
-    "started": "Tue, 5 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：安东尼奥·维拉莱戈萨：关于加州州长候选人的了解。",
-    "explanation": "Google Trends 显示“安东尼奥·比利亚莱戈萨”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：安东尼奥·维拉莱戈萨：关于加州州长候选人的了解。这些报道来自 NBC Los Angeles 等媒体，因此带动了集中搜索。",
+    "title": "mississippi tornado",
+    "titleZh": "密西西比龙卷风",
+    "traffic": "200000+",
+    "started": "Wed, 6 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：北岸社区可能会遇到暴风雨天气。",
+    "explanation": "Google Trends 显示“密西西比龙卷风”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：北岸社区可能会遇到暴风雨天气。这些报道来自 WDSU 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Antonio Villaraigosa: What to know about CA gubernatorial candidate",
-        "url": "https://www.nbclosangeles.com/news/local/antonio-villaraigosa-what-to-know-about-california-governor-candidate/3885411/",
-        "source": "NBC Los Angeles"
+        "title": "Northshore communities could see stormy weather",
+        "url": "https://www.wdsu.com/article/impact-day-severe-risk-upgraded-for-sections-of-louisiana-mississippi/71231772",
+        "source": "WDSU"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "byron buxton",
-    "titleZh": "拜伦·巴克斯顿",
+    "title": "washington nationals",
+    "titleZh": "华盛顿国民队",
     "traffic": "500+",
-    "started": "Tue, 5 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：瑞恩·杰弗斯 (Ryan Jeffers) 和拜伦·巴克斯顿 (Byron Buxton) 击出本垒打，双胞胎队以 7-1 击败蓝鸟队。",
-    "explanation": "Google Trends 显示“拜伦·巴克斯顿”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：瑞恩·杰弗斯 (Ryan Jeffers) 和拜伦·巴克斯顿 (Byron Buxton) 击出本垒打，双胞胎队以 7-1 击败蓝鸟队。这些报道来自 Star Tribune 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 6 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：今天美国职业棒球大联盟 (MLB) 比赛双城队 vs 国民队的预测、选秀和赔率。",
+    "explanation": "Google Trends 显示“华盛顿国民队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：今天美国职业棒球大联盟 (MLB) 比赛双城队 vs 国民队的预测、选秀和赔率。这些报道来自 Covers.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Ryan Jeffers, Byron Buxton homer as Twins crush Blue Jays for 7-1 victory",
-        "url": "https://www.startribune.com/ryan-jeffers-byron-buxton-homer-as-twins-crush-blue-jays-for-7-1-victory/601637845",
-        "source": "Star Tribune"
+        "title": "Twins vs Nationals Prediction, Picks & Odds for Today's MLB Game",
+        "url": "https://www.covers.com/mlb/twins-vs-nationals-prediction-picks-odds-wednesday-5-6-2026",
+        "source": "Covers.com"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "mn frost",
-    "titleZh": "明霜",
-    "traffic": "500+",
-    "started": "Tue, 5 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：潘内克打破 PWHL 单赛季得分纪录。",
-    "explanation": "Google Trends 显示“明霜”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：潘内克打破 PWHL 单赛季得分纪录。这些报道来自 Lets Play Hockey 等媒体，因此带动了集中搜索。",
+    "title": "knicks",
+    "titleZh": "尼克斯队",
+    "traffic": "100000+",
+    "started": "Wed, 6 May 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：76 人队对阵尼克斯队 2026 年 NBA 季后赛比分，实时更新：纽约队与费城队在第 2 场比赛第四节陷入胶着状态。",
+    "explanation": "Google Trends 显示“尼克斯队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：76 人队对阵尼克斯队 2026 年 NBA 季后赛比分，实时更新：纽约队与费城队在第 2 场比赛第四节陷入胶着状态。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Pannek breaks PWHL record for points in a season",
-        "url": "https://letsplayhockey.com/pannek-breaks-pwhl-record-for-points-in-a-season/",
-        "source": "Lets Play Hockey"
+        "title": "76ers vs. Knicks NBA Playoffs 2026 score, live updates: New York, Philly in a tight one in fourth quarter of Game 2",
+        "url": "https://www.nytimes.com/athletic/live-blogs/76ers-vs-knicks-live-updates-nba-playoffs-game-2-score-result/3oZXTcMNcFyx/",
+        "source": "The New York Times"
       }
     ]
   }
