@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "sheep detectives",
-    "titleZh": "羊侦探",
-    "traffic": "1000+",
-    "started": "Wed, 6 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：《绵羊侦探》是一部有深度的儿童电影 |审查。",
-    "explanation": "Google Trends 显示“羊侦探”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《绵羊侦探》是一部有深度的儿童电影 |审查。这些报道来自 The Seattle Times 等媒体，因此带动了集中搜索。",
+    "title": "junior caminero",
+    "titleZh": "初级步行者",
+    "traffic": "500+",
+    "started": "Thu, 7 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：MLB 最热门球队今晚成为 ESPN 独家双赛头条新闻。",
+    "explanation": "Google Trends 显示“初级步行者”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：MLB 最热门球队今晚成为 ESPN 独家双赛头条新闻。这些报道来自 MLB.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "'The Sheep Detectives' is a children's movie with depth | Review",
-        "url": "https://www.seattletimes.com/entertainment/movies/the-sheep-detectives-review-an-enchanting-film-with-moving-messages/",
-        "source": "The Seattle Times"
+        "title": "MLB's hottest team headlines ESPN-exclusive doubleheader tonight",
+        "url": "https://www.mlb.com/news/red-sox-rays-cardinals-padres-in-espn-exclusive-doubleheader-on-may-7",
+        "source": "MLB.com"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "john starks",
-    "titleZh": "约翰·斯塔克斯",
+    "title": "isaiah stewart",
+    "titleZh": "以赛亚·斯图尔特",
     "traffic": "500+",
-    "started": "Wed, 6 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：尼克斯队的偶像们知道这支球队拥有一切所需的一切，甚至更多。",
-    "explanation": "Google Trends 显示“约翰·斯塔克斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：尼克斯队的偶像们知道这支球队拥有一切所需的一切，甚至更多。这些报道来自 New York Post 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 7 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：以赛亚·斯图尔特新闻：有限的作用仍在继续。",
+    "explanation": "Google Trends 显示“以赛亚·斯图尔特”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：以赛亚·斯图尔特新闻：有限的作用仍在继续。这些报道来自 RotoWire 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Knicks icons know this team has everything it takes and more",
-        "url": "https://nypost.com/2026/05/06/sports/knicks-icons-know-this-team-has-everything-it-takes/",
-        "source": "New York Post"
-      }
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "tejay antone",
-    "titleZh": "特杰·安东",
-    "traffic": "200+",
-    "started": "Wed, 6 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：红军选择特杰·安东。",
-    "explanation": "Google Trends 显示“特杰·安东”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：红军选择特杰·安东。这些报道来自 MLB Trade Rumors 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Reds Select Tejay Antone",
-        "url": "https://www.mlbtraderumors.com/2026/05/reds-to-select-tejay-antone.html",
-        "source": "MLB Trade Rumors"
-      }
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "spurs game tonight",
-    "titleZh": "今晚马刺队的比赛",
-    "traffic": "5000+",
-    "started": "Wed, 6 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：The Bounce：Victor Wembanyama 的阻挡实际上违反了规则吗？。",
-    "explanation": "Google Trends 显示“今晚马刺队的比赛”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：The Bounce：Victor Wembanyama 的阻挡实际上违反了规则吗？。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "The Bounce: Were Victor Wembanyama’s blocks actually against the rules?",
-        "url": "https://www.nytimes.com/athletic/7257970/2026/05/06/victor-wembanyama-blocks-nba-playoffs-the-bounce/",
-        "source": "The New York Times"
-      }
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "toluca",
-    "titleZh": "托卢卡",
-    "traffic": "2000+",
-    "started": "Wed, 6 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：墨西哥队与该国俱乐部之间的争议是什么？。",
-    "explanation": "Google Trends 显示“托卢卡”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：墨西哥队与该国俱乐部之间的争议是什么？。这些报道来自 CNN en Español 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "¿De qué se trata la polémica entre la selección de México y los clubes del país?",
-        "url": "https://cnnespanol.cnn.com/2026/05/06/deportes/video/seleccion-mexico-polemica-clubes-deportes-tv",
-        "source": "CNN en Español"
-      }
-    ]
-  },
-  {
-    "rank": 6,
-    "title": "alex lyon",
-    "titleZh": "亚历克斯·里昂",
-    "traffic": "1000+",
-    "started": "Wed, 6 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：亚历克斯·里昂新闻：星期三在管道之间。",
-    "explanation": "Google Trends 显示“亚历克斯·里昂”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：亚历克斯·里昂新闻：星期三在管道之间。这些报道来自 RotoWire 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Alex Lyon News: Between pipes Wednesday",
-        "url": "https://www.rotowire.com/hockey/headlines/alex-lyon-news-between-pipes-wednesday-591600",
+        "title": "Isaiah Stewart News: Limited role continues",
+        "url": "https://www.rotowire.com/basketball/headlines/isaiah-stewart-news-limited-role-continues-530410",
         "source": "RotoWire"
       }
     ]
   },
   {
-    "rank": 7,
-    "title": "newt gingrich",
-    "titleZh": "纽特·金里奇",
+    "rank": 3,
+    "title": "darius garland",
+    "titleZh": "大流士加兰",
     "traffic": "500+",
-    "started": "Wed, 6 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：盖伊·恰罗基（Guy Ciarrocchi）：福利欺诈呈上升趋势——民主党人对此毫不在意。",
-    "explanation": "Google Trends 显示“纽特·金里奇”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：盖伊·恰罗基（Guy Ciarrocchi）：福利欺诈呈上升趋势——民主党人对此毫不在意。这些报道来自 Broad + Liberty 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 7 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：勇士队涉及达米安·利拉德和德雷蒙德·格林的交易想法以1.34亿美元两次入选全明星。",
+    "explanation": "Google Trends 显示“大流士加兰”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：勇士队涉及达米安·利拉德和德雷蒙德·格林的交易想法以1.34亿美元两次入选全明星。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Guy Ciarrocchi: Welfare fraud is on the rise — and Democrats couldn’t care less",
-        "url": "https://broadandliberty.com/2026/05/06/guy-ciarrocchi-welfare-fraud-is-on-the-rise-and-democrats-couldnt-care-less/",
-        "source": "Broad + Liberty"
+        "title": "Warriors trade idea involving Damian Lillard, Draymond Green lands $134 million two-time All-Star",
+        "url": "https://sports.yahoo.com/articles/warriors-trade-idea-involving-damian-165547612.html",
+        "source": "Yahoo Sports"
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "yandy diaz",
+    "titleZh": "扬迪·迪亚兹",
+    "traffic": "200+",
+    "started": "Thu, 7 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：扬迪·迪亚兹 (Yandy Diaz) 因斜伤而日常训练。",
+    "explanation": "Google Trends 显示“扬迪·迪亚兹”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：扬迪·迪亚兹 (Yandy Diaz) 因斜伤而日常训练。这些报道来自 FantasyPros 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Yandy Diaz day-to-day with oblique injury",
+        "url": "https://www.fantasypros.com/mlb/news/583801/yandy-diaz-day-to-day-with-oblique-injury.php",
+        "source": "FantasyPros"
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "title": "ahl playoffs",
+    "titleZh": "阿尔季后赛",
+    "traffic": "200+",
+    "started": "Thu, 7 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：每日新闻：格里芬队的前景如何；吉蒙德前往第七场比赛。",
+    "explanation": "Google Trends 显示“阿尔季后赛”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：每日新闻：格里芬队的前景如何；吉蒙德前往第七场比赛。这些报道来自 Detroit Hockey Now 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "The Daily: What Prospects Are Stepping Up For Griffins; Guimond Heads to Game 7",
+        "url": "https://detroithockeynow.com/grand-rapids-griffins-red-wings-prospects-stepping-up-michal-postava-anton-johansson-william-wallinder/",
+        "source": "Detroit Hockey Now"
+      }
+    ]
+  },
+  {
+    "rank": 6,
+    "title": "kenny atkinson",
+    "titleZh": "肯尼·阿特金森",
+    "traffic": "200+",
+    "started": "Thu, 7 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：小迈克·波尔克谈克利夫兰骑士队寻找另一种创造性的方式来输掉季后赛。",
+    "explanation": "Google Trends 显示“肯尼·阿特金森”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：小迈克·波尔克谈克利夫兰骑士队寻找另一种创造性的方式来输掉季后赛。这些报道来自 WKYC 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Mike Polk Jr. on Cleveland Cavaliers finding another creative way to lose a playoff game",
+        "url": "https://www.wkyc.com/video/life/people/mike-polk-jr/mike-polk-jr-on-cleveland-cavaliers-finding-another-creative-way-to-lose-a-playoff-game/95-8971df21-296a-441d-8a39-600b55002b04",
+        "source": "WKYC"
+      }
+    ]
+  },
+  {
+    "rank": 7,
+    "title": "hershey bears",
+    "titleZh": "好时熊",
+    "traffic": "200+",
+    "started": "Thu, 7 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：小联盟报告：企鹅队，鲁特格·麦克格罗蒂在加时赛中拿下第三场比赛。",
+    "explanation": "Google Trends 显示“好时熊”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：小联盟报告：企鹅队，鲁特格·麦克格罗蒂在加时赛中拿下第三场比赛。这些报道来自 TribLIVE.com 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Minor league report: Penguins, Rutger McGroarty take Game 3 in overtime",
+        "url": "https://triblive.com/sports/minor-league-report-penguins-rutger-mcgroarty-take-game-3-in-overtime/",
+        "source": "TribLIVE.com"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "mississippi tornado",
-    "titleZh": "密西西比龙卷风",
-    "traffic": "200000+",
-    "started": "Wed, 6 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：北岸社区可能会遇到暴风雨天气。",
-    "explanation": "Google Trends 显示“密西西比龙卷风”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：北岸社区可能会遇到暴风雨天气。这些报道来自 WDSU 等媒体，因此带动了集中搜索。",
+    "title": "amen thompson",
+    "titleZh": "阿门汤普森",
+    "traffic": "2000+",
+    "started": "Thu, 7 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：火箭队在对阵湖人队的系列赛中过于依赖阿门·汤普森。",
+    "explanation": "Google Trends 显示“阿门汤普森”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：火箭队在对阵湖人队的系列赛中过于依赖阿门·汤普森。这些报道来自 Sports Illustrated 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Northshore communities could see stormy weather",
-        "url": "https://www.wdsu.com/article/impact-day-severe-risk-upgraded-for-sections-of-louisiana-mississippi/71231772",
-        "source": "WDSU"
+        "title": "Rockets Relied on Amen Thompson too Much During Series vs. Lakers",
+        "url": "https://www.si.com/nba/rockets/onsi/rockets-relied-on-amen-thompson-too-much-during-series-vs-lakers",
+        "source": "Sports Illustrated"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "washington nationals",
-    "titleZh": "华盛顿国民队",
-    "traffic": "500+",
-    "started": "Wed, 6 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：今天美国职业棒球大联盟 (MLB) 比赛双城队 vs 国民队的预测、选秀和赔率。",
-    "explanation": "Google Trends 显示“华盛顿国民队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：今天美国职业棒球大联盟 (MLB) 比赛双城队 vs 国民队的预测、选秀和赔率。这些报道来自 Covers.com 等媒体，因此带动了集中搜索。",
+    "title": "jalen duren",
+    "titleZh": "持续多年",
+    "traffic": "5000+",
+    "started": "Thu, 7 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：索菲·坎宁安 (Sophie Cunningham) 指责安吉尔·里斯 (Angel Reese) 行为不成熟。",
+    "explanation": "Google Trends 显示“持续多年”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：索菲·坎宁安 (Sophie Cunningham) 指责安吉尔·里斯 (Angel Reese) 行为不成熟。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Twins vs Nationals Prediction, Picks & Odds for Today's MLB Game",
-        "url": "https://www.covers.com/mlb/twins-vs-nationals-prediction-picks-odds-wednesday-5-6-2026",
-        "source": "Covers.com"
+        "title": "Sophie Cunningham Accuses Angel Reese Of Immature Behavior",
+        "url": "https://sports.yahoo.com/articles/sophie-cunningham-accuses-angel-reese-193944487.html",
+        "source": "Yahoo Sports"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "knicks",
-    "titleZh": "尼克斯队",
-    "traffic": "100000+",
-    "started": "Wed, 6 May 2026 18:20:00 -0700",
-    "summary": "相关新闻主要集中在：76 人队对阵尼克斯队 2026 年 NBA 季后赛比分，实时更新：纽约队与费城队在第 2 场比赛第四节陷入胶着状态。",
-    "explanation": "Google Trends 显示“尼克斯队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：76 人队对阵尼克斯队 2026 年 NBA 季后赛比分，实时更新：纽约队与费城队在第 2 场比赛第四节陷入胶着状态。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
+    "title": "amber alert",
+    "titleZh": "安珀警报",
+    "traffic": "1000+",
+    "started": "Thu, 7 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：宣布全州银色警报。",
+    "explanation": "Google Trends 显示“安珀警报”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：宣布全州银色警报。这些报道来自 wowo.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "76ers vs. Knicks NBA Playoffs 2026 score, live updates: New York, Philly in a tight one in fourth quarter of Game 2",
-        "url": "https://www.nytimes.com/athletic/live-blogs/76ers-vs-knicks-live-updates-nba-playoffs-game-2-score-result/3oZXTcMNcFyx/",
-        "source": "The New York Times"
+        "title": "Statewide Silver Alert Declared",
+        "url": "https://wowo.com/statewide-silver-alert-declared/",
+        "source": "wowo.com"
       }
     ]
   }
