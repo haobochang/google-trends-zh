@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "jeremy sochan",
-    "titleZh": "杰里米认为",
-    "traffic": "500+",
-    "started": "Fri, 8 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：76人队对阵尼克斯队后，索尚和埃奇库姆进行了激烈的交锋。",
-    "explanation": "Google Trends 显示“杰里米认为”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：76人队对阵尼克斯队后，索尚和埃奇库姆进行了激烈的交锋。这些报道来自 ESPN 等媒体，因此带动了集中搜索。",
+    "title": "chris weidman",
+    "titleZh": "克里斯·韦德曼",
+    "traffic": "10000+",
+    "started": "Sat, 9 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：克里斯·韦德曼 (Chris Weidman) 和托马斯·格巴西 (Thomas Gerbassi) 加入 2026 年 UFC 名人堂班。",
+    "explanation": "Google Trends 显示“克里斯·韦德曼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：克里斯·韦德曼 (Chris Weidman) 和托马斯·格巴西 (Thomas Gerbassi) 加入 2026 年 UFC 名人堂班。这些报道来自 Yahoo Sports Australia 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Sochan, Edgecombe jaw in heated exchange after Sixers-Knicks",
-        "url": "https://www.espn.com/watch/player/_/id/48699844",
-        "source": "ESPN"
+        "title": "Chris Weidman, Thomas Gerbassi join 2026 UFC Hall of Fame class",
+        "url": "https://au.sports.yahoo.com/chris-weidman-thomas-gerbassi-join-014256476.html",
+        "source": "Yahoo Sports Australia"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "andrew mccutchen",
-    "titleZh": "安德鲁·麦卡琴",
-    "traffic": "500+",
-    "started": "Fri, 8 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：匹兹堡海盗队在取代安德鲁·麦卡琴后面临批评。",
-    "explanation": "Google Trends 显示“安德鲁·麦卡琴”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：匹兹堡海盗队在取代安德鲁·麦卡琴后面临批评。这些报道来自 AsatuNews.co.id 等媒体，因此带动了集中搜索。",
+    "title": "jaylin williams",
+    "titleZh": "杰林·威廉姆斯",
+    "traffic": "2000+",
+    "started": "Sat, 9 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：俄克拉荷马城雷霆队的两名球星将重新命名街道以纪念家乡。",
+    "explanation": "Google Trends 显示“杰林·威廉姆斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：俄克拉荷马城雷霆队的两名球星将重新命名街道以纪念家乡。这些报道来自 News 9 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Pittsburgh Pirates Face Criticism After Replacing Andrew McCutchen",
-        "url": "https://www.asatunews.co.id/en/pirates-replace-mccutchen-ozuna-criticism",
-        "source": "AsatuNews.co.id"
+        "title": "Two Oklahoma City Thunder stars will have streets renamed in hometown honor",
+        "url": "https://www.news9.com/oklahoma-city-thunder/okc-thunder-jaylin-williams-isaiah-joe-hometown-streets-renamed",
+        "source": "News 9"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "mike brown",
-    "titleZh": "迈克·布朗",
-    "traffic": "500+",
-    "started": "Fri, 8 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：迈克·布朗没有陷入詹姆斯·多兰对尼克斯队 NBA 总决赛的任务中：“我执教是为了获胜”。",
-    "explanation": "Google Trends 显示“迈克·布朗”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：迈克·布朗没有陷入詹姆斯·多兰对尼克斯队 NBA 总决赛的任务中：“我执教是为了获胜”。这些报道来自 New York Post 等媒体，因此带动了集中搜索。",
+    "title": "charles barkley",
+    "titleZh": "查尔斯·巴克利",
+    "traffic": "1000+",
+    "started": "Sat, 9 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：查尔斯·巴克利还击，开玩笑地向勇士队的德雷蒙德·格林投篮。",
+    "explanation": "Google Trends 显示“查尔斯·巴克利”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：查尔斯·巴克利还击，开玩笑地向勇士队的德雷蒙德·格林投篮。这些报道来自 USA Today 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Mike Brown not getting caught up in James Dolan’s Knicks NBA Finals mandate: ‘I’m coaching to win’",
-        "url": "https://nypost.com/2026/05/05/sports/mike-brown-not-getting-caught-up-in-james-dolan-nba-finals-mandate/",
-        "source": "New York Post"
+        "title": "Charles Barkley fires back, takes playful shot at Draymond Green, Warriors",
+        "url": "https://www.usatoday.com/story/sports/nba/2026/05/08/draymond-green-charles-barkley-response-warriors/90003083007/",
+        "source": "USA Today"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "mickey moniak",
-    "titleZh": "米奇·莫尼亚克",
-    "traffic": "200+",
-    "started": "Fri, 8 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：传奇的费城人队选秀半身像在落基山脉队每一次精彩的挥杆中都摆脱了这个标签。",
-    "explanation": "Google Trends 显示“米奇·莫尼亚克”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：传奇的费城人队选秀半身像在落基山脉队每一次精彩的挥杆中都摆脱了这个标签。这些报道来自 MSN 等媒体，因此带动了集中搜索。",
+    "title": "michael chandler",
+    "titleZh": "迈克尔·钱德勒",
+    "traffic": "500+",
+    "started": "Sat, 9 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：迈克尔·钱德勒 (Michael Chandler) 在 UFC Freedom 250 比赛日期问题上出现令人尴尬的失态。",
+    "explanation": "Google Trends 显示“迈克尔·钱德勒”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：迈克尔·钱德勒 (Michael Chandler) 在 UFC Freedom 250 比赛日期问题上出现令人尴尬的失态。这些报道来自 Irish Star 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Legendary Phillies draft bust is shedding that label with every spectacular Rockies swing",
-        "url": "https://www.msn.com/en-us/sports/mlb/legendary-phillies-draft-bust-is-shedding-that-label-with-every-spectacular-rockies-swing/ar-AA22rj1b",
-        "source": "MSN"
+        "title": "Michael Chandler makes embarrassing gaffe over date of UFC Freedom 250",
+        "url": "https://www.irishstar.com/sport/other-sports/ufc-white-house-michael-chandler-37133740",
+        "source": "Irish Star"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "earthquake now moreno valley",
-    "titleZh": "莫雷诺谷现在地震",
-    "traffic": "1000+",
-    "started": "Fri, 8 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：周三早上，地震震动内陆帝国：你感觉到了吗？。",
-    "explanation": "Google Trends 显示“莫雷诺谷现在地震”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：周三早上，地震震动内陆帝国：你感觉到了吗？。这些报道来自 Patch 等媒体，因此带动了集中搜索。",
+    "title": "jj redick",
+    "titleZh": "雷迪克",
+    "traffic": "2000+",
+    "started": "Sat, 9 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：更好的哨子并不能解决湖人对阵雷霆的真正问题。",
+    "explanation": "Google Trends 显示“雷迪克”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：更好的哨子并不能解决湖人对阵雷霆的真正问题。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Earthquake Shakes Inland Empire Wednesday Morning: Did You Feel It?",
-        "url": "https://patch.com/california/banning-beaumont/earthquake-shakes-inland-empire-wednesday-morning-did-you-feel-it",
-        "source": "Patch"
+        "title": "A better whistle won’t solve Lakers’ real problems against Thunder",
+        "url": "https://www.nytimes.com/athletic/7262890/2026/05/08/lakers-lose-thunder-playoffs-officiating/",
+        "source": "The New York Times"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "kat",
-    "titleZh": "凯特",
-    "traffic": "200+",
-    "started": "Fri, 8 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：来自The Athletic：来认识一下卡尔-安东尼·唐斯的最大粉丝——凯瑟琳·莱因哈德是一名在阿富汗阵亡的海军陆战队员的母亲。 “我认为她没有意识到她对我的生活产生了重大影响，”唐斯说。 “我仍然时刻想着她的儿子。” https://nyti.ms/3QVV。",
-    "explanation": "Google Trends 显示“凯特”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：来自The Athletic：来认识一下卡尔-安东尼·唐斯的最大粉丝——凯瑟琳·莱因哈德是一名在阿富汗阵亡的海军陆战队员的母亲。 “我认为她没有意识到她对我的生活产生了重大影响，”唐斯说。 “我仍然时刻想着她的儿子。” https://nyti.ms/3QVV。这些报道来自 Facebook 等媒体，因此带动了集中搜索。",
+    "title": "manny machado",
+    "titleZh": "曼尼·马查多",
+    "traffic": "500+",
+    "started": "Sat, 9 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：今日 MLB 全垒打预测：5 月 9 日星期六的最佳 HR 投注、选秀、连赢投注和赔率。",
+    "explanation": "Google Trends 显示“曼尼·马查多”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：今日 MLB 全垒打预测：5 月 9 日星期六的最佳 HR 投注、选秀、连赢投注和赔率。这些报道来自 Covers.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "From The Athletic: Meet Karl-Anthony Towns’ biggest fan — Kathleen Reinhard is the mother of a Marine killed in Afghanistan. “I don’t think she realizes that she made a big impact on my life,” Towns said. “I still think of her son all the time.” https://nyti.ms/3QVV",
-        "url": "https://www.facebook.com/nytimes/photos/from-the-athletic-meet-karl-anthony-towns-biggest-fan-kathleen-reinhard-is-the-m/1365867405395719/",
-        "source": "Facebook"
+        "title": "MLB Home Run Predictions Today: Best HR Prop Bets, Picks, Parlay & Odds for Saturday, May 9",
+        "url": "https://www.covers.com/mlb/home-run-props-parlay-and-odds-saturday-5-9-2026",
+        "source": "Covers.com"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "knicks coach",
-    "titleZh": "尼克斯队教练",
-    "traffic": "200+",
-    "started": "Fri, 8 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：汤姆·锡伯杜 (Tom Thibodeau) 与 1 项 NBA 主教练职位有关。",
-    "explanation": "Google Trends 显示“尼克斯队教练”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：汤姆·锡伯杜 (Tom Thibodeau) 与 1 项 NBA 主教练职位有关。这些报道来自 MSN 等媒体，因此带动了集中搜索。",
+    "title": "kirill kaprizov",
+    "titleZh": "基里尔·卡普里佐夫",
+    "traffic": "500+",
+    "started": "Sat, 9 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：基里尔·卡普里佐夫 (Kirill Kaprizov) 会在 5 月 9 日对阵科罗拉多雪崩队的比赛中进球吗？。",
+    "explanation": "Google Trends 显示“基里尔·卡普里佐夫”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：基里尔·卡普里佐夫 (Kirill Kaprizov) 会在 5 月 9 日对阵科罗拉多雪崩队的比赛中进球吗？。这些报道来自 Bleacher Nation 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Tom Thibodeau is being linked to 1 NBA head coaching job",
-        "url": "https://www.msn.com/en-us/sports/nba/tom-thibodeau-is-being-linked-to-one-nba-head-coaching-job/ar-AA22nUBN",
-        "source": "MSN"
+        "title": "Will Kirill Kaprizov Score a Goal vs. the Colorado Avalanche on May 9?",
+        "url": "https://www.bleachernation.com/picks/2026/05/08/will-kirill-kaprizov-score-a-goal-vs-the-colorado-avalanche-on-may-9/",
+        "source": "Bleacher Nation"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "spurs game tonight",
-    "titleZh": "今晚马刺队的比赛",
-    "traffic": "10000+",
-    "started": "Fri, 8 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：狼队没有听从爱德华兹的警告，在溃败中表现得“冷静”。",
-    "explanation": "Google Trends 显示“今晚马刺队的比赛”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：狼队没有听从爱德华兹的警告，在溃败中表现得“冷静”。这些报道来自 ESPN 等媒体，因此带动了集中搜索。",
+    "title": "sporting kc vs portland",
+    "titleZh": "堪萨斯竞技 vs 波特兰体育",
+    "traffic": "200+",
+    "started": "Sat, 9 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：“我们必须进入周六并获得三分”|伊恩·史密斯期待对阵SKC。",
+    "explanation": "Google Trends 显示“堪萨斯竞技 vs 波特兰体育”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：“我们必须进入周六并获得三分”|伊恩·史密斯期待对阵SKC。这些报道来自 Portland Timbers 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Wolves fail to heed Edwards' warning, come out 'cool' in rout",
-        "url": "https://www.espn.com/nba/story/_/id/48700497/wolves-fail-heed-edwards-warning-come-cool-rout",
-        "source": "ESPN"
+        "title": "\"We've got to move on to Saturday and get three points\" | Ian Smith looks ahead to facing SKC",
+        "url": "https://www.timbers.com/video/e-ve-got-to-move-on-to-saturday-and-get-three-points-ian-smith-looks-ahead-to-facing-skc",
+        "source": "Portland Timbers"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "gwinnett county",
-    "titleZh": "格温内特县",
-    "traffic": "500+",
-    "started": "Fri, 8 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：格温内特县警方调查德卢斯凶杀案。",
-    "explanation": "Google Trends 显示“格温内特县”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：格温内特县警方调查德卢斯凶杀案。这些报道来自 AccessWDUN 等媒体，因此带动了集中搜索。",
+    "title": "craig kimbrel",
+    "titleZh": "克雷格·金布尔",
+    "traffic": "200+",
+    "started": "Sat, 9 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：落基山脉 6-2 大都会队（2026 年 5 月 7 日）比赛回顾。",
+    "explanation": "Google Trends 显示“克雷格·金布尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：落基山脉 6-2 大都会队（2026 年 5 月 7 日）比赛回顾。这些报道来自 ESPN 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Gwinnett Co. Police investigating Duluth homicide",
-        "url": "https://accesswdun.com/news/gwinnett-co-police-investigating-duluth-homicide",
-        "source": "AccessWDUN"
+        "title": "Rockies 6-2 Mets (May 7, 2026) Game Recap",
+        "url": "https://www.espn.com/mlb/recap/_/gameId/401871498",
+        "source": "ESPN"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "aroldis chapman",
-    "titleZh": "阿罗迪斯·查普曼",
-    "traffic": "500+",
-    "started": "Fri, 8 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：小熊队早期传闻揭示了谁可能成为重磅交易的主角。",
-    "explanation": "Google Trends 显示“阿罗迪斯·查普曼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：小熊队早期传闻揭示了谁可能成为重磅交易的主角。这些报道来自 Cubbies Crib 等媒体，因此带动了集中搜索。",
+    "title": "sean o'malley",
+    "titleZh": "肖恩·奥马利",
+    "traffic": "200+",
+    "started": "Sat, 9 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：肖恩·奥马利在 UFC 白宫新闻发布会上被忽视后，粉丝们降低了他的“明星”地位。",
+    "explanation": "Google Trends 显示“肖恩·奥马利”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：肖恩·奥马利在 UFC 白宫新闻发布会上被忽视后，粉丝们降低了他的“明星”地位。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Early Cubs rumors reveal prospects who could headline blockbuster trade",
-        "url": "https://cubbiescrib.com/early-cubs-rumors-reveal-prospects-who-could-headline-blockbuster-trade",
-        "source": "Cubbies Crib"
+        "title": "Fans downgrade Sean O’Malley’s ‘star’ status after he was ignored at the UFC White House press conference",
+        "url": "https://sports.yahoo.com/articles/fans-downgrade-sean-o-malley-180742094.html",
+        "source": "Yahoo Sports"
       }
     ]
   }
