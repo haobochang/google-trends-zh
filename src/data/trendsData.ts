@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "chris weidman",
-    "titleZh": "克里斯·韦德曼",
-    "traffic": "10000+",
-    "started": "Sat, 9 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：克里斯·韦德曼 (Chris Weidman) 和托马斯·格巴西 (Thomas Gerbassi) 加入 2026 年 UFC 名人堂班。",
-    "explanation": "Google Trends 显示“克里斯·韦德曼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：克里斯·韦德曼 (Chris Weidman) 和托马斯·格巴西 (Thomas Gerbassi) 加入 2026 年 UFC 名人堂班。这些报道来自 Yahoo Sports Australia 等媒体，因此带动了集中搜索。",
+    "title": "disclosure day",
+    "titleZh": "披露日",
+    "traffic": "1000+",
+    "started": "Sun, 10 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：《睡狗》预告片深入探讨杰里米·科贝尔 (Jeremy Corbell) 为 UAP 披露而进行的斗争。",
+    "explanation": "Google Trends 显示“披露日”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《睡狗》预告片深入探讨杰里米·科贝尔 (Jeremy Corbell) 为 UAP 披露而进行的斗争。这些报道来自 Icon Vs. Icon 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Chris Weidman, Thomas Gerbassi join 2026 UFC Hall of Fame class",
-        "url": "https://au.sports.yahoo.com/chris-weidman-thomas-gerbassi-join-014256476.html",
-        "source": "Yahoo Sports Australia"
+        "title": "‘SLEEPING DOG’ Trailer Dives Into Jeremy Corbell’s Fight For UAP Disclosure",
+        "url": "https://www.iconvsicon.com/2026/05/07/sleeping-dog-trailer-jeremy-corbell-uap-documentary/",
+        "source": "Icon Vs. Icon"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "jaylin williams",
-    "titleZh": "杰林·威廉姆斯",
-    "traffic": "2000+",
-    "started": "Sat, 9 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：俄克拉荷马城雷霆队的两名球星将重新命名街道以纪念家乡。",
-    "explanation": "Google Trends 显示“杰林·威廉姆斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：俄克拉荷马城雷霆队的两名球星将重新命名街道以纪念家乡。这些报道来自 News 9 等媒体，因此带动了集中搜索。",
+    "title": "dylan o'brien",
+    "titleZh": "迪伦·奥布莱恩",
+    "traffic": "500+",
+    "started": "Sun, 10 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：斯蒂芬·金 (Stephen King) 在 Hulu 上隐藏的最佳新惊悚片中遇见了漂流者 (Castaway)。",
+    "explanation": "Google Trends 显示“迪伦·奥布莱恩”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：斯蒂芬·金 (Stephen King) 在 Hulu 上隐藏的最佳新惊悚片中遇见了漂流者 (Castaway)。这些报道来自 Polygon.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Two Oklahoma City Thunder stars will have streets renamed in hometown honor",
-        "url": "https://www.news9.com/oklahoma-city-thunder/okc-thunder-jaylin-williams-isaiah-joe-hometown-streets-renamed",
-        "source": "News 9"
+        "title": "Stephen King meets Castaway in the best new thriller hiding on Hulu",
+        "url": "https://www.polygon.com/send-help-streaming-hulu/",
+        "source": "Polygon.com"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "charles barkley",
-    "titleZh": "查尔斯·巴克利",
-    "traffic": "1000+",
-    "started": "Sat, 9 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：查尔斯·巴克利还击，开玩笑地向勇士队的德雷蒙德·格林投篮。",
-    "explanation": "Google Trends 显示“查尔斯·巴克利”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：查尔斯·巴克利还击，开玩笑地向勇士队的德雷蒙德·格林投篮。这些报道来自 USA Today 等媒体，因此带动了集中搜索。",
+    "title": "steven spielberg",
+    "titleZh": "史蒂文·斯皮尔伯格",
+    "traffic": "500+",
+    "started": "Sun, 10 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：史蒂文·斯皮尔伯格最喜欢的汤姆·哈迪的表演也是最被低估的演员。",
+    "explanation": "Google Trends 显示“史蒂文·斯皮尔伯格”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：史蒂文·斯皮尔伯格最喜欢的汤姆·哈迪的表演也是最被低估的演员。这些报道来自 IMDb 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Charles Barkley fires back, takes playful shot at Draymond Green, Warriors",
-        "url": "https://www.usatoday.com/story/sports/nba/2026/05/08/draymond-green-charles-barkley-response-warriors/90003083007/",
-        "source": "USA Today"
+        "title": "Steven Spielberg's Favorite Tom Hardy Performance Is Also The Actor's Most Underrated",
+        "url": "https://www.imdb.com/news/ni65834150/?ref_=nwc_art_perm",
+        "source": "IMDb"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "michael chandler",
-    "titleZh": "迈克尔·钱德勒",
+    "title": "keir starmer",
+    "titleZh": "凯尔·斯塔默",
     "traffic": "500+",
-    "started": "Sat, 9 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：迈克尔·钱德勒 (Michael Chandler) 在 UFC Freedom 250 比赛日期问题上出现令人尴尬的失态。",
-    "explanation": "Google Trends 显示“迈克尔·钱德勒”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：迈克尔·钱德勒 (Michael Chandler) 在 UFC Freedom 250 比赛日期问题上出现令人尴尬的失态。这些报道来自 Irish Star 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 10 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：英国斯塔默为自己的职位而战，地方选举失败后要求他下台的呼声越来越高。",
+    "explanation": "Google Trends 显示“凯尔·斯塔默”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：英国斯塔默为自己的职位而战，地方选举失败后要求他下台的呼声越来越高。这些报道来自 AP News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Michael Chandler makes embarrassing gaffe over date of UFC Freedom 250",
-        "url": "https://www.irishstar.com/sport/other-sports/ufc-white-house-michael-chandler-37133740",
-        "source": "Irish Star"
+        "title": "Britain’s Starmer fights for his job as calls for his ouster grow after local election losses",
+        "url": "https://apnews.com/article/uk-starmer-labour-resignation-pressure-98241a9dfeb39c385a5e2e5207a1a5a3",
+        "source": "AP News"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "jj redick",
-    "titleZh": "雷迪克",
-    "traffic": "2000+",
-    "started": "Sat, 9 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：更好的哨子并不能解决湖人对阵雷霆的真正问题。",
-    "explanation": "Google Trends 显示“雷迪克”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：更好的哨子并不能解决湖人对阵雷霆的真正问题。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
+    "title": "rooster episodes",
+    "titleZh": "公鸡剧集",
+    "traffic": "500+",
+    "started": "Sun, 10 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：康妮·布里顿在《公鸡》中回归饰演贝丝，与史蒂夫·卡瑞尔饰演的格雷格制造紧张关系。",
+    "explanation": "Google Trends 显示“公鸡剧集”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：康妮·布里顿在《公鸡》中回归饰演贝丝，与史蒂夫·卡瑞尔饰演的格雷格制造紧张关系。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "A better whistle won’t solve Lakers’ real problems against Thunder",
-        "url": "https://www.nytimes.com/athletic/7262890/2026/05/08/lakers-lose-thunder-playoffs-officiating/",
-        "source": "The New York Times"
+        "title": "Connie Britton Returns as Beth in 'Rooster' to Create Tension with Steve Carell's Greg",
+        "url": "https://www.aol.com/articles/connie-britton-returns-beth-rooster-160000082.html",
+        "source": "AOL.com"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "manny machado",
-    "titleZh": "曼尼·马查多",
+    "title": "keldon johnson",
+    "titleZh": "凯尔登·约翰逊",
     "traffic": "500+",
-    "started": "Sat, 9 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：今日 MLB 全垒打预测：5 月 9 日星期六的最佳 HR 投注、选秀、连赢投注和赔率。",
-    "explanation": "Google Trends 显示“曼尼·马查多”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：今日 MLB 全垒打预测：5 月 9 日星期六的最佳 HR 投注、选秀、连赢投注和赔率。这些报道来自 Covers.com 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 10 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：凯尔登·约翰逊和马刺队在第四场比赛中对阵森林狼队。",
+    "explanation": "Google Trends 显示“凯尔登·约翰逊”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：凯尔登·约翰逊和马刺队在第四场比赛中对阵森林狼队。这些报道来自 FanDuel 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "MLB Home Run Predictions Today: Best HR Prop Bets, Picks, Parlay & Odds for Saturday, May 9",
-        "url": "https://www.covers.com/mlb/home-run-props-parlay-and-odds-saturday-5-9-2026",
-        "source": "Covers.com"
+        "title": "Keldon Johnson And Spurs Play Timberwolves In Game 4",
+        "url": "https://www.fanduel.com/research/nba/player-news/game-updates/keldon-johnson-and-spurs-play-timberwolvesin-game-4",
+        "source": "FanDuel"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "kirill kaprizov",
-    "titleZh": "基里尔·卡普里佐夫",
-    "traffic": "500+",
-    "started": "Sat, 9 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：基里尔·卡普里佐夫 (Kirill Kaprizov) 会在 5 月 9 日对阵科罗拉多雪崩队的比赛中进球吗？。",
-    "explanation": "Google Trends 显示“基里尔·卡普里佐夫”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：基里尔·卡普里佐夫 (Kirill Kaprizov) 会在 5 月 9 日对阵科罗拉多雪崩队的比赛中进球吗？。这些报道来自 Bleacher Nation 等媒体，因此带动了集中搜索。",
+    "title": "de'aaron fox",
+    "titleZh": "德亚伦·福克斯",
+    "traffic": "2000+",
+    "started": "Sun, 10 May 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：德亚伦·福克斯，对阵明尼苏达森林狼队的集锦 | 26年5月8日。",
+    "explanation": "Google Trends 显示“德亚伦·福克斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：德亚伦·福克斯，对阵明尼苏达森林狼队的集锦 | 26年5月8日。这些报道来自 NBA 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Will Kirill Kaprizov Score a Goal vs. the Colorado Avalanche on May 9?",
-        "url": "https://www.bleachernation.com/picks/2026/05/08/will-kirill-kaprizov-score-a-goal-vs-the-colorado-avalanche-on-may-9/",
-        "source": "Bleacher Nation"
+        "title": "De'Aaron Fox, Highlights vs Minnesota Timberwolves | 5/8/26",
+        "url": "https://www.nba.com/spurs/videos/deaaron-fox-highlights-vs-minnesota-timberwolves-5-8-26",
+        "source": "NBA"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "sporting kc vs portland",
-    "titleZh": "堪萨斯竞技 vs 波特兰体育",
-    "traffic": "200+",
-    "started": "Sat, 9 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：“我们必须进入周六并获得三分”|伊恩·史密斯期待对阵SKC。",
-    "explanation": "Google Trends 显示“堪萨斯竞技 vs 波特兰体育”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：“我们必须进入周六并获得三分”|伊恩·史密斯期待对阵SKC。这些报道来自 Portland Timbers 等媒体，因此带动了集中搜索。",
+    "title": "devin vassell",
+    "titleZh": "德文·瓦塞尔",
+    "traffic": "1000+",
+    "started": "Sun, 10 May 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：马刺 森林狼 篮球。",
+    "explanation": "Google Trends 显示“德文·瓦塞尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：马刺 森林狼 篮球。这些报道来自 WV News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "\"We've got to move on to Saturday and get three points\" | Ian Smith looks ahead to facing SKC",
-        "url": "https://www.timbers.com/video/e-ve-got-to-move-on-to-saturday-and-get-three-points-ian-smith-looks-ahead-to-facing-skc",
-        "source": "Portland Timbers"
+        "title": "Spurs Timberwolves Basketball",
+        "url": "https://www.wvnews.com/sports/pro/spurs-timberwolves-basketball/image_1eeafd35-21c7-5ecc-8b1e-9caddf58174e.html",
+        "source": "WV News"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "craig kimbrel",
-    "titleZh": "克雷格·金布尔",
-    "traffic": "200+",
-    "started": "Sat, 9 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：落基山脉 6-2 大都会队（2026 年 5 月 7 日）比赛回顾。",
-    "explanation": "Google Trends 显示“克雷格·金布尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：落基山脉 6-2 大都会队（2026 年 5 月 7 日）比赛回顾。这些报道来自 ESPN 等媒体，因此带动了集中搜索。",
+    "title": "justin hartley wife",
+    "titleZh": "贾斯汀·哈特利 妻子",
+    "traffic": "500+",
+    "started": "Sun, 10 May 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：“这就是我们”校友公开谈论保护自己的婚姻免受他人侵害。",
+    "explanation": "Google Trends 显示“贾斯汀·哈特利 妻子”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：“这就是我们”校友公开谈论保护自己的婚姻免受他人侵害。这些报道来自 Gossip Cop 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Rockies 6-2 Mets (May 7, 2026) Game Recap",
-        "url": "https://www.espn.com/mlb/recap/_/gameId/401871498",
-        "source": "ESPN"
+        "title": "‘This Is Us’ Alum Opens up About Protecting His Marriage From Others",
+        "url": "https://www.suggest.com/this-is-us-marriage/2929111/",
+        "source": "Gossip Cop"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "sean o'malley",
-    "titleZh": "肖恩·奥马利",
-    "traffic": "200+",
-    "started": "Sat, 9 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：肖恩·奥马利在 UFC 白宫新闻发布会上被忽视后，粉丝们降低了他的“明星”地位。",
-    "explanation": "Google Trends 显示“肖恩·奥马利”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：肖恩·奥马利在 UFC 白宫新闻发布会上被忽视后，粉丝们降低了他的“明星”地位。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "title": "gabby williams",
+    "titleZh": "盖比·威廉姆斯",
+    "traffic": "500+",
+    "started": "Sun, 10 May 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：预备队帮助瓦尔基里队在西雅图取得胜利，开始他们的第二个赛季。",
+    "explanation": "Google Trends 显示“盖比·威廉姆斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：预备队帮助瓦尔基里队在西雅图取得胜利，开始他们的第二个赛季。这些报道来自 San Francisco Chronicle 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Fans downgrade Sean O’Malley’s ‘star’ status after he was ignored at the UFC White House press conference",
-        "url": "https://sports.yahoo.com/articles/fans-downgrade-sean-o-malley-180742094.html",
-        "source": "Yahoo Sports"
+        "title": "Reserves help Valkyries start their second season with a victory in Seattle",
+        "url": "https://www.sfchronicle.com/sports/article/reserves-help-golden-state-valkyries-start-season-22250152.php",
+        "source": "San Francisco Chronicle"
       }
     ]
   }
