@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "cavs",
-    "titleZh": "骑士队",
-    "traffic": "20000+",
-    "started": "Mon, 11 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：活塞队 vs. 骑士队赔率、预测、时间：2026 年 NBA 季后赛选秀权，第 4 场比赛来自经过验证的模型的最佳投注。",
-    "explanation": "Google Trends 显示“骑士队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：活塞队 vs. 骑士队赔率、预测、时间：2026 年 NBA 季后赛选秀权，第 4 场比赛来自经过验证的模型的最佳投注。这些报道来自 CBS Sports 等媒体，因此带动了集中搜索。",
+    "title": "rudy gobert",
+    "titleZh": "鲁迪·戈贝尔",
+    "traffic": "2000+",
+    "started": "Tue, 12 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：温比用手指流畅地滚动鲁迪·戈贝尔。",
+    "explanation": "Google Trends 显示“鲁迪·戈贝尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：温比用手指流畅地滚动鲁迪·戈贝尔。这些报道来自 ESPN 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Pistons vs. Cavaliers odds, prediction, time: 2026 NBA playoff picks, Game 4 best bets from proven model",
-        "url": "https://www.cbssports.com/nba/news/pistons-cavaliers-odds-prediction-spread-start-time-2026-nba-playoff-picks-game-4-best-bets/",
-        "source": "CBS Sports"
+        "title": "Wemby drains a smooth finger roll over Rudy Gobert",
+        "url": "https://www.espn.com/video/clip?id=48680774",
+        "source": "ESPN"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "prince",
-    "titleZh": "王子",
-    "traffic": "1000+",
-    "started": "Mon, 11 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：前安德鲁王子的蒙面骚扰者因涉嫌威胁前王室成员而被禁止进入王室财产。",
-    "explanation": "Google Trends 显示“王子”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：前安德鲁王子的蒙面骚扰者因涉嫌威胁前王室成员而被禁止进入王室财产。这些报道来自 People.com 等媒体，因此带动了集中搜索。",
+    "title": "odyssey sims",
+    "titleZh": "奥德赛模拟人生",
+    "traffic": "500+",
+    "started": "Tue, 12 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：比赛回顾：印第安纳热队在赛季揭幕战中惨败。",
+    "explanation": "Google Trends 显示“奥德赛模拟人生”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：比赛回顾：印第安纳热队在赛季揭幕战中惨败。这些报道来自 Indiana Fever 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Ex-Prince Andrew's Masked Harasser Banned from Royal Properties After Allegedly Threatening Former Royal",
-        "url": "https://people.com/ex-prince-andrew-masked-harasser-banned-royal-properties-after-allegedly-threatening-former-royal-11970224",
-        "source": "People.com"
+        "title": "Game Recap: Indiana Fever Suffer Close Defeat in Season Opener",
+        "url": "https://fever.wnba.com/news/game-recap-fever-wings-260509",
+        "source": "Indiana Fever"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "oba femi",
-    "titleZh": "或女性",
+    "title": "jack eichel",
+    "titleZh": "杰克·艾切尔",
     "traffic": "500+",
-    "started": "Mon, 11 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：尼日利亚塑造了奥巴·费米：WWE正在看到结果。",
-    "explanation": "Google Trends 显示“或女性”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：尼日利亚塑造了奥巴·费米：WWE正在看到结果。这些报道来自 CNN 等媒体，因此带动了集中搜索。",
+    "started": "Tue, 12 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：马克·斯通 (Mark Stone) 会在 5 月 6 日对阵阿纳海姆小鸭队 (Anaheim Ducks) 的比赛中进球吗？。",
+    "explanation": "Google Trends 显示“杰克·艾切尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：马克·斯通 (Mark Stone) 会在 5 月 6 日对阵阿纳海姆小鸭队 (Anaheim Ducks) 的比赛中进球吗？。这些报道来自 Bleacher Nation 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Nigeria shaped Oba Femi: WWE is seeing the results",
-        "url": "https://www.cnn.com/sport/nigeria-shaped-oba-femi-wwe-is-seeing-the-results-spc",
-        "source": "CNN"
+        "title": "Will Mark Stone Score a Goal vs. the Anaheim Ducks on May 6?",
+        "url": "https://www.bleachernation.com/picks/2026/05/05/will-mark-stone-score-a-goal-vs-the-anaheim-ducks-on-may-6/",
+        "source": "Bleacher Nation"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "violet affleck",
-    "titleZh": "紫阿弗莱克",
+    "title": "worst ex ever",
+    "titleZh": "最糟糕的前任",
     "traffic": "500+",
-    "started": "Mon, 11 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：维奥莱特·阿弗莱克 (Violet Affleck) 在洛杉矶与家人团聚期间展现了戏剧性的发型转变。",
-    "explanation": "Google Trends 显示“紫阿弗莱克”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：维奥莱特·阿弗莱克 (Violet Affleck) 在洛杉矶与家人团聚期间展现了戏剧性的发型转变。这些报道来自 HELLO! Magazine 等媒体，因此带动了集中搜索。",
+    "started": "Tue, 12 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：Netflix 的《史上最糟糕的前任》再次引发人们对真正犯罪的痴迷。",
+    "explanation": "Google Trends 显示“最糟糕的前任”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Netflix 的《史上最糟糕的前任》再次引发人们对真正犯罪的痴迷。这些报道来自 Indiatimes 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Violet Affleck unveils dramatic hair transformation during family reunion in LA",
-        "url": "https://www.hellomagazine.com/us/900962/violet-affleck-unveils-dramatic-hair-transformation-during-family-reunion-in-la/",
-        "source": "HELLO! Magazine"
+        "title": "Netflix's 'Worst Ex Ever' Sparks Renewed True Crime Obsession",
+        "url": "https://pulse.indiatimes.com/trending/netflixs-worst-ex-ever-sparks-renewed-true-crime-obsession/articleshow/131012779.html",
+        "source": "Indiatimes"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "pamela anderson",
-    "titleZh": "帕梅拉·安德森",
+    "title": "a.j. ewing",
+    "titleZh": "a.j.尤因",
     "traffic": "500+",
-    "started": "Mon, 11 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：70 年代的标志性摇滚乐队推出令人兴奋的新银幕项目——这是十多年来的首次。",
-    "explanation": "Google Trends 显示“帕梅拉·安德森”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：70 年代的标志性摇滚乐队推出令人兴奋的新银幕项目——这是十多年来的首次。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
+    "started": "Tue, 12 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：梦幻棒球豁免线：周二的顶部增加了所有联盟格式和设置。",
+    "explanation": "Google Trends 显示“a.j.尤因”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：梦幻棒球豁免线：周二的顶部增加了所有联盟格式和设置。这些报道来自 CBS Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Iconic '70s Rocker Lands Exciting New Screen Project—a First in Over a Decade",
-        "url": "https://www.yahoo.com/entertainment/movies/articles/iconic-70s-rocker-lands-exciting-152308236.html",
-        "source": "Yahoo"
+        "title": "Fantasy Baseball Waiver Wire: Tuesday's top adds across all league formats and settings",
+        "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-waiver-wire-tuesdays-top-adds-across-all-league-formats-and-settings/",
+        "source": "CBS Sports"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "deportivo cali - bucaramanga",
-    "titleZh": "卡利体育 - 布卡拉曼加",
-    "traffic": "200+",
-    "started": "Mon, 11 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：卡利对阵布卡拉曼加的进球被棍棒挡出。",
-    "explanation": "Google Trends 显示“卡利体育 - 布卡拉曼加”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：卡利对阵布卡拉曼加的进球被棍棒挡出。这些报道来自 Win Sports 等媒体，因此带动了集中搜索。",
+    "title": "atlanta braves schedule",
+    "titleZh": "亚特兰大勇士队日程",
+    "traffic": "500+",
+    "started": "Tue, 12 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：不要称马特·奥尔森为重击手：勇士队球星研究了他的挥杆动作，成为美国职业棒球大联盟最全面的击球手之一。",
+    "explanation": "Google Trends 显示“亚特兰大勇士队日程”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：不要称马特·奥尔森为重击手：勇士队球星研究了他的挥杆动作，成为美国职业棒球大联盟最全面的击球手之一。这些报道来自 CBS Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "El palo negó el gol de Cali ante Bucaramanga",
-        "url": "https://www.winsports.co/futbol-colombiano/noticias/el-palo-nego-el-gol-de-cali-ante-bucaramanga-430263",
-        "source": "Win Sports"
+        "title": "Don't call Matt Olson a slugger: Braves star studied his swing to become one of MLB's most complete hitters",
+        "url": "https://www.cbssports.com/mlb/news/matt-olson-slugger-braves-complete-hitter/",
+        "source": "CBS Sports"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "the terminal list season 2",
-    "titleZh": "终端名单第二季",
-    "traffic": "200+",
-    "started": "Mon, 11 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：《终端名单》第 2 季：克里斯·帕拉特系列将于 10 月回归。",
-    "explanation": "Google Trends 显示“终端名单第二季”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《终端名单》第 2 季：克里斯·帕拉特系列将于 10 月回归。这些报道来自 Bleeding Cool News 等媒体，因此带动了集中搜索。",
+    "title": "nancy grace",
+    "titleZh": "南希·格蕾丝",
+    "traffic": "500+",
+    "started": "Tue, 12 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：南希·格思里失踪已经一百天了。她的案件颠覆了好莱坞破案的形象。",
+    "explanation": "Google Trends 显示“南希·格蕾丝”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：南希·格思里失踪已经一百天了。她的案件颠覆了好莱坞破案的形象。这些报道来自 CNN 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "The Terminal List Season 2: Chris Pratt Series Returns in October",
-        "url": "https://bleedingcool.com/tv/the-terminal-list-season-2-chris-pratt-series-returns-in-october/",
-        "source": "Bleeding Cool News"
+        "title": "It’s been 100 days since Nancy Guthrie disappeared. Her case upended Hollywood’s portrayal of solving crime",
+        "url": "https://www.cnn.com/2026/05/12/us/nancy-guthrie-missing-100-days",
+        "source": "CNN"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "joshua tree",
-    "titleZh": "约书亚树",
+    "title": "tatsuya imai",
+    "titleZh": "今井达也",
     "traffic": "200+",
-    "started": "Mon, 11 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：高沙漠房主表示，约书亚树法让他们无法进行基本改善。",
-    "explanation": "Google Trends 显示“约书亚树”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：高沙漠房主表示，约书亚树法让他们无法进行基本改善。这些报道来自 KESQ 等媒体，因此带动了集中搜索。",
+    "started": "Tue, 12 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：太空人队手臂脱离伊利诺伊州，需要面对水手队的大力改进。",
+    "explanation": "Google Trends 显示“今井达也”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：太空人队手臂脱离伊利诺伊州，需要面对水手队的大力改进。这些报道来自 Sports Illustrated 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Hi-Desert homeowners say Joshua tree law is pricing them out of basic improvements",
-        "url": "https://kesq.com/news/2026/05/11/california-law-impacts-residents/",
-        "source": "KESQ"
+        "title": "Astros Arm Comes Off IL In Need Of Strong Improvement Facing Mariners",
+        "url": "https://www.si.com/mlb/astros/onsi/astros-arm-comes-off-il-need-strong-improvement-facing-mariners",
+        "source": "Sports Illustrated"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "is lebron retiring",
-    "titleZh": "勒布朗退役了吗",
-    "traffic": "200+",
-    "started": "Mon, 11 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：勒布朗·詹姆斯会在 2026-27 赛季之前退役吗？。",
-    "explanation": "Google Trends 显示“勒布朗退役了吗”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：勒布朗·詹姆斯会在 2026-27 赛季之前退役吗？。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "title": "zach benson",
+    "titleZh": "扎克·本森",
+    "traffic": "2000+",
+    "started": "Tue, 12 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：查理·麦卡沃伊因第六场比赛对佩刀队球员扎克·本森的砍伤而被停赛六场，下赛季开始。",
+    "explanation": "Google Trends 显示“扎克·本森”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：查理·麦卡沃伊因第六场比赛对佩刀队球员扎克·本森的砍伤而被停赛六场，下赛季开始。这些报道来自 The Boston Globe 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Will LeBron James Retire Before the 2026-27 Season?",
-        "url": "https://sports.yahoo.com/articles/lebron-james-retire-2026-27-205900569.html",
-        "source": "Yahoo Sports"
+        "title": "Charlie McAvoy receives six-game suspension to start next season for Game 6 slash on Sabres’ Zach Benson",
+        "url": "https://www.bostonglobe.com/2026/05/12/sports/bruins-charlie-mcavoy-suspension/",
+        "source": "The Boston Globe"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "soap opera digest",
-    "titleZh": "肥皂剧文摘",
+    "title": "spacex rocket launch",
+    "titleZh": "太空探索公司火箭发射",
     "traffic": "500+",
-    "started": "Mon, 11 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：肥皂剧来来去去：迪伦的跟踪者揭晓，哈维重铸，重大回归。",
-    "explanation": "Google Trends 显示“肥皂剧文摘”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：肥皂剧来来去去：迪伦的跟踪者揭晓，哈维重铸，重大回归。这些报道来自 IMDb 等媒体，因此带动了集中搜索。",
+    "started": "Tue, 12 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：SpaceX 为星舰飞行做准备；凯茜·伍德将重新平衡控股。",
+    "explanation": "Google Trends 显示“太空探索公司火箭发射”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：SpaceX 为星舰飞行做准备；凯茜·伍德将重新平衡控股。这些报道来自 Investor's Business Daily 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Soap Opera Comings and Goings: Dylan’s Stalker Revealed, Javi Recast, Major Returns",
-        "url": "https://www.imdb.com/news/ni65825136/?ref_=ttnw_art_perm",
-        "source": "IMDb"
+        "title": "SpaceX Preps For Starship Flight; Cathie Wood To Rebalance Holdings",
+        "url": "https://www.investors.com/news/spacex-starship-flight-12-elon-musk-delays-ark-invest-cathie-wood-spacex-holdings-orbital-data-centers/",
+        "source": "Investor's Business Daily"
       }
     ]
   }
