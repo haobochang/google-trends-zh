@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "duncan robinson",
-    "titleZh": "邓肯·罗宾逊",
-    "traffic": "5000+",
-    "started": "Fri, 15 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：邓肯·罗宾逊成为活塞第六场对阵骑士队的伤病报告的头条新闻。",
-    "explanation": "Google Trends 显示“邓肯·罗宾逊”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：邓肯·罗宾逊成为活塞第六场对阵骑士队的伤病报告的头条新闻。这些报道来自 Sports Illustrated 等媒体，因此带动了集中搜索。",
+    "title": "luke weaver",
+    "titleZh": "卢克·韦弗",
+    "traffic": "1000+",
+    "started": "Sat, 16 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：地铁系列赛：大都会队的德文·威廉姆斯、卢克·韦弗获得新视角。",
+    "explanation": "Google Trends 显示“卢克·韦弗”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：地铁系列赛：大都会队的德文·威廉姆斯、卢克·韦弗获得新视角。这些报道来自 Newsday 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Duncan Robinson Headlines Pistons Injury Report for Game 6 vs. Cavaliers",
-        "url": "https://www.si.com/nba/pistons/onsi/duncan-robinson-headlines-pistons-injury-report-for-game-6-vs-cavaliers-01krpcvajzfr",
-        "source": "Sports Illustrated"
+        "title": "Subway Series: Mets' Devin Williams, Luke Weaver get a new perspective",
+        "url": "https://www.newsday.com/sports/baseball/mets/luke-weaver-devin-williams-mets-yankees-k16cu2gs",
+        "source": "Newsday"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "pistons game 7",
-    "titleZh": "活塞队第 7 场比赛",
+    "title": "brewers score",
+    "titleZh": "酿酒师分数",
     "traffic": "1000+",
-    "started": "Fri, 15 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：马克斯·斯特鲁斯 (​​Max Strus) 六次三分球拿下 20 分 - NBA 新闻 |梦幻篮球。",
-    "explanation": "Google Trends 显示“活塞队第 7 场比赛”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：马克斯·斯特鲁斯 (​​Max Strus) 六次三分球拿下 20 分 - NBA 新闻 |梦幻篮球。这些报道来自 RotoBaller 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 16 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：在 3-2 战胜双城队的比赛中，障碍判罚让酿酒人队在最后时刻对局势有利。",
+    "explanation": "Google Trends 显示“酿酒师分数”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：在 3-2 战胜双城队的比赛中，障碍判罚让酿酒人队在最后时刻对局势有利。这些报道来自 Milwaukee Journal Sentinel 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Max Strus Notches 20 Points With Six Triples - NBA News | Fantasy Basketball",
-        "url": "https://www.rotoballer.com/player-news/max-strus-notches-20-points-with-six-triples/1860481",
-        "source": "RotoBaller"
+        "title": "Obstruction call turns tides in Brewers' favor late in 3-2 win over Twins",
+        "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/05/15/milwaukee-brewers-vs-minnesota-twins-score-lineups-tv-live-updates/90094985007/",
+        "source": "Milwaukee Journal Sentinel"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "toronto tempo vs sparks",
-    "titleZh": "多伦多节奏 vs 火花",
+    "title": "zach benson",
+    "titleZh": "扎克·本森",
     "traffic": "500+",
-    "started": "Fri, 15 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：火花队的凯尔西·普拉姆在多伦多比赛前保持乐观。",
-    "explanation": "Google Trends 显示“多伦多节奏 vs 火花”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：火花队的凯尔西·普拉姆在多伦多比赛前保持乐观。这些报道来自 Los Angeles Daily News 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 16 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：Sabres 的扎克·本森 (Zach Benson) 受到 NHL 最臭名昭著的老鼠之一的赞扬。",
+    "explanation": "Google Trends 显示“扎克·本森”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Sabres 的扎克·本森 (Zach Benson) 受到 NHL 最臭名昭著的老鼠之一的赞扬。这些报道来自 Sabre Noise 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Sparks’ Kelsey Plum remains optimistic ahead of Toronto game",
-        "url": "https://www.dailynews.com/2026/05/14/sparks-kelsey-plum-remains-optimistic-ahead-of-toronto-game/",
-        "source": "Los Angeles Daily News"
+        "title": "Sabres' Zach Benson praised by one of the NHL's most notorious rats",
+        "url": "https://sabrenoise.com/sabres-zach-benson-praised-by-one-of-the-nhl-s-most-notorious-rats-01krk8cyqvnx",
+        "source": "Sabre Noise"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "victor wembanyama stats",
-    "titleZh": "维克多·文班亚马统计数据",
+    "title": "mandalorian",
+    "titleZh": "曼达洛人",
     "traffic": "1000+",
-    "started": "Fri, 15 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：维克多·温班亚马（Victor Wembanyama）可能会这么早就建立一个王朝，这是“不可否认的”。",
-    "explanation": "Google Trends 显示“维克多·文班亚马统计数据”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：维克多·温班亚马（Victor Wembanyama）可能会这么早就建立一个王朝，这是“不可否认的”。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 16 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：迪士尼指望尤达宝宝重振星球大战系列。",
+    "explanation": "Google Trends 显示“曼达洛人”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：迪士尼指望尤达宝宝重振星球大战系列。这些报道来自 Bloomberg.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Victor Wembanyama might be building a dynasty so early it’s “undeniable”",
-        "url": "https://sports.yahoo.com/articles/victor-wembanyama-might-building-dynasty-172934865.html",
-        "source": "Yahoo Sports"
+        "title": "Disney Is Banking on Baby Yoda to Revive the Star Wars Franchise",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-15/disney-hopes-the-mandalorian-and-grogu-revives-star-wars-in-theaters",
+        "source": "Bloomberg.com"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "theo von",
-    "titleZh": "西奥从",
-    "traffic": "500+",
-    "started": "Fri, 15 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：乔·罗根表达自杀担忧后，西奥·冯打破沉默。",
-    "explanation": "Google Trends 显示“西奥从”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：乔·罗根表达自杀担忧后，西奥·冯打破沉默。这些报道来自 New York Post 等媒体，因此带动了集中搜索。",
+    "title": "red sox",
+    "titleZh": "红袜队",
+    "traffic": "5000+",
+    "started": "Sat, 16 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：勇士队 3-2 红袜队（2026 年 5 月 15 日）比赛回顾。",
+    "explanation": "Google Trends 显示“红袜队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：勇士队 3-2 红袜队（2026 年 5 月 15 日）比赛回顾。这些报道来自 ESPN 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Theo Von breaks silence after Joe Rogan expresses suicide concerns",
-        "url": "https://nypost.com/2026/05/15/us-news/theo-von-breaks-silence-after-joe-rogan-expresses-suicide-concerns/",
-        "source": "New York Post"
+        "title": "Braves 3-2 Red Sox (May 15, 2026) Game Recap",
+        "url": "https://www.espn.com/mlb/recap/_/gameId/401815346",
+        "source": "ESPN"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "cleveland",
-    "titleZh": "克利夫兰",
-    "traffic": "200+",
-    "started": "Fri, 15 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：克利夫兰队庆祝 2016 年球队，一个难忘的赛季和溜走的世界大赛。",
-    "explanation": "Google Trends 显示“克利夫兰”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：克利夫兰队庆祝 2016 年球队，一个难忘的赛季和溜走的世界大赛。这些报道来自 10TV 等媒体，因此带动了集中搜索。",
+    "title": "jack quinn",
+    "titleZh": "杰克·奎因",
+    "traffic": "1000+",
+    "started": "Sat, 16 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
+    "explanation": "Google Trends 显示“杰克·奎因”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 RotoWire 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Cleveland celebrates 2016 team, an unforgettable season and a World Series that slipped away",
-        "url": "https://www.10tv.com/article/syndication/associatedpress/cleveland-celebrates-2016-team-an-unforgettable-season-and-a-world-series-that-slipped-away/616-26016b11-01b6-42e7-8df6-c8b217ccc6cf",
-        "source": "10TV"
+        "title": "Jack Quinn News: Bags apple in loss",
+        "url": "https://www.rotowire.com/hockey/headlines/jack-quinn-news-bags-apple-in-loss-591877",
+        "source": "RotoWire"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "lebron james lakers trade rumors",
-    "titleZh": "勒布朗·詹姆斯湖人队交易传闻",
-    "traffic": "200+",
-    "started": "Fri, 15 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：预测勒布朗·詹姆斯的下一份合同：如果国王回归，他能赚多少钱？。",
-    "explanation": "Google Trends 显示“勒布朗·詹姆斯湖人队交易传闻”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：预测勒布朗·詹姆斯的下一份合同：如果国王回归，他能赚多少钱？。这些报道来自 CBS Sports 等媒体，因此带动了集中搜索。",
+    "title": "karate combat",
+    "titleZh": "空手道格斗",
+    "traffic": "500+",
+    "started": "Sat, 16 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：萨姆·阿尔维 (Sam Alvey) 对阵尤利亚·霍尔 (Uriah Hall) 的比赛预定参加 7 月 24 日空手道实战 62。",
+    "explanation": "Google Trends 显示“空手道格斗”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：萨姆·阿尔维 (Sam Alvey) 对阵尤利亚·霍尔 (Uriah Hall) 的比赛预定参加 7 月 24 日空手道实战 62。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Forecasting LeBron James' next contract: How much will The King make if he returns?",
-        "url": "https://www.cbssports.com/nba/news/lebron-james-next-contract-how-much/",
-        "source": "CBS Sports"
-      }
-    ]
-  },
-  {
-    "rank": 8,
-    "title": "ana brenda contreras",
-    "titleZh": "安娜·布伦达·孔特雷拉斯",
-    "traffic": "200+",
-    "started": "Fri, 15 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：安娜·布伦达·孔特雷拉斯 (Ana Brenda Contreras) 作为一名母亲幸福地生活着，并庆祝了她孩子的一岁生日。网络被触动。",
-    "explanation": "Google Trends 显示“安娜·布伦达·孔特雷拉斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：安娜·布伦达·孔特雷拉斯 (Ana Brenda Contreras) 作为一名母亲幸福地生活着，并庆祝了她孩子的一岁生日。网络被触动。这些报道来自 TVNotas 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Ana Brenda Contreras vive feliz su etapa de mamá y celebra el primer cumpleaños de su bebé redes enternecen",
-        "url": "https://www.tvnotas.com.mx/espectaculos-mexico/ana-brenda-contreras-vive-feliz-su-etapa-de-mama-y-celebra-el-primer-cumpleanos-de-su-hija-enternecen",
-        "source": "TVNotas"
-      }
-    ]
-  },
-  {
-    "rank": 9,
-    "title": "aliyah boston",
-    "titleZh": "阿利亚波士顿",
-    "traffic": "2000+",
-    "started": "Fri, 15 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：印第安纳狂热新秀莫妮克·比林斯 (Monique Billings) 的赛前服装备受瞩目。",
-    "explanation": "Google Trends 显示“阿利亚波士顿”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：印第安纳狂热新秀莫妮克·比林斯 (Monique Billings) 的赛前服装备受瞩目。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "New Indiana Fever Player Monique Billings Is Trending for Stunning Pregame Outfit",
-        "url": "https://sports.yahoo.com/articles/indiana-fever-player-monique-billings-022659442.html",
+        "title": "Sam Alvey vs. Uriah Hall booked for Karate Combat 62 on July 24",
+        "url": "https://sports.yahoo.com/articles/sam-alvey-vs-uriah-hall-210800591.html",
         "source": "Yahoo Sports"
       }
     ]
   },
   {
-    "rank": 10,
-    "title": "gotham fc vs seattle reign fc",
-    "titleZh": "哥谭FC vs 西雅图统治FC",
+    "rank": 8,
+    "title": "dominican republic",
+    "titleZh": "多明尼加共和国",
     "traffic": "500+",
-    "started": "Fri, 15 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：君临希望打破对阵哥谭FC的进球荒。",
-    "explanation": "Google Trends 显示“哥谭FC vs 西雅图统治FC”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：君临希望打破对阵哥谭FC的进球荒。这些报道来自 The Seattle Times 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 16 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：家人称，一名妇女在多米尼加共和国家庭度假期间因突发医疗紧急情况去世。",
+    "explanation": "Google Trends 显示“多明尼加共和国”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：家人称，一名妇女在多米尼加共和国家庭度假期间因突发医疗紧急情况去世。这些报道来自 People.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Reign hope to break scoring drought vs. Gotham FC",
-        "url": "https://www.seattletimes.com/sports/reign/seattle-reign-hope-to-break-scoring-drought-vs-gotham-fc/",
-        "source": "The Seattle Times"
+        "title": "Woman Dies During Family Vacation in the Dominican Republic After Sudden Medical Emergency, Family Says",
+        "url": "https://people.com/woman-dies-during-family-vacation-in-the-dominican-republic-after-sudden-medical-emergency-family-says-11972767",
+        "source": "People.com"
+      }
+    ]
+  },
+  {
+    "rank": 9,
+    "title": "holly holm",
+    "titleZh": "霍莉·霍尔姆",
+    "traffic": "500+",
+    "started": "Sat, 16 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：“人们不应该怀疑我”——罗西复出。",
+    "explanation": "Google Trends 显示“霍莉·霍尔姆”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：“人们不应该怀疑我”——罗西复出。这些报道来自 BBC 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "'People should have never doubted me' - Rousey on comeback",
+        "url": "https://www.bbc.com/sport/mixed-martial-arts/videos/cm2pzv87432o",
+        "source": "BBC"
+      }
+    ]
+  },
+  {
+    "rank": 10,
+    "title": "brock lesnar",
+    "titleZh": "布洛克莱斯纳",
+    "traffic": "200+",
+    "started": "Sat, 16 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：WWE 未来仍不确定，布洛克·莱斯纳 (Brock Lesnar) 备受青睐。",
+    "explanation": "Google Trends 显示“布洛克莱斯纳”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：WWE 未来仍不确定，布洛克·莱斯纳 (Brock Lesnar) 备受青睐。这些报道来自 Wrestling World 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Major pitch made for Brock Lesnar as WWE future remains uncertain",
+        "url": "https://www.wrestling-world.com/news/news/wwe/40845/major-pitch-made-for-brock-lesnar-as-wwe-future-remains-uncertain/",
+        "source": "Wrestling World"
       }
     ]
   }
