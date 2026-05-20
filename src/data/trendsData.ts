@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "sun vs portland fire",
-    "titleZh": "太阳 vs 波特兰火焰",
-    "traffic": "1000+",
-    "started": "Mon, 18 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：康涅狄格州对阵波特兰队遭遇四连败。",
-    "explanation": "Google Trends 显示“太阳 vs 波特兰火焰”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：康涅狄格州对阵波特兰队遭遇四连败。这些报道来自 wdtimes.com 等媒体，因此带动了集中搜索。",
+    "title": "donovan mitchell",
+    "titleZh": "多诺万·米切尔",
+    "traffic": "5000+",
+    "started": "Tue, 19 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：比赛回顾：骑士 125，活塞 94。",
+    "explanation": "Google Trends 显示“多诺万·米切尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：比赛回顾：骑士 125，活塞 94。这些报道来自 NBA 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Connecticut takes on Portland on 4-game skid",
-        "url": "https://www.wdtimes.com/sports/national_sports/connecticut-takes-on-portland-on-4-game-skid/article_da3c1e15-c4d4-5557-b4fa-9a6c1bf2caf3.html",
-        "source": "wdtimes.com"
+        "title": "Game Recap: Cavaliers 125, Pistons 94",
+        "url": "https://www.nba.com/watch/video/game-recap-cavaliers-125-pistons-94",
+        "source": "NBA"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "cody bellinger",
-    "titleZh": "科迪·贝林格",
+    "title": "la mayor race polls",
+    "titleZh": "最大的种族民意调查",
     "traffic": "500+",
-    "started": "Mon, 18 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：钢人队队友欣喜若狂地欢迎四分卫亚伦·罗杰斯回到匹兹堡。",
-    "explanation": "Google Trends 显示“科迪·贝林格”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：钢人队队友欣喜若狂地欢迎四分卫亚伦·罗杰斯回到匹兹堡。这些报道来自 NFL.com 等媒体，因此带动了集中搜索。",
+    "started": "Tue, 19 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：新一代会在洛杉矶取得突破吗？。",
+    "explanation": "Google Trends 显示“最大的种族民意调查”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：新一代会在洛杉矶取得突破吗？。这些报道来自 Governing 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Steelers teammates ecstatic to welcome QB Aaron Rodgers back to Pittsburgh",
-        "url": "https://www.nfl.com/news/steelers-teammates-ecstatic-to-welcome-qb-aaron-rodgers-back-to-pittsburgh",
-        "source": "NFL.com"
+        "title": "Will a New Generation Break Through in L.A.?",
+        "url": "https://www.governing.com/politics/will-a-new-generation-break-through-in-l-a",
+        "source": "Governing"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "carmelo anthony",
-    "titleZh": "卡梅隆·安东尼",
-    "traffic": "1000+",
-    "started": "Mon, 18 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：历史给了尼克斯充分的理由去推动第一场比赛 Rust。",
-    "explanation": "Google Trends 显示“卡梅隆·安东尼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：历史给了尼克斯充分的理由去推动第一场比赛 Rust。这些报道来自 Sports Illustrated 等媒体，因此带动了集中搜索。",
+    "title": "costa rica",
+    "titleZh": "哥斯达黎加",
+    "traffic": "500+",
+    "started": "Tue, 19 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：“哥斯达黎加阿马尔菲海岸”是一个无车、适合步行的度假社区，拥有欧洲氛围和海滩。",
+    "explanation": "Google Trends 显示“哥斯达黎加”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：“哥斯达黎加阿马尔菲海岸”是一个无车、适合步行的度假社区，拥有欧洲氛围和海滩。这些报道来自 https://www.islands.com/ 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "History Gives Knicks Every Reason to Push Through Game 1 Rust",
-        "url": "https://www.si.com/nba/knicks/onsi/history-gives-knicks-every-reason-push-through-game-1-rust-01krx3b4d8a1",
-        "source": "Sports Illustrated"
+        "title": "The 'Amalfi Coast Of Costa Rica' Is A Car-Free, Walkable Resort Community With Europe Vibes And Beaches",
+        "url": "https://www.islands.com/2176261/amalfi-coast-costa-rica-las-catalinas-car-free-walkable-resort-community-europe-vibes-beaches/",
+        "source": "https://www.islands.com/"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "tracy mcgrady",
-    "titleZh": "特雷西·麦克格雷迪",
+    "title": "hyatt",
+    "titleZh": "凯悦酒店",
     "traffic": "500+",
-    "started": "Mon, 18 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：NBC 的雷霆队与马刺队第一场比赛的转播因音频问题而受到影响。",
-    "explanation": "Google Trends 显示“特雷西·麦克格雷迪”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：NBC 的雷霆队与马刺队第一场比赛的转播因音频问题而受到影响。这些报道来自 Larry Brown Sports 等媒体，因此带动了集中搜索。",
+    "started": "Tue, 19 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：非洲企鹅雏鸟在毛伊岛凯悦酒店孵化。",
+    "explanation": "Google Trends 显示“凯悦酒店”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：非洲企鹅雏鸟在毛伊岛凯悦酒店孵化。这些报道来自 mauinews.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "NBC’s broadcast of Thunder-Spurs Game 1 gets marred by audio issues",
-        "url": "https://larrybrownsports.com/basketball/nbc-broadcast-thunder-spurs-audio-issues/754823",
-        "source": "Larry Brown Sports"
+        "title": "African Penguin Chick Hatches at Hyatt Regency Maui",
+        "url": "https://www.mauinews.com/news/local-news/2026/05/african-penguin-chick-hatches-at-hyatt-regency-maui/",
+        "source": "mauinews.com"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "brock lesnar",
-    "titleZh": "布洛克莱斯纳",
-    "traffic": "200+",
-    "started": "Mon, 18 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：约翰·塞纳 (John Cena) 为他的经典锦标赛所做的最新宣传：WWE 全明星赛。",
-    "explanation": "Google Trends 显示“布洛克莱斯纳”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：约翰·塞纳 (John Cena) 为他的经典锦标赛所做的最新宣传：WWE 全明星赛。这些报道来自 Cageside Seats 等媒体，因此带动了集中搜索。",
+    "title": "toronto tempo vs mercury",
+    "titleZh": "多伦多节奏 vs 水银",
+    "traffic": "1000+",
+    "started": "Tue, 19 May 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：赛克斯在猛龙队对阵菲尼克斯队的比赛中拿下38分领先。",
+    "explanation": "Google Trends 显示“多伦多节奏 vs 水银”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：赛克斯在猛龙队对阵菲尼克斯队的比赛中拿下38分领先。这些报道来自 FOX Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "John Cena’s latest pitch for his Classic tournament: WWE’s All Star Game",
-        "url": "https://www.cagesideseats.com/wwe/443413/john-cena-responds-classic-tournament-criticism-fan-vote-wwe-all-star-game",
-        "source": "Cageside Seats"
+        "title": "Sykes leads Toronto against Phoenix after 38-point outing",
+        "url": "https://www.foxsports.com/articles/wnba/sykes-leads-toronto-against-phoenix-after-38point-outing",
+        "source": "FOX Sports"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "rob mariano",
-    "titleZh": "罗布·马里亚诺",
-    "traffic": "500+",
-    "started": "Mon, 18 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：《波士顿》罗布·马里亚诺 (Rob Mariano) 透露了他本来会留在剪辑室地板上的《幸存者 50》的转折（独家）。",
-    "explanation": "Google Trends 显示“罗布·马里亚诺”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《波士顿》罗布·马里亚诺 (Rob Mariano) 透露了他本来会留在剪辑室地板上的《幸存者 50》的转折（独家）。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
+    "title": "dodgers - padres",
+    "titleZh": "道奇队 - 教士队",
+    "traffic": "20000+",
+    "started": "Tue, 19 May 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：道奇队 2026 年首次让先发投手休息 4 天。",
+    "explanation": "Google Trends 显示“道奇队 - 教士队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：道奇队 2026 年首次让先发投手休息 4 天。这些报道来自 True Blue LA 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "'Boston' Rob Mariano Reveals the “Survivor 50” Twist He Would Have Left 'on the Cutting Room Floor' (Exclusive)",
-        "url": "https://www.aol.com/articles/boston-rob-mariano-reveals-survivor-183234000.html",
-        "source": "AOL.com"
+        "title": "Dodgers starting pitcher on 4 days rest, for first time in 2026",
+        "url": "https://www.truebluela.com/los-angeles-dodgers-news-notes/116227/starting-pitcher-4-days-rest-emmet-sheehan",
+        "source": "True Blue LA"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "george washington",
-    "titleZh": "乔治·华盛顿",
+    "title": "maximum pleasure guaranteed apple tv",
+    "titleZh": "保证最大的乐趣苹果电视",
     "traffic": "500+",
-    "started": "Mon, 18 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：乔治·华盛顿的腰带将于 5 月 25 日起在皮博迪博物馆展出。",
-    "explanation": "Google Trends 显示“乔治·华盛顿”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：乔治·华盛顿的腰带将于 5 月 25 日起在皮博迪博物馆展出。这些报道来自 Harvard Magazine 等媒体，因此带动了集中搜索。",
+    "started": "Tue, 19 May 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：Apple TV 的曲折新惊悚片听起来像是一个大赢家，这里是第一个评论。",
+    "explanation": "Google Trends 显示“保证最大的乐趣苹果电视”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Apple TV 的曲折新惊悚片听起来像是一个大赢家，这里是第一个评论。这些报道来自 9to5Mac 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "George Washington’s Sash on Display at Peabody Museum Starting May 25",
-        "url": "https://www.harvardmagazine.com/harvard-celebrates-america-s-250th/harvard-american-revolution-washington-sash",
-        "source": "Harvard Magazine"
+        "title": "Apple TV’s twisty new thriller sounds like a big winner, first reviews here",
+        "url": "https://9to5mac.com/2026/05/18/apple-tvs-twisty-new-thriller-sounds-like-a-big-winner-first-reviews-here/",
+        "source": "9to5Mac"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "paris hilton",
-    "titleZh": "帕丽斯·希尔顿",
+    "title": "lsu baseball",
+    "titleZh": "路易斯安那州立大学棒球",
     "traffic": "500+",
-    "started": "Mon, 18 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：帕丽斯·希尔顿 (Paris Hilton) 揭开了令人震惊的深黑发和大刘海，让她看起来完全认不出来了。",
-    "explanation": "Google Trends 显示“帕丽斯·希尔顿”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：帕丽斯·希尔顿 (Paris Hilton) 揭开了令人震惊的深黑发和大刘海，让她看起来完全认不出来了。这些报道来自 Cosmopolitan 等媒体，因此带动了集中搜索。",
+    "started": "Tue, 19 May 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
+    "explanation": "Google Trends 显示“路易斯安那州立大学棒球”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 LSU Wire 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Paris Hilton unveils shocking dark brunette hair and sweeping fringe, making her look totally unrecognisable",
-        "url": "https://www.cosmopolitan.com/uk/beauty-hair/celebrity-hair-makeup/a71333959/paris-hilton-dark-brunette-hair/",
-        "source": "Cosmopolitan"
+        "title": "LSU baseball vs Oklahoma, live updates, how to watch SEC Tournament",
+        "url": "https://lsutigerswire.usatoday.com/story/sports/college/lsu/baseball/2026/05/19/lsu-baseball-oklahoma-live-updates-sec-tournament-game-schedule-score-highlights/90157783007/",
+        "source": "LSU Wire"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "chet holmgren",
-    "titleZh": "切特霍姆格伦",
-    "traffic": "5000+",
-    "started": "Mon, 18 May 2026 18:20:00 -0700",
-    "summary": "相关新闻主要集中在：切特·霍姆格伦将在对阵温比的比赛中做出改变职业生涯的声明——无论是好还是坏。",
-    "explanation": "Google Trends 显示“切特霍姆格伦”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：切特·霍姆格伦将在对阵温比的比赛中做出改变职业生涯的声明——无论是好还是坏。这些报道来自 Thunderous Intentions 等媒体，因此带动了集中搜索。",
+    "title": "américa - tigre",
+    "titleZh": "美国-老虎",
+    "traffic": "1000+",
+    "started": "Tue, 19 May 2026 18:10:00 -0700",
+    "summary": "相关新闻主要集中在：这就是卡利美洲队在南美杯中面对阿根廷队的表现。",
+    "explanation": "Google Trends 显示“美国-老虎”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：这就是卡利美洲队在南美杯中面对阿根廷队的表现。这些报道来自 El País 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Chet Holmgren will make a career-altering statement vs. Wemby—for better or worse",
-        "url": "https://thunderousintentions.com/chet-holmgren-career-altering-statement-wemby-better-worse",
-        "source": "Thunderous Intentions"
+        "title": "Así le ha ido al América de Cali enfrentando equipos argentinos en la Copa Sudamericana",
+        "url": "https://www.elpais.com.co/deportes/asi-le-ha-ido-al-america-de-cali-enfrentando-equipos-argentinos-en-la-copa-sudamericana-1904.html",
+        "source": "El País"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "carter bryant",
-    "titleZh": "卡特·布莱恩特",
-    "traffic": "2000+",
-    "started": "Mon, 18 May 2026 18:20:00 -0700",
-    "summary": "相关新闻主要集中在：2026 年 NBA 季后赛：马刺队与雷霆队第 1 场比赛的实时更新。",
-    "explanation": "Google Trends 显示“卡特·布莱恩特”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：2026 年 NBA 季后赛：马刺队与雷霆队第 1 场比赛的实时更新。这些报道来自 ESPN 等媒体，因此带动了集中搜索。",
+    "title": "josh shapiro",
+    "titleZh": "乔什·夏皮罗",
+    "traffic": "500+",
+    "started": "Tue, 19 May 2026 18:10:00 -0700",
+    "summary": "相关新闻主要集中在：宾夕法尼亚州州长竞选已定，民主党人的目标是在初选确定后争取美国众议院的胜利。",
+    "explanation": "Google Trends 显示“乔什·夏皮罗”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：宾夕法尼亚州州长竞选已定，民主党人的目标是在初选确定后争取美国众议院的胜利。这些报道来自 AP News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "NBA playoffs 2026: Live updates from Spurs-Thunder Game 1",
-        "url": "https://www.espn.com/nba/story/_/id/48808810/oklahoma-city-thunder-san-antonio-spurs-game-1-nba-playoffs-2026-live-updates",
-        "source": "ESPN"
+        "title": "Pennsylvania governor's race is set as Democrats aim for US House gains once they settle primaries",
+        "url": "https://apnews.com/article/pennsylvania-primary-congress-governor-shapiro-garrity-8c19116119a331addf39ae97bc5149bf",
+        "source": "AP News"
       }
     ]
   }
