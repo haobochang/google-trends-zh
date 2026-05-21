@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "donovan mitchell",
-    "titleZh": "多诺万·米切尔",
-    "traffic": "5000+",
-    "started": "Tue, 19 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：比赛回顾：骑士 125，活塞 94。",
-    "explanation": "Google Trends 显示“多诺万·米切尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：比赛回顾：骑士 125，活塞 94。这些报道来自 NBA 等媒体，因此带动了集中搜索。",
+    "title": "jaylin williams",
+    "titleZh": "杰林·威廉姆斯",
+    "traffic": "2000+",
+    "started": "Wed, 20 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：雷霆 vs 马刺伤病报告，预测：贾伦·威廉姆斯今晚上场吗？。",
+    "explanation": "Google Trends 显示“杰林·威廉姆斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：雷霆 vs 马刺伤病报告，预测：贾伦·威廉姆斯今晚上场吗？。这些报道来自 The Oklahoman 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Game Recap: Cavaliers 125, Pistons 94",
-        "url": "https://www.nba.com/watch/video/game-recap-cavaliers-125-pistons-94",
-        "source": "NBA"
+        "title": "Thunder vs Spurs injury report, prediction: Is Jalen Williams playing tonight?",
+        "url": "https://www.oklahoman.com/story/sports/nba/thunder/2026/05/18/thunder-spurs-injury-report-jalen-williams-status-tonight-nba-playoffs-okc-san-antonio-prediction/90117968007/",
+        "source": "The Oklahoman"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "la mayor race polls",
-    "titleZh": "最大的种族民意调查",
-    "traffic": "500+",
-    "started": "Tue, 19 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：新一代会在洛杉矶取得突破吗？。",
-    "explanation": "Google Trends 显示“最大的种族民意调查”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：新一代会在洛杉矶取得突破吗？。这些报道来自 Governing 等媒体，因此带动了集中搜索。",
+    "title": "carter bryant",
+    "titleZh": "卡特·布莱恩特",
+    "traffic": "2000+",
+    "started": "Wed, 20 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：卡特·布莱恩特提出了雷霆队没有准备好的重大挑战。",
+    "explanation": "Google Trends 显示“卡特·布莱恩特”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：卡特·布莱恩特提出了雷霆队没有准备好的重大挑战。这些报道来自 Air Alamo 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Will a New Generation Break Through in L.A.?",
-        "url": "https://www.governing.com/politics/will-a-new-generation-break-through-in-l-a",
-        "source": "Governing"
+        "title": "Carter Bryant presented a major challenge the Thunder weren't prepared for",
+        "url": "https://airalamo.com/carter-bryant-presented-a-major-challenge-the-thunder-werent-prepared-for",
+        "source": "Air Alamo"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "costa rica",
-    "titleZh": "哥斯达黎加",
-    "traffic": "500+",
-    "started": "Tue, 19 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：“哥斯达黎加阿马尔菲海岸”是一个无车、适合步行的度假社区，拥有欧洲氛围和海滩。",
-    "explanation": "Google Trends 显示“哥斯达黎加”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：“哥斯达黎加阿马尔菲海岸”是一个无车、适合步行的度假社区，拥有欧洲氛围和海滩。这些报道来自 https://www.islands.com/ 等媒体，因此带动了集中搜索。",
+    "title": "brewers score",
+    "titleZh": "酿酒师分数",
+    "traffic": "2000+",
+    "started": "Wed, 20 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：芝加哥小熊队连续第四场失利，并跌出了国联中部第一名的位置。",
+    "explanation": "Google Trends 显示“酿酒师分数”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：芝加哥小熊队连续第四场失利，并跌出了国联中部第一名的位置。这些报道来自 Chicago Tribune 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "The 'Amalfi Coast Of Costa Rica' Is A Car-Free, Walkable Resort Community With Europe Vibes And Beaches",
-        "url": "https://www.islands.com/2176261/amalfi-coast-costa-rica-las-catalinas-car-free-walkable-resort-community-europe-vibes-beaches/",
-        "source": "https://www.islands.com/"
+        "title": "Chicago Cubs lose their 4th straight game — and fall out of 1st place in the NL Central",
+        "url": "https://www.chicagotribune.com/2026/05/19/chicago-cubs-milwaukee-brewers-nl-central-lead/",
+        "source": "Chicago Tribune"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "hyatt",
-    "titleZh": "凯悦酒店",
-    "traffic": "500+",
-    "started": "Tue, 19 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：非洲企鹅雏鸟在毛伊岛凯悦酒店孵化。",
-    "explanation": "Google Trends 显示“凯悦酒店”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：非洲企鹅雏鸟在毛伊岛凯悦酒店孵化。这些报道来自 mauinews.com 等媒体，因此带动了集中搜索。",
+    "title": "kc current vs angel city fc",
+    "titleZh": "KC Current vs 天使城FC",
+    "traffic": "200+",
+    "started": "Wed, 20 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：繁忙的五月继续，天使城足球俱乐部主场迎战堪萨斯城。",
+    "explanation": "Google Trends 显示“KC Current vs 天使城FC”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：繁忙的五月继续，天使城足球俱乐部主场迎战堪萨斯城。这些报道来自 Los Angeles Daily News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "African Penguin Chick Hatches at Hyatt Regency Maui",
-        "url": "https://www.mauinews.com/news/local-news/2026/05/african-penguin-chick-hatches-at-hyatt-regency-maui/",
-        "source": "mauinews.com"
+        "title": "Angel City FC hosts Kansas City as busy May continues",
+        "url": "https://www.dailynews.com/2026/05/19/angel-city-fc-hosts-kansas-city-as-busy-may-continues/",
+        "source": "Los Angeles Daily News"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "toronto tempo vs mercury",
-    "titleZh": "多伦多节奏 vs 水银",
-    "traffic": "1000+",
-    "started": "Tue, 19 May 2026 18:20:00 -0700",
-    "summary": "相关新闻主要集中在：赛克斯在猛龙队对阵菲尼克斯队的比赛中拿下38分领先。",
-    "explanation": "Google Trends 显示“多伦多节奏 vs 水银”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：赛克斯在猛龙队对阵菲尼克斯队的比赛中拿下38分领先。这些报道来自 FOX Sports 等媒体，因此带动了集中搜索。",
+    "title": "tracy mcgrady",
+    "titleZh": "特雷西·麦克格雷迪",
+    "traffic": "500+",
+    "started": "Wed, 20 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：猛龙队伟大球员文斯·卡特和特雷西·麦克格雷迪质疑球队是否应该尊重科怀·伦纳德。",
+    "explanation": "Google Trends 显示“特雷西·麦克格雷迪”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：猛龙队伟大球员文斯·卡特和特雷西·麦克格雷迪质疑球队是否应该尊重科怀·伦纳德。这些报道来自 Toronto Sun 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Sykes leads Toronto against Phoenix after 38-point outing",
-        "url": "https://www.foxsports.com/articles/wnba/sykes-leads-toronto-against-phoenix-after-38point-outing",
-        "source": "FOX Sports"
+        "title": "Raptors greats Vince Carter, Tracy McGrady question whether team should honour Kawhi Leonard",
+        "url": "https://torontosun.com/sports/basketball/nba/toronto-raptors/vince-carter-tracy-mcgrady-question-honour-kawhi-leonard",
+        "source": "Toronto Sun"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "dodgers - padres",
-    "titleZh": "道奇队 - 教士队",
-    "traffic": "20000+",
-    "started": "Tue, 19 May 2026 18:20:00 -0700",
-    "summary": "相关新闻主要集中在：道奇队 2026 年首次让先发投手休息 4 天。",
-    "explanation": "Google Trends 显示“道奇队 - 教士队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：道奇队 2026 年首次让先发投手休息 4 天。这些报道来自 True Blue LA 等媒体，因此带动了集中搜索。",
+    "title": "palmeiras",
+    "titleZh": "棕榈树",
+    "traffic": "500+",
+    "started": "Wed, 20 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：帕尔梅拉斯 x Cerro Porteño：投票选出韦尔当最佳球员。",
+    "explanation": "Google Trends 显示“棕榈树”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：帕尔梅拉斯 x Cerro Porteño：投票选出韦尔当最佳球员。这些报道来自 Nosso Palestra 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Dodgers starting pitcher on 4 days rest, for first time in 2026",
-        "url": "https://www.truebluela.com/los-angeles-dodgers-news-notes/116227/starting-pitcher-4-days-rest-emmet-sheehan",
-        "source": "True Blue LA"
+        "title": "Palmeiras x Cerro Porteño: vote no melhor jogador do Verdão",
+        "url": "https://nossopalestra.com.br/noticias/palmeiras-x-cerro-porteno-vote-no-melhor-jogador-do-verdao/",
+        "source": "Nosso Palestra"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "maximum pleasure guaranteed apple tv",
-    "titleZh": "保证最大的乐趣苹果电视",
-    "traffic": "500+",
-    "started": "Tue, 19 May 2026 18:20:00 -0700",
-    "summary": "相关新闻主要集中在：Apple TV 的曲折新惊悚片听起来像是一个大赢家，这里是第一个评论。",
-    "explanation": "Google Trends 显示“保证最大的乐趣苹果电视”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Apple TV 的曲折新惊悚片听起来像是一个大赢家，这里是第一个评论。这些报道来自 9to5Mac 等媒体，因此带动了集中搜索。",
+    "title": "san jose vs colorado",
+    "titleZh": "圣何塞 vs 科罗拉多",
+    "traffic": "200+",
+    "started": "Wed, 20 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：自 2006 年以来首次进入四分之一决赛 - 急流 vs 圣何塞 美国公开赛前瞻。",
+    "explanation": "Google Trends 显示“圣何塞 vs 科罗拉多”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：自 2006 年以来首次进入四分之一决赛 - 急流 vs 圣何塞 美国公开赛前瞻。这些报道来自 Burgundy Wave 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Apple TV’s twisty new thriller sounds like a big winner, first reviews here",
-        "url": "https://9to5mac.com/2026/05/18/apple-tvs-twisty-new-thriller-sounds-like-a-big-winner-first-reviews-here/",
-        "source": "9to5Mac"
+        "title": "First Quarter-final appearance since 2006- Rapids vs San Jose US Open Cup Preview",
+        "url": "https://burgundywave.com/2026/05/19/first-quarter-final-appearance-since-2006-rapids-vs-san-jose-us-open-cup-preview/",
+        "source": "Burgundy Wave"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "lsu baseball",
-    "titleZh": "路易斯安那州立大学棒球",
-    "traffic": "500+",
-    "started": "Tue, 19 May 2026 18:20:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“路易斯安那州立大学棒球”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 LSU Wire 等媒体，因此带动了集中搜索。",
+    "title": "concacaf w champions cup",
+    "titleZh": "中北美及加勒比海地区冠军杯",
+    "traffic": "200+",
+    "started": "Wed, 20 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：美洲女足俱乐部对墨西哥足球甲级联赛冠军并不满意，并已将目光投向另一座中北美洲及加勒比地区联赛冠军。",
+    "explanation": "Google Trends 显示“中北美及加勒比海地区冠军杯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：美洲女足俱乐部对墨西哥足球甲级联赛冠军并不满意，并已将目光投向另一座中北美洲及加勒比地区联赛冠军。这些报道来自 https://latination.com/ 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "LSU baseball vs Oklahoma, live updates, how to watch SEC Tournament",
-        "url": "https://lsutigerswire.usatoday.com/story/sports/college/lsu/baseball/2026/05/19/lsu-baseball-oklahoma-live-updates-sec-tournament-game-schedule-score-highlights/90157783007/",
-        "source": "LSU Wire"
+        "title": "Club América Femenil are not satisfied with the Liga MX title and already have their eyes on another CONCACAF crown",
+        "url": "https://latination.com/america-femenil-eyes-concacaf-crown",
+        "source": "https://latination.com/"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "américa - tigre",
-    "titleZh": "美国-老虎",
-    "traffic": "1000+",
-    "started": "Tue, 19 May 2026 18:10:00 -0700",
-    "summary": "相关新闻主要集中在：这就是卡利美洲队在南美杯中面对阿根廷队的表现。",
-    "explanation": "Google Trends 显示“美国-老虎”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：这就是卡利美洲队在南美杯中面对阿根廷队的表现。这些报道来自 El País 等媒体，因此带动了集中搜索。",
+    "title": "jamal crawford",
+    "titleZh": "贾马尔·克劳福德",
+    "traffic": "500+",
+    "started": "Wed, 20 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：贾马尔·克劳福德拒绝肯塔基州后，儿子 JJ·克劳福德 马克·波普出席，给人留下了深刻的印象。",
+    "explanation": "Google Trends 显示“贾马尔·克劳福德”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：贾马尔·克劳福德拒绝肯塔基州后，儿子 JJ·克劳福德 马克·波普出席，给人留下了深刻的印象。这些报道来自 College Sports Network 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Así le ha ido al América de Cali enfrentando equipos argentinos en la Copa Sudamericana",
-        "url": "https://www.elpais.com.co/deportes/asi-le-ha-ido-al-america-de-cali-enfrentando-equipos-argentinos-en-la-copa-sudamericana-1904.html",
-        "source": "El País"
+        "title": "After Jamal Crawford Rejected Kentucky, Son JJ Crawford Impresses With Mark Pope in Attendance",
+        "url": "https://collegefootballnetwork.com/mens-college-basketball/after-jamal-crawford-rejected-kentucky-son-jj-crawford-impresses-with-mark-pope-in-attendance/",
+        "source": "College Sports Network"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "josh shapiro",
-    "titleZh": "乔什·夏皮罗",
+    "title": "jaylen williams",
+    "titleZh": "杰伦·威廉姆斯",
     "traffic": "500+",
-    "started": "Tue, 19 May 2026 18:10:00 -0700",
-    "summary": "相关新闻主要集中在：宾夕法尼亚州州长竞选已定，民主党人的目标是在初选确定后争取美国众议院的胜利。",
-    "explanation": "Google Trends 显示“乔什·夏皮罗”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：宾夕法尼亚州州长竞选已定，民主党人的目标是在初选确定后争取美国众议院的胜利。这些报道来自 AP News 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 20 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：凯莱花园家居护理正式开业。",
+    "explanation": "Google Trends 显示“杰伦·威廉姆斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：凯莱花园家居护理正式开业。这些报道来自 WFMJ 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Pennsylvania governor's race is set as Democrats aim for US House gains once they settle primaries",
-        "url": "https://apnews.com/article/pennsylvania-primary-congress-governor-shapiro-garrity-8c19116119a331addf39ae97bc5149bf",
-        "source": "AP News"
+        "title": "Gloria’s Garden Home Care officially opens its doors",
+        "url": "https://www.wfmj.com/news/local-news/youngstown/gloria-s-garden-home-care-officially-opens-its-doors/article_b559aa57-267f-49f8-b536-dab0c5d9d718.html",
+        "source": "WFMJ"
       }
     ]
   }
