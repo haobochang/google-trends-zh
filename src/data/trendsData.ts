@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "jaylin williams",
-    "titleZh": "杰林·威廉姆斯",
+    "title": "jarrett allen",
+    "titleZh": "贾勒特·艾伦",
     "traffic": "2000+",
-    "started": "Wed, 20 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：雷霆 vs 马刺伤病报告，预测：贾伦·威廉姆斯今晚上场吗？。",
-    "explanation": "Google Trends 显示“杰林·威廉姆斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：雷霆 vs 马刺伤病报告，预测：贾伦·威廉姆斯今晚上场吗？。这些报道来自 The Oklahoman 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 21 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：2026 年 NBA 球员等级：勒布朗·詹姆斯、斯蒂芬·库里、凯文·杜兰特滑落至第 2 级。",
+    "explanation": "Google Trends 显示“贾勒特·艾伦”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：2026 年 NBA 球员等级：勒布朗·詹姆斯、斯蒂芬·库里、凯文·杜兰特滑落至第 2 级。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Thunder vs Spurs injury report, prediction: Is Jalen Williams playing tonight?",
-        "url": "https://www.oklahoman.com/story/sports/nba/thunder/2026/05/18/thunder-spurs-injury-report-jalen-williams-status-tonight-nba-playoffs-okc-san-antonio-prediction/90117968007/",
-        "source": "The Oklahoman"
+        "title": "NBA player tiers 2026: LeBron James, Steph Curry, Kevin Durant slide to Tier 2",
+        "url": "https://www.nytimes.com/athletic/7291282/2026/05/21/nba-player-tiers-lebron-james-steph-curry-kevin-durant/",
+        "source": "The New York Times"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "carter bryant",
-    "titleZh": "卡特·布莱恩特",
-    "traffic": "2000+",
-    "started": "Wed, 20 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：卡特·布莱恩特提出了雷霆队没有准备好的重大挑战。",
-    "explanation": "Google Trends 显示“卡特·布莱恩特”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：卡特·布莱恩特提出了雷霆队没有准备好的重大挑战。这些报道来自 Air Alamo 等媒体，因此带动了集中搜索。",
+    "title": "brooke shields",
+    "titleZh": "布鲁克·小丝",
+    "traffic": "1000+",
+    "started": "Thu, 21 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：波姬·小丝 (Brooke Shields) 对女儿罗文 (Rowan) 出演《下一代纽约》真人秀节目的反应：“我胃不舒服”。",
+    "explanation": "Google Trends 显示“布鲁克·小丝”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：波姬·小丝 (Brooke Shields) 对女儿罗文 (Rowan) 出演《下一代纽约》真人秀节目的反应：“我胃不舒服”。这些报道来自 People.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Carter Bryant presented a major challenge the Thunder weren't prepared for",
-        "url": "https://airalamo.com/carter-bryant-presented-a-major-challenge-the-thunder-werent-prepared-for",
-        "source": "Air Alamo"
+        "title": "Brooke Shields Reacts to Daughter Rowan's Reality TV Casting on Next Gen NYC : 'I Was Sick to My Stomach'",
+        "url": "https://people.com/brooke-shields-reacts-to-daughter-rowan-henchy-reality-tv-casting-on-next-gen-nyc-11979393",
+        "source": "People.com"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "brewers score",
-    "titleZh": "酿酒师分数",
-    "traffic": "2000+",
-    "started": "Wed, 20 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：芝加哥小熊队连续第四场失利，并跌出了国联中部第一名的位置。",
-    "explanation": "Google Trends 显示“酿酒师分数”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：芝加哥小熊队连续第四场失利，并跌出了国联中部第一名的位置。这些报道来自 Chicago Tribune 等媒体，因此带动了集中搜索。",
+    "title": "idris elba",
+    "titleZh": "伊德里斯厄尔巴岛",
+    "traffic": "500+",
+    "started": "Thu, 21 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：《宇宙大师》烂番茄评分预测出人意料。",
+    "explanation": "Google Trends 显示“伊德里斯厄尔巴岛”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《宇宙大师》烂番茄评分预测出人意料。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Chicago Cubs lose their 4th straight game — and fall out of 1st place in the NL Central",
-        "url": "https://www.chicagotribune.com/2026/05/19/chicago-cubs-milwaukee-brewers-nl-central-lead/",
-        "source": "Chicago Tribune"
+        "title": "Masters of the Universe Gets a Surprising Rotten Tomatoes Score Prediction",
+        "url": "https://www.yahoo.com/entertainment/movies/articles/masters-universe-gets-surprising-rotten-204745776.html",
+        "source": "Yahoo"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "kc current vs angel city fc",
-    "titleZh": "KC Current vs 天使城FC",
+    "title": "ofac list",
+    "titleZh": "OFAC 名单",
     "traffic": "200+",
-    "started": "Wed, 20 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：繁忙的五月继续，天使城足球俱乐部主场迎战堪萨斯城。",
-    "explanation": "Google Trends 显示“KC Current vs 天使城FC”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：繁忙的五月继续，天使城足球俱乐部主场迎战堪萨斯城。这些报道来自 Los Angeles Daily News 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 21 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：美国制裁与芬太尼贩运有关的锡那罗亚卡特尔相关的现金加密洗钱网络。",
+    "explanation": "Google Trends 显示“OFAC 名单”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：美国制裁与芬太尼贩运有关的锡那罗亚卡特尔相关的现金加密洗钱网络。这些报道来自 The Block 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Angel City FC hosts Kansas City as busy May continues",
-        "url": "https://www.dailynews.com/2026/05/19/angel-city-fc-hosts-kansas-city-as-busy-may-continues/",
-        "source": "Los Angeles Daily News"
+        "title": "US sanctions Sinaloa Cartel-linked cash-to-crypto laundering network tied to fentanyl trafficking",
+        "url": "https://www.theblock.co/post/402135/us-sanctions-sinaloa-cartel-linked-cash-to-crypto-laundering-network-tied-to-fentanyl-trafficking",
+        "source": "The Block"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "tracy mcgrady",
-    "titleZh": "特雷西·麦克格雷迪",
-    "traffic": "500+",
-    "started": "Wed, 20 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：猛龙队伟大球员文斯·卡特和特雷西·麦克格雷迪质疑球队是否应该尊重科怀·伦纳德。",
-    "explanation": "Google Trends 显示“特雷西·麦克格雷迪”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：猛龙队伟大球员文斯·卡特和特雷西·麦克格雷迪质疑球队是否应该尊重科怀·伦纳德。这些报道来自 Toronto Sun 等媒体，因此带动了集中搜索。",
+    "title": "mexico soccer",
+    "titleZh": "墨西哥足球",
+    "traffic": "200+",
+    "started": "Thu, 21 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：墨西哥发起世界杯最后一刻运动以制止仇视同性恋的口号。",
+    "explanation": "Google Trends 显示“墨西哥足球”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：墨西哥发起世界杯最后一刻运动以制止仇视同性恋的口号。这些报道来自 The Star Democrat 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Raptors greats Vince Carter, Tracy McGrady question whether team should honour Kawhi Leonard",
-        "url": "https://torontosun.com/sports/basketball/nba/toronto-raptors/vince-carter-tracy-mcgrady-question-honour-kawhi-leonard",
-        "source": "Toronto Sun"
+        "title": "Mexico launches a last-minute World Cup campaign to stop a homophobic chant",
+        "url": "https://www.stardem.com/ap/nation/sports/mexico-launches-a-last-minute-world-cup-campaign-to-stop-a-homophobic-chant/article_503ffc9f-b972-51c3-ada8-df817c16f278.html",
+        "source": "The Star Democrat"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "palmeiras",
-    "titleZh": "棕榈树",
-    "traffic": "500+",
-    "started": "Wed, 20 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：帕尔梅拉斯 x Cerro Porteño：投票选出韦尔当最佳球员。",
-    "explanation": "Google Trends 显示“棕榈树”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：帕尔梅拉斯 x Cerro Porteño：投票选出韦尔当最佳球员。这些报道来自 Nosso Palestra 等媒体，因此带动了集中搜索。",
+    "title": "walt frazier",
+    "titleZh": "沃尔特·弗雷泽",
+    "traffic": "1000+",
+    "started": "Thu, 21 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：约翰·冈萨雷斯和科利·哈维一起分析詹姆斯·哈登今晚是否会再次暴露对尼克斯队的防守。",
+    "explanation": "Google Trends 显示“沃尔特·弗雷泽”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：约翰·冈萨雷斯和科利·哈维一起分析詹姆斯·哈登今晚是否会再次暴露对尼克斯队的防守。这些报道来自 247Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Palmeiras x Cerro Porteño: vote no melhor jogador do Verdão",
-        "url": "https://nossopalestra.com.br/noticias/palmeiras-x-cerro-porteno-vote-no-melhor-jogador-do-verdao/",
-        "source": "Nosso Palestra"
+        "title": "John Gonzalez joins Coley Harvey to break down whether or not James Harden will be exposed again tonight on defense against the Knicks",
+        "url": "https://247sports.com/high-school/washington/video/john-gonzalez-joins-coley-harvey-to-break-down-whether-or-not-james-harden-will-be-exposed-again-tonight-on-defense-against-the-knicks-13902523",
+        "source": "247Sports"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "san jose vs colorado",
-    "titleZh": "圣何塞 vs 科罗拉多",
-    "traffic": "200+",
-    "started": "Wed, 20 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：自 2006 年以来首次进入四分之一决赛 - 急流 vs 圣何塞 美国公开赛前瞻。",
-    "explanation": "Google Trends 显示“圣何塞 vs 科罗拉多”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：自 2006 年以来首次进入四分之一决赛 - 急流 vs 圣何塞 美国公开赛前瞻。这些报道来自 Burgundy Wave 等媒体，因此带动了集中搜索。",
+    "title": "timothee chalamet",
+    "titleZh": "蒂莫西·查拉梅",
+    "traffic": "2000+",
+    "started": "Thu, 21 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：凯莉·詹纳 (Kylie Jenner) 在男友蒂莫西·查拉梅 (Timothée Chalamet) 首次干净剃须和理发后透露了他的 NSFW 昵称。",
+    "explanation": "Google Trends 显示“蒂莫西·查拉梅”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：凯莉·詹纳 (Kylie Jenner) 在男友蒂莫西·查拉梅 (Timothée Chalamet) 首次干净剃须和理发后透露了他的 NSFW 昵称。这些报道来自 InStyle 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "First Quarter-final appearance since 2006- Rapids vs San Jose US Open Cup Preview",
-        "url": "https://burgundywave.com/2026/05/19/first-quarter-final-appearance-since-2006-rapids-vs-san-jose-us-open-cup-preview/",
-        "source": "Burgundy Wave"
+        "title": "Kylie Jenner Reveals NSFW Nickname for Boyfriend Timothée Chalamet After He Debuts Clean Shave and Haircut",
+        "url": "https://www.instyle.com/kylie-jenner-nickname-for-boyfriend-timothee-chalamet-daddy-shaves-mustache-short-haircut-11980902",
+        "source": "InStyle"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "concacaf w champions cup",
-    "titleZh": "中北美及加勒比海地区冠军杯",
-    "traffic": "200+",
-    "started": "Wed, 20 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：美洲女足俱乐部对墨西哥足球甲级联赛冠军并不满意，并已将目光投向另一座中北美洲及加勒比地区联赛冠军。",
-    "explanation": "Google Trends 显示“中北美及加勒比海地区冠军杯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：美洲女足俱乐部对墨西哥足球甲级联赛冠军并不满意，并已将目光投向另一座中北美洲及加勒比地区联赛冠军。这些报道来自 https://latination.com/ 等媒体，因此带动了集中搜索。",
+    "title": "ghosts",
+    "titleZh": "鬼魂",
+    "traffic": "500+",
+    "started": "Thu, 21 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：《幽灵》粉丝在得知有关未来剧集的消息后将会心碎。",
+    "explanation": "Google Trends 显示“鬼魂”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《幽灵》粉丝在得知有关未来剧集的消息后将会心碎。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Club América Femenil are not satisfied with the Liga MX title and already have their eyes on another CONCACAF crown",
-        "url": "https://latination.com/america-femenil-eyes-concacaf-crown",
-        "source": "https://latination.com/"
+        "title": "‘Ghosts’ Fans Will Be Heartbroken After Learning This News About Future Episodes",
+        "url": "https://www.aol.com/articles/ghosts-fans-heartbroken-learning-news-130700000.html",
+        "source": "AOL.com"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "jamal crawford",
-    "titleZh": "贾马尔·克劳福德",
+    "title": "bill davidge",
+    "titleZh": "比尔戴维奇",
     "traffic": "500+",
-    "started": "Wed, 20 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：贾马尔·克劳福德拒绝肯塔基州后，儿子 JJ·克劳福德 马克·波普出席，给人留下了深刻的印象。",
-    "explanation": "Google Trends 显示“贾马尔·克劳福德”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：贾马尔·克劳福德拒绝肯塔基州后，儿子 JJ·克劳福德 马克·波普出席，给人留下了深刻的印象。这些报道来自 College Sports Network 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 21 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：长期担任 NHL 播音员的比尔·戴维奇 (Bill Davidge) 去世，享年 72 岁。",
+    "explanation": "Google Trends 显示“比尔戴维奇”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：长期担任 NHL 播音员的比尔·戴维奇 (Bill Davidge) 去世，享年 72 岁。这些报道来自 New York Post 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "After Jamal Crawford Rejected Kentucky, Son JJ Crawford Impresses With Mark Pope in Attendance",
-        "url": "https://collegefootballnetwork.com/mens-college-basketball/after-jamal-crawford-rejected-kentucky-son-jj-crawford-impresses-with-mark-pope-in-attendance/",
-        "source": "College Sports Network"
+        "title": "Longtime NHL broadcaster Bill Davidge dead at 72",
+        "url": "https://nypost.com/2026/05/21/sports/longtime-nhl-broadcaster-bill-davidge-dead-at-72/",
+        "source": "New York Post"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "jaylen williams",
-    "titleZh": "杰伦·威廉姆斯",
+    "title": "hacks season 5",
+    "titleZh": "黑客第 5 季",
     "traffic": "500+",
-    "started": "Wed, 20 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：凯莱花园家居护理正式开业。",
-    "explanation": "Google Trends 显示“杰伦·威廉姆斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：凯莱花园家居护理正式开业。这些报道来自 WFMJ 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 21 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：《黑客》明星汉娜·艾因宾德暗示大结局将发生什么。",
+    "explanation": "Google Trends 显示“黑客第 5 季”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《黑客》明星汉娜·艾因宾德暗示大结局将发生什么。这些报道来自 IMDb 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Gloria’s Garden Home Care officially opens its doors",
-        "url": "https://www.wfmj.com/news/local-news/youngstown/gloria-s-garden-home-care-officially-opens-its-doors/article_b559aa57-267f-49f8-b536-dab0c5d9d718.html",
-        "source": "WFMJ"
+        "title": "‘Hacks’ Star Hannah Einbinder Hints at What’s Coming in the Finale",
+        "url": "https://www.imdb.com/news/ni65841113/?ref_=ttnw_art_perm",
+        "source": "IMDb"
       }
     ]
   }
