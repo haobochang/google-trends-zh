@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "mystics vs storm",
-    "titleZh": "神秘主义者 vs 风暴",
-    "traffic": "1000+",
-    "started": "Wed, 27 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：如何观看 Mystics vs. Storm：5 月 27 日的电视频道和流媒体选项。",
-    "explanation": "Google Trends 显示“神秘主义者 vs 风暴”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：如何观看 Mystics vs. Storm：5 月 27 日的电视频道和流媒体选项。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
+    "title": "spurs",
+    "titleZh": "马刺",
+    "traffic": "100000+",
+    "started": "Thu, 28 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：面临淘汰，马刺希望做出巨大反应，将系列赛推回雷霆。",
+    "explanation": "Google Trends 显示“马刺”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：面临淘汰，马刺希望做出巨大反应，将系列赛推回雷霆。这些报道来自 NBA.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "How to watch Mystics vs. Storm: TV channel and streaming options for May 27",
-        "url": "https://www.nytimes.com/athletic/7313005/2026/05/27/how-to-watch-mystics-vs-storm-tv-channel-and-streaming-options-for-may-27/",
-        "source": "The New York Times"
+        "title": "Facing elimination, Spurs look for big response to push series back to OKC",
+        "url": "https://www.nba.com/news/3-things-to-watch-thunder-spurs-game-6",
+        "source": "NBA.com"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "minnesota lynx",
-    "titleZh": "明尼苏达山猫",
-    "traffic": "1000+",
-    "started": "Wed, 27 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：今天在哪里免费观看亚特兰大梦想队与明尼苏达山猫队 WNBA 比赛。",
-    "explanation": "Google Trends 显示“明尼苏达山猫”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：今天在哪里免费观看亚特兰大梦想队与明尼苏达山猫队 WNBA 比赛。这些报道来自 AL.com 等媒体，因此带动了集中搜索。",
+    "title": "dallas wings",
+    "titleZh": "达拉斯之翼",
+    "traffic": "2000+",
+    "started": "Thu, 28 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：阿齐·福德（Azzi Fudd）的突破比赛是新秀的一个很好的进步，但她仍在追赶奥利维亚·迈尔斯（Olivia Miles） - The Athletic。",
+    "explanation": "Google Trends 显示“达拉斯之翼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：阿齐·福德（Azzi Fudd）的突破比赛是新秀的一个很好的进步，但她仍在追赶奥利维亚·迈尔斯（Olivia Miles） - The Athletic。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Where to watch Atlanta Dream-Minnesota Lynx WNBA game for free today",
-        "url": "https://www.al.com/tv/2026/05/where-to-watch-atlanta-dream-minnesota-lynx-wnba-game-for-free-today.html",
-        "source": "AL.com"
+        "title": "Azzi Fudd’s breakout game is a good rookie step, but she’s still chasing Olivia Miles - The Athletic",
+        "url": "https://www.nytimes.com/athletic/7306185/2026/05/24/azzi-fudd-olivia-miles-rookies-dallas-wings/",
+        "source": "The New York Times"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "rod brind'amour",
-    "titleZh": "罗德·布林德莫尔",
-    "traffic": "500+",
-    "started": "Wed, 27 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：NHL 传奇人物之间的板凳大战将有助于决定加拿大人队是否参加斯坦利杯。",
-    "explanation": "Google Trends 显示“罗德·布林德莫尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：NHL 传奇人物之间的板凳大战将有助于决定加拿大人队是否参加斯坦利杯。这些报道来自 The Globe and Mail 等媒体，因此带动了集中搜索。",
+    "title": "devin vassell",
+    "titleZh": "德文·瓦塞尔",
+    "traffic": "2000+",
+    "started": "Thu, 28 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：反弹：马刺队能避免被淘汰吗？这是他们需要做的。",
+    "explanation": "Google Trends 显示“德文·瓦塞尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：反弹：马刺队能避免被淘汰吗？这是他们需要做的。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Bench battle between NHL legends will help decide if Canadiens play for Stanley Cup",
-        "url": "https://www.theglobeandmail.com/sports/hockey/article-bench-battle-between-nhl-legends-will-help-decide-if-canadiens-play/",
-        "source": "The Globe and Mail"
+        "title": "The Bounce: Can the Spurs stave off elimination? Here’s what they need to do",
+        "url": "https://www.nytimes.com/athletic/7315225/2026/05/28/spurs-thunder-game-6-the-bounce/",
+        "source": "The New York Times"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "perfect match",
-    "titleZh": "完美匹配",
-    "traffic": "500+",
-    "started": "Wed, 27 May 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：所以......玛丽莎在拍摄《完美匹配》几个月后结婚了（不，不是德玛丽）。",
-    "explanation": "Google Trends 显示“完美匹配”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：所以......玛丽莎在拍摄《完美匹配》几个月后结婚了（不，不是德玛丽）。这些报道来自 Yahoo News Singapore 等媒体，因此带动了集中搜索。",
+    "title": "tracy mcgrady",
+    "titleZh": "特雷西·麦克格雷迪",
+    "traffic": "1000+",
+    "started": "Thu, 28 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：“世界必须恐慌”——沙奎尔·奥尼尔认为，当维克托·温班亚马咄咄逼人时，马刺队的上限会更高。",
+    "explanation": "Google Trends 显示“特雷西·麦克格雷迪”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：“世界必须恐慌”——沙奎尔·奥尼尔认为，当维克托·温班亚马咄咄逼人时，马刺队的上限会更高。这些报道来自 Basketball Network 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "So...Marissa Got Married Months After Filming ‘Perfect Match’ (and No, It Wasn’t to DeMari)",
-        "url": "https://sg.news.yahoo.com/marissa-got-married-months-filming-141019472.html",
-        "source": "Yahoo News Singapore"
+        "title": "\"The world has to panic\" - Shaquille O'Neal believes the Spurs' ceiling rises even higher when Victor Wembanyama is aggressive",
+        "url": "https://www.basketballnetwork.net/latest-news/shaquille-oneal-believes-the-spurs-ceiling-rises-even-higher-when-victor-wembanyama-is-aggresive",
+        "source": "Basketball Network"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "atlanta dream",
-    "titleZh": "亚特兰大梦",
+    "title": "cubs standings",
+    "titleZh": "小熊队积分榜",
     "traffic": "1000+",
-    "started": "Wed, 27 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：安吉尔·里斯在《Dream》第一季中的噩梦般的数据毫无意义。",
-    "explanation": "Google Trends 显示“亚特兰大梦”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：安吉尔·里斯在《Dream》第一季中的噩梦般的数据毫无意义。这些报道来自 www.sportingnews.com 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 28 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：小熊队球迷仍然不敢相信哈维尔·贝兹五年前就取得了这样的成绩。",
+    "explanation": "Google Trends 显示“小熊队积分榜”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：小熊队球迷仍然不敢相信哈维尔·贝兹五年前就取得了这样的成绩。这些报道来自 Da Windy City 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Angel Reese's nightmare stat in first season with Dream makes no sense",
-        "url": "https://www.sportingnews.com/us/wnba/atlanta-dream/news/angel-reese-nightmare-stat-first-season-dream-makes-no-sense/e7c22519060839996b9f21ce",
-        "source": "www.sportingnews.com"
+        "title": "Cubs fans still cannot believe Javier Báez pulled this off five years ago",
+        "url": "https://dawindycity.com/cubs-fans-still-cannot-believe-javier-baez-pulled-this-off-five-years-ago",
+        "source": "Da Windy City"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "jcpenney ross park mall closure",
-    "titleZh": "杰彭尼·罗斯公园购物中心关闭",
-    "traffic": "500+",
-    "started": "Wed, 27 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：匹兹堡购物中心失去主要支柱：报告。",
-    "explanation": "Google Trends 显示“杰彭尼·罗斯公园购物中心关闭”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：匹兹堡购物中心失去主要支柱：报告。这些报道来自 Patch 等媒体，因此带动了集中搜索。",
+    "title": "mike tomlin",
+    "titleZh": "迈克·汤姆林",
+    "traffic": "200+",
+    "started": "Thu, 28 May 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：钢人队笔记本：麦卡锡的神奇数字是 55，如每场比赛的总完成次数和持球次数。",
+    "explanation": "Google Trends 显示“迈克·汤姆林”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：钢人队笔记本：麦卡锡的神奇数字是 55，如每场比赛的总完成次数和持球次数。这些报道来自 TribLIVE.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Pittsburgh Mall Losing Major Anchor: Report",
-        "url": "https://patch.com/pennsylvania/pittsburgh/pittsburgh-mall-losing-major-anchor-report",
-        "source": "Patch"
+        "title": "Steelers notebook: McCarthy’s magic number is 55, as in, combined completions and carries per game",
+        "url": "https://triblive.com/sports/steelers-notebook-mccarthys-magic-number-is-55-as-in-combined-completions-and-carries-per-game/",
+        "source": "TribLIVE.com"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "charles schwab corporation",
-    "titleZh": "嘉信理财公司",
-    "traffic": "500+",
-    "started": "Wed, 27 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：嘉信理财 (Charles Schwab) 股价触及 52 周低点 85.75 美元。",
-    "explanation": "Google Trends 显示“嘉信理财公司”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：嘉信理财 (Charles Schwab) 股价触及 52 周低点 85.75 美元。这些报道来自 Investing.com Nigeria 等媒体，因此带动了集中搜索。",
+    "title": "ron harper",
+    "titleZh": "罗恩·哈珀",
+    "traffic": "1000+",
+    "started": "Thu, 28 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：这支骑士队从来都不是认真的。",
+    "explanation": "Google Trends 显示“罗恩·哈珀”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：这支骑士队从来都不是认真的。这些报道来自 Fear The Sword 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Charles Schwab stock hits 52-week low at 85.75 USD By Investing.com",
-        "url": "https://ng.investing.com/news/company-news/charles-schwab-stock-hits-52week-low-at-8575-usd-93CH-2531622",
-        "source": "Investing.com Nigeria"
+        "title": "This Cavaliers team was never serious",
+        "url": "https://www.fearthesword.com/cavs-analysis/50135/cavs-playoff-shortcomings-cleveland-cavaliers-donovan-mitchell-james-harden-new-york-knicks-nba-playoffs",
+        "source": "Fear The Sword"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "tyler tanner",
-    "titleZh": "泰勒·坦纳",
-    "traffic": "200+",
-    "started": "Wed, 27 May 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：选秀说明：灰熊队、坦纳队、退出、勇士队、黄蜂队。",
-    "explanation": "Google Trends 显示“泰勒·坦纳”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：选秀说明：灰熊队、坦纳队、退出、勇士队、黄蜂队。这些报道来自 Hoops Rumors 等媒体，因此带动了集中搜索。",
+    "title": "flagrant foul",
+    "titleZh": "恶意犯规",
+    "traffic": "500+",
+    "started": "Thu, 28 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：维克托·温班亚马 (Victor Wembanyama) 成为一名暴徒将是 NBA 剧情的一大转折。",
+    "explanation": "Google Trends 显示“恶意犯规”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：维克托·温班亚马 (Victor Wembanyama) 成为一名暴徒将是 NBA 剧情的一大转折。这些报道来自 USA Today 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Draft Notes: Grizzlies, Tanner, Withdrawals, Warriors, Hornets",
-        "url": "https://www.hoopsrumors.com/2026/05/draft-notes-grizzlies-tanner-withdrawals-warriors-hornets.html",
-        "source": "Hoops Rumors"
+        "title": "Victor Wembanyama being a goon would be quite the NBA plot twist",
+        "url": "https://ftw.usatoday.com/story/sports/nba/2026/05/27/victor-wembanyama-jared-mccain-spurs-thunder-goon/90276187007/",
+        "source": "USA Today"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "boston blue",
-    "titleZh": "波士顿蓝",
+    "title": "arike ogunbowale",
+    "titleZh": "阿里克·奥贡博瓦莱",
     "traffic": "500+",
-    "started": "Wed, 27 May 2026 18:20:00 -0700",
-    "summary": "相关新闻主要集中在：波士顿蓝星揭示了汤姆·塞立克加入蓝血续集的阻碍因素。",
-    "explanation": "Google Trends 显示“波士顿蓝”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：波士顿蓝星揭示了汤姆·塞立克加入蓝血续集的阻碍因素。这些报道来自 Comic Book Resources 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 28 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：阿兰娜·史密斯 (Alanna Smith) 对阵拉斯维加斯王牌队 (Las Vegas Aces)。",
+    "explanation": "Google Trends 显示“阿里克·奥贡博瓦莱”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：阿兰娜·史密斯 (Alanna Smith) 对阵拉斯维加斯王牌队 (Las Vegas Aces)。这些报道来自 Dallas Hoops Journal 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Boston Blue Star Reveals What's Holding Back Tom Selleck From Joining Blue Bloods Sequel",
-        "url": "https://www.cbr.com/boston-blue-season-2-tom-selleck-appearance/",
-        "source": "Comic Book Resources"
+        "title": "Maddy Siegrist To Start For Dallas Wings As Alanna Smith Sits vs. Las Vegas Aces",
+        "url": "https://dallashoopsjournal.com/p/maddy-siegrist-starting-lineup-alanna-smith-out-dallas-wings-las-vegas-aces/",
+        "source": "Dallas Hoops Journal"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "koa peat",
-    "titleZh": "快点",
-    "traffic": "500+",
-    "started": "Wed, 27 May 2026 18:20:00 -0700",
-    "summary": "相关新闻主要集中在：随着皮特的去留决定悬而未决，亚利桑那州的汤米·劳埃德 (Tommy Lloyd) 需要应对 12 大问题。",
-    "explanation": "Google Trends 显示“快点”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：随着皮特的去留决定悬而未决，亚利桑那州的汤米·劳埃德 (Tommy Lloyd) 需要应对 12 大问题。这些报道来自 Arizona Daily Star 等媒体，因此带动了集中搜索。",
+    "title": "star city",
+    "titleZh": "星城",
+    "traffic": "1000+",
+    "started": "Thu, 28 May 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：苏联宇航员在星城接受训练，以击败美国登上月球。现在，一部新电视剧想象了基地墙后发生的事情。",
+    "explanation": "Google Trends 显示“星城”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：苏联宇航员在星城接受训练，以击败美国登上月球。现在，一部新电视剧想象了基地墙后发生的事情。这些报道来自 Smithsonian Magazine 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "With Peat's stay-or-go decision in the air, Arizona's Tommy Lloyd juggles Big 12 issues",
-        "url": "https://tucson.com/sports/arizonawildcats/basketball/article_f6ff7fd8-d1ca-4fde-bc03-b580bb5dd9b8.html",
-        "source": "Arizona Daily Star"
+        "title": "Soviet Cosmonauts Trained at Star City as They Raced to Beat America to the Moon. Now, a New TV Series Imagines What Happened Behind the Base's Walls",
+        "url": "https://www.smithsonianmag.com/history/soviet-cosmonauts-trained-at-star-city-as-they-raced-to-beat-america-to-the-moon-now-a-new-tv-series-imagines-what-happened-behind-the-bases-walls-180988823/",
+        "source": "Smithsonian Magazine"
       }
     ]
   }
