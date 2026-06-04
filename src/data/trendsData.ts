@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "claude lemieux death",
-    "titleZh": "克洛德·勒米厄逝世讣告",
+    "title": "timothee chalamet",
+    "titleZh": "蒂莫西·查拉梅",
     "traffic": "5000+",
-    "started": "Tue, 2 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：家人称克劳德·勒米厄的大脑将被捐赠用于 CTE 研究。",
-    "explanation": "Google Trends 显示“克洛德·勒米厄逝世讣告”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：家人称克劳德·勒米厄的大脑将被捐赠用于 CTE 研究。这些报道来自 ESPN 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 3 Jun 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：名人在 NBA 总决赛第一场尼克斯队对阵马刺队的场边观看比赛。",
+    "explanation": "Google Trends 显示“蒂莫西·查拉梅”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：名人在 NBA 总决赛第一场尼克斯队对阵马刺队的场边观看比赛。这些报道来自 Bergen Record 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Claude Lemieux's brain being donated for CTE research, family says",
-        "url": "https://www.espn.com/nhl/story/_/id/48924757/claude-lemieux-brain-being-donated-cte-research-family-says",
-        "source": "ESPN"
+        "title": "Celebrities watch courtside at Knicks vs Spurs in NBA Finals Game 1",
+        "url": "https://www.northjersey.com/picture-gallery/sports/nba/knicks/2026/06/03/celebrities-courtside-knicks-spurs-nba-finals-game-1/90385744007/",
+        "source": "Bergen Record"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "sean hannity",
-    "titleZh": "肖恩·汉尼蒂",
+    "title": "harrison barnes",
+    "titleZh": "哈里森·巴恩斯",
     "traffic": "2000+",
-    "started": "Tue, 2 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：MAGA 民意调查者在福克斯新闻上承认特朗普存在大问题。",
-    "explanation": "Google Trends 显示“肖恩·汉尼蒂”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：MAGA 民意调查者在福克斯新闻上承认特朗普存在大问题。这些报道来自 The Daily Beast 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 3 Jun 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：哈里森·巴恩斯分享了进入第三次 NBA 总决赛的想法。",
+    "explanation": "Google Trends 显示“哈里森·巴恩斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：哈里森·巴恩斯分享了进入第三次 NBA 总决赛的想法。这些报道来自 Tar Heel Times 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "MAGA Pollster Admits Big Problem for Trump on Fox News",
-        "url": "https://www.thedailybeast.com/maga-pollster-admits-big-problem-for-trump-on-fox-news/",
-        "source": "The Daily Beast"
+        "title": "Harrison Barnes shares thoughts heading into third NBA Finals",
+        "url": "https://www.tarheeltimes.com/article166766.aspx",
+        "source": "Tar Heel Times"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "rob sand",
-    "titleZh": "抢沙子",
-    "traffic": "500+",
-    "started": "Tue, 2 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：海军陆战队退伍军人押注于拉美裔外展活动，以推翻民主党占据的众议院席位。",
-    "explanation": "Google Trends 显示“抢沙子”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：海军陆战队退伍军人押注于拉美裔外展活动，以推翻民主党占据的众议院席位。这些报道来自 Fox News 等媒体，因此带动了集中搜索。",
+    "title": "david beckham",
+    "titleZh": "大卫·贝克汉姆",
+    "traffic": "1000+",
+    "started": "Wed, 3 Jun 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：大卫·贝克汉姆的好莱坞星光大道荣誉让影迷感到困惑，因为他们对“荒谬”的包容感到愤怒。",
+    "explanation": "Google Trends 显示“大卫·贝克汉姆”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：大卫·贝克汉姆的好莱坞星光大道荣誉让影迷感到困惑，因为他们对“荒谬”的包容感到愤怒。这些报道来自 GB News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Marine combat veteran bets big on Hispanic outreach in bid to flip Dem-held House seat",
-        "url": "https://www.foxnews.com/politics/marine-combat-veteran-bets-big-hispanic-outreach-bid-flip-dem-held-house-seat",
-        "source": "Fox News"
+        "title": "David Beckham's Hollywood Walk of Fame honour leaves film fans bewildered as they fume over 'absurd' inclusion",
+        "url": "https://www.gbnews.com/celebrity/david-beckham-hollywood-walk-of-fame-honour",
+        "source": "GB News"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "marco rubio",
-    "titleZh": "金发框架",
-    "traffic": "1000+",
-    "started": "Tue, 2 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：麦卡斯基尔对前同事卢比奥的证词做出反应：“你怎么了？”。",
-    "explanation": "Google Trends 显示“金发框架”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：麦卡斯基尔对前同事卢比奥的证词做出反应：“你怎么了？”。这些报道来自 MS NOW 等媒体，因此带动了集中搜索。",
+    "title": "maluma",
+    "titleZh": "马鲁马",
+    "traffic": "2000+",
+    "started": "Wed, 3 Jun 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：就连Maluma也加入了演员阵容！ Papi Juancho 用这首歌向古巴流派投降：“这是一种恶习”。",
+    "explanation": "Google Trends 显示“马鲁马”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：就连Maluma也加入了演员阵容！ Papi Juancho 用这首歌向古巴流派投降：“这是一种恶习”。这些报道来自 CiberCuba 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "McCaskill reacts to former colleague Rubio’s testimony: ‘What happened to you?’",
-        "url": "https://www.ms.now/chris-jansing-reports/watch/mccaskill-reacts-to-former-colleague-rubio-s-testimony-what-happened-to-you-2502207555699",
-        "source": "MS NOW"
+        "title": "¡Hasta Maluma cayó en el reparto! Papi Juancho se rinde ante el género cubano con esta canción: «Es un vicio»",
+        "url": "https://www.cibercuba.com/noticias/2026-06-02-u194224-e198484-s27065-nid330977-maluma-cayo-reparto-papi-juancho-rinde-genero",
+        "source": "CiberCuba"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "deb haaland",
-    "titleZh": "德布·哈兰德",
+    "title": "nick offerman",
+    "titleZh": "尼克·奥弗曼",
     "traffic": "500+",
-    "started": "Tue, 2 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：新墨西哥州州长初选包括拜登官员德布·哈兰德。查看实时结果。。",
-    "explanation": "Google Trends 显示“德布·哈兰德”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：新墨西哥州州长初选包括拜登官员德布·哈兰德。查看实时结果。。这些报道来自 The Washington Post 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 3 Jun 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：尼克·奥弗曼 (Nick Offerman) 完成 2026 年阿拉斯加州博览会音乐会阵容。",
+    "explanation": "Google Trends 显示“尼克·奥弗曼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：尼克·奥弗曼 (Nick Offerman) 完成 2026 年阿拉斯加州博览会音乐会阵容。这些报道来自 Your Alaska Link 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "New Mexico governor primary includes Biden official Deb Haaland. See live results.",
-        "url": "https://www.washingtonpost.com/elections/2026/06/02/new-mexico-governor-primary-election-results-live-deb-haaland-faces-sam-bergman/",
-        "source": "The Washington Post"
+        "title": "Nick Offerman completes Alaska State Fair 2026 concert lineup",
+        "url": "https://www.youralaskalink.com/news/alaskastatefair/nick-offerman-completes-alaska-state-fair-2026-concert-lineup/article_9e4830f0-2772-41b3-a119-b23e3dfc58b3.html",
+        "source": "Your Alaska Link"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "ariana madix boyfriend",
-    "titleZh": "阿丽安娜·马迪克斯男友",
-    "traffic": "500+",
-    "started": "Tue, 2 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：关于 Ariana Madix 的“不可思议”男友、私人教练 Daniel Wai。",
-    "explanation": "Google Trends 显示“阿丽安娜·马迪克斯男友”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：关于 Ariana Madix 的“不可思议”男友、私人教练 Daniel Wai。这些报道来自 Yahoo News Singapore 等媒体，因此带动了集中搜索。",
+    "title": "michael jordan",
+    "titleZh": "迈克尔·乔丹",
+    "traffic": "1000+",
+    "started": "Wed, 3 Jun 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：迈克尔·乔丹 (Michael Jordan) 深受粉丝喜爱的 Air Jordan 6 “Oreo” 首次回归商店。",
+    "explanation": "Google Trends 显示“迈克尔·乔丹”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：迈克尔·乔丹 (Michael Jordan) 深受粉丝喜爱的 Air Jordan 6 “Oreo” 首次回归商店。这些报道来自 WWD 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "All About Ariana Madix’s ‘Incredible’ Boyfriend, Personal Trainer Daniel Wai",
-        "url": "https://sg.news.yahoo.com/ariana-madix-incredible-boyfriend-personal-162749159.html",
-        "source": "Yahoo News Singapore"
+        "title": "Michael Jordan’s Fan-favorite Air Jordan 6 ‘Oreo’ Is Returning to Stores for the First Time",
+        "url": "https://wwd.com/footwear-news/sneaker-news/michael-jordan-air-jordan-6-oreo-release-date-ct8529-108-1238992778/",
+        "source": "WWD"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "castle impossible",
-    "titleZh": "不可能的城堡",
-    "traffic": "500+",
-    "started": "Tue, 2 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：《不可能的城堡》明星达芙妮和伊恩·菲格宣布他们将迎来第一个孩子。",
-    "explanation": "Google Trends 显示“不可能的城堡”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《不可能的城堡》明星达芙妮和伊恩·菲格宣布他们将迎来第一个孩子。这些报道来自 IMDb 等媒体，因此带动了集中搜索。",
+    "title": "not suitable for work cast",
+    "titleZh": "不适合工作铸件",
+    "traffic": "1000+",
+    "started": "Wed, 3 Jun 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：认识一下你最喜欢的新晋成人喜剧《不适合工作》的演员们。",
+    "explanation": "Google Trends 显示“不适合工作铸件”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：认识一下你最喜欢的新晋成人喜剧《不适合工作》的演员们。这些报道来自 Marie Claire 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "‘Castle Impossible’ Stars Daphne & Ian Fig Announce They’re Expecting First Child",
-        "url": "https://www.imdb.com/it/news/ni65866211/?ref_=nwc_art_perm",
-        "source": "IMDb"
+        "title": "Meet the Cast of 'Not Suitable for Work,' Your New Favorite Coming-of-Age Comedy",
+        "url": "https://www.marieclaire.com/culture/tv-shows/not-suitable-for-work-cast/",
+        "source": "Marie Claire"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "reds game",
-    "titleZh": "红军比赛",
+    "title": "why is crypto crashing",
+    "titleZh": "为什么加密货币会崩溃",
     "traffic": "500+",
-    "started": "Tue, 2 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：堪萨斯城皇家队 vs 辛辛那提红人队 – 2026 年 6 月 2 日。",
-    "explanation": "Google Trends 显示“红军比赛”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：堪萨斯城皇家队 vs 辛辛那提红人队 – 2026 年 6 月 2 日。这些报道来自 Redleg Nation 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 3 Jun 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：暴跌 36% 比特币的通胀对冲承诺破灭。",
+    "explanation": "Google Trends 显示“为什么加密货币会崩溃”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：暴跌 36% 比特币的通胀对冲承诺破灭。这些报道来自 Bloomberg.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Kansas City Royals vs Cincinnati Reds – June 2, 2026",
-        "url": "https://www.redlegnation.com/2026/06/02/kansas-city-royals-vs-cincinnati-reds-june-2-2026/",
-        "source": "Redleg Nation"
+        "title": "Bitcoin’s Inflation-Hedging Promise in Tatters After 36% Plunge",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-02/bitcoin-s-inflation-hedging-promise-in-tatters-after-36-plunge",
+        "source": "Bloomberg.com"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "olandria",
-    "titleZh": "夹竹桃",
+    "title": "fiji",
+    "titleZh": "斐济",
     "traffic": "500+",
-    "started": "Tue, 2 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：自美国爱岛以来，Olandria 已登陆 5 个最大的品牌交易。",
-    "explanation": "Google Trends 显示“夹竹桃”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：自美国爱岛以来，Olandria 已登陆 5 个最大的品牌交易。这些报道来自 ClutchPoints 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 3 Jun 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：NTSB：直升机撞上高大的树木，然后坠毁在道森县的树林中，造成两人死亡。",
+    "explanation": "Google Trends 显示“斐济”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：NTSB：直升机撞上高大的树木，然后坠毁在道森县的树林中，造成两人死亡。这些报道来自 Dawson County News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "5 Biggest Brand Deals Olandria Has Landed Since Love Island USA",
-        "url": "https://clutchpoints.com/hbcu/5-biggest-brand-deals-olandria-has-landed-since-love-island-usa",
-        "source": "ClutchPoints"
+        "title": "NTSB: Helicopter struck tall trees before crashing in Dawson County woods, killing two",
+        "url": "https://www.dawsonnews.com/news/public-safety/ntsb-helicopter-struck-tall-trees-before-crashing-in-dawson-county-woods-killing-two/",
+        "source": "Dawson County News"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "reds score",
-    "titleZh": "红军得分",
+    "title": "the bear season 5",
+    "titleZh": "熊第5季",
     "traffic": "500+",
-    "started": "Tue, 2 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：艾莉·德拉克鲁斯受伤后，埃德温·阿罗约通往辛辛那提的道路变得更加清晰。",
-    "explanation": "Google Trends 显示“红军得分”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：艾莉·德拉克鲁斯受伤后，埃德温·阿罗约通往辛辛那提的道路变得更加清晰。这些报道来自 Sports Illustrated 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 3 Jun 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：电视评论 - 熊：加里。",
+    "explanation": "Google Trends 显示“熊第5季”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：电视评论 - 熊：加里。这些报道来自 WBOC TV 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Edwin Arroyo's Path to Cincinnati Just Got Much Clearer After Elly De La Cruz Injury",
-        "url": "https://www.si.com/mlb/reds/onsi/edwin-arroyo-s-path-to-cincinnati-just-got-much-clearer-after-elly-de-la-cruz-injury-01kszqtjssew",
-        "source": "Sports Illustrated"
+        "title": "TV Review - The Bear: Gary",
+        "url": "https://www.wboc.com/features/the_m_report/tv-review---the-bear-gary/article_9f3aedbb-c939-4f5e-af9e-674fdd0258c1.html",
+        "source": "WBOC TV"
       }
     ]
   }
