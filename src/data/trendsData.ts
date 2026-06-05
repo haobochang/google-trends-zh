@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "timothee chalamet",
-    "titleZh": "蒂莫西·查拉梅",
-    "traffic": "5000+",
-    "started": "Wed, 3 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：名人在 NBA 总决赛第一场尼克斯队对阵马刺队的场边观看比赛。",
-    "explanation": "Google Trends 显示“蒂莫西·查拉梅”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：名人在 NBA 总决赛第一场尼克斯队对阵马刺队的场边观看比赛。这些报道来自 Bergen Record 等媒体，因此带动了集中搜索。",
+    "title": "sierra ferrell",
+    "titleZh": "塞拉费雷尔",
+    "traffic": "500+",
+    "started": "Thu, 4 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：Mumford & Sons 如何成为乡村音乐最受欢迎的英国乐队。",
+    "explanation": "Google Trends 显示“塞拉费雷尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Mumford & Sons 如何成为乡村音乐最受欢迎的英国乐队。这些报道来自 Holler Country Music 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Celebrities watch courtside at Knicks vs Spurs in NBA Finals Game 1",
-        "url": "https://www.northjersey.com/picture-gallery/sports/nba/knicks/2026/06/03/celebrities-courtside-knicks-spurs-nba-finals-game-1/90385744007/",
-        "source": "Bergen Record"
+        "title": "How Mumford & Sons Became Country Music's Favorite British Band",
+        "url": "https://holler.country/news/breaking/how-mumford-and-sons-became-country-musics-favorite-british-band/",
+        "source": "Holler Country Music"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "harrison barnes",
-    "titleZh": "哈里森·巴恩斯",
+    "title": "wnba scores",
+    "titleZh": "WNBA分数",
     "traffic": "2000+",
-    "started": "Wed, 3 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：哈里森·巴恩斯分享了进入第三次 NBA 总决赛的想法。",
-    "explanation": "Google Trends 显示“哈里森·巴恩斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：哈里森·巴恩斯分享了进入第三次 NBA 总决赛的想法。这些报道来自 Tar Heel Times 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 4 Jun 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：Liberty 在返校之夜以 97-82 击败 Tempo。",
+    "explanation": "Google Trends 显示“WNBA分数”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Liberty 在返校之夜以 97-82 击败 Tempo。这些报道来自 NetsDaily 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Harrison Barnes shares thoughts heading into third NBA Finals",
-        "url": "https://www.tarheeltimes.com/article166766.aspx",
-        "source": "Tar Heel Times"
+        "title": "Liberty beat Tempo 97-82 on homecoming night",
+        "url": "https://www.netsdaily.com/nyliberty/110258/liberty-beat-tempo-97-82-on-homecoming-night",
+        "source": "NetsDaily"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "david beckham",
-    "titleZh": "大卫·贝克汉姆",
-    "traffic": "1000+",
-    "started": "Wed, 3 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：大卫·贝克汉姆的好莱坞星光大道荣誉让影迷感到困惑，因为他们对“荒谬”的包容感到愤怒。",
-    "explanation": "Google Trends 显示“大卫·贝克汉姆”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：大卫·贝克汉姆的好莱坞星光大道荣誉让影迷感到困惑，因为他们对“荒谬”的包容感到愤怒。这些报道来自 GB News 等媒体，因此带动了集中搜索。",
+    "title": "jack eichel",
+    "titleZh": "杰克·艾切尔",
+    "traffic": "500+",
+    "started": "Thu, 4 Jun 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：杰克·艾切尔 (Jack Eichel) 的军刀故事如何转变为斯坦利杯 (Stanley Cup)，为维加斯金骑士队 (Vegas Golden Knights) 带来奥运荣耀。",
+    "explanation": "Google Trends 显示“杰克·艾切尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：杰克·艾切尔 (Jack Eichel) 的军刀故事如何转变为斯坦利杯 (Stanley Cup)，为维加斯金骑士队 (Vegas Golden Knights) 带来奥运荣耀。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "David Beckham's Hollywood Walk of Fame honour leaves film fans bewildered as they fume over 'absurd' inclusion",
-        "url": "https://www.gbnews.com/celebrity/david-beckham-hollywood-walk-of-fame-honour",
-        "source": "GB News"
+        "title": "How Jack Eichel's Sabres story turned into Stanley Cup, Olympic glory for Vegas Golden Knights",
+        "url": "https://sports.yahoo.com/articles/jack-eichels-sabres-story-turned-171259264.html",
+        "source": "Yahoo Sports"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "maluma",
-    "titleZh": "马鲁马",
-    "traffic": "2000+",
-    "started": "Wed, 3 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：就连Maluma也加入了演员阵容！ Papi Juancho 用这首歌向古巴流派投降：“这是一种恶习”。",
-    "explanation": "Google Trends 显示“马鲁马”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：就连Maluma也加入了演员阵容！ Papi Juancho 用这首歌向古巴流派投降：“这是一种恶习”。这些报道来自 CiberCuba 等媒体，因此带动了集中搜索。",
+    "title": "amy sedaris",
+    "titleZh": "艾米·塞达里斯",
+    "traffic": "500+",
+    "started": "Thu, 4 Jun 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：艾米·塞德丽丝会做吗 哦，玛丽！在百老汇？！。",
+    "explanation": "Google Trends 显示“艾米·塞达里斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：艾米·塞德丽丝会做吗 哦，玛丽！在百老汇？！。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "¡Hasta Maluma cayó en el reparto! Papi Juancho se rinde ante el género cubano con esta canción: «Es un vicio»",
-        "url": "https://www.cibercuba.com/noticias/2026-06-02-u194224-e198484-s27065-nid330977-maluma-cayo-reparto-papi-juancho-rinde-genero",
-        "source": "CiberCuba"
+        "title": "Would Amy Sedaris Do Oh, Mary! on Broadway?!",
+        "url": "https://www.yahoo.com/news/videos/amy-sedaris-oh-mary-broadway-013558926.html",
+        "source": "Yahoo"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "nick offerman",
-    "titleZh": "尼克·奥弗曼",
-    "traffic": "500+",
-    "started": "Wed, 3 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：尼克·奥弗曼 (Nick Offerman) 完成 2026 年阿拉斯加州博览会音乐会阵容。",
-    "explanation": "Google Trends 显示“尼克·奥弗曼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：尼克·奥弗曼 (Nick Offerman) 完成 2026 年阿拉斯加州博览会音乐会阵容。这些报道来自 Your Alaska Link 等媒体，因此带动了集中搜索。",
+    "title": "james handy top gun",
+    "titleZh": "詹姆斯手持顶枪",
+    "traffic": "2000+",
+    "started": "Thu, 4 Jun 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：詹姆斯·汉迪被刺死：《壮志凌云：特立独行》和《蜘蛛恐惧症》男主角 81 岁。",
+    "explanation": "Google Trends 显示“詹姆斯手持顶枪”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：詹姆斯·汉迪被刺死：《壮志凌云：特立独行》和《蜘蛛恐惧症》男主角 81 岁。这些报道来自 Deadline 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Nick Offerman completes Alaska State Fair 2026 concert lineup",
-        "url": "https://www.youralaskalink.com/news/alaskastatefair/nick-offerman-completes-alaska-state-fair-2026-concert-lineup/article_9e4830f0-2772-41b3-a119-b23e3dfc58b3.html",
-        "source": "Your Alaska Link"
+        "title": "James Handy Stabbed To Death: ‘Top Gun: Maverick’ & ‘Arachnophobia’ Actor Was 81",
+        "url": "https://deadline.com/2026/06/james-handy-stabbed-death-1236941636/",
+        "source": "Deadline"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "michael jordan",
-    "titleZh": "迈克尔·乔丹",
-    "traffic": "1000+",
-    "started": "Wed, 3 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：迈克尔·乔丹 (Michael Jordan) 深受粉丝喜爱的 Air Jordan 6 “Oreo” 首次回归商店。",
-    "explanation": "Google Trends 显示“迈克尔·乔丹”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：迈克尔·乔丹 (Michael Jordan) 深受粉丝喜爱的 Air Jordan 6 “Oreo” 首次回归商店。这些报道来自 WWD 等媒体，因此带动了集中搜索。",
+    "title": "dodgers - dbacks",
+    "titleZh": "道奇队 - 后卫",
+    "traffic": "2000+",
+    "started": "Thu, 4 Jun 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：道奇队对阵响尾蛇队的胜负盘为-137，具有罕见的价值，因为贾斯汀·沃布尔斯基在 2026 年占据主导地位。",
+    "explanation": "Google Trends 显示“道奇队 - 后卫”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：道奇队对阵响尾蛇队的胜负盘为-137，具有罕见的价值，因为贾斯汀·沃布尔斯基在 2026 年占据主导地位。这些报道来自 Fox News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Michael Jordan’s Fan-favorite Air Jordan 6 ‘Oreo’ Is Returning to Stores for the First Time",
-        "url": "https://wwd.com/footwear-news/sneaker-news/michael-jordan-air-jordan-6-oreo-release-date-ct8529-108-1238992778/",
-        "source": "WWD"
+        "title": "Dodgers moneyline at -137 against Diamondbacks offers rare value as Justin Wrobleski dominates in 2026",
+        "url": "https://www.foxnews.com/outkick-sports/dodgers-moneyline-137-diamondbacks-offers-rare-value-justin-wrobleski-dominates-2026",
+        "source": "Fox News"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "not suitable for work cast",
-    "titleZh": "不适合工作铸件",
+    "title": "kayda love island",
+    "titleZh": "爱情岛",
     "traffic": "1000+",
-    "started": "Wed, 3 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：认识一下你最喜欢的新晋成人喜剧《不适合工作》的演员们。",
-    "explanation": "Google Trends 显示“不适合工作铸件”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：认识一下你最喜欢的新晋成人喜剧《不适合工作》的演员们。这些报道来自 Marie Claire 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 4 Jun 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：来认识一下《美国爱情岛》第八季的前两部重磅炸弹。",
+    "explanation": "Google Trends 显示“爱情岛”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：来认识一下《美国爱情岛》第八季的前两部重磅炸弹。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Meet the Cast of 'Not Suitable for Work,' Your New Favorite Coming-of-Age Comedy",
-        "url": "https://www.marieclaire.com/culture/tv-shows/not-suitable-for-work-cast/",
-        "source": "Marie Claire"
+        "title": "Meet the First 2 Bombshells of “Love Island USA” Season 8",
+        "url": "https://www.aol.com/articles/meet-first-2-bombshells-love-174411000.html",
+        "source": "AOL.com"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "why is crypto crashing",
-    "titleZh": "为什么加密货币会崩溃",
-    "traffic": "500+",
-    "started": "Wed, 3 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：暴跌 36% 比特币的通胀对冲承诺破灭。",
-    "explanation": "Google Trends 显示“为什么加密货币会崩溃”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：暴跌 36% 比特币的通胀对冲承诺破灭。这些报道来自 Bloomberg.com 等媒体，因此带动了集中搜索。",
+    "title": "minnesota lynx",
+    "titleZh": "明尼苏达山猫",
+    "traffic": "1000+",
+    "started": "Thu, 4 Jun 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：今晚 WNBA 比赛的 Valkyries vs Lynx 预测、选秀和最佳投注。",
+    "explanation": "Google Trends 显示“明尼苏达山猫”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：今晚 WNBA 比赛的 Valkyries vs Lynx 预测、选秀和最佳投注。这些报道来自 Covers.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Bitcoin’s Inflation-Hedging Promise in Tatters After 36% Plunge",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-02/bitcoin-s-inflation-hedging-promise-in-tatters-after-36-plunge",
-        "source": "Bloomberg.com"
+        "title": "Valkyries vs Lynx Prediction, Picks & Best Bets for Tonight’s WNBA Game",
+        "url": "https://www.covers.com/wnba/valkyries-vs-lynx-prediction-picks-best-bets-parlay-thursday-6-4-2026",
+        "source": "Covers.com"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "fiji",
-    "titleZh": "斐济",
+    "title": "shea langeliers",
+    "titleZh": "乳木果兰格利尔斯",
     "traffic": "500+",
-    "started": "Wed, 3 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：NTSB：直升机撞上高大的树木，然后坠毁在道森县的树林中，造成两人死亡。",
-    "explanation": "Google Trends 显示“斐济”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：NTSB：直升机撞上高大的树木，然后坠毁在道森县的树林中，造成两人死亡。这些报道来自 Dawson County News 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 4 Jun 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：芝加哥小熊队 vs. 田径队预测，美国职业棒球大联盟 (MLB) 周四 6/04/26 选秀。",
+    "explanation": "Google Trends 显示“乳木果兰格利尔斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：芝加哥小熊队 vs. 田径队预测，美国职业棒球大联盟 (MLB) 周四 6/04/26 选秀。这些报道来自 DraftKings Network 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "NTSB: Helicopter struck tall trees before crashing in Dawson County woods, killing two",
-        "url": "https://www.dawsonnews.com/news/public-safety/ntsb-helicopter-struck-tall-trees-before-crashing-in-dawson-county-woods-killing-two/",
-        "source": "Dawson County News"
+        "title": "Chicago Cubs vs. Athletics prediction, pick for MLB on Thursday 6/04/26",
+        "url": "https://dknetwork.draftkings.com/2026/06/04/chicago-cubs-vs-athletics-prediction-pick-for-mlb-on-thursday-6-04-26/",
+        "source": "DraftKings Network"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "the bear season 5",
-    "titleZh": "熊第5季",
-    "traffic": "500+",
-    "started": "Wed, 3 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：电视评论 - 熊：加里。",
-    "explanation": "Google Trends 显示“熊第5季”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：电视评论 - 熊：加里。这些报道来自 WBOC TV 等媒体，因此带动了集中搜索。",
+    "title": "meghan, duchess of sussex",
+    "titleZh": "梅根，苏塞克斯公爵夫人",
+    "traffic": "10000+",
+    "started": "Thu, 4 Jun 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：莉莉贝特公主五岁生日照片中戴着一模一样的珠宝，简直就是梅根·马克尔的迷你版我。",
+    "explanation": "Google Trends 显示“梅根，苏塞克斯公爵夫人”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：莉莉贝特公主五岁生日照片中戴着一模一样的珠宝，简直就是梅根·马克尔的迷你版我。这些报道来自 People.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "TV Review - The Bear: Gary",
-        "url": "https://www.wboc.com/features/the_m_report/tv-review---the-bear-gary/article_9f3aedbb-c939-4f5e-af9e-674fdd0258c1.html",
-        "source": "WBOC TV"
+        "title": "Princess Lilibet Is Meghan Markle's Mini-Me with Lookalike Jewelry in Her 5th Birthday Photos",
+        "url": "https://people.com/princess-lilibet-meghan-markle-mini-me-lookalike-jewelry-5th-birthday-photos-11990777",
+        "source": "People.com"
       }
     ]
   }
