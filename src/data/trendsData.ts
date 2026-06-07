@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "og anunoby",
-    "titleZh": "和阿努诺比",
-    "traffic": "5000+",
-    "started": "Fri, 5 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：Skechers 为 OG Anunoby 打造工作靴风格运动鞋。",
-    "explanation": "Google Trends 显示“和阿努诺比”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Skechers 为 OG Anunoby 打造工作靴风格运动鞋。这些报道来自 Complex 等媒体，因此带动了集中搜索。",
+    "title": "mitch marner",
+    "titleZh": "米奇·马纳",
+    "traffic": "500+",
+    "started": "Sat, 6 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：米奇·马纳 (Mitch Marner) 在对阵飓风队的比赛中，在最后时刻凭借关键挡球帮助维加斯以 1-0 领先斯坦利杯决赛。",
+    "explanation": "Google Trends 显示“米奇·马纳”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：米奇·马纳 (Mitch Marner) 在对阵飓风队的比赛中，在最后时刻凭借关键挡球帮助维加斯以 1-0 领先斯坦利杯决赛。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Skechers Made Work Boot-Inspired Sneakers For OG Anunoby",
-        "url": "https://www.complex.com/sneakers/a/victor-deng/skechers-skx-reign-foreman-pe-og-anunoby",
-        "source": "Complex"
+        "title": "Mitch Marner helps give Vegas 1-0 Stanley Cup Final lead with clutch block in waning moments vs. Hurricanes",
+        "url": "https://sports.yahoo.com/articles/mitch-marner-helps-vegas-1-040850948.html",
+        "source": "Yahoo Sports"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "flagrant foul",
-    "titleZh": "恶意犯规",
+    "title": "oman vs nepal",
+    "titleZh": "阿曼 vs 尼泊尔",
     "traffic": "1000+",
-    "started": "Fri, 5 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：Fever 球员凯特琳·克拉克 (Caitlin Clark) 再次创造 WNBA 篮球历史。",
-    "explanation": "Google Trends 显示“恶意犯规”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Fever 球员凯特琳·克拉克 (Caitlin Clark) 再次创造 WNBA 篮球历史。这些报道来自 www.sportingnews.com 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 6 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：布尔特尔创纪录，尼泊尔队夺得A组冠军。",
+    "explanation": "Google Trends 显示“阿曼 vs 尼泊尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：布尔特尔创纪录，尼泊尔队夺得A组冠军。这些报道来自 The Rising Nepal 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Fever's Caitlin Clark once again makes basketball history never done before in WNBA",
-        "url": "https://www.sportingnews.com/us/wnba/indiana-fever/news/fevers-caitlin-clark-once-again-makes-basketball-history-never-done-wnba/4429070288c89cce70e297d0",
-        "source": "www.sportingnews.com"
+        "title": "Bhurtel record ton sees Nepal top Group A",
+        "url": "https://risingnepaldaily.com/news/81419",
+        "source": "The Rising Nepal"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "vassell",
-    "titleZh": "瓦塞尔",
-    "traffic": "1000+",
-    "started": "Fri, 5 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：从温比到 51 区：马刺队以华丽姿态迎接 NBA 总决赛第一场比赛。",
-    "explanation": "Google Trends 显示“瓦塞尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：从温比到 51 区：马刺队以华丽姿态迎接 NBA 总决赛第一场比赛。这些报道来自 San Antonio Express-News 等媒体，因此带动了集中搜索。",
+    "title": "what is the latest news on the election fraud investigations in california",
+    "titleZh": "关于加州选举舞弊调查的最新消息是什么",
+    "traffic": "2000+",
+    "started": "Sat, 6 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：加州州长竞选：司法部因统计缓慢而派出联邦观察员。",
+    "explanation": "Google Trends 显示“关于加州选举舞弊调查的最新消息是什么”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：加州州长竞选：司法部因统计缓慢而派出联邦观察员。这些报道来自 The Guardian 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "From Wemby to Area 51: Spurs arrive in style for Game 1 of the NBA Finals",
-        "url": "https://www.expressnews.com/news/article/victor-wembanyama-stephon-castle-spurs-fashion-22290466.php",
-        "source": "San Antonio Express-News"
+        "title": "California governor’s race: DoJ sends in federal observer over slow count",
+        "url": "https://www.theguardian.com/us-news/2026/jun/05/california-primary-election-races-too-close-to-call",
+        "source": "The Guardian"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "steph curry",
-    "titleZh": "斯蒂芬·库里",
-    "traffic": "1000+",
-    "started": "Fri, 5 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：川上：勒布朗+勇士？晚婚也许再方便不过了。",
-    "explanation": "Google Trends 显示“斯蒂芬·库里”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：川上：勒布朗+勇士？晚婚也许再方便不过了。这些报道来自 The San Francisco Standard 等媒体，因此带动了集中搜索。",
+    "title": "love island aftersun",
+    "titleZh": "爱岛晒后",
+    "traffic": "500+",
+    "started": "Sat, 6 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：今晚有《美国爱情岛》吗？剧集时间表，科尔宾重磅更新。",
+    "explanation": "Google Trends 显示“爱岛晒后”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：今晚有《美国爱情岛》吗？剧集时间表，科尔宾重磅更新。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Kawakami: LeBron + Warriors? A late marriage that might never be more convenient",
-        "url": "https://sfstandard.com/2026/06/01/lebron-james-warriors-free-agency-targets/",
-        "source": "The San Francisco Standard"
+        "title": "Is 'Love Island USA' on tonight? Episode schedule, Corbin bombshell update",
+        "url": "https://www.yahoo.com/entertainment/tv/articles/love-island-usa-tonight-episode-172245608.html",
+        "source": "Yahoo"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "corbin love island",
-    "titleZh": "科尔宾爱情岛",
-    "traffic": "500+",
-    "started": "Fri, 5 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：呃，孔雀是否意外泄露了新的“美国爱情岛”重磅炸弹？。",
-    "explanation": "Google Trends 显示“科尔宾爱情岛”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：呃，孔雀是否意外泄露了新的“美国爱情岛”重磅炸弹？。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
+    "title": "sierra ferrell",
+    "titleZh": "塞拉费雷尔",
+    "traffic": "1000+",
+    "started": "Sat, 6 Jun 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：萨吉诺繁育的约书亚·里尔科 (Joshua Rilko) 将于 6 月 8 日星期一与塞拉·费雷尔 (Sierra Ferrell) 一起在大急流城的 Fredrik Meijer Gardens 比赛。。",
+    "explanation": "Google Trends 显示“塞拉费雷尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：萨吉诺繁育的约书亚·里尔科 (Joshua Rilko) 将于 6 月 8 日星期一与塞拉·费雷尔 (Sierra Ferrell) 一起在大急流城的 Fredrik Meijer Gardens 比赛。。这些报道来自 MLive.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Uh, Did Peacock Accidentally Leak the New ‘Love Island USA’ Bombshell?",
-        "url": "https://www.aol.com/articles/uh-did-peacock-accidentally-leak-151946563.html",
-        "source": "AOL.com"
+        "title": "The Saginaw-bred Joshua Rilko will play Grand Rapids' Fredrik Meijer Gardens on Monday, June 8, with Sierra Ferrell.",
+        "url": "https://www.mlive.com/galleries/SOQS5CB4FZC2LND63D6WINKPXA/",
+        "source": "MLive.com"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "every year after",
-    "titleZh": "之后的每年",
+    "title": "st john's university",
+    "titleZh": "圣约翰大学",
     "traffic": "500+",
-    "started": "Fri, 5 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：每年之后：团聚 - 剪辑。",
-    "explanation": "Google Trends 显示“之后的每年”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：每年之后：团聚 - 剪辑。这些报道来自 IMDb 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 6 Jun 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：乔安妮·佩尔西科公布 2026 年排球赛程。",
+    "explanation": "Google Trends 显示“圣约翰大学”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：乔安妮·佩尔西科公布 2026 年排球赛程。这些报道来自 St. John's University Athletics 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Every Year After: Reunion - Clip",
-        "url": "https://www.imdb.com/video/vi2188757785/?ref_=tt_vids_vi_1",
-        "source": "IMDb"
+        "title": "Joanne Persico Announces 2026 Volleyball Schedule",
+        "url": "https://redstormsports.com/news/2026/6/4/womens-volleyball-joanne-persico-announces-2026-volleyball-schedule",
+        "source": "St. John's University Athletics"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "adley rutschman",
-    "titleZh": "阿德利·鲁奇曼",
+    "title": "fireworks near me",
+    "titleZh": "我附近的烟花",
     "traffic": "500+",
-    "started": "Fri, 5 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：阿德利·鲁奇曼（Adley Rutschman）的独奏本垒打经过审查后得到维持。",
-    "explanation": "Google Trends 显示“阿德利·鲁奇曼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：阿德利·鲁奇曼（Adley Rutschman）的独奏本垒打经过审查后得到维持。这些报道来自 MLB.com 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 6 Jun 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：沃尔玛联营周的要点。",
+    "explanation": "Google Trends 显示“我附近的烟花”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：沃尔玛联营周的要点。这些报道来自 Axios 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Adley Rutschman's solo homer upheld after review",
-        "url": "https://www.mlb.com/orioles/video/adley-rutschman-s-solo-homer-upheld-after-review",
-        "source": "MLB.com"
+        "title": "Key takeaways from Walmart Associates Week",
+        "url": "https://www.axios.com/local/nw-arkansas/2026/06/05/key-takeaways-walmart-associates-week-ai-technology",
+        "source": "Axios"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "why is the air quality bad today",
-    "titleZh": "为什么今天空气质量不好",
+    "title": "jack eichel",
+    "titleZh": "杰克·艾切尔",
     "traffic": "500+",
-    "started": "Fri, 5 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：威斯康星州 DNR 向威斯康星州东南部县发布空气质量咨询。",
-    "explanation": "Google Trends 显示“为什么今天空气质量不好”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：威斯康星州 DNR 向威斯康星州东南部县发布空气质量咨询。这些报道来自 TMJ4 News 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 6 Jun 2026 18:10:00 -0700",
+    "summary": "相关新闻主要集中在：“稳定的心态”：为什么金骑士在反派角色中表现出色。",
+    "explanation": "Google Trends 显示“杰克·艾切尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：“稳定的心态”：为什么金骑士在反派角色中表现出色。这些报道来自 Sportsnet.ca 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Wisconsin DNR issues air quality advisory for southeast Wisconsin counties",
-        "url": "https://www.tmj4.com/news/local-news/wisconsin-dnr-issues-air-quality-advisory-for-southeast-wisconsin-counties",
-        "source": "TMJ4 News"
+        "title": "‘Steady mindset’: Why the Golden Knights excel in villain-like role",
+        "url": "https://www.sportsnet.ca/nhl/video/steady-mindset-why-the-golden-knights-excel-in-villain-like-role/",
+        "source": "Sportsnet.ca"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "military chaplain",
-    "titleZh": "军事牧师",
-    "traffic": "1000+",
-    "started": "Fri, 5 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：国防部将其宗教名称清单从 200 多个选项削减至 31 个。",
-    "explanation": "Google Trends 显示“军事牧师”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：国防部将其宗教名称清单从 200 多个选项削减至 31 个。这些报道来自 AP News 等媒体，因此带动了集中搜索。",
+    "title": "macaulay culkin",
+    "titleZh": "麦考利卡尔金",
+    "traffic": "500+",
+    "started": "Sat, 6 Jun 2026 18:10:00 -0700",
+    "summary": "相关新闻主要集中在：Netflix 的《迈克尔·杰克逊：判决》系列纪录片对歌手和公众进行审判：电视评论。",
+    "explanation": "Google Trends 显示“麦考利卡尔金”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Netflix 的《迈克尔·杰克逊：判决》系列纪录片对歌手和公众进行审判：电视评论。这些报道来自 Variety 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Defense Department slashes its religious designations list from more than 200 choices to 31",
-        "url": "https://apnews.com/article/us-military-religious-affiliations-pete-hegseth-christian-002a610344189f4f456291d76b910d52",
-        "source": "AP News"
+        "title": "Netflix’s ‘Michael Jackson: The Verdict’ Docuseries Puts the Singer and the Public on Trial: TV Review",
+        "url": "https://variety.com/2026/tv/reviews/michael-jackson-the-verdict-review-netflix-1236765646/",
+        "source": "Variety"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "knicks vs san antonio spurs",
-    "titleZh": "尼克斯队 vs 圣安东尼奥马刺队",
-    "traffic": "10000+",
-    "started": "Fri, 5 Jun 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：老虎队 7-2 光芒队（2026 年 6 月 3 日）比赛回顾。",
-    "explanation": "Google Trends 显示“尼克斯队 vs 圣安东尼奥马刺队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：老虎队 7-2 光芒队（2026 年 6 月 3 日）比赛回顾。这些报道来自 ESPN 等媒体，因此带动了集中搜索。",
+    "title": "passengers",
+    "titleZh": "乘客",
+    "traffic": "1000+",
+    "started": "Sat, 6 Jun 2026 18:10:00 -0700",
+    "summary": "相关新闻主要集中在：“没有丁字裤，没有单基尼”——澳大利亚巡洋舰被告知在前往南太平洋岛屿时要进行掩护。",
+    "explanation": "Google Trends 显示“乘客”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：“没有丁字裤，没有单基尼”——澳大利亚巡洋舰被告知在前往南太平洋岛屿时要进行掩护。这些报道来自 Cruise Passenger 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Tigers 7-2 Rays (Jun 3, 2026) Game Recap",
-        "url": "https://www.espn.com/mlb/recap/_/gameId/401815606",
-        "source": "ESPN"
+        "title": "“No g-strings, no monokinis” – Aussie cruisers told to cover up for South Pacific islands",
+        "url": "https://cruisepassenger.com.au/news/no-g-strings-no-monokinis-aussie-cruisers-told-to-cover-up-for-south-pacific-islands/",
+        "source": "Cruise Passenger"
       }
     ]
   }
