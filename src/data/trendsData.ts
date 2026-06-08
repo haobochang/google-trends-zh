@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "mitch marner",
-    "titleZh": "米奇·马纳",
-    "traffic": "500+",
-    "started": "Sat, 6 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：米奇·马纳 (Mitch Marner) 在对阵飓风队的比赛中，在最后时刻凭借关键挡球帮助维加斯以 1-0 领先斯坦利杯决赛。",
-    "explanation": "Google Trends 显示“米奇·马纳”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：米奇·马纳 (Mitch Marner) 在对阵飓风队的比赛中，在最后时刻凭借关键挡球帮助维加斯以 1-0 领先斯坦利杯决赛。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "title": "lesley manville",
+    "titleZh": "莱斯利·曼维尔",
+    "traffic": "2000+",
+    "started": "Sun, 7 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：《俄狄浦斯》中的莱斯利·曼维尔荣获 2026 年托尼奖最佳话剧女主角奖。",
+    "explanation": "Google Trends 显示“莱斯利·曼维尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《俄狄浦斯》中的莱斯利·曼维尔荣获 2026 年托尼奖最佳话剧女主角奖。这些报道来自 BroadwayWorld 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Mitch Marner helps give Vegas 1-0 Stanley Cup Final lead with clutch block in waning moments vs. Hurricanes",
-        "url": "https://sports.yahoo.com/articles/mitch-marner-helps-vegas-1-040850948.html",
-        "source": "Yahoo Sports"
+        "title": "OEDIPUS's Lesley Manville Wins 2026 Tony Award for Best Actress in a Leading Role in a Play",
+        "url": "https://www.broadwayworld.com/article/OEDIPUSs-Lesley-Manville-Wins-2026-Tony-Award-for-Best-Actress-in-a-Leading-Role-in-a-Play-20260607",
+        "source": "BroadwayWorld"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "oman vs nepal",
-    "titleZh": "阿曼 vs 尼泊尔",
-    "traffic": "1000+",
-    "started": "Sat, 6 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：布尔特尔创纪录，尼泊尔队夺得A组冠军。",
-    "explanation": "Google Trends 显示“阿曼 vs 尼泊尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：布尔特尔创纪录，尼泊尔队夺得A组冠军。这些报道来自 The Rising Nepal 等媒体，因此带动了集中搜索。",
+    "title": "annette bening",
+    "titleZh": "安妮特·贝宁",
+    "traffic": "5000+",
+    "started": "Sun, 7 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：认识艾拉·贝蒂：安妮特·贝宁的女儿和她的华丽进化。",
+    "explanation": "Google Trends 显示“安妮特·贝宁”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：认识艾拉·贝蒂：安妮特·贝宁的女儿和她的华丽进化。这些报道来自 Nicki Swift 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Bhurtel record ton sees Nepal top Group A",
-        "url": "https://risingnepaldaily.com/news/81419",
-        "source": "The Rising Nepal"
+        "title": "Meet Ella Beatty: Annette Bening's Daughter And Her Gorgeous Evolution",
+        "url": "https://www.nickiswift.com/2184796/dutton-ranch-annette-bening-daughter-ella-beatty-gorgeous-evolution-photos/",
+        "source": "Nicki Swift"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "what is the latest news on the election fraud investigations in california",
-    "titleZh": "关于加州选举舞弊调查的最新消息是什么",
-    "traffic": "2000+",
-    "started": "Sat, 6 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：加州州长竞选：司法部因统计缓慢而派出联邦观察员。",
-    "explanation": "Google Trends 显示“关于加州选举舞弊调查的最新消息是什么”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：加州州长竞选：司法部因统计缓慢而派出联邦观察员。这些报道来自 The Guardian 等媒体，因此带动了集中搜索。",
+    "title": "mother",
+    "titleZh": "母亲",
+    "traffic": "500+",
+    "started": "Sun, 7 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：在日本失踪的美国人在京都附近山区被发现死亡。",
+    "explanation": "Google Trends 显示“母亲”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：在日本失踪的美国人在京都附近山区被发现死亡。这些报道来自 ABC News - Breaking News, Latest News and Videos 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "California governor’s race: DoJ sends in federal observer over slow count",
-        "url": "https://www.theguardian.com/us-news/2026/jun/05/california-primary-election-races-too-close-to-call",
-        "source": "The Guardian"
+        "title": "American missing in Japan found dead in mountainous area near Kyoto",
+        "url": "https://abcnews.com/International/american-missing-japan-found-dead-mountainous-area-kyoto/story?id=133651194",
+        "source": "ABC News - Breaking News, Latest News and Videos"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "love island aftersun",
-    "titleZh": "爱岛晒后",
-    "traffic": "500+",
-    "started": "Sat, 6 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：今晚有《美国爱情岛》吗？剧集时间表，科尔宾重磅更新。",
-    "explanation": "Google Trends 显示“爱岛晒后”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：今晚有《美国爱情岛》吗？剧集时间表，科尔宾重磅更新。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
+    "title": "chicago",
+    "titleZh": "芝加哥",
+    "traffic": "1000+",
+    "started": "Sun, 7 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：芝加哥夜间有 15 人遭枪击，其中包括几名青少年。",
+    "explanation": "Google Trends 显示“芝加哥”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：芝加哥夜间有 15 人遭枪击，其中包括几名青少年。这些报道来自 Chicago Sun-Times 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Is 'Love Island USA' on tonight? Episode schedule, Corbin bombshell update",
-        "url": "https://www.yahoo.com/entertainment/tv/articles/love-island-usa-tonight-episode-172245608.html",
-        "source": "Yahoo"
+        "title": "15 shot overnight in Chicago, including several teens",
+        "url": "https://chicago.suntimes.com/crime/2026/06/07/15-shot-overnight-chicago",
+        "source": "Chicago Sun-Times"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "sierra ferrell",
-    "titleZh": "塞拉费雷尔",
-    "traffic": "1000+",
-    "started": "Sat, 6 Jun 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：萨吉诺繁育的约书亚·里尔科 (Joshua Rilko) 将于 6 月 8 日星期一与塞拉·费雷尔 (Sierra Ferrell) 一起在大急流城的 Fredrik Meijer Gardens 比赛。。",
-    "explanation": "Google Trends 显示“塞拉费雷尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：萨吉诺繁育的约书亚·里尔科 (Joshua Rilko) 将于 6 月 8 日星期一与塞拉·费雷尔 (Sierra Ferrell) 一起在大急流城的 Fredrik Meijer Gardens 比赛。。这些报道来自 MLive.com 等媒体，因此带动了集中搜索。",
+    "title": "joe rogan",
+    "titleZh": "乔·罗根",
+    "traffic": "500+",
+    "started": "Sun, 7 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：达纳·怀特 (Dana White) 对乔·罗根 (Joe Rogan) 的“噱头”评论进行了猛烈抨击；他的亚历克斯·佩雷拉的判决会让你震惊。",
+    "explanation": "Google Trends 显示“乔·罗根”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：达纳·怀特 (Dana White) 对乔·罗根 (Joe Rogan) 的“噱头”评论进行了猛烈抨击；他的亚历克斯·佩雷拉的判决会让你震惊。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "The Saginaw-bred Joshua Rilko will play Grand Rapids' Fredrik Meijer Gardens on Monday, June 8, with Sierra Ferrell.",
-        "url": "https://www.mlive.com/galleries/SOQS5CB4FZC2LND63D6WINKPXA/",
-        "source": "MLive.com"
+        "title": "Dana White goes nuclear on Joe Rogan’s “gimmick” comment; His Alex Pereira verdict will shock you",
+        "url": "https://sports.yahoo.com/articles/dana-white-goes-nuclear-joe-232606912.html",
+        "source": "Yahoo Sports"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "st john's university",
-    "titleZh": "圣约翰大学",
+    "title": "tony vitello",
+    "titleZh": "托尼·维泰洛",
     "traffic": "500+",
-    "started": "Sat, 6 Jun 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：乔安妮·佩尔西科公布 2026 年排球赛程。",
-    "explanation": "Google Trends 显示“圣约翰大学”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：乔安妮·佩尔西科公布 2026 年排球赛程。这些报道来自 St. John's University Athletics 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 7 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：旧金山巨人队增加牛棚长度，从三甲萨克拉门托召回西摩。",
+    "explanation": "Google Trends 显示“托尼·维泰洛”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：旧金山巨人队增加牛棚长度，从三甲萨克拉门托召回西摩。这些报道来自 The Press Democrat 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Joanne Persico Announces 2026 Volleyball Schedule",
-        "url": "https://redstormsports.com/news/2026/6/4/womens-volleyball-joanne-persico-announces-2026-volleyball-schedule",
-        "source": "St. John's University Athletics"
+        "title": "SF Giants add bullpen length, recall Seymour from Triple-A Sacramento",
+        "url": "https://www.pressdemocrat.com/2026/06/05/sf-giants-add-bullpen-length-recall-seymour-from-triple-a-sacramento/",
+        "source": "The Press Democrat"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "fireworks near me",
-    "titleZh": "我附近的烟花",
+    "title": "carrie coon",
+    "titleZh": "凯莉·库恩",
     "traffic": "500+",
-    "started": "Sat, 6 Jun 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：沃尔玛联营周的要点。",
-    "explanation": "Google Trends 显示“我附近的烟花”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：沃尔玛联营周的要点。这些报道来自 Axios 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 7 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：视频：凯莉·库恩 (Carrie Coon) 说她本质上是一名戏剧女孩 - 其余的都是意外。",
+    "explanation": "Google Trends 显示“凯莉·库恩”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：视频：凯莉·库恩 (Carrie Coon) 说她本质上是一名戏剧女孩 - 其余的都是意外。这些报道来自 IMDb 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Key takeaways from Walmart Associates Week",
-        "url": "https://www.axios.com/local/nw-arkansas/2026/06/05/key-takeaways-walmart-associates-week-ai-technology",
-        "source": "Axios"
+        "title": "Video: Carrie Coon Says She's a Theatre Girl at Heart- the Rest Is an Accident",
+        "url": "https://www.imdb.com/es/news/ni65870361/?ref_=int_nwr_2",
+        "source": "IMDb"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "jack eichel",
-    "titleZh": "杰克·艾切尔",
+    "title": "antares mark-0 reactor pilot program",
+    "titleZh": "Antares mark-0反应堆试点计划",
     "traffic": "500+",
-    "started": "Sat, 6 Jun 2026 18:10:00 -0700",
-    "summary": "相关新闻主要集中在：“稳定的心态”：为什么金骑士在反派角色中表现出色。",
-    "explanation": "Google Trends 显示“杰克·艾切尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：“稳定的心态”：为什么金骑士在反派角色中表现出色。这些报道来自 Sportsnet.ca 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 7 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：小型模块化核反应堆在首次测试中达到临界状态。",
+    "explanation": "Google Trends 显示“Antares mark-0反应堆试点计划”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：小型模块化核反应堆在首次测试中达到临界状态。这些报道来自 Ars Technica 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "‘Steady mindset’: Why the Golden Knights excel in villain-like role",
-        "url": "https://www.sportsnet.ca/nhl/video/steady-mindset-why-the-golden-knights-excel-in-villain-like-role/",
-        "source": "Sportsnet.ca"
+        "title": "Small modular nuclear reactor reaches criticality in first test",
+        "url": "https://arstechnica.com/science/2026/06/first-us-test-of-modular-reactor-reaches-criticality/",
+        "source": "Ars Technica"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "macaulay culkin",
-    "titleZh": "麦考利卡尔金",
-    "traffic": "500+",
-    "started": "Sat, 6 Jun 2026 18:10:00 -0700",
-    "summary": "相关新闻主要集中在：Netflix 的《迈克尔·杰克逊：判决》系列纪录片对歌手和公众进行审判：电视评论。",
-    "explanation": "Google Trends 显示“麦考利卡尔金”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Netflix 的《迈克尔·杰克逊：判决》系列纪录片对歌手和公众进行审判：电视评论。这些报道来自 Variety 等媒体，因此带动了集中搜索。",
+    "title": "laura benanti",
+    "titleZh": "劳拉·贝南蒂",
+    "traffic": "1000+",
+    "started": "Sun, 7 Jun 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：LAURA BENANTI：NOBODY CARES 今年夏天推出巡演。",
+    "explanation": "Google Trends 显示“劳拉·贝南蒂”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：LAURA BENANTI：NOBODY CARES 今年夏天推出巡演。这些报道来自 BroadwayWorld 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Netflix’s ‘Michael Jackson: The Verdict’ Docuseries Puts the Singer and the Public on Trial: TV Review",
-        "url": "https://variety.com/2026/tv/reviews/michael-jackson-the-verdict-review-netflix-1236765646/",
-        "source": "Variety"
+        "title": "LAURA BENANTI: NOBODY CARES to Launch Tour This Summer",
+        "url": "https://www.broadwayworld.com/article/Laura-Benanti-to-Launch-NOBODY-CARES-Tour-This-Summer-20260604",
+        "source": "BroadwayWorld"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "passengers",
-    "titleZh": "乘客",
-    "traffic": "1000+",
-    "started": "Sat, 6 Jun 2026 18:10:00 -0700",
-    "summary": "相关新闻主要集中在：“没有丁字裤，没有单基尼”——澳大利亚巡洋舰被告知在前往南太平洋岛屿时要进行掩护。",
-    "explanation": "Google Trends 显示“乘客”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：“没有丁字裤，没有单基尼”——澳大利亚巡洋舰被告知在前往南太平洋岛屿时要进行掩护。这些报道来自 Cruise Passenger 等媒体，因此带动了集中搜索。",
+    "title": "toy story",
+    "titleZh": "玩具总动员",
+    "traffic": "2000+",
+    "started": "Sun, 7 Jun 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：《玩具总动员 5》视觉特效总监谈泰勒·斯威夫特歌曲的秘密。",
+    "explanation": "Google Trends 显示“玩具总动员”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《玩具总动员 5》视觉特效总监谈泰勒·斯威夫特歌曲的秘密。这些报道来自 Variety 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "“No g-strings, no monokinis” – Aussie cruisers told to cover up for South Pacific islands",
-        "url": "https://cruisepassenger.com.au/news/no-g-strings-no-monokinis-aussie-cruisers-told-to-cover-up-for-south-pacific-islands/",
-        "source": "Cruise Passenger"
+        "title": "'Toy Story 5' VFX Supervisor on Keeping Taylor Swift Song Secret",
+        "url": "https://variety.com/2026/film/global/toy-story-5-vfx-supervisor-keeping-taylor-swift-song-secret-1236767743/",
+        "source": "Variety"
       }
     ]
   }
