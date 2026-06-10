@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "karl anthony towns",
-    "titleZh": "卡尔·安东尼·唐斯",
-    "traffic": "10000+",
-    "started": "Mon, 8 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：关于卡尔·安东尼·唐斯已故母亲杰基和父亲老卡尔的一切。",
-    "explanation": "Google Trends 显示“卡尔·安东尼·唐斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：关于卡尔·安东尼·唐斯已故母亲杰基和父亲老卡尔的一切。这些报道来自 People.com 等媒体，因此带动了集中搜索。",
+    "title": "indianapolis weather",
+    "titleZh": "印第安纳波利斯 天气",
+    "traffic": "500+",
+    "started": "Tue, 9 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：印第安纳县处于严重雷暴监视之下。",
+    "explanation": "Google Trends 显示“印第安纳波利斯 天气”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：印第安纳县处于严重雷暴监视之下。这些报道来自 WCCS AM1160 & 101.1FM 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "All About Karl-Anthony Towns’ Late Mom Jackie and Dad Karl Sr.",
-        "url": "https://people.com/all-about-karl-anthony-towns-parents-11993272",
-        "source": "People.com"
+        "title": "INDIANA COUNTY UNDER SEVERE THUNDERSTORM WATCH",
+        "url": "https://www.wccsradio.com/2026/06/06/indiana-county-under-severe-thunderstorm-watch-2/",
+        "source": "WCCS AM1160 & 101.1FM"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "wemby",
-    "titleZh": "温比",
-    "traffic": "10000+",
-    "started": "Mon, 8 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：没有什么比 Victor Wembanyama 试图斩断何塞·阿尔瓦拉多 (Jose Alvarado) 的头更可悲的了，而裁判却溺爱他 48 分钟。",
-    "explanation": "Google Trends 显示“温比”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：没有什么比 Victor Wembanyama 试图斩断何塞·阿尔瓦拉多 (Jose Alvarado) 的头更可悲的了，而裁判却溺爱他 48 分钟。这些报道来自 Barstool Sports 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "There's Nothing More Pathetic Than Victor Wembanyama Trying To Decapitate Jose Alvarado While The Refs Coddled Him For 48 Minutes",
-        "url": "https://www.barstoolsports.com/blog/3570947/theres-nothing-more-pathetic-than-victor-wembanyama-trying-to-decapitate-jose",
-        "source": "Barstool Sports"
-      }
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "rick brunson",
-    "titleZh": "里克·布伦森",
-    "traffic": "2000+",
-    "started": "Mon, 8 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：泄露的音频揭示了尼克斯队与马刺队 NBA 总决赛交锋的细节。",
-    "explanation": "Google Trends 显示“里克·布伦森”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：泄露的音频揭示了尼克斯队与马刺队 NBA 总决赛交锋的细节。这些报道来自 Heavy.com 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "LEAKED AUDIO Reveals Details of Heated Knicks-Spurs NBA Finals Exchange",
-        "url": "https://heavy.com/sports/nba/new-york-knicks/rick-brunson-deaaron-fox/",
-        "source": "Heavy.com"
-      }
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "rahm emanuel",
-    "titleZh": "拉姆·伊曼纽尔",
+    "title": "nico paz",
+    "titleZh": "只有和平",
     "traffic": "1000+",
-    "started": "Mon, 8 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：潜在的总统候选人伊曼纽尔骑自行车穿越新罕布什尔州。",
-    "explanation": "Google Trends 显示“拉姆·伊曼纽尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：潜在的总统候选人伊曼纽尔骑自行车穿越新罕布什尔州。这些报道来自 WMUR 等媒体，因此带动了集中搜索。",
+    "started": "Tue, 9 Jun 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：B/R 99：2026 年世界杯 99 名最佳球员排名。",
+    "explanation": "Google Trends 显示“只有和平”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：B/R 99：2026 年世界杯 99 名最佳球员排名。这些报道来自 Bleacher Report 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Potential presidential candidate Emanuel bicycling across New Hampshire",
-        "url": "https://www.wmur.com/article/emanuel-bicycling-new-hampshire-6526/71509440",
-        "source": "WMUR"
-      }
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "charles oakley",
-    "titleZh": "查尔斯·奥克利",
-    "traffic": "500+",
-    "started": "Mon, 8 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：迈克尔·乔丹和亚当·西尔弗都未能说服詹姆斯·多兰结束与传奇人物查尔斯·奥克利的争执。",
-    "explanation": "Google Trends 显示“查尔斯·奥克利”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：迈克尔·乔丹和亚当·西尔弗都未能说服詹姆斯·多兰结束与传奇人物查尔斯·奥克利的争执。这些报道来自 Fox News 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Michael Jordan and Adam Silver both failed to convince James Dolan to end beef with legend Charles Oakley",
-        "url": "https://www.foxnews.com/outkick-sports/michael-jordan-adam-silver-failed-convince-james-dolan-end-charles-oakley-ban-msg",
-        "source": "Fox News"
-      }
-    ]
-  },
-  {
-    "rank": 6,
-    "title": "jordyn woods fiance",
-    "titleZh": "乔丁·伍兹未婚夫",
-    "traffic": "500+",
-    "started": "Mon, 8 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：卡尔·安东尼·唐斯的妻子是谁？他与乔丁·伍兹订婚了（照片）。",
-    "explanation": "Google Trends 显示“乔丁·伍兹未婚夫”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：卡尔·安东尼·唐斯的妻子是谁？他与乔丁·伍兹订婚了（照片）。这些报道来自 IMDb 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Who Is Karl-Anthony Towns’ Wife? He’s Engaged to Jordyn Woods (Photos)",
-        "url": "https://www.imdb.com/news/ni65868600/?ref_=nm_nwr_1",
-        "source": "IMDb"
-      }
-    ]
-  },
-  {
-    "rank": 7,
-    "title": "christopher meloni",
-    "titleZh": "克里斯托弗·梅洛尼",
-    "traffic": "500+",
-    "started": "Mon, 8 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：“切奶酪”片段：克里斯托弗·梅洛尼 (Christopher Meloni) 和迈克尔·甘多菲尼 (Michael Gandolfini) 在索菲亚·梅洛尼 (Sophia Meloni) 的纽约酒窖成长故事中继续购物。",
-    "explanation": "Google Trends 显示“克里斯托弗·梅洛尼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：“切奶酪”片段：克里斯托弗·梅洛尼 (Christopher Meloni) 和迈克尔·甘多菲尼 (Michael Gandolfini) 在索菲亚·梅洛尼 (Sophia Meloni) 的纽约酒窖成长故事中继续购物。这些报道来自 IMDb 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "‘Chop Cheese’ Clip: Christopher Meloni & Michael Gandolfini Keep Shop In Sophia Meloni’s New York Bodega Coming-Of-Age Tale",
-        "url": "https://www.imdb.com/news/ni65875035/?ref_=nm_nwr_1",
-        "source": "IMDb"
-      }
-    ]
-  },
-  {
-    "rank": 8,
-    "title": "brunson",
-    "titleZh": "布伦森",
-    "traffic": "10000+",
-    "started": "Mon, 8 Jun 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：贾伦·布伦森在新视频中承认他在尼克斯队对阵马刺队的 NBA 总决赛中的表现“低于标准”。",
-    "explanation": "Google Trends 显示“布伦森”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：贾伦·布伦森在新视频中承认他在尼克斯队对阵马刺队的 NBA 总决赛中的表现“低于标准”。这些报道来自 Bleacher Report 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Jalen Brunson Admits He's Played 'Subpar' for Knicks in NBA Finals vs. Spurs in New Video",
-        "url": "https://bleacherreport.com/articles/25435296-jalen-brunson-admits-hes-played-subpar-knicks-nba-finals-vs-spurs-new-video",
+        "title": "B/R 99: Ranking the 99 Best Players at the 2026 World Cup",
+        "url": "https://bleacherreport.com/articles/25427796-br-99-ranking-99-best-players-2026-world-cup",
         "source": "Bleacher Report"
       }
     ]
   },
   {
-    "rank": 9,
-    "title": "johnny knoxville",
-    "titleZh": "约翰尼·诺克斯维尔",
+    "rank": 3,
+    "title": "jazz chisholm jr.",
+    "titleZh": "小爵士奇泽姆",
     "traffic": "1000+",
-    "started": "Mon, 8 Jun 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：约翰尼·诺克斯维尔 (Johnny Knoxville) 和 Jackass 演员在被禁止后参加 WeHo 骄傲游行。",
-    "explanation": "Google Trends 显示“约翰尼·诺克斯维尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：约翰尼·诺克斯维尔 (Johnny Knoxville) 和 Jackass 演员在被禁止后参加 WeHo 骄傲游行。这些报道来自 wehotimes.com 等媒体，因此带动了集中搜索。",
+    "started": "Tue, 9 Jun 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：没有亚伦·贾奇，洋基队能站出来吗？有一位重击手更胜一筹|克拉皮施。",
+    "explanation": "Google Trends 显示“小爵士奇泽姆”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：没有亚伦·贾奇，洋基队能站出来吗？有一位重击手更胜一筹|克拉皮施。这些报道来自 NJ.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Johnny Knoxville and Jackass Cast Hit WeHo Pride Parade After Once Being Banned",
-        "url": "https://wehotimes.com/johnny-knoxville-and-jackass-cast-hit-weho-pride-parade-after-once-being-banned/",
-        "source": "wehotimes.com"
+        "title": "Can Yankees step up without Aaron Judge? There’s one slugger who better | Klapisch",
+        "url": "https://www.nj.com/yankees/2026/06/can-yankees-step-up-without-aaron-judge-theres-one-slugger-who-better-klapisch.html",
+        "source": "NJ.com"
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "maine governor race",
+    "titleZh": "缅因州州长竞选",
+    "traffic": "1000+",
+    "started": "Tue, 9 Jun 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：缅因州州长竞选初选结果|实时地图。",
+    "explanation": "Google Trends 显示“缅因州州长竞选”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：缅因州州长竞选初选结果|实时地图。这些报道来自 KVUE 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Maine governor's race primary results | Live map",
+        "url": "https://www.kvue.com/article/news/politics/elections/maine-governors-race-primary-results-live-map/507-2301f2c6-f494-4e1e-9513-4cdf57212dfd",
+        "source": "KVUE"
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "title": "william karlsson",
+    "titleZh": "威廉·卡尔森",
+    "traffic": "500+",
+    "started": "Tue, 9 Jun 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：卡尔森、马纳和豪顿接任VGK最重要、最具统治力的防线。",
+    "explanation": "Google Trends 显示“威廉·卡尔森”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：卡尔森、马纳和豪顿接任VGK最重要、最具统治力的防线。这些报道来自 SinBin.vegas 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Karlsson, Marner, and Howden Have Taken Over As VGK's Most Important And Dominant Line",
+        "url": "https://sinbin.vegas/karlsson-marner-and-howden-have-taken-over-as-vgks-most-important-and-dominant-line/",
+        "source": "SinBin.vegas"
+      }
+    ]
+  },
+  {
+    "rank": 6,
+    "title": "wthr weather",
+    "titleZh": "天气如何",
+    "traffic": "500+",
+    "started": "Tue, 9 Jun 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：本周印第安纳州中部的恶劣天气和洪水风险升级2026 年 6 月 8 日。",
+    "explanation": "Google Trends 显示“天气如何”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：本周印第安纳州中部的恶劣天气和洪水风险升级2026 年 6 月 8 日。这些报道来自 WISH-TV 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Severe weather and flooding risk escalate in Central Indiana this week | June 8, 2026",
+        "url": "https://www.wishtv.com/weather/weather-blog/stormy-week-ahead-indiana/",
+        "source": "WISH-TV"
+      }
+    ]
+  },
+  {
+    "rank": 7,
+    "title": "freddie freeman",
+    "titleZh": "弗雷迪·弗里曼",
+    "traffic": "1000+",
+    "started": "Tue, 9 Jun 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：弗雷迪·弗里曼 (Freddie Freeman) 职业生涯第 2,500 首安打！。",
+    "explanation": "Google Trends 显示“弗雷迪·弗里曼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：弗雷迪·弗里曼 (Freddie Freeman) 职业生涯第 2,500 首安打！。这些报道来自 MLB.com 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Freddie Freeman's 2,500th career hit!",
+        "url": "https://www.mlb.com/dodgers/video/brandan-bidois-in-play-run-s-to-freddie-freeman",
+        "source": "MLB.com"
+      }
+    ]
+  },
+  {
+    "rank": 8,
+    "title": "dustin lynch",
+    "titleZh": "达斯汀·林奇",
+    "traffic": "2000+",
+    "started": "Tue, 9 Jun 2026 18:10:00 -0700",
+    "summary": "相关新闻主要集中在：他在《In the City》中客串，那么达斯汀·林奇是谁？。",
+    "explanation": "Google Trends 显示“达斯汀·林奇”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：他在《In the City》中客串，那么达斯汀·林奇是谁？。这些报道来自 The Tab 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "He’s making a cameo on In the City, so who is Dustin Lynch?",
+        "url": "https://thetab.com/realityshrine/2026/06/10/hes-making-a-cameo-on-in-the-city-so-who-is-dustin-lynch/",
+        "source": "The Tab"
+      }
+    ]
+  },
+  {
+    "rank": 9,
+    "title": "venus and jupiter tonight",
+    "titleZh": "今晚金星和木星",
+    "traffic": "1000+",
+    "started": "Tue, 9 Jun 2026 18:10:00 -0700",
+    "summary": "相关新闻主要集中在：最新动态：2026 年 6 月 NASA 的天空观测提示。",
+    "explanation": "Google Trends 显示“今晚金星和木星”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：最新动态：2026 年 6 月 NASA 的天空观测提示。这些报道来自 NASA Science (.gov) 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "What’s Up: June 2026 Skywatching Tips from NASA",
+        "url": "https://science.nasa.gov/solar-system/whats-up-june-2026-skywatching-tips-from-nasa/",
+        "source": "NASA Science (.gov)"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "costa rica",
-    "titleZh": "哥斯达黎加",
-    "traffic": "1000+",
-    "started": "Mon, 8 Jun 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：从太空可见一条巨大的棕色带，长约8850公里，连接非洲和美洲的大西洋，卫星显示，这里既不是陆地，也不是污染，而是世界上最大的海藻堆积，打破了记录。",
-    "explanation": "Google Trends 显示“哥斯达黎加”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：从太空可见一条巨大的棕色带，长约8850公里，连接非洲和美洲的大西洋，卫星显示，这里既不是陆地，也不是污染，而是世界上最大的海藻堆积，打破了记录。这些报道来自 CPG Click Petróleo e Gás 等媒体，因此带动了集中搜索。",
+    "title": "natasha cloud",
+    "titleZh": "娜塔莎云",
+    "traffic": "500+",
+    "started": "Tue, 9 Jun 2026 18:10:00 -0700",
+    "summary": "相关新闻主要集中在：娜塔莎·克劳德 (Natasha Cloud) 讨论她以自由球员身份进入芝加哥天空队的道路。",
+    "explanation": "Google Trends 显示“娜塔莎云”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：娜塔莎·克劳德 (Natasha Cloud) 讨论她以自由球员身份进入芝加哥天空队的道路。这些报道来自 MSN 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "A giant brown band visible from space, approximately 8,850 kilometers long, connected Africa to America in the Atlantic Ocean, and satellites revealed that it is neither land nor pollution, but the largest accumulation of seaweed in the world, which broke record",
-        "url": "https://en.clickpetroleoegas.com.br/a-giant-brown-band-visible-from-space-approximately-8850-kilometers-long-connected-africa-to-america-in-the-atlantic-ocean-and-satellites-re-btl96/",
-        "source": "CPG Click Petróleo e Gás"
+        "title": "Natasha Cloud discusses her path to the Chicago Sky in free agency",
+        "url": "https://www.msn.com/en-us/sports/nba/natasha-cloud-discusses-her-path-to-the-chicago-sky-in-free-agency/ar-AA255HLz",
+        "source": "MSN"
       }
     ]
   }
