@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "brad pitt",
-    "titleZh": "布拉德·皮特",
-    "traffic": "2000+",
-    "started": "Fri, 12 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：布拉德·皮特和世界上最好的狗在《野兽之心》预告片中为生存而战。",
-    "explanation": "Google Trends 显示“布拉德·皮特”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：布拉德·皮特和世界上最好的狗在《野兽之心》预告片中为生存而战。这些报道来自 KATU 等媒体，因此带动了集中搜索。",
+    "title": "tornado kansas city",
+    "titleZh": "龙卷风 堪萨斯城",
+    "traffic": "50000+",
+    "started": "Sat, 13 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：更新：周六晚上堪萨斯城地区出现严重雷暴警告。",
+    "explanation": "Google Trends 显示“龙卷风 堪萨斯城”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：更新：周六晚上堪萨斯城地区出现严重雷暴警告。这些报道来自 Kansas City Star 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Brad Pitt and the best dog in the world fight to survive in 'Heart of the Beast' trailer",
-        "url": "https://katu.com/news/entertainment/brad-pitt-and-the-best-dog-in-the-world-fight-to-survive-in-heart-of-the-beast-trailer",
-        "source": "KATU"
+        "title": "Update: Severe thunderstorm warning for the Kansas City area Saturday evening",
+        "url": "https://www.kansascity.com/news/weather-news/article316119371.html",
+        "source": "Kansas City Star"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "leonardo dicaprio",
-    "titleZh": "莱昂纳多·迪卡普里奥",
-    "traffic": "2000+",
-    "started": "Fri, 12 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：迪卡普里奥和温斯莱特签名的《泰坦尼克号》剧本已售出。",
-    "explanation": "Google Trends 显示“莱昂纳多·迪卡普里奥”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：迪卡普里奥和温斯莱特签名的《泰坦尼克号》剧本已售出。这些报道来自 BBC 等媒体，因此带动了集中搜索。",
+    "title": "michael jordan",
+    "titleZh": "迈克尔·乔丹",
+    "traffic": "1000+",
+    "started": "Sat, 13 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：2380万观众！ ABC 和 ESPN 提供自 1998 年以来最多的 NBA 总决赛第 3 场观众人数。",
+    "explanation": "Google Trends 显示“迈克尔·乔丹”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：2380万观众！ ABC 和 ESPN 提供自 1998 年以来最多的 NBA 总决赛第 3 场观众人数。这些报道来自 ESPN Press Room 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "DiCaprio and Winslet signed Titanic script sold",
-        "url": "https://www.bbc.co.uk/news/articles/c992xk0k531o",
-        "source": "BBC"
+        "title": "23.8M viewers! ABC and ESPN deliver largest NBA Finals Game 3 audience since 1998",
+        "url": "https://espnpressroom.com/us/press-releases/2026/06/23-8m-viewers-abc-and-espn-deliver-largest-nba-finals-game-3-audience-since-1998/",
+        "source": "ESPN Press Room"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "mbappe",
-    "titleZh": "姆巴佩",
+    "title": "royals",
+    "titleZh": "皇室成员",
     "traffic": "2000+",
-    "started": "Fri, 12 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：奥斯曼·登贝莱：对基利安·姆巴佩的“不公平”批评“太过分了”。",
-    "explanation": "Google Trends 显示“姆巴佩”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：奥斯曼·登贝莱：对基利安·姆巴佩的“不公平”批评“太过分了”。这些报道来自 ESPN 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 13 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：皇家队 vs 太空人队比赛讨论 6/13。",
+    "explanation": "Google Trends 显示“皇室成员”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：皇家队 vs 太空人队比赛讨论 6/13。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Ousmane Dembélé: 'Unfair' criticism of Kylian Mbappé has 'gone too far'",
-        "url": "https://www.espn.com/soccer/story/_/id/49044728/ousmane-dembele-unfair-criticism-kylian-mbappe-gone-too-far",
-        "source": "ESPN"
-      }
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "kevin bacon",
-    "titleZh": "凯文·培根",
-    "traffic": "1000+",
-    "started": "Fri, 12 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：观看肯尼·洛金斯 (Kenny Loggins) 和凯文·培根 (Kevin Bacon) 在课堂乐器上演奏“Footloose”。",
-    "explanation": "Google Trends 显示“凯文·培根”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：观看肯尼·洛金斯 (Kenny Loggins) 和凯文·培根 (Kevin Bacon) 在课堂乐器上演奏“Footloose”。这些报道来自 Rolling Stone 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Watch Kenny Loggins, Kevin Bacon Perform ‘Footloose’ on Classroom Instruments",
-        "url": "https://www.rollingstone.com/music/music-news/kenny-loggins-kevin-bacon-footloose-fallon-the-roots-1235576015/",
-        "source": "Rolling Stone"
-      }
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "ac milan",
-    "titleZh": "AC米兰",
-    "traffic": "2000+",
-    "started": "Fri, 12 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：米兰关注格拉斯纳、萨索洛和都灵的填充长凳。",
-    "explanation": "Google Trends 显示“AC米兰”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：米兰关注格拉斯纳、萨索洛和都灵的填充长凳。这些报道来自 The Cult of Calcio 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Milan Focus on Glasner, Sassuolo & Torino Fill Benches",
-        "url": "https://cultofcalcio.com/milan-focus-on-glasner-sassuolo-torino-fill-benches/",
-        "source": "The Cult of Calcio"
-      }
-    ]
-  },
-  {
-    "rank": 6,
-    "title": "josh hokit",
-    "titleZh": "乔什·霍基特",
-    "traffic": "1000+",
-    "started": "Fri, 12 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：UFC 重量级明星乔什·霍基特 (Josh Hokit) 大学橄榄球跑龙套经历。",
-    "explanation": "Google Trends 显示“乔什·霍基特”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：UFC 重量级明星乔什·霍基特 (Josh Hokit) 大学橄榄球跑龙套经历。这些报道来自 CBS Sports 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Inside UFC heavyweight star Josh Hokit's time as a college football walk-on",
-        "url": "https://www.cbssports.com/ufc/news/josh-hokit-fresno-state-ufc-white-house-freedom-250/",
-        "source": "CBS Sports"
-      }
-    ]
-  },
-  {
-    "rank": 7,
-    "title": "ilia topuria",
-    "titleZh": "那种麻木的感觉",
-    "traffic": "2000+",
-    "started": "Fri, 12 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：UFC Freedom 250 投注赔率：历史悠久的白宫卡上每场比赛的赔率。",
-    "explanation": "Google Trends 显示“那种麻木的感觉”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：UFC Freedom 250 投注赔率：历史悠久的白宫卡上每场比赛的赔率。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "UFC Freedom 250 betting odds: Lines for every fight on the historic White House card",
-        "url": "https://sports.yahoo.com/mma/betting/article/ufc-freedom-250-betting-odds-lines-for-every-fight-on-the-historic-white-house-card-132640926.html",
+        "title": "Royals vs Astros game discussion 6/13",
+        "url": "https://sports.yahoo.com/articles/royals-vs-astros-game-discussion-224000380.html",
         "source": "Yahoo Sports"
       }
     ]
   },
   {
-    "rank": 8,
-    "title": "prime minister of canada",
-    "titleZh": "加拿大总理",
+    "rank": 4,
+    "title": "kmbc weather",
+    "titleZh": "天气",
     "traffic": "500+",
-    "started": "Fri, 12 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：马克·卡尼的贸易推动与美国依赖的现实发生冲突。",
-    "explanation": "Google Trends 显示“加拿大总理”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：马克·卡尼的贸易推动与美国依赖的现实发生冲突。这些报道来自 The Japan Times 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 13 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：要去休斯顿参加国际足联球迷节吗？你需要知道什么来抵御炎热。",
+    "explanation": "Google Trends 显示“天气”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：要去休斯顿参加国际足联球迷节吗？你需要知道什么来抵御炎热。这些报道来自 Click2Houston 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Mark Carney’s trade push collides with reality of U.S. dependence",
-        "url": "https://www.japantimes.co.jp/business/2026/06/09/mark-carney-trade-us-dependence/",
-        "source": "The Japan Times"
+        "title": "Going to FIFA Fan Fest in Houston? What you need to know to beat the heat",
+        "url": "https://www.click2houston.com/news/local/2026/06/12/fifa-fan-fest-houston-beating-the-heat/",
+        "source": "Click2Houston"
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "title": "emirates",
+    "titleZh": "酋长国",
+    "traffic": "500+",
+    "started": "Sat, 13 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：随着伊朗战争的持续，阿联酋航空取消了利润目标。",
+    "explanation": "Google Trends 显示“酋长国”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：随着伊朗战争的持续，阿联酋航空取消了利润目标。这些报道来自 The National 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Emirates airline scraps profit targets as Iran war drags on",
+        "url": "https://www.thenationalnews.com/business/aviation/2026/06/11/emirates-airline-scraps-profit-targets-as-iran-war-drags-on/",
+        "source": "The National"
+      }
+    ]
+  },
+  {
+    "rank": 6,
+    "title": "kc royals",
+    "titleZh": "kc皇家队",
+    "traffic": "500+",
+    "started": "Sat, 13 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：皇家队在系列赛揭幕战中输给太空人队，集会失败。",
+    "explanation": "Google Trends 显示“kc皇家队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：皇家队在系列赛揭幕战中输给太空人队，集会失败。这些报道来自 Royals Review 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Royals rally falls short as they lose series opener to Astros",
+        "url": "https://www.royalsreview.com/kansas-city-royals-scores-standings/100493/royals-rally-falls-short-as-they-lose-series-opener-to-astros",
+        "source": "Royals Review"
+      }
+    ]
+  },
+  {
+    "rank": 7,
+    "title": "kctv5 weather",
+    "titleZh": "kctv5 天气",
+    "traffic": "500+",
+    "started": "Sat, 13 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：观看直播：沃勒县、奥斯汀县和科罗拉多县的龙卷风警报生效直至晚上 10 点育碧 (XjQGUNykPd)。",
+    "explanation": "Google Trends 显示“kctv5 天气”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：观看直播：沃勒县、奥斯汀县和科罗拉多县的龙卷风警报生效直至晚上 10 点育碧 (XjQGUNykPd)。这些报道来自 Mshale 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Watch Live: Tornado Warning In Effect For Waller, Austin And Colorado Counties Until 10 P.m. Ubisoft (XjQGUNykPd)",
+        "url": "https://mshale.com/7d52ae5d/cca578b9WwK98xlJ97A",
+        "source": "Mshale"
+      }
+    ]
+  },
+  {
+    "rank": 8,
+    "title": "nancy gruber",
+    "titleZh": "南希·格鲁伯",
+    "traffic": "500+",
+    "started": "Sat, 13 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：大卫·格鲁伯的妻子：南希·格鲁伯的法律职业、家庭生活以及在建立威斯康星州律师事务所中的作用。",
+    "explanation": "Google Trends 显示“南希·格鲁伯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：大卫·格鲁伯的妻子：南希·格鲁伯的法律职业、家庭生活以及在建立威斯康星州律师事务所中的作用。这些报道来自 Gaza Sports & Community Club 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "David Gruber Wife: Inside Nancy Gruber’s Legal Career, Family Life, and Role in Building a Wisconsin Law Firm",
+        "url": "https://gaza.com.au/david-gruber-wife/",
+        "source": "Gaza Sports & Community Club"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "ecuador world cup",
-    "titleZh": "厄瓜多尔世界杯",
-    "traffic": "1000+",
-    "started": "Fri, 12 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：厄瓜多尔吝啬的防守将通过攻击科特迪瓦而受到考验。",
-    "explanation": "Google Trends 显示“厄瓜多尔世界杯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：厄瓜多尔吝啬的防守将通过攻击科特迪瓦而受到考验。这些报道来自 Reuters 等媒体，因此带动了集中搜索。",
+    "title": "jon stewart",
+    "titleZh": "乔恩·斯图尔特",
+    "traffic": "10000+",
+    "started": "Sat, 13 Jun 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：乔恩·斯图尔特称特朗普离职就像钢铁侠退出漫威宇宙。",
+    "explanation": "Google Trends 显示“乔恩·斯图尔特”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：乔恩·斯图尔特称特朗普离职就像钢铁侠退出漫威宇宙。这些报道来自 Variety 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Ecuador’s miserly defence to be tested by attacking Ivory Coast",
-        "url": "https://www.reuters.com/sports/soccer/ecuadors-miserly-defence-be-tested-by-attacking-ivory-coast-2026-06-12/",
-        "source": "Reuters"
+        "title": "Jon Stewart Says Trump Leaving Office Is Like Iron Man Exiting the MCU",
+        "url": "https://variety.com/2026/tv/news/jon-stewart-trump-leaving-office-iron-man-mcu-1236771621/",
+        "source": "Variety"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "michael chandler",
-    "titleZh": "迈克尔·钱德勒",
-    "traffic": "5000+",
-    "started": "Fri, 12 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：“一封写给这项运动的情书”：钱德勒谈白宫格斗。",
-    "explanation": "Google Trends 显示“迈克尔·钱德勒”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：“一封写给这项运动的情书”：钱德勒谈白宫格斗。这些报道来自 Sportsnet.ca 等媒体，因此带动了集中搜索。",
+    "title": "timothee chalamet",
+    "titleZh": "蒂莫西·查拉梅",
+    "traffic": "20000+",
+    "started": "Sat, 13 Jun 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：凯莉·詹纳 (Kylie Jenner) 和蒂莫西·查拉梅 (Timothée Chalamet) 在尼克斯队比赛中的比赛，以及休·杰克曼 (Hugh Jackman) 等。",
+    "explanation": "Google Trends 显示“蒂莫西·查拉梅”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：凯莉·詹纳 (Kylie Jenner) 和蒂莫西·查拉梅 (Timothée Chalamet) 在尼克斯队比赛中的比赛，以及休·杰克曼 (Hugh Jackman) 等。这些报道来自 People.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "‘A love letter to the sport’: Chandler on fighting at White House",
-        "url": "https://www.sportsnet.ca/ufc/video/a-love-letter-to-the-sport-chandler-on-fighting-at-white-house/",
-        "source": "Sportsnet.ca"
+        "title": "Kylie Jenner and Timothée Chalamet Match at the Knicks Game, Plus Hugh Jackman and More",
+        "url": "https://people.com/star-tracks-thursday-june-11-2026-new-celebrity-photos-updated-daily-11995396",
+        "source": "People.com"
       }
     ]
   }
