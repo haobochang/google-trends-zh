@@ -3,171 +3,165 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "tornado kansas city",
-    "titleZh": "龙卷风 堪萨斯城",
-    "traffic": "50000+",
-    "started": "Sat, 13 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：更新：周六晚上堪萨斯城地区出现严重雷暴警告。",
-    "explanation": "Google Trends 显示“龙卷风 堪萨斯城”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：更新：周六晚上堪萨斯城地区出现严重雷暴警告。这些报道来自 Kansas City Star 等媒体，因此带动了集中搜索。",
+    "title": "graham potter",
+    "titleZh": "格雷厄姆·波特",
+    "traffic": "500+",
+    "started": "Sun, 14 Jun 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：世界杯主教练捍卫身价6300万英镑的阿森纳球星——“他度过了一个美妙的赛季”。",
+    "explanation": "Google Trends 显示“格雷厄姆·波特”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：世界杯主教练捍卫身价6300万英镑的阿森纳球星——“他度过了一个美妙的赛季”。这些报道来自 Metro.co.uk 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Update: Severe thunderstorm warning for the Kansas City area Saturday evening",
-        "url": "https://www.kansascity.com/news/weather-news/article316119371.html",
-        "source": "Kansas City Star"
+        "title": "World Cup coach defends £63million Arsenal star - 'he's had a fantastic season'",
+        "url": "https://metro.co.uk/2026/06/14/world-cup-coach-defends-63million-arsenal-star-hes-a-fantastic-season-28772725/",
+        "source": "Metro.co.uk"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "michael jordan",
-    "titleZh": "迈克尔·乔丹",
-    "traffic": "1000+",
-    "started": "Sat, 13 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：2380万观众！ ABC 和 ESPN 提供自 1998 年以来最多的 NBA 总决赛第 3 场观众人数。",
-    "explanation": "Google Trends 显示“迈克尔·乔丹”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：2380万观众！ ABC 和 ESPN 提供自 1998 年以来最多的 NBA 总决赛第 3 场观众人数。这些报道来自 ESPN Press Room 等媒体，因此带动了集中搜索。",
+    "title": "tony ferguson",
+    "titleZh": "托尼·弗格森",
+    "traffic": "500+",
+    "started": "Sun, 14 Jun 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：视频：创纪录的 UFC 失败者在令人畏惧的 Arman Tsarukyan RAF 10 联合主赛事比赛之前解释了拯救生命的秘密摔跤背景。",
+    "explanation": "Google Trends 显示“托尼·弗格森”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：视频：创纪录的 UFC 失败者在令人畏惧的 Arman Tsarukyan RAF 10 联合主赛事比赛之前解释了拯救生命的秘密摔跤背景。这些报道来自 MMA Mania 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "23.8M viewers! ABC and ESPN deliver largest NBA Finals Game 3 audience since 1998",
-        "url": "https://espnpressroom.com/us/press-releases/2026/06/23-8m-viewers-abc-and-espn-deliver-largest-nba-finals-game-3-audience-since-1998/",
-        "source": "ESPN Press Room"
+        "title": "Video: Record-setting UFC loser explains life-saving secret wrestling background ahead of daunting Arman Tsarukyan RAF 10 co-main event match",
+        "url": "https://www.mmamania.com/latest-news/449456/video-tony-ferguson-explains-life-saving-secret-wrestling-background-ahead-of-daunting-arman-tsarukyan-raf-10-co-main-event-match",
+        "source": "MMA Mania"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "royals",
-    "titleZh": "皇室成员",
-    "traffic": "2000+",
-    "started": "Sat, 13 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：皇家队 vs 太空人队比赛讨论 6/13。",
-    "explanation": "Google Trends 显示“皇室成员”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：皇家队 vs 太空人队比赛讨论 6/13。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "title": "dead by daylight",
+    "titleZh": "光天化日之下死去",
+    "traffic": "500+",
+    "started": "Sun, 14 Jun 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
+    "explanation": "Google Trends 显示“光天化日之下死去”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Fangoria 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Royals vs Astros game discussion 6/13",
-        "url": "https://sports.yahoo.com/articles/royals-vs-astros-game-discussion-224000380.html",
-        "source": "Yahoo Sports"
+        "title": "Art The Clown And Scooby Doo Are Coming To DEAD BY DAYLIGHT",
+        "url": "https://www.fangoria.com/art-the-clown-and-scooby-doo-are-coming-to-dead-by-daylight/",
+        "source": "Fangoria"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "kmbc weather",
-    "titleZh": "天气",
+    "title": "charles oliveira",
+    "titleZh": "查尔斯·奥利维拉",
     "traffic": "500+",
-    "started": "Sat, 13 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：要去休斯顿参加国际足联球迷节吗？你需要知道什么来抵御炎热。",
-    "explanation": "Google Trends 显示“天气”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：要去休斯顿参加国际足联球迷节吗？你需要知道什么来抵御炎热。这些报道来自 Click2Houston 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 14 Jun 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
+    "explanation": "Google Trends 显示“查尔斯·奥利维拉”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Yahoo! Sports UK 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Going to FIFA Fan Fest in Houston? What you need to know to beat the heat",
-        "url": "https://www.click2houston.com/news/local/2026/06/12/fifa-fan-fest-houston-beating-the-heat/",
-        "source": "Click2Houston"
+        "title": "Charles Oliveira sends heartfelt message to Ilia Topuria before UFC Freedom 250",
+        "url": "https://uk.sports.yahoo.com/news/charles-oliveira-sends-heartfelt-message-183515644.html",
+        "source": "Yahoo! Sports UK"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "emirates",
-    "titleZh": "酋长国",
+    "title": "estadio monterrey, guadalupe",
+    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "traffic": "500+",
-    "started": "Sat, 13 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：随着伊朗战争的持续，阿联酋航空取消了利润目标。",
-    "explanation": "Google Trends 显示“酋长国”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：随着伊朗战争的持续，阿联酋航空取消了利润目标。这些报道来自 The National 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 14 Jun 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：他们在荷兰世界杯比赛前加强空中监视。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：他们在荷兰世界杯比赛前加强空中监视。这些报道来自 El Horizonte 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Emirates airline scraps profit targets as Iran war drags on",
-        "url": "https://www.thenationalnews.com/business/aviation/2026/06/11/emirates-airline-scraps-profit-targets-as-iran-war-drags-on/",
-        "source": "The National"
+        "title": "Refuerzan vigilancia aérea antes de partido mundialista en NL",
+        "url": "https://www.elhorizonte.mx/nuevoleon/refuerzan-vigilancia-aerea-antes-de-partido-mundialista-en-nl/v7112969520",
+        "source": "El Horizonte"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "kc royals",
-    "titleZh": "kc皇家队",
+    "title": "lucas bergvall",
+    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "traffic": "500+",
-    "started": "Sat, 13 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：皇家队在系列赛揭幕战中输给太空人队，集会失败。",
-    "explanation": "Google Trends 显示“kc皇家队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：皇家队在系列赛揭幕战中输给太空人队，集会失败。这些报道来自 Royals Review 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 14 Jun 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：伯格瓦尔在新闻发布会上代表首映式的替补席发言。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：伯格瓦尔在新闻发布会上代表首映式的替补席发言。这些报道来自 Fotbollskanalen 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Royals rally falls short as they lose series opener to Astros",
-        "url": "https://www.royalsreview.com/kansas-city-royals-scores-standings/100493/royals-rally-falls-short-as-they-lose-series-opener-to-astros",
-        "source": "Royals Review"
+        "title": "Bergvalls pressträff talar för bänken i premiären",
+        "url": "https://www.fotbollskanalen.se/artiklar/fotbollskanalen-on-tour/bergvalls-presstraff-talar-for-banken-i-premiaren",
+        "source": "Fotbollskanalen"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "kctv5 weather",
-    "titleZh": "kctv5 天气",
+    "title": "ellyes skhiri",
+    "titleZh": "埃利斯·斯基里",
     "traffic": "500+",
-    "started": "Sat, 13 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：观看直播：沃勒县、奥斯汀县和科罗拉多县的龙卷风警报生效直至晚上 10 点育碧 (XjQGUNykPd)。",
-    "explanation": "Google Trends 显示“kctv5 天气”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：观看直播：沃勒县、奥斯汀县和科罗拉多县的龙卷风警报生效直至晚上 10 点育碧 (XjQGUNykPd)。这些报道来自 Mshale 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 14 Jun 2026 18:50:00 -0700",
+    "summary": "埃利斯·斯基里 在 Google Trends 上出现明显搜索热度上升。",
+    "explanation": "埃利斯·斯基里 当天在 Google 搜索中迅速升温，但当前可用新闻线索有限，建议结合后续报道继续观察。",
     "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Watch Live: Tornado Warning In Effect For Waller, Austin And Colorado Counties Until 10 P.m. Ubisoft (XjQGUNykPd)",
-        "url": "https://mshale.com/7d52ae5d/cca578b9WwK98xlJ97A",
-        "source": "Mshale"
-      }
-    ]
+    "sourceLinks": []
   },
   {
     "rank": 8,
-    "title": "nancy gruber",
-    "titleZh": "南希·格鲁伯",
+    "title": "alexander bernhardsson",
+    "titleZh": "亚历山大·伯恩哈德森",
     "traffic": "500+",
-    "started": "Sat, 13 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：大卫·格鲁伯的妻子：南希·格鲁伯的法律职业、家庭生活以及在建立威斯康星州律师事务所中的作用。",
-    "explanation": "Google Trends 显示“南希·格鲁伯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：大卫·格鲁伯的妻子：南希·格鲁伯的法律职业、家庭生活以及在建立威斯康星州律师事务所中的作用。这些报道来自 Gaza Sports & Community Club 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 14 Jun 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：亚历山大·伯恩哈德森 (Alexander Bernhardsson) 正在为 WC 比赛收费。",
+    "explanation": "Google Trends 显示“亚历山大·伯恩哈德森”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：亚历山大·伯恩哈德森 (Alexander Bernhardsson) 正在为 WC 比赛收费。这些报道来自 IF Elfsborg 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "David Gruber Wife: Inside Nancy Gruber’s Legal Career, Family Life, and Role in Building a Wisconsin Law Firm",
-        "url": "https://gaza.com.au/david-gruber-wife/",
-        "source": "Gaza Sports & Community Club"
+        "title": "Alexander Bernhardsson laddar för VM-spel",
+        "url": "https://elfsborg.se/2026/06/14/alexander-bernhardsson-laddar-for-vm-spel/",
+        "source": "IF Elfsborg"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "jon stewart",
-    "titleZh": "乔恩·斯图尔特",
-    "traffic": "10000+",
-    "started": "Sat, 13 Jun 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：乔恩·斯图尔特称特朗普离职就像钢铁侠退出漫威宇宙。",
-    "explanation": "Google Trends 显示“乔恩·斯图尔特”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：乔恩·斯图尔特称特朗普离职就像钢铁侠退出漫威宇宙。这些报道来自 Variety 等媒体，因此带动了集中搜索。",
+    "title": "tyson fury fight",
+    "titleZh": "泰森·弗瑞之战",
+    "traffic": "500+",
+    "started": "Sun, 14 Jun 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：汤米·弗瑞 (Tommy Fury) 对阵埃迪·霍尔 (Eddie Hall) 裁判记分卡、出拳数据和奖金。",
+    "explanation": "Google Trends 显示“泰森·弗瑞之战”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：汤米·弗瑞 (Tommy Fury) 对阵埃迪·霍尔 (Eddie Hall) 裁判记分卡、出拳数据和奖金。这些报道来自 Bleacher Report 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Jon Stewart Says Trump Leaving Office Is Like Iron Man Exiting the MCU",
-        "url": "https://variety.com/2026/tv/news/jon-stewart-trump-leaving-office-iron-man-mcu-1236771621/",
-        "source": "Variety"
+        "title": "Tommy Fury vs. Eddie Hall Judges' Scorecards, Punch Stats and Prize Money",
+        "url": "https://bleacherreport.com/articles/25440246-tommy-fury-vs-eddie-hall-judges-scorecards-punch-stats-and-prize-money",
+        "source": "Bleacher Report"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "timothee chalamet",
-    "titleZh": "蒂莫西·查拉梅",
+    "title": "tyson fury",
+    "titleZh": "泰森·弗瑞",
     "traffic": "20000+",
-    "started": "Sat, 13 Jun 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：凯莉·詹纳 (Kylie Jenner) 和蒂莫西·查拉梅 (Timothée Chalamet) 在尼克斯队比赛中的比赛，以及休·杰克曼 (Hugh Jackman) 等。",
-    "explanation": "Google Trends 显示“蒂莫西·查拉梅”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：凯莉·詹纳 (Kylie Jenner) 和蒂莫西·查拉梅 (Timothée Chalamet) 在尼克斯队比赛中的比赛，以及休·杰克曼 (Hugh Jackman) 等。这些报道来自 People.com 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 14 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：53 岁的拉赫曼即将复出，他表示弗瑞已经“完蛋了”。",
+    "explanation": "Google Trends 显示“泰森·弗瑞”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：53 岁的拉赫曼即将复出，他表示弗瑞已经“完蛋了”。这些报道来自 MSN 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Kylie Jenner and Timothée Chalamet Match at the Knicks Game, Plus Hugh Jackman and More",
-        "url": "https://people.com/star-tracks-thursday-june-11-2026-new-celebrity-photos-updated-daily-11995396",
-        "source": "People.com"
+        "title": "Rahman, 53 and making a comeback, says Fury is 'done'",
+        "url": "https://www.msn.com/en-us/sports/other/rahman-53-and-making-a-comeback-says-fury-is-done/ar-AA25AIfp",
+        "source": "MSN"
       }
     ]
   }
