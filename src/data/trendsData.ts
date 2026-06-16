@@ -3,165 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "graham potter",
-    "titleZh": "格雷厄姆·波特",
-    "traffic": "500+",
-    "started": "Sun, 14 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：世界杯主教练捍卫身价6300万英镑的阿森纳球星——“他度过了一个美妙的赛季”。",
-    "explanation": "Google Trends 显示“格雷厄姆·波特”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：世界杯主教练捍卫身价6300万英镑的阿森纳球星——“他度过了一个美妙的赛季”。这些报道来自 Metro.co.uk 等媒体，因此带动了集中搜索。",
+    "title": "college world series bracket",
+    "titleZh": "大学世界系列赛支架",
+    "traffic": "5000+",
+    "started": "Mon, 15 Jun 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：卢卡斯：团队。",
+    "explanation": "Google Trends 显示“大学世界系列赛支架”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：卢卡斯：团队。这些报道来自 University of North Carolina Athletics 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "World Cup coach defends £63million Arsenal star - 'he's had a fantastic season'",
-        "url": "https://metro.co.uk/2026/06/14/world-cup-coach-defends-63million-arsenal-star-hes-a-fantastic-season-28772725/",
-        "source": "Metro.co.uk"
+        "title": "Lucas: The Team",
+        "url": "https://goheels.com/news/2026/6/15/baseball-lucas-the-team",
+        "source": "University of North Carolina Athletics"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "tony ferguson",
-    "titleZh": "托尼·弗格森",
-    "traffic": "500+",
-    "started": "Sun, 14 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：视频：创纪录的 UFC 失败者在令人畏惧的 Arman Tsarukyan RAF 10 联合主赛事比赛之前解释了拯救生命的秘密摔跤背景。",
-    "explanation": "Google Trends 显示“托尼·弗格森”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：视频：创纪录的 UFC 失败者在令人畏惧的 Arman Tsarukyan RAF 10 联合主赛事比赛之前解释了拯救生命的秘密摔跤背景。这些报道来自 MMA Mania 等媒体，因此带动了集中搜索。",
+    "title": "mcws brackets",
+    "titleZh": "mcw 括号",
+    "traffic": "1000+",
+    "started": "Mon, 15 Jun 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：谁从大学世界大赛中被淘汰？更新了 CWS 支架、时间表。",
+    "explanation": "Google Trends 显示“mcw 括号”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：谁从大学世界大赛中被淘汰？更新了 CWS 支架、时间表。这些报道来自 USA Today 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Video: Record-setting UFC loser explains life-saving secret wrestling background ahead of daunting Arman Tsarukyan RAF 10 co-main event match",
-        "url": "https://www.mmamania.com/latest-news/449456/video-tony-ferguson-explains-life-saving-secret-wrestling-background-ahead-of-daunting-arman-tsarukyan-raf-10-co-main-event-match",
-        "source": "MMA Mania"
+        "title": "Who's eliminated from College World Series? Updated CWS bracket, schedule",
+        "url": "https://www.usatoday.com/story/sports/college/baseball/2026/06/14/cws-eliminated-teams-college-world-series-ncaa-baseball-tournament-updated-bracket-scores/90551026007/",
+        "source": "USA Today"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "dead by daylight",
-    "titleZh": "光天化日之下死去",
-    "traffic": "500+",
-    "started": "Sun, 14 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“光天化日之下死去”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Fangoria 等媒体，因此带动了集中搜索。",
+    "title": "fifa world rankings",
+    "titleZh": "国际足联世界排名",
+    "traffic": "2000+",
+    "started": "Mon, 15 Jun 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：阿根廷在世界杯前的 FIFA 排名中名列前茅，美国跌至第 17 位 - The Athletic。",
+    "explanation": "Google Trends 显示“国际足联世界排名”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：阿根廷在世界杯前的 FIFA 排名中名列前茅，美国跌至第 17 位 - The Athletic。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Art The Clown And Scooby Doo Are Coming To DEAD BY DAYLIGHT",
-        "url": "https://www.fangoria.com/art-the-clown-and-scooby-doo-are-coming-to-dead-by-daylight/",
-        "source": "Fangoria"
+        "title": "Argentina tops FIFA rankings ahead of World Cup, USA drops to 17th - The Athletic",
+        "url": "https://www.nytimes.com/athletic/7351791/2026/06/11/world-cup-fifa-rankings-argentina-usmnt/",
+        "source": "The New York Times"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "charles oliveira",
-    "titleZh": "查尔斯·奥利维拉",
+    "title": "charlotte flair",
+    "titleZh": "夏洛特天赋",
     "traffic": "500+",
-    "started": "Sun, 14 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“查尔斯·奥利维拉”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Yahoo! Sports UK 等媒体，因此带动了集中搜索。",
+    "started": "Mon, 15 Jun 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：2026 年 WWE 指环王与王后锦标赛成绩：8 名选手晋级。",
+    "explanation": "Google Trends 显示“夏洛特天赋”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：2026 年 WWE 指环王与王后锦标赛成绩：8 名选手晋级。这些报道来自 Stadium Rant 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Charles Oliveira sends heartfelt message to Ilia Topuria before UFC Freedom 250",
-        "url": "https://uk.sports.yahoo.com/news/charles-oliveira-sends-heartfelt-message-183515644.html",
-        "source": "Yahoo! Sports UK"
+        "title": "2026 WWE King And Queen Of The Ring Tournament Results: 8 Talents Advance",
+        "url": "https://www.stadiumrant.com/2026-wwe-king-and-queen-of-the-ring-tournament/",
+        "source": "Stadium Rant"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "estadio monterrey, guadalupe",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title": "byron buxton",
+    "titleZh": "拜伦·巴克斯顿",
     "traffic": "500+",
-    "started": "Sun, 14 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：他们在荷兰世界杯比赛前加强空中监视。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：他们在荷兰世界杯比赛前加强空中监视。这些报道来自 El Horizonte 等媒体，因此带动了集中搜索。",
+    "started": "Mon, 15 Jun 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：雅各布·米西奥罗夫斯基被评为国联本周最佳球员。",
+    "explanation": "Google Trends 显示“拜伦·巴克斯顿”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：雅各布·米西奥罗夫斯基被评为国联本周最佳球员。这些报道来自 MLB.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Refuerzan vigilancia aérea antes de partido mundialista en NL",
-        "url": "https://www.elhorizonte.mx/nuevoleon/refuerzan-vigilancia-aerea-antes-de-partido-mundialista-en-nl/v7112969520",
-        "source": "El Horizonte"
+        "title": "Jacob Misiorowski is named NL Co-Player of the Week",
+        "url": "https://www.mlb.com/video/jacob-misiorowski-is-named-nl-co-player-of-the-week",
+        "source": "MLB.com"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "lucas bergvall",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "500+",
-    "started": "Sun, 14 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：伯格瓦尔在新闻发布会上代表首映式的替补席发言。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：伯格瓦尔在新闻发布会上代表首映式的替补席发言。这些报道来自 Fotbollskanalen 等媒体，因此带动了集中搜索。",
+    "title": "new zealand world cup roster",
+    "titleZh": "新西兰世界杯名单",
+    "traffic": "1000+",
+    "started": "Mon, 15 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：土耳其在 2026 年世界杯上的 FIFA 排名是多少？更多关于美国队的小组对手。",
+    "explanation": "Google Trends 显示“新西兰世界杯名单”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：土耳其在 2026 年世界杯上的 FIFA 排名是多少？更多关于美国队的小组对手。这些报道来自 Bolavip US 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Bergvalls pressträff talar för bänken i premiären",
-        "url": "https://www.fotbollskanalen.se/artiklar/fotbollskanalen-on-tour/bergvalls-presstraff-talar-for-banken-i-premiaren",
-        "source": "Fotbollskanalen"
+        "title": "What’s Turkiye’s FIFA ranking at the 2026 World Cup? More about the USA’s group opponent",
+        "url": "https://bolavip.com/en/world-cup/whats-turkiyes-fifa-ranking-at-the-2026-world-cup-more-about-the-usas-group-opponent",
+        "source": "Bolavip US"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "ellyes skhiri",
-    "titleZh": "埃利斯·斯基里",
-    "traffic": "500+",
-    "started": "Sun, 14 Jun 2026 18:50:00 -0700",
-    "summary": "埃利斯·斯基里 在 Google Trends 上出现明显搜索热度上升。",
-    "explanation": "埃利斯·斯基里 当天在 Google 搜索中迅速升温，但当前可用新闻线索有限，建议结合后续报道继续观察。",
-    "relatedQueries": [],
-    "sourceLinks": []
-  },
-  {
-    "rank": 8,
-    "title": "alexander bernhardsson",
-    "titleZh": "亚历山大·伯恩哈德森",
-    "traffic": "500+",
-    "started": "Sun, 14 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：亚历山大·伯恩哈德森 (Alexander Bernhardsson) 正在为 WC 比赛收费。",
-    "explanation": "Google Trends 显示“亚历山大·伯恩哈德森”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：亚历山大·伯恩哈德森 (Alexander Bernhardsson) 正在为 WC 比赛收费。这些报道来自 IF Elfsborg 等媒体，因此带动了集中搜索。",
+    "title": "iran",
+    "titleZh": "伊朗",
+    "traffic": "20000+",
+    "started": "Mon, 15 Jun 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：实时更新：美国和伊朗达成协议，但关键问题仍然存在。",
+    "explanation": "Google Trends 显示“伊朗”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：实时更新：美国和伊朗达成协议，但关键问题仍然存在。这些报道来自 CNN 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Alexander Bernhardsson laddar för VM-spel",
-        "url": "https://elfsborg.se/2026/06/14/alexander-bernhardsson-laddar-for-vm-spel/",
-        "source": "IF Elfsborg"
+        "title": "Live updates: US and Iran reach agreement but key questions remain",
+        "url": "https://edition.cnn.com/2026/06/15/world/live-news/iran-war-g7-summit",
+        "source": "CNN"
+      }
+    ]
+  },
+  {
+    "rank": 8,
+    "title": "steve mcbee",
+    "titleZh": "史蒂夫·麦克比",
+    "traffic": "2000+",
+    "started": "Mon, 15 Jun 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：《麦克比王朝》第 3 季 Bravo：直播还是跳过？。",
+    "explanation": "Google Trends 显示“史蒂夫·麦克比”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《麦克比王朝》第 3 季 Bravo：直播还是跳过？。这些报道来自 Decider 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "'The McBee Dynasty' Season 3 Bravo: Stream It Or Skip It?",
+        "url": "https://decider.com/2026/06/15/the-mcbee-dynasty-season-3-bravo/",
+        "source": "Decider"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "tyson fury fight",
-    "titleZh": "泰森·弗瑞之战",
-    "traffic": "500+",
-    "started": "Sun, 14 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：汤米·弗瑞 (Tommy Fury) 对阵埃迪·霍尔 (Eddie Hall) 裁判记分卡、出拳数据和奖金。",
-    "explanation": "Google Trends 显示“泰森·弗瑞之战”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：汤米·弗瑞 (Tommy Fury) 对阵埃迪·霍尔 (Eddie Hall) 裁判记分卡、出拳数据和奖金。这些报道来自 Bleacher Report 等媒体，因此带动了集中搜索。",
+    "title": "uga baseball",
+    "titleZh": "加棒球",
+    "traffic": "2000+",
+    "started": "Mon, 15 Jun 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：天气延误后宣布第四场比赛的首次上场时间。",
+    "explanation": "Google Trends 显示“加棒球”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：天气延误后宣布第四场比赛的首次上场时间。这些报道来自 KETV 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Tommy Fury vs. Eddie Hall Judges' Scorecards, Punch Stats and Prize Money",
-        "url": "https://bleacherreport.com/articles/25440246-tommy-fury-vs-eddie-hall-judges-scorecards-punch-stats-and-prize-money",
-        "source": "Bleacher Report"
+        "title": "First pitch time announced for Game 4 after weather delay",
+        "url": "https://www.ketv.com/article/weather-delays-college-world-series-action-at-charles-schwab-field/71579393",
+        "source": "KETV"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "tyson fury",
-    "titleZh": "泰森·弗瑞",
-    "traffic": "20000+",
-    "started": "Sun, 14 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：53 岁的拉赫曼即将复出，他表示弗瑞已经“完蛋了”。",
-    "explanation": "Google Trends 显示“泰森·弗瑞”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：53 岁的拉赫曼即将复出，他表示弗瑞已经“完蛋了”。这些报道来自 MSN 等媒体，因此带动了集中搜索。",
+    "title": "shore fire",
+    "titleZh": "岸火",
+    "traffic": "500+",
+    "started": "Mon, 15 Jun 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：卡利梅萨以南的荒地大火烧毁了 500 英亩土地。",
+    "explanation": "Google Trends 显示“岸火”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：卡利梅萨以南的荒地大火烧毁了 500 英亩土地。这些报道来自 KESQ 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Rahman, 53 and making a comeback, says Fury is 'done'",
-        "url": "https://www.msn.com/en-us/sports/other/rahman-53-and-making-a-comeback-says-fury-is-done/ar-AA25AIfp",
-        "source": "MSN"
+        "title": "Blaze in Badlands south of Calimesa burns 500 acres",
+        "url": "https://kesq.com/news/california/2026/06/15/blaze-in-badlands-south-of-calimesa-burns-500-acres/",
+        "source": "KESQ"
       }
     ]
   }
