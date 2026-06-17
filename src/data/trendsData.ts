@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "college world series bracket",
-    "titleZh": "大学世界系列赛支架",
-    "traffic": "5000+",
-    "started": "Mon, 15 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：卢卡斯：团队。",
-    "explanation": "Google Trends 显示“大学世界系列赛支架”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：卢卡斯：团队。这些报道来自 University of North Carolina Athletics 等媒体，因此带动了集中搜索。",
+    "title": "rays - dodgers",
+    "titleZh": "射线 - 道奇队",
+    "traffic": "500+",
+    "started": "Tue, 16 Jun 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：大谷翔平首支全垒打 (14)。",
+    "explanation": "Google Trends 显示“射线 - 道奇队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：大谷翔平首支全垒打 (14)。这些报道来自 MLB.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Lucas: The Team",
-        "url": "https://goheels.com/news/2026/6/15/baseball-lucas-the-team",
-        "source": "University of North Carolina Athletics"
+        "title": "Shohei Ohtani's leadoff home run (14)",
+        "url": "https://www.mlb.com/video/sean-burke-in-play-run-s-to-shohei-ohtani",
+        "source": "MLB.com"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "mcws brackets",
-    "titleZh": "mcw 括号",
-    "traffic": "1000+",
-    "started": "Mon, 15 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：谁从大学世界大赛中被淘汰？更新了 CWS 支架、时间表。",
-    "explanation": "Google Trends 显示“mcw 括号”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：谁从大学世界大赛中被淘汰？更新了 CWS 支架、时间表。这些报道来自 USA Today 等媒体，因此带动了集中搜索。",
+    "title": "mls",
+    "titleZh": "毫升",
+    "traffic": "500+",
+    "started": "Tue, 16 Jun 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：难忘的足球庆祝活动中的景象、声音、表演等。",
+    "explanation": "Google Trends 显示“毫升”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：难忘的足球庆祝活动中的景象、声音、表演等。这些报道来自 Portland Timbers 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Who's eliminated from College World Series? Updated CWS bracket, schedule",
-        "url": "https://www.usatoday.com/story/sports/college/baseball/2026/06/14/cws-eliminated-teams-college-world-series-ncaa-baseball-tournament-updated-bracket-scores/90551026007/",
-        "source": "USA Today"
+        "title": "Sights, sounds, performances and more from a memorable Soccer Celebration",
+        "url": "https://www.timbers.com/video/sights-sounds-performances-and-more-from-a-memorable-soccer-celebration",
+        "source": "Portland Timbers"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "fifa world rankings",
-    "titleZh": "国际足联世界排名",
-    "traffic": "2000+",
-    "started": "Mon, 15 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：阿根廷在世界杯前的 FIFA 排名中名列前茅，美国跌至第 17 位 - The Athletic。",
-    "explanation": "Google Trends 显示“国际足联世界排名”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：阿根廷在世界杯前的 FIFA 排名中名列前茅，美国跌至第 17 位 - The Athletic。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
+    "title": "argentina vs austria",
+    "titleZh": "阿根廷 vs 奥地利",
+    "traffic": "500+",
+    "started": "Tue, 16 Jun 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：观看 6 月 17 日 11:00 奥地利与约旦足球比赛直播的链接。。",
+    "explanation": "Google Trends 显示“阿根廷 vs 奥地利”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：观看 6 月 17 日 11:00 奥地利与约旦足球比赛直播的链接。。这些报道来自 شبكة تواصل الإخبارية 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Argentina tops FIFA rankings ahead of World Cup, USA drops to 17th - The Athletic",
-        "url": "https://www.nytimes.com/athletic/7351791/2026/06/11/world-cup-fifa-rankings-argentina-usmnt/",
-        "source": "The New York Times"
+        "title": "Enlace para ver el partido de fútbol en directo entre Austria y Jordania, a las 11:00 del 17 de junio.",
+        "url": "https://twaslnews1.twaslnews.com/2325484/",
+        "source": "شبكة تواصل الإخبارية"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "charlotte flair",
-    "titleZh": "夏洛特天赋",
+    "title": "james carville",
+    "titleZh": "詹姆斯·卡维尔",
     "traffic": "500+",
-    "started": "Mon, 15 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：2026 年 WWE 指环王与王后锦标赛成绩：8 名选手晋级。",
-    "explanation": "Google Trends 显示“夏洛特天赋”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：2026 年 WWE 指环王与王后锦标赛成绩：8 名选手晋级。这些报道来自 Stadium Rant 等媒体，因此带动了集中搜索。",
+    "started": "Tue, 16 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：詹姆斯·卡维尔对特朗普的未来做出悲观预测。",
+    "explanation": "Google Trends 显示“詹姆斯·卡维尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：詹姆斯·卡维尔对特朗普的未来做出悲观预测。这些报道来自 The Daily Beast 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "2026 WWE King And Queen Of The Ring Tournament Results: 8 Talents Advance",
-        "url": "https://www.stadiumrant.com/2026-wwe-king-and-queen-of-the-ring-tournament/",
-        "source": "Stadium Rant"
+        "title": "James Carville Makes Grim Prediction About Trump’s Future",
+        "url": "https://www.thedailybeast.com/james-carville-makes-grim-prediction-about-trumps-future/",
+        "source": "The Daily Beast"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "byron buxton",
-    "titleZh": "拜伦·巴克斯顿",
+    "title": "curtis washington jr",
+    "titleZh": "小柯蒂斯·华盛顿",
     "traffic": "500+",
-    "started": "Mon, 15 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：雅各布·米西奥罗夫斯基被评为国联本周最佳球员。",
-    "explanation": "Google Trends 显示“拜伦·巴克斯顿”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：雅各布·米西奥罗夫斯基被评为国联本周最佳球员。这些报道来自 MLB.com 等媒体，因此带动了集中搜索。",
+    "started": "Tue, 16 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：追踪贝克·鲍尔到小柯蒂斯·华盛顿。",
+    "explanation": "Google Trends 显示“小柯蒂斯·华盛顿”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：追踪贝克·鲍尔到小柯蒂斯·华盛顿。这些报道来自 MLB.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Jacob Misiorowski is named NL Co-Player of the Week",
-        "url": "https://www.mlb.com/video/jacob-misiorowski-is-named-nl-co-player-of-the-week",
+        "title": "Trace Baker Ball to Curtis Washington Jr.",
+        "url": "https://www.milb.com/everett/video/trace-baker-ball-to-curtis-washington-jr-gzml1d?t=t403-default-vtp",
         "source": "MLB.com"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "new zealand world cup roster",
-    "titleZh": "新西兰世界杯名单",
-    "traffic": "1000+",
-    "started": "Mon, 15 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：土耳其在 2026 年世界杯上的 FIFA 排名是多少？更多关于美国队的小组对手。",
-    "explanation": "Google Trends 显示“新西兰世界杯名单”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：土耳其在 2026 年世界杯上的 FIFA 排名是多少？更多关于美国队的小组对手。这些报道来自 Bolavip US 等媒体，因此带动了集中搜索。",
+    "title": "antonela roccuzzo",
+    "titleZh": "安东内拉·罗库佐",
+    "traffic": "500+",
+    "started": "Tue, 16 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：2026 年世界杯：安东内拉·罗库佐 (Antonela Rocuzzo) 球场上最具标志性的 10 款包袋。",
+    "explanation": "Google Trends 显示“安东内拉·罗库佐”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：2026 年世界杯：安东内拉·罗库佐 (Antonela Rocuzzo) 球场上最具标志性的 10 款包袋。这些报道来自 UnoTV 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "What’s Turkiye’s FIFA ranking at the 2026 World Cup? More about the USA’s group opponent",
-        "url": "https://bolavip.com/en/world-cup/whats-turkiyes-fifa-ranking-at-the-2026-world-cup-more-about-the-usas-group-opponent",
-        "source": "Bolavip US"
+        "title": "Mundial 2026: las 10 carteras más emblemáticas de Antonela Roccuzzo en sus looks de estadio",
+        "url": "https://www.unotv.com/us/mundial-2026-las-10-carteras-mas-emblematicas-de-antonela-roccuzzo-en-sus-looks-de-estadio/",
+        "source": "UnoTV"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "iran",
-    "titleZh": "伊朗",
-    "traffic": "20000+",
-    "started": "Mon, 15 Jun 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：实时更新：美国和伊朗达成协议，但关键问题仍然存在。",
-    "explanation": "Google Trends 显示“伊朗”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：实时更新：美国和伊朗达成协议，但关键问题仍然存在。这些报道来自 CNN 等媒体，因此带动了集中搜索。",
+    "title": "emi martinez",
+    "titleZh": "我是马丁内斯",
+    "traffic": "500+",
+    "started": "Tue, 16 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：当斯卡罗尼首发球员等待他的世界杯首秀时，他的俱乐部正在寻找继承人。",
+    "explanation": "Google Trends 显示“我是马丁内斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：当斯卡罗尼首发球员等待他的世界杯首秀时，他的俱乐部正在寻找继承人。这些报道来自 El Intransigente 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Live updates: US and Iran reach agreement but key questions remain",
-        "url": "https://edition.cnn.com/2026/06/15/world/live-news/iran-war-g7-summit",
-        "source": "CNN"
+        "title": "Mientras un titular de Scaloni espera el debut mundialista, su club busca un heredero",
+        "url": "https://elintransigente.com/2026/06/mientras-un-titular-de-scaloni-espera-el-debut-mundialista-su-club-busca-un-heredero/",
+        "source": "El Intransigente"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "steve mcbee",
-    "titleZh": "史蒂夫·麦克比",
-    "traffic": "2000+",
-    "started": "Mon, 15 Jun 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：《麦克比王朝》第 3 季 Bravo：直播还是跳过？。",
-    "explanation": "Google Trends 显示“史蒂夫·麦克比”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《麦克比王朝》第 3 季 Bravo：直播还是跳过？。这些报道来自 Decider 等媒体，因此带动了集中搜索。",
+    "title": "leandro paredes",
+    "titleZh": "莱安德罗墙",
+    "traffic": "500+",
+    "started": "Tue, 16 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：受人尊敬的阴谋集团：塔皮亚上传了国家队首秀前与梅西和德保罗的惯用照片。",
+    "explanation": "Google Trends 显示“莱安德罗墙”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：受人尊敬的阴谋集团：塔皮亚上传了国家队首秀前与梅西和德保罗的惯用照片。这些报道来自 La Nueva Provincia 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "'The McBee Dynasty' Season 3 Bravo: Stream It Or Skip It?",
-        "url": "https://decider.com/2026/06/15/the-mcbee-dynasty-season-3-bravo/",
-        "source": "Decider"
+        "title": "Cábala respetada: Tapia subió la foto de siempre, junto a Messi y De Paul antes del debut de la Selección",
+        "url": "https://www.lanueva.com/nota/2026-6-16-19-14-0-cabala-respetada-tapia-subio-la-foto-de-siempre-junto-a-messi-y-de-paul-antes-del-debut-de-la-seleccion",
+        "source": "La Nueva Provincia"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "uga baseball",
-    "titleZh": "加棒球",
-    "traffic": "2000+",
-    "started": "Mon, 15 Jun 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：天气延误后宣布第四场比赛的首次上场时间。",
-    "explanation": "Google Trends 显示“加棒球”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：天气延误后宣布第四场比赛的首次上场时间。这些报道来自 KETV 等媒体，因此带动了集中搜索。",
+    "title": "marcos senesi",
+    "titleZh": "马科斯·塞内西",
+    "traffic": "500+",
+    "started": "Tue, 16 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：托特纳姆热刺球迷突然对世界杯产生了新的兴趣。",
+    "explanation": "Google Trends 显示“马科斯·塞内西”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：托特纳姆热刺球迷突然对世界杯产生了新的兴趣。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "First pitch time announced for Game 4 after weather delay",
-        "url": "https://www.ketv.com/article/weather-delays-college-world-series-action-at-charles-schwab-field/71579393",
-        "source": "KETV"
+        "title": "Tottenham fans suddenly got a new rooting interest at the World Cup",
+        "url": "https://sports.yahoo.com/articles/tottenham-fans-suddenly-got-rooting-184506633.html",
+        "source": "Yahoo Sports"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "shore fire",
-    "titleZh": "岸火",
-    "traffic": "500+",
-    "started": "Mon, 15 Jun 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：卡利梅萨以南的荒地大火烧毁了 500 英亩土地。",
-    "explanation": "Google Trends 显示“岸火”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：卡利梅萨以南的荒地大火烧毁了 500 英亩土地。这些报道来自 KESQ 等媒体，因此带动了集中搜索。",
+    "title": "mac allister",
+    "titleZh": "麦克阿利斯特",
+    "traffic": "1000+",
+    "started": "Tue, 16 Jun 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：巴塞罗那转会截止日期到期后，马库斯·拉什福德下一步做什么？。",
+    "explanation": "Google Trends 显示“麦克阿利斯特”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：巴塞罗那转会截止日期到期后，马库斯·拉什福德下一步做什么？。这些报道来自 Sports Illustrated 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Blaze in Badlands south of Calimesa burns 500 acres",
-        "url": "https://kesq.com/news/california/2026/06/15/blaze-in-badlands-south-of-calimesa-burns-500-acres/",
-        "source": "KESQ"
+        "title": "What Next for Marcus Rashford After Barcelona Transfer Deadline Expires?",
+        "url": "https://www.si.com/soccer/what-next-marcus-rashford-after-barcelona-transfer-deadline-expires",
+        "source": "Sports Illustrated"
       }
     ]
   }
