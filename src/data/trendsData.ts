@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "storm vs fire",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "1000+",
-    "started": "Wed, 17 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：在哪里观看 6 月 17 日达拉斯翼队对阵金州武神队的比赛：电视频道、开始时间和流媒体。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：在哪里观看 6 月 17 日达拉斯翼队对阵金州武神队的比赛：电视频道、开始时间和流媒体。这些报道来自 USA Today 等媒体，因此带动了集中搜索。",
+    "title": "copa mundial de fútbol de 2026",
+    "titleZh": "2026年足球世界杯",
+    "traffic": "5000+",
+    "started": "Thu, 18 Jun 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：您会在 FIFA 商店中找到哪些产品？。",
+    "explanation": "Google Trends 显示“2026年足球世界杯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：您会在 FIFA 商店中找到哪些产品？。这些报道来自 Soy502 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Where to watch Dallas Wings vs Golden State Valkyries on June 17: TV channel, start time and streaming",
-        "url": "https://www.usatoday.com/story/sports/wnba/2026/06/17/dallas-wings-golden-state-valkyries-wnba-channel-stream-time-june-17/90585789007/",
-        "source": "USA Today"
+        "title": "¿Qué productos encontrarás en la FIFA Store?",
+        "url": "https://www.soy502.com/articulo/productos-encontraras-fifa-store-101771",
+        "source": "Soy502"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "daniel muñoz",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "500+",
-    "started": "Wed, 17 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Teleantioquia 等媒体，因此带动了集中搜索。",
+    "title": "angel reese",
+    "titleZh": "安吉尔·里斯",
+    "traffic": "2000+",
+    "started": "Thu, 18 Jun 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：Angel Reese 在《Dream vs Fever》之前与凯特琳·克拉克 (Caitlin Clark) 搭配签名鞋入口。",
+    "explanation": "Google Trends 显示“安吉尔·里斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Angel Reese 在《Dream vs Fever》之前与凯特琳·克拉克 (Caitlin Clark) 搭配签名鞋入口。这些报道来自 Sports Illustrated 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "De Amalfi, Antioquia, pal’ mundo: los inicios que pocos conocen de Daniel Muñoz en el club que lo rescató",
-        "url": "https://www.teleantioquia.co/deportes/de-amalfi-antioquia-pal-mundo-los-inicios-que-pocos-conocen-de-daniel-munoz-en-el-club-que-lo-rescato-581713",
-        "source": "Teleantioquia"
+        "title": "Angel Reese Matches Caitlin Clark With Signature Shoe Entrance Before Dream vs Fever",
+        "url": "https://www.si.com/onsi/womens-fastbreak/news/angel-reese-matches-caitlin-clark-with-signature-shoe-entrance-before-dream-vs-fever",
+        "source": "Sports Illustrated"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "jazz chisholm jr.",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title": "lexie hull",
+    "titleZh": "莱克西·赫尔",
     "traffic": "500+",
-    "started": "Wed, 17 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：评估哪些蓝鸟队值得成为 2026 年全明星。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：评估哪些蓝鸟队值得成为 2026 年全明星。这些报道来自 Blue Jays Nation 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 18 Jun 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：莱克西·赫尔 (Lexie Hull) 向凯特琳·克拉克 (Caitlin Clark) 狂热粉丝们证明了她的身价 160 万美元！ Hmp Frankland (POworOgCYs)。",
+    "explanation": "Google Trends 显示“莱克西·赫尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：莱克西·赫尔 (Lexie Hull) 向凯特琳·克拉克 (Caitlin Clark) 狂热粉丝们证明了她的身价 160 万美元！ Hmp Frankland (POworOgCYs)。这些报道来自 Fathom Journal 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Assessing which Blue Jays deserve to be All-Stars in 2026",
-        "url": "https://bluejaysnation.com/news/assessing-which-blue-jays-deserve-to-be-all-stars-in-2026",
-        "source": "Blue Jays Nation"
+        "title": "Lexie Hull PROVING She’s Worth $1.6 Million With Caitlin Clark Fever Fans On NOTICE! Hmp Frankland (POworOgCYs)",
+        "url": "https://fathomjournal.org/0cc65a75/1268aa34H6aRIOg6CpM",
+        "source": "Fathom Journal"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "luis diaz colombia",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title": "eva longoria",
+    "titleZh": "伊娃·朗格利亚",
     "traffic": "500+",
-    "started": "Wed, 17 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：Mane Díaz's gesture prior to Colombia's first match in the 2026 World Cup;它迅速传播开来，让粉丝们兴奋不已。。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Mane Díaz's gesture prior to Colombia's first match in the 2026 World Cup;它迅速传播开来，让粉丝们兴奋不已。。这些报道来自 Revista Semana 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 18 Jun 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：伊娃·朗格利亚在恋情传闻多年后与前托尼·帕克重聚：“看看谁来拜访”。",
+    "explanation": "Google Trends 显示“伊娃·朗格利亚”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：伊娃·朗格利亚在恋情传闻多年后与前托尼·帕克重聚：“看看谁来拜访”。这些报道来自 Us Weekly 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "El gesto de Mane Díaz previo al primer partido de Colombia en el Mundial 2026; se volvió viral y emocionó a los aficionados",
-        "url": "https://www.semana.com/gente/articulo/el-gesto-de-mane-diaz-previo-al-primer-partido-de-colombia-en-el-mundial-2026-se-volvio-viral-y-emociono-a-los-aficionados/202650/",
-        "source": "Revista Semana"
+        "title": "Eva Longoria Reunites With Ex Tony Parker Years After Affair Rumors: ‘Look Who Came to Visit’",
+        "url": "https://www.usmagazine.com/celebrity-news/news/eva-longoria-seen-with-tony-parker-years-after-affair-rumors/",
+        "source": "Us Weekly"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "anthony volpe",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title": "halle bailey",
+    "titleZh": "哈莉·贝利",
     "traffic": "500+",
-    "started": "Wed, 17 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 FanSided 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 18 Jun 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：哈莉·贝利 (Halle Bailey)、卢达克里斯 (Ludacris)、西洛·格林 (CeeLo Green) 加盟动画长片《Groove Tails》。",
+    "explanation": "Google Trends 显示“哈莉·贝利”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：哈莉·贝利 (Halle Bailey)、卢达克里斯 (Ludacris)、西洛·格林 (CeeLo Green) 加盟动画长片《Groove Tails》。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "The 4 players Yankees fans are most frustrated with, starting with Anthony Volpe",
-        "url": "https://fansided.com/mlb/the-4-players-yankees-fans-are-most-frustrated-with-starting-with-anthony-volpe",
-        "source": "FanSided"
+        "title": "Halle Bailey, Ludacris, CeeLo Green join cast of animated feature 'Groove Tails'",
+        "url": "https://www.yahoo.com/entertainment/movies/articles/halle-bailey-ludacris-ceelo-green-200000207.html",
+        "source": "Yahoo"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "pekerman",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title": "jorge campos",
+    "titleZh": "豪尔赫·菲尔德",
     "traffic": "500+",
-    "started": "Wed, 17 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Deportes RCN 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 18 Jun 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：豪尔赫·坎波斯将接替詹尼·因凡蒂诺出战墨西哥对阵韩国的比赛。",
+    "explanation": "Google Trends 显示“豪尔赫·菲尔德”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：豪尔赫·坎波斯将接替詹尼·因凡蒂诺出战墨西哥对阵韩国的比赛。这些报道来自 AS México 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Pékerman sigue siendo ídolo: el emotivo gesto que enamoró a los hinchas colombianos",
-        "url": "https://www.deportesrcn.com/futbol/seleccion-colombia/pekerman-sigue-siendo-idolo-el-emotivo-gesto-que-enamoro-a-los-hinchas-colombianos-152541",
-        "source": "Deportes RCN"
+        "title": "Jorge Campos tomará el lugar de Gianni Infantino en el México vs Corea del Sur",
+        "url": "https://mexico.as.com/videos/jorge-campos-tomara-el-lugar-de-gianni-infantino-en-el-mexico-vs-corea-del-sur-f202606-n/",
+        "source": "AS México"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "light heavyweight",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title": "preston davey",
+    "titleZh": "普雷斯顿戴维",
     "traffic": "500+",
-    "started": "Wed, 17 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 18 Jun 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：老师性侵并杀害了他收养的男婴，Snapchat 视频揭露恐怖。",
+    "explanation": "Google Trends 显示“普雷斯顿戴维”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：老师性侵并杀害了他收养的男婴，Snapchat 视频揭露恐怖。这些报道来自 People.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Jamahal Hill challenges Josh Hokit after Michelle Obama comment at UFC White House",
-        "url": "https://sports.yahoo.com/articles/jamahal-hill-challenges-josh-hokit-162442762.html",
-        "source": "Yahoo Sports"
+        "title": "Teacher Sexually Assaulted and Killed Baby Boy He Adopted, and Snapchat Videos Revealed Horror",
+        "url": "https://people.com/teacher-sexually-assaulted-and-killed-baby-boy-he-adopted-and-snapchat-videos-revealed-horror-11998762",
+        "source": "People.com"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "jefferson lerma",
-    "titleZh": "杰斐逊·勒玛",
-    "traffic": "500+",
-    "started": "Wed, 17 Jun 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：2026 年世界杯 | Colombia debuts against Uzbekistan; Panama falls to Ghana 1-0: follow the minute by minute。",
-    "explanation": "Google Trends 显示“杰斐逊·勒玛”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：2026 年世界杯 | Colombia debuts against Uzbekistan; Panama falls to Ghana 1-0: follow the minute by minute。这些报道来自 Telemundo 等媒体，因此带动了集中搜索。",
+    "title": "white sox",
+    "titleZh": "白袜队",
+    "traffic": "5000+",
+    "started": "Thu, 18 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：洋基队的这套阵容能否完成对白袜队的横扫呢？。",
+    "explanation": "Google Trends 显示“白袜队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：洋基队的这套阵容能否完成对白袜队的横扫呢？。这些报道来自 Pinstripe Alley 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Mundial 2026 | Colombia debuta frente a Uzbekistán; Panamá cae ante Ghana por 1-0: siga el minuto a minuto",
-        "url": "https://www.telemundo.com/noticias/noticias-telemundo/internacional/live-blog/mundial-2026-portugal-debuta-contra-el-congo-panama-ante-ghana-y-colom-rcna350502",
-        "source": "Telemundo"
+        "title": "Can this Yankees lineup complete the sweep of the White Sox?",
+        "url": "https://www.pinstripealley.com/post/_iAD_13w3gVn",
+        "source": "Pinstripe Alley"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "jhon lucumí",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "500+",
-    "started": "Wed, 17 Jun 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Colombia.com 等媒体，因此带动了集中搜索。",
+    "title": "north korea",
+    "titleZh": "北朝鲜",
+    "traffic": "1000+",
+    "started": "Thu, 18 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：特朗普总统承诺为朝鲜半岛建设和平发挥作用。",
+    "explanation": "Google Trends 显示“北朝鲜”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：特朗普总统承诺为朝鲜半岛建设和平发挥作用。这些报道来自 Korea.net 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Se cotizaron los muchachos: Juventus muestra interés por jugador de Colombia en pleno Mundial",
-        "url": "https://www.colombia.com/futbol/seleccion-colombia/seleccion-colombia-juventus-muestra-interes-por-jhon-lucumi-en-pleno-mundial-587719",
-        "source": "Colombia.com"
+        "title": "President Trump pledges peace-building role for Korean Peninsula",
+        "url": "https://www.korea.net/NewsFocus/policies/view?articleId=294288",
+        "source": "Korea.net"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "camilo vargas",
-    "titleZh": "卡米洛·巴尔加斯",
-    "traffic": "500+",
-    "started": "Wed, 17 Jun 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“卡米洛·巴尔加斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Bogota.gov.co 等媒体，因此带动了集中搜索。",
+    "title": "yankees score",
+    "titleZh": "洋基队得分",
+    "traffic": "1000+",
+    "started": "Thu, 18 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：FastCast：周三最佳。",
+    "explanation": "Google Trends 显示“洋基队得分”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：FastCast：周三最佳。这些报道来自 MLB.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Camilo Vargas, el bogotano que cuida el arco de la Selección Colombia en el Mundial 2026",
-        "url": "https://bogota.gov.co/mi-ciudad/cultura-recreacion-y-deporte/mundial-2026-camilo-vargas-el-bogotano-en-el-arco-de-colombia",
-        "source": "Bogota.gov.co"
+        "title": "FastCast: Wednesday's best in",
+        "url": "https://www.mlb.com/video/fastcast-wednesday-s-best-in-15-minutes-x1359",
+        "source": "MLB.com"
       }
     ]
   }
