@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "copa mundial de fútbol de 2026",
-    "titleZh": "2026年足球世界杯",
-    "traffic": "5000+",
-    "started": "Thu, 18 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：您会在 FIFA 商店中找到哪些产品？。",
-    "explanation": "Google Trends 显示“2026年足球世界杯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：您会在 FIFA 商店中找到哪些产品？。这些报道来自 Soy502 等媒体，因此带动了集中搜索。",
+    "title": "anthony volpe",
+    "titleZh": "安东尼·沃尔普",
+    "traffic": "500+",
+    "started": "Fri, 19 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：安东尼·沃尔普作为洋基队的未来有危险吗？国王演讲EP。 149 阿拉维斯 vs 巴塞罗那 (L9bai8Pliq)。",
+    "explanation": "Google Trends 显示“安东尼·沃尔普”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：安东尼·沃尔普作为洋基队的未来有危险吗？国王演讲EP。 149 阿拉维斯 vs 巴塞罗那 (L9bai8Pliq)。这些报道来自 Mshale 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "¿Qué productos encontrarás en la FIFA Store?",
-        "url": "https://www.soy502.com/articulo/productos-encontraras-fifa-store-101771",
-        "source": "Soy502"
+        "title": "IS ANTHONY VOLPE'S FUTURE AS A YANKEE IN DANGER? KING SPEECH EP. 149 Alavés Vs Barcelona (L9bai8Pliq)",
+        "url": "https://mshale.com/91c44c7a/bfee5a0bKiMZIDwgbyUAGQY",
+        "source": "Mshale"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "angel reese",
-    "titleZh": "安吉尔·里斯",
-    "traffic": "2000+",
-    "started": "Thu, 18 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：Angel Reese 在《Dream vs Fever》之前与凯特琳·克拉克 (Caitlin Clark) 搭配签名鞋入口。",
-    "explanation": "Google Trends 显示“安吉尔·里斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Angel Reese 在《Dream vs Fever》之前与凯特琳·克拉克 (Caitlin Clark) 搭配签名鞋入口。这些报道来自 Sports Illustrated 等媒体，因此带动了集中搜索。",
+    "title": "kennedy center shutdown lawsuit",
+    "titleZh": "肯尼迪中心关闭诉讼",
+    "traffic": "500+",
+    "started": "Fri, 19 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：尽管法院命令，肯尼迪中心仍拒绝预订表演。",
+    "explanation": "Google Trends 显示“肯尼迪中心关闭诉讼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：尽管法院命令，肯尼迪中心仍拒绝预订表演。这些报道来自 Washingtonian 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Angel Reese Matches Caitlin Clark With Signature Shoe Entrance Before Dream vs Fever",
-        "url": "https://www.si.com/onsi/womens-fastbreak/news/angel-reese-matches-caitlin-clark-with-signature-shoe-entrance-before-dream-vs-fever",
-        "source": "Sports Illustrated"
+        "title": "Kennedy Center Still Refusing to Book Performances, Despite Court Order",
+        "url": "https://washingtonian.com/2026/06/19/kennedy-center-still-refusing-to-book-performances-despite-court-order/?utm_source=rss&utm_medium=rss&utm_campaign=kennedy-center-still-refusing-to-book-performances-despite-court-order",
+        "source": "Washingtonian"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "lexie hull",
-    "titleZh": "莱克西·赫尔",
+    "title": "drishyam 3",
+    "titleZh": "德里希亚姆 3",
     "traffic": "500+",
-    "started": "Thu, 18 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：莱克西·赫尔 (Lexie Hull) 向凯特琳·克拉克 (Caitlin Clark) 狂热粉丝们证明了她的身价 160 万美元！ Hmp Frankland (POworOgCYs)。",
-    "explanation": "Google Trends 显示“莱克西·赫尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：莱克西·赫尔 (Lexie Hull) 向凯特琳·克拉克 (Caitlin Clark) 狂热粉丝们证明了她的身价 160 万美元！ Hmp Frankland (POworOgCYs)。这些报道来自 Fathom Journal 等媒体，因此带动了集中搜索。",
+    "started": "Fri, 19 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：《Drishyam 3 喀拉拉邦最终票房收藏》：莫汉拉尔主演的电影票房收入高达 9 亿卢比，位居第四。",
+    "explanation": "Google Trends 显示“德里希亚姆 3”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《Drishyam 3 喀拉拉邦最终票房收藏》：莫汉拉尔主演的电影票房收入高达 9 亿卢比，位居第四。这些报道来自 Pinkvilla 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Lexie Hull PROVING She’s Worth $1.6 Million With Caitlin Clark Fever Fans On NOTICE! Hmp Frankland (POworOgCYs)",
-        "url": "https://fathomjournal.org/0cc65a75/1268aa34H6aRIOg6CpM",
-        "source": "Fathom Journal"
+        "title": "Drishyam 3 Kerala Final Box Office Collections: Mohanlal starrer exhausts theatrical run at SOLID Rs 90 crore, emerges 4th biggest grosser",
+        "url": "https://www.pinkvilla.com/entertainment/box-office/drishyam-3-kerala-final-box-office-collections-mohanlal-starrer-exhausts-theatrical-run-at-solid-rs-90-crore-emerges-4th-biggest-grosser-1403820",
+        "source": "Pinkvilla"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "eva longoria",
-    "titleZh": "伊娃·朗格利亚",
+    "title": "mike yastrzemski",
+    "titleZh": "迈克·雅斯特泽姆斯基",
     "traffic": "500+",
-    "started": "Thu, 18 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：伊娃·朗格利亚在恋情传闻多年后与前托尼·帕克重聚：“看看谁来拜访”。",
-    "explanation": "Google Trends 显示“伊娃·朗格利亚”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：伊娃·朗格利亚在恋情传闻多年后与前托尼·帕克重聚：“看看谁来拜访”。这些报道来自 Us Weekly 等媒体，因此带动了集中搜索。",
+    "started": "Fri, 19 Jun 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：迈克·亚斯特泽姆斯基（Mike Yastrzemski）怀念巨人队的什么？甲骨文公园右外野和李正厚。",
+    "explanation": "Google Trends 显示“迈克·雅斯特泽姆斯基”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：迈克·亚斯特泽姆斯基（Mike Yastrzemski）怀念巨人队的什么？甲骨文公园右外野和李正厚。这些报道来自 San Francisco Chronicle 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Eva Longoria Reunites With Ex Tony Parker Years After Affair Rumors: ‘Look Who Came to Visit’",
-        "url": "https://www.usmagazine.com/celebrity-news/news/eva-longoria-seen-with-tony-parker-years-after-affair-rumors/",
-        "source": "Us Weekly"
+        "title": "What does Mike Yastrzemski miss about Giants? Oracle Park’s right field and Jung Hoo Lee",
+        "url": "https://www.sfchronicle.com/sports/giants/article/mike-yastrzemski-miss-giants-jung-hoo-lee-one-22308443.php",
+        "source": "San Francisco Chronicle"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "halle bailey",
-    "titleZh": "哈莉·贝利",
-    "traffic": "500+",
-    "started": "Thu, 18 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：哈莉·贝利 (Halle Bailey)、卢达克里斯 (Ludacris)、西洛·格林 (CeeLo Green) 加盟动画长片《Groove Tails》。",
-    "explanation": "Google Trends 显示“哈莉·贝利”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：哈莉·贝利 (Halle Bailey)、卢达克里斯 (Ludacris)、西洛·格林 (CeeLo Green) 加盟动画长片《Groove Tails》。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
+    "title": "red sox vs mariners",
+    "titleZh": "红袜队 vs 水手队",
+    "traffic": "2000+",
+    "started": "Fri, 19 Jun 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：哪里可以观看波士顿红袜队对阵西雅图水手队的比赛：直播、开始时间、电视频道、6 月 19 日星期五的赔率。",
+    "explanation": "Google Trends 显示“红袜队 vs 水手队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：哪里可以观看波士顿红袜队对阵西雅图水手队的比赛：直播、开始时间、电视频道、6 月 19 日星期五的赔率。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Halle Bailey, Ludacris, CeeLo Green join cast of animated feature 'Groove Tails'",
-        "url": "https://www.yahoo.com/entertainment/movies/articles/halle-bailey-ludacris-ceelo-green-200000207.html",
-        "source": "Yahoo"
+        "title": "Where to watch Boston Red Sox vs. Seattle Mariners: Live stream, start time, TV channel, odds for Friday, June 19",
+        "url": "https://sports.yahoo.com/mlb/article/where-to-watch-boston-red-sox-vs-seattle-mariners-live-stream-start-time-tv-channel-odds-for-friday-june-19-151317374.html",
+        "source": "Yahoo Sports"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "jorge campos",
-    "titleZh": "豪尔赫·菲尔德",
-    "traffic": "500+",
-    "started": "Thu, 18 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：豪尔赫·坎波斯将接替詹尼·因凡蒂诺出战墨西哥对阵韩国的比赛。",
-    "explanation": "Google Trends 显示“豪尔赫·菲尔德”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：豪尔赫·坎波斯将接替詹尼·因凡蒂诺出战墨西哥对阵韩国的比赛。这些报道来自 AS México 等媒体，因此带动了集中搜索。",
+    "title": "orioles vs dodgers",
+    "titleZh": "金莺队 vs 道奇队",
+    "traffic": "10000+",
+    "started": "Fri, 19 Jun 2026 18:10:00 -0700",
+    "summary": "相关新闻主要集中在：道奇队宣布系列赛对阵绊倒金莺队的首发投手。",
+    "explanation": "Google Trends 显示“金莺队 vs 道奇队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：道奇队宣布系列赛对阵绊倒金莺队的首发投手。这些报道来自 Sports Illustrated 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Jorge Campos tomará el lugar de Gianni Infantino en el México vs Corea del Sur",
-        "url": "https://mexico.as.com/videos/jorge-campos-tomara-el-lugar-de-gianni-infantino-en-el-mexico-vs-corea-del-sur-f202606-n/",
-        "source": "AS México"
+        "title": "Dodgers Announce Starting Pitchers for Series vs Stumbling Orioles",
+        "url": "https://www.si.com/mlb/dodgers/onsi/dodgers-announce-starting-pitchers-series-stumbling-orioles",
+        "source": "Sports Illustrated"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "preston davey",
-    "titleZh": "普雷斯顿戴维",
+    "title": "jonquel jones",
+    "titleZh": "琼奎尔·琼斯",
     "traffic": "500+",
-    "started": "Thu, 18 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：老师性侵并杀害了他收养的男婴，Snapchat 视频揭露恐怖。",
-    "explanation": "Google Trends 显示“普雷斯顿戴维”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：老师性侵并杀害了他收养的男婴，Snapchat 视频揭露恐怖。这些报道来自 People.com 等媒体，因此带动了集中搜索。",
+    "started": "Fri, 19 Jun 2026 18:10:00 -0700",
+    "summary": "相关新闻主要集中在：佐藤·萨巴利 (Satou Sabally) 真正了解 Liberty 团队的真正组成部分。",
+    "explanation": "Google Trends 显示“琼奎尔·琼斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：佐藤·萨巴利 (Satou Sabally) 真正了解 Liberty 团队的真正组成部分。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Teacher Sexually Assaulted and Killed Baby Boy He Adopted, and Snapchat Videos Revealed Horror",
-        "url": "https://people.com/teacher-sexually-assaulted-and-killed-baby-boy-he-adopted-and-snapchat-videos-revealed-horror-11998762",
-        "source": "People.com"
+        "title": "Satou Sabally gets real about what makes Liberty a team",
+        "url": "https://sports.yahoo.com/articles/satou-sabally-gets-real-makes-042602882.html",
+        "source": "Yahoo Sports"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "white sox",
-    "titleZh": "白袜队",
-    "traffic": "5000+",
-    "started": "Thu, 18 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：洋基队的这套阵容能否完成对白袜队的横扫呢？。",
-    "explanation": "Google Trends 显示“白袜队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：洋基队的这套阵容能否完成对白袜队的横扫呢？。这些报道来自 Pinstripe Alley 等媒体，因此带动了集中搜索。",
+    "title": "vasco da gama",
+    "titleZh": "瓦斯科达伽马",
+    "traffic": "500+",
+    "started": "Fri, 19 Jun 2026 18:10:00 -0700",
+    "summary": "相关新闻主要集中在：球迷选择雷纳托·高乔的替代者。",
+    "explanation": "Google Trends 显示“瓦斯科达伽马”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：球迷选择雷纳托·高乔的替代者。这些报道来自 SuperVasco 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Can this Yankees lineup complete the sweep of the White Sox?",
-        "url": "https://www.pinstripealley.com/post/_iAD_13w3gVn",
-        "source": "Pinstripe Alley"
+        "title": "Torcedores escolhem o substituto de Renato Gaúcho",
+        "url": "https://www.supervasco.com/noticias/torcedores-escolhem-o-substituto-de-renato-gaucho-449543.html",
+        "source": "SuperVasco"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "north korea",
-    "titleZh": "北朝鲜",
-    "traffic": "1000+",
-    "started": "Thu, 18 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：特朗普总统承诺为朝鲜半岛建设和平发挥作用。",
-    "explanation": "Google Trends 显示“北朝鲜”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：特朗普总统承诺为朝鲜半岛建设和平发挥作用。这些报道来自 Korea.net 等媒体，因此带动了集中搜索。",
+    "title": "philadelphia weather",
+    "titleZh": "费城 天气",
+    "traffic": "500+",
+    "started": "Fri, 19 Jun 2026 18:10:00 -0700",
+    "summary": "相关新闻主要集中在：🌡️ 当爱情炽热 |早间通讯。",
+    "explanation": "Google Trends 显示“费城 天气”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：🌡️ 当爱情炽热 |早间通讯。这些报道来自 Inquirer.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "President Trump pledges peace-building role for Korean Peninsula",
-        "url": "https://www.korea.net/NewsFocus/policies/view?articleId=294288",
-        "source": "Korea.net"
+        "title": "🌡️ When love runs hot | Morning Newsletter",
+        "url": "https://www.inquirer.com/newsletters/morning/how-to-set-ac-temp-fairly-philly-pool-opening-schedule-taylor-swift-knicks-20260613.html",
+        "source": "Inquirer.com"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "yankees score",
-    "titleZh": "洋基队得分",
-    "traffic": "1000+",
-    "started": "Thu, 18 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：FastCast：周三最佳。",
-    "explanation": "Google Trends 显示“洋基队得分”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：FastCast：周三最佳。这些报道来自 MLB.com 等媒体，因此带动了集中搜索。",
+    "title": "carlos ancelotti",
+    "titleZh": "卡洛斯·安切洛蒂",
+    "traffic": "500+",
+    "started": "Fri, 19 Jun 2026 18:10:00 -0700",
+    "summary": "相关新闻主要集中在：教练大迁徙：世界杯教练席如何走向全球。",
+    "explanation": "Google Trends 显示“卡洛斯·安切洛蒂”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：教练大迁徙：世界杯教练席如何走向全球。这些报道来自 Sportstar 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "FastCast: Wednesday's best in",
-        "url": "https://www.mlb.com/video/fastcast-wednesday-s-best-in-15-minutes-x1359",
-        "source": "MLB.com"
+        "title": "The great coaching migration: How the World Cup dugout went global",
+        "url": "https://sportstar.thehindu.com/football/fifa-world-cup/fifa-world-cup-2026-foreign-managers-trend-tuchel-ancelotti-renard-analysis-latest-updates/article71110202.ece",
+        "source": "Sportstar"
       }
     ]
   }
