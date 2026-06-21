@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "anthony volpe",
-    "titleZh": "安东尼·沃尔普",
+    "title": "tabla de posiciones mundial 2026",
+    "titleZh": "2026年世界排名",
     "traffic": "500+",
-    "started": "Fri, 19 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：安东尼·沃尔普作为洋基队的未来有危险吗？国王演讲EP。 149 阿拉维斯 vs 巴塞罗那 (L9bai8Pliq)。",
-    "explanation": "Google Trends 显示“安东尼·沃尔普”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：安东尼·沃尔普作为洋基队的未来有危险吗？国王演讲EP。 149 阿拉维斯 vs 巴塞罗那 (L9bai8Pliq)。这些报道来自 Mshale 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 20 Jun 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：兹拉科·达利奇认识到克罗地亚在对阵巴拿马时的错误以及需要改进的方面。",
+    "explanation": "Google Trends 显示“2026年世界排名”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：兹拉科·达利奇认识到克罗地亚在对阵巴拿马时的错误以及需要改进的方面。这些报道来自 ESPN Deportes 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "IS ANTHONY VOLPE'S FUTURE AS A YANKEE IN DANGER? KING SPEECH EP. 149 Alavés Vs Barcelona (L9bai8Pliq)",
-        "url": "https://mshale.com/91c44c7a/bfee5a0bKiMZIDwgbyUAGQY",
-        "source": "Mshale"
+        "title": "Zlatko Dalic reconoce errores de Croacia y los aspectos a mejorar ante Panamá",
+        "url": "https://espndeportes.espn.com/futbol/mundial/nota/_/id/16865570/zlatko-dalic-errores-croacia-y-aspectos-a-mejorar-ante-panama",
+        "source": "ESPN Deportes"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "kennedy center shutdown lawsuit",
-    "titleZh": "肯尼迪中心关闭诉讼",
+    "title": "angola",
+    "titleZh": "安哥拉",
     "traffic": "500+",
-    "started": "Fri, 19 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：尽管法院命令，肯尼迪中心仍拒绝预订表演。",
-    "explanation": "Google Trends 显示“肯尼迪中心关闭诉讼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：尽管法院命令，肯尼迪中心仍拒绝预订表演。这些报道来自 Washingtonian 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 20 Jun 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：如何报名参加荣耀飞行自由跑。",
+    "explanation": "Google Trends 显示“安哥拉”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：如何报名参加荣耀飞行自由跑。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Kennedy Center Still Refusing to Book Performances, Despite Court Order",
-        "url": "https://washingtonian.com/2026/06/19/kennedy-center-still-refusing-to-book-performances-despite-court-order/?utm_source=rss&utm_medium=rss&utm_campaign=kennedy-center-still-refusing-to-book-performances-despite-court-order",
-        "source": "Washingtonian"
+        "title": "How one can register for Honor Flight’s Freedom Run",
+        "url": "https://www.aol.com/news/one-register-honor-flight-freedom-115240334.html",
+        "source": "AOL.com"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "drishyam 3",
-    "titleZh": "德里希亚姆 3",
-    "traffic": "500+",
-    "started": "Fri, 19 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：《Drishyam 3 喀拉拉邦最终票房收藏》：莫汉拉尔主演的电影票房收入高达 9 亿卢比，位居第四。",
-    "explanation": "Google Trends 显示“德里希亚姆 3”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《Drishyam 3 喀拉拉邦最终票房收藏》：莫汉拉尔主演的电影票房收入高达 9 亿卢比，位居第四。这些报道来自 Pinkvilla 等媒体，因此带动了集中搜索。",
+    "title": "tim howard",
+    "titleZh": "蒂姆·霍华德",
+    "traffic": "2000+",
+    "started": "Sat, 20 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：美国球员同意兹拉坦·伊布拉希莫维奇的观点，即世界杯冠军是可能的：“这就是我们的心态”。",
+    "explanation": "Google Trends 显示“蒂姆·霍华德”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：美国球员同意兹拉坦·伊布拉希莫维奇的观点，即世界杯冠军是可能的：“这就是我们的心态”。这些报道来自 The Guardian 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Drishyam 3 Kerala Final Box Office Collections: Mohanlal starrer exhausts theatrical run at SOLID Rs 90 crore, emerges 4th biggest grosser",
-        "url": "https://www.pinkvilla.com/entertainment/box-office/drishyam-3-kerala-final-box-office-collections-mohanlal-starrer-exhausts-theatrical-run-at-solid-rs-90-crore-emerges-4th-biggest-grosser-1403820",
-        "source": "Pinkvilla"
+        "title": "US players agree with Zlatan Ibrahimovic that World Cup title is possible: ‘That’s our mindset’",
+        "url": "https://www.theguardian.com/football/2026/jun/19/usa-world-cup-zlatan-ibrahimovic-comments",
+        "source": "The Guardian"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "mike yastrzemski",
-    "titleZh": "迈克·雅斯特泽姆斯基",
-    "traffic": "500+",
-    "started": "Fri, 19 Jun 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：迈克·亚斯特泽姆斯基（Mike Yastrzemski）怀念巨人队的什么？甲骨文公园右外野和李正厚。",
-    "explanation": "Google Trends 显示“迈克·雅斯特泽姆斯基”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：迈克·亚斯特泽姆斯基（Mike Yastrzemski）怀念巨人队的什么？甲骨文公园右外野和李正厚。这些报道来自 San Francisco Chronicle 等媒体，因此带动了集中搜索。",
+    "title": "pirates",
+    "titleZh": "海盗",
+    "traffic": "2000+",
+    "started": "Sat, 20 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：匹兹堡海盗队 vs. 科罗拉多洛矶队：保罗·斯基内斯 vs. 菅野智之。",
+    "explanation": "Google Trends 显示“海盗”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：匹兹堡海盗队 vs. 科罗拉多洛矶队：保罗·斯基内斯 vs. 菅野智之。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "What does Mike Yastrzemski miss about Giants? Oracle Park’s right field and Jung Hoo Lee",
-        "url": "https://www.sfchronicle.com/sports/giants/article/mike-yastrzemski-miss-giants-jung-hoo-lee-one-22308443.php",
-        "source": "San Francisco Chronicle"
+        "title": "Pittsburgh Pirates vs. Colorado Rockies: Paul Skenes vs. Tomoyuki Sugano",
+        "url": "https://sports.yahoo.com/articles/pittsburgh-pirates-vs-colorado-rockies-001000585.html",
+        "source": "Yahoo Sports"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "red sox vs mariners",
-    "titleZh": "红袜队 vs 水手队",
-    "traffic": "2000+",
-    "started": "Fri, 19 Jun 2026 18:20:00 -0700",
-    "summary": "相关新闻主要集中在：哪里可以观看波士顿红袜队对阵西雅图水手队的比赛：直播、开始时间、电视频道、6 月 19 日星期五的赔率。",
-    "explanation": "Google Trends 显示“红袜队 vs 水手队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：哪里可以观看波士顿红袜队对阵西雅图水手队的比赛：直播、开始时间、电视频道、6 月 19 日星期五的赔率。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "title": "neil diamond",
+    "titleZh": "尼尔·戴蒙德",
+    "traffic": "1000+",
+    "started": "Sat, 20 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：尼尔·戴蒙德的《孤独的人》：如何花了 4 年时间才大受欢迎。",
+    "explanation": "Google Trends 显示“尼尔·戴蒙德”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：尼尔·戴蒙德的《孤独的人》：如何花了 4 年时间才大受欢迎。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Where to watch Boston Red Sox vs. Seattle Mariners: Live stream, start time, TV channel, odds for Friday, June 19",
-        "url": "https://sports.yahoo.com/mlb/article/where-to-watch-boston-red-sox-vs-seattle-mariners-live-stream-start-time-tv-channel-odds-for-friday-june-19-151317374.html",
-        "source": "Yahoo Sports"
+        "title": "Neil Diamond's 'Solitary Man': How It Took 4 Years to Become a Hit",
+        "url": "https://www.aol.com/articles/neil-diamonds-solitary-man-took-132317000.html",
+        "source": "AOL.com"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "orioles vs dodgers",
-    "titleZh": "金莺队 vs 道奇队",
-    "traffic": "10000+",
-    "started": "Fri, 19 Jun 2026 18:10:00 -0700",
-    "summary": "相关新闻主要集中在：道奇队宣布系列赛对阵绊倒金莺队的首发投手。",
-    "explanation": "Google Trends 显示“金莺队 vs 道奇队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：道奇队宣布系列赛对阵绊倒金莺队的首发投手。这些报道来自 Sports Illustrated 等媒体，因此带动了集中搜索。",
+    "title": "logan airport",
+    "titleZh": "洛根机场",
+    "traffic": "2000+",
+    "started": "Sat, 20 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：达美航空机组人员中止在波士顿​​洛根着陆，美国联邦航空局正在调查事件。",
+    "explanation": "Google Trends 显示“洛根机场”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：达美航空机组人员中止在波士顿​​洛根着陆，美国联邦航空局正在调查事件。这些报道来自 NBC Boston 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Dodgers Announce Starting Pitchers for Series vs Stumbling Orioles",
-        "url": "https://www.si.com/mlb/dodgers/onsi/dodgers-announce-starting-pitchers-series-stumbling-orioles",
-        "source": "Sports Illustrated"
+        "title": "Delta crew aborts landing at Boston Logan, FAA investigating incident",
+        "url": "https://www.nbcboston.com/news/local/boston-logan-close-call-delta-plane-flight-2351-aborts-landing-american-airlines-faa-investigating/3968647/",
+        "source": "NBC Boston"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "jonquel jones",
-    "titleZh": "琼奎尔·琼斯",
-    "traffic": "500+",
-    "started": "Fri, 19 Jun 2026 18:10:00 -0700",
-    "summary": "相关新闻主要集中在：佐藤·萨巴利 (Satou Sabally) 真正了解 Liberty 团队的真正组成部分。",
-    "explanation": "Google Trends 显示“琼奎尔·琼斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：佐藤·萨巴利 (Satou Sabally) 真正了解 Liberty 团队的真正组成部分。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "title": "giannis antetokounmpo miami heat trade",
+    "titleZh": "扬尼斯·阿德托昆博 迈阿密热火贸易",
+    "traffic": "1000+",
+    "started": "Sat, 20 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：底特律活塞队可以在扬尼斯三队交易中得到泰勒·赫罗。",
+    "explanation": "Google Trends 显示“扬尼斯·阿德托昆博 迈阿密热火贸易”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：底特律活塞队可以在扬尼斯三队交易中得到泰勒·赫罗。这些报道来自 Detroit Bad Boys 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Satou Sabally gets real about what makes Liberty a team",
-        "url": "https://sports.yahoo.com/articles/satou-sabally-gets-real-makes-042602882.html",
-        "source": "Yahoo Sports"
+        "title": "Detroit Pistons could get Tyler Herro in a Giannis three-team trade",
+        "url": "https://www.detroitbadboys.com/pistons-rumors/50476/detroit-pistons-could-get-tyler-herro-in-a-giannis-three-team-trade",
+        "source": "Detroit Bad Boys"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "vasco da gama",
-    "titleZh": "瓦斯科达伽马",
+    "title": "most saves in a world cup match",
+    "titleZh": "世界杯比赛中最多扑救",
     "traffic": "500+",
-    "started": "Fri, 19 Jun 2026 18:10:00 -0700",
-    "summary": "相关新闻主要集中在：球迷选择雷纳托·高乔的替代者。",
-    "explanation": "Google Trends 显示“瓦斯科达伽马”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：球迷选择雷纳托·高乔的替代者。这些报道来自 SuperVasco 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 20 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：2026 年 FIFA 世界杯库拉索岛门将埃洛伊·鲁姆 (Eloy Room) 是谁？。",
+    "explanation": "Google Trends 显示“世界杯比赛中最多扑救”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：2026 年 FIFA 世界杯库拉索岛门将埃洛伊·鲁姆 (Eloy Room) 是谁？。这些报道来自 Sportstar 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Torcedores escolhem o substituto de Renato Gaúcho",
-        "url": "https://www.supervasco.com/noticias/torcedores-escolhem-o-substituto-de-renato-gaucho-449543.html",
-        "source": "SuperVasco"
+        "title": "Who is Eloy Room, Curacao goalkeeper at FIFA World Cup 2026?",
+        "url": "https://sportstar.thehindu.com/football/fifa-world-cup/eloy-room-curacao-goalkeeper-fifa-world-cup-2026-saves-number-ecuador-news/article71128390.ece",
+        "source": "Sportstar"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "philadelphia weather",
-    "titleZh": "费城 天气",
+    "title": "fireworks",
+    "titleZh": "烟花",
     "traffic": "500+",
-    "started": "Fri, 19 Jun 2026 18:10:00 -0700",
-    "summary": "相关新闻主要集中在：🌡️ 当爱情炽热 |早间通讯。",
-    "explanation": "Google Trends 显示“费城 天气”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：🌡️ 当爱情炽热 |早间通讯。这些报道来自 Inquirer.com 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 20 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：康瑟尔布拉夫斯房屋火灾期间烟花爆炸，碎片散落在附近。",
+    "explanation": "Google Trends 显示“烟花”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：康瑟尔布拉夫斯房屋火灾期间烟花爆炸，碎片散落在附近。这些报道来自 Omaha World-Herald 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "🌡️ When love runs hot | Morning Newsletter",
-        "url": "https://www.inquirer.com/newsletters/morning/how-to-set-ac-temp-fairly-philly-pool-opening-schedule-taylor-swift-knicks-20260613.html",
-        "source": "Inquirer.com"
+        "title": "Fireworks explode during Council Bluffs house fire, scattering debris in neighborhood",
+        "url": "https://omaha.com/news/local/article_1a66ef08-5dee-4797-bc4e-e00607fe16f0.html",
+        "source": "Omaha World-Herald"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "carlos ancelotti",
-    "titleZh": "卡洛斯·安切洛蒂",
+    "title": "joey cantillo",
+    "titleZh": "乔伊·坎蒂略",
     "traffic": "500+",
-    "started": "Fri, 19 Jun 2026 18:10:00 -0700",
-    "summary": "相关新闻主要集中在：教练大迁徙：世界杯教练席如何走向全球。",
-    "explanation": "Google Trends 显示“卡洛斯·安切洛蒂”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：教练大迁徙：世界杯教练席如何走向全球。这些报道来自 Sportstar 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 20 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：6 月 21 日太空人队 vs 守护者队 预测、赔率、胜负盘、让分和大小盘。",
+    "explanation": "Google Trends 显示“乔伊·坎蒂略”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：6 月 21 日太空人队 vs 守护者队 预测、赔率、胜负盘、让分和大小盘。这些报道来自 FanDuel 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "The great coaching migration: How the World Cup dugout went global",
-        "url": "https://sportstar.thehindu.com/football/fifa-world-cup/fifa-world-cup-2026-foreign-managers-trend-tuchel-ancelotti-renard-analysis-latest-updates/article71110202.ece",
-        "source": "Sportstar"
+        "title": "Astros vs Guardians Prediction, Odds, Moneyline, Spread & Over/Under for June 21",
+        "url": "https://www.fanduel.com/research/astros-vs-guardians-mlb-odds-prediction-point-spread-over-under-and-betting-trends-for-6-21-2026",
+        "source": "FanDuel"
       }
     ]
   }
