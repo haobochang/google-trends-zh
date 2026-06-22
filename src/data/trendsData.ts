@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "tabla de posiciones mundial 2026",
-    "titleZh": "2026年世界排名",
+    "title": "fiji",
+    "titleZh": "斐济",
     "traffic": "500+",
-    "started": "Sat, 20 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：兹拉科·达利奇认识到克罗地亚在对阵巴拿马时的错误以及需要改进的方面。",
-    "explanation": "Google Trends 显示“2026年世界排名”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：兹拉科·达利奇认识到克罗地亚在对阵巴拿马时的错误以及需要改进的方面。这些报道来自 ESPN Deportes 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 21 Jun 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：《美国爱情岛》第八季拍摄期间去世，向 EP 詹姆斯·巴克致敬。",
+    "explanation": "Google Trends 显示“斐济”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《美国爱情岛》第八季拍摄期间去世，向 EP 詹姆斯·巴克致敬。这些报道来自 Deadline 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Zlatko Dalic reconoce errores de Croacia y los aspectos a mejorar ante Panamá",
-        "url": "https://espndeportes.espn.com/futbol/mundial/nota/_/id/16865570/zlatko-dalic-errores-croacia-y-aspectos-a-mejorar-ante-panama",
-        "source": "ESPN Deportes"
+        "title": "‘Love Island USA’ Pays Tribute To EP James Barker After Death During Season 8 Filming",
+        "url": "https://deadline.com/2026/06/love-island-usa-tribute-ep-james-barker-1236958065/",
+        "source": "Deadline"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "angola",
-    "titleZh": "安哥拉",
+    "title": "olivia cooke",
+    "titleZh": "奥利维亚·库克",
     "traffic": "500+",
-    "started": "Sat, 20 Jun 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：如何报名参加荣耀飞行自由跑。",
-    "explanation": "Google Trends 显示“安哥拉”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：如何报名参加荣耀飞行自由跑。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 21 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：《龙之屋》主演奥利维亚·库克透露阿利森特·海塔尔为什么戴假发：“我做了那个女孩的事”。",
+    "explanation": "Google Trends 显示“奥利维亚·库克”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《龙之屋》主演奥利维亚·库克透露阿利森特·海塔尔为什么戴假发：“我做了那个女孩的事”。这些报道来自 NDTV 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "How one can register for Honor Flight’s Freedom Run",
-        "url": "https://www.aol.com/news/one-register-honor-flight-freedom-115240334.html",
-        "source": "AOL.com"
+        "title": "House Of The Dragon Star Olivia Cooke Reveals Why Alicent Hightower Wore Wigs: \"I Did That Girl Thing\"",
+        "url": "https://www.ndtv.com/lifestyle/house-of-the-dragon-star-olivia-cooke-reveals-why-alicent-hightower-wore-wigs-i-did-that-girl-thing-11666048",
+        "source": "NDTV"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "tim howard",
-    "titleZh": "蒂姆·霍华德",
-    "traffic": "2000+",
-    "started": "Sat, 20 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：美国球员同意兹拉坦·伊布拉希莫维奇的观点，即世界杯冠军是可能的：“这就是我们的心态”。",
-    "explanation": "Google Trends 显示“蒂姆·霍华德”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：美国球员同意兹拉坦·伊布拉希莫维奇的观点，即世界杯冠军是可能的：“这就是我们的心态”。这些报道来自 The Guardian 等媒体，因此带动了集中搜索。",
+    "title": "james norton",
+    "titleZh": "詹姆斯·诺顿",
+    "traffic": "500+",
+    "started": "Sun, 21 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：詹姆斯·诺顿备受好评的 BBC 历史剧将是你的下一部必看之作。",
+    "explanation": "Google Trends 显示“詹姆斯·诺顿”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：詹姆斯·诺顿备受好评的 BBC 历史剧将是你的下一部必看之作。这些报道来自 The Mirror 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "US players agree with Zlatan Ibrahimovic that World Cup title is possible: ‘That’s our mindset’",
-        "url": "https://www.theguardian.com/football/2026/jun/19/usa-world-cup-zlatan-ibrahimovic-comments",
-        "source": "The Guardian"
+        "title": "James Norton's highly praised BBC historical drama will be your next must-watch",
+        "url": "https://www.mirror.co.uk/tv/tv-news/james-nortons-highly-praised-bbc-37316585",
+        "source": "The Mirror"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "pirates",
-    "titleZh": "海盗",
-    "traffic": "2000+",
-    "started": "Sat, 20 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：匹兹堡海盗队 vs. 科罗拉多洛矶队：保罗·斯基内斯 vs. 菅野智之。",
-    "explanation": "Google Trends 显示“海盗”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：匹兹堡海盗队 vs. 科罗拉多洛矶队：保罗·斯基内斯 vs. 菅野智之。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "title": "zach love island",
+    "titleZh": "扎克爱岛",
+    "traffic": "500+",
+    "started": "Sun, 21 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：尼尔·霍兰 (Niall Horan) 回应爱岛美国的扎克 (Zach) 用一个方向去搭讪女孩。",
+    "explanation": "Google Trends 显示“扎克爱岛”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：尼尔·霍兰 (Niall Horan) 回应爱岛美国的扎克 (Zach) 用一个方向去搭讪女孩。这些报道来自 E! News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Pittsburgh Pirates vs. Colorado Rockies: Paul Skenes vs. Tomoyuki Sugano",
-        "url": "https://sports.yahoo.com/articles/pittsburgh-pirates-vs-colorado-rockies-001000585.html",
-        "source": "Yahoo Sports"
+        "title": "Niall Horan Reacts to Love Island USA's Zach Using One Direction to Pick Up Girls",
+        "url": "https://www.eonline.com/videos/2504068163531/niall-horan-reacts-to-love-island-usas-zach-using-one-direction-to-pick-up-girls",
+        "source": "E! News"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "neil diamond",
-    "titleZh": "尼尔·戴蒙德",
-    "traffic": "1000+",
-    "started": "Sat, 20 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：尼尔·戴蒙德的《孤独的人》：如何花了 4 年时间才大受欢迎。",
-    "explanation": "Google Trends 显示“尼尔·戴蒙德”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：尼尔·戴蒙德的《孤独的人》：如何花了 4 年时间才大受欢迎。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
+    "title": "vancouver weather",
+    "titleZh": "温哥华 天气",
+    "traffic": "500+",
+    "started": "Sun, 21 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：温哥华明天天气（6 月 20 日）：晴空万里，温和晴朗。",
+    "explanation": "Google Trends 显示“温哥华 天气”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：温哥华明天天气（6 月 20 日）：晴空万里，温和晴朗。这些报道来自 The Weather Network 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Neil Diamond's 'Solitary Man': How It Took 4 Years to Become a Hit",
-        "url": "https://www.aol.com/articles/neil-diamonds-solitary-man-took-132317000.html",
-        "source": "AOL.com"
+        "title": "Tomorrow's Weather Vancouver (Jun 20): Clear Skies, Mild and Sunny",
+        "url": "https://www.theweathernetwork.com/en/news/weather/local-forecasts/vancouver-bc-weather-forecast-20-june",
+        "source": "The Weather Network"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "logan airport",
-    "titleZh": "洛根机场",
-    "traffic": "2000+",
-    "started": "Sat, 20 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：达美航空机组人员中止在波士顿​​洛根着陆，美国联邦航空局正在调查事件。",
-    "explanation": "Google Trends 显示“洛根机场”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：达美航空机组人员中止在波士顿​​洛根着陆，美国联邦航空局正在调查事件。这些报道来自 NBC Boston 等媒体，因此带动了集中搜索。",
+    "title": "vancouver stadium",
+    "titleZh": "温哥华体育场",
+    "traffic": "500+",
+    "started": "Sun, 21 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：汤姆·马延克内西特：加拿大国家男子足球项目是本周最大赢家。",
+    "explanation": "Google Trends 显示“温哥华体育场”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：汤姆·马延克内西特：加拿大国家男子足球项目是本周最大赢家。这些报道来自 Vancouver Sun 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Delta crew aborts landing at Boston Logan, FAA investigating incident",
-        "url": "https://www.nbcboston.com/news/local/boston-logan-close-call-delta-plane-flight-2351-aborts-landing-american-airlines-faa-investigating/3968647/",
-        "source": "NBC Boston"
+        "title": "Tom Mayenknecht: Canada’s national men’s soccer program is the biggest winner this week",
+        "url": "https://vancouversun.com/sports/soccer/international-soccer/todd-mayenknecht-canadas-national-mens-soccer-program-is-the-biggest-winner-this-week",
+        "source": "Vancouver Sun"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "giannis antetokounmpo miami heat trade",
-    "titleZh": "扬尼斯·阿德托昆博 迈阿密热火贸易",
+    "title": "bread recall",
+    "titleZh": "面包召回",
     "traffic": "1000+",
-    "started": "Sat, 20 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：底特律活塞队可以在扬尼斯三队交易中得到泰勒·赫罗。",
-    "explanation": "Google Trends 显示“扬尼斯·阿德托昆博 迈阿密热火贸易”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：底特律活塞队可以在扬尼斯三队交易中得到泰勒·赫罗。这些报道来自 Detroit Bad Boys 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 21 Jun 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：沃尔玛超值夏威夷面包卷因污染问题被召回 影响 26 个州。",
+    "explanation": "Google Trends 显示“面包召回”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：沃尔玛超值夏威夷面包卷因污染问题被召回 影响 26 个州。这些报道来自 eciks.org 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Detroit Pistons could get Tyler Herro in a Giannis three-team trade",
-        "url": "https://www.detroitbadboys.com/pistons-rumors/50476/detroit-pistons-could-get-tyler-herro-in-a-giannis-three-team-trade",
-        "source": "Detroit Bad Boys"
+        "title": "Walmart's Great Value Hawaiian Roll bread recalled over contamination concerns affecting 26 states",
+        "url": "https://eciks.org/10153-53707-bread-recall-great-value-walmart-26-states",
+        "source": "eciks.org"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "most saves in a world cup match",
-    "titleZh": "世界杯比赛中最多扑救",
+    "title": "british columbia",
+    "titleZh": "不列颠哥伦比亚省",
     "traffic": "500+",
-    "started": "Sat, 20 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：2026 年 FIFA 世界杯库拉索岛门将埃洛伊·鲁姆 (Eloy Room) 是谁？。",
-    "explanation": "Google Trends 显示“世界杯比赛中最多扑救”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：2026 年 FIFA 世界杯库拉索岛门将埃洛伊·鲁姆 (Eloy Room) 是谁？。这些报道来自 Sportstar 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 21 Jun 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：如果与政府的关系恶化，因纽特人可以寻求外国合作伙伴：ITK领导人。",
+    "explanation": "Google Trends 显示“不列颠哥伦比亚省”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：如果与政府的关系恶化，因纽特人可以寻求外国合作伙伴：ITK领导人。这些报道来自 unpublished.ca 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Who is Eloy Room, Curacao goalkeeper at FIFA World Cup 2026?",
-        "url": "https://sportstar.thehindu.com/football/fifa-world-cup/eloy-room-curacao-goalkeeper-fifa-world-cup-2026-saves-number-ecuador-news/article71128390.ece",
-        "source": "Sportstar"
+        "title": "Inuit could pursue foreign partners if relationship with government sours: ITK leader",
+        "url": "https://unpublished.ca/news-feed-item/2026-06-20/inuit-could-pursue-foreign-partners-if-relationship-with-government-sours",
+        "source": "unpublished.ca"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "fireworks",
-    "titleZh": "烟花",
+    "title": "john wayne",
+    "titleZh": "约翰·韦恩",
     "traffic": "500+",
-    "started": "Sat, 20 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：康瑟尔布拉夫斯房屋火灾期间烟花爆炸，碎片散落在附近。",
-    "explanation": "Google Trends 显示“烟花”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：康瑟尔布拉夫斯房屋火灾期间烟花爆炸，碎片散落在附近。这些报道来自 Omaha World-Herald 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 21 Jun 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：约翰·韦恩的最后一部电影《射手》被评为有史以来最佳西部片之一。",
+    "explanation": "Google Trends 显示“约翰·韦恩”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：约翰·韦恩的最后一部电影《射手》被评为有史以来最佳西部片之一。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Fireworks explode during Council Bluffs house fire, scattering debris in neighborhood",
-        "url": "https://omaha.com/news/local/article_1a66ef08-5dee-4797-bc4e-e00607fe16f0.html",
-        "source": "Omaha World-Herald"
+        "title": "John Wayne's Final Film 'The Shootist' Named One of the Best Westerns of All Time",
+        "url": "https://www.aol.com/articles/john-waynes-final-film-shootist-151921000.html",
+        "source": "AOL.com"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "joey cantillo",
-    "titleZh": "乔伊·坎蒂略",
-    "traffic": "500+",
-    "started": "Sat, 20 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：6 月 21 日太空人队 vs 守护者队 预测、赔率、胜负盘、让分和大小盘。",
-    "explanation": "Google Trends 显示“乔伊·坎蒂略”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：6 月 21 日太空人队 vs 守护者队 预测、赔率、胜负盘、让分和大小盘。这些报道来自 FanDuel 等媒体，因此带动了集中搜索。",
+    "title": "aegon targaryen",
+    "titleZh": "伊耿·坦格利安",
+    "traffic": "1000+",
+    "started": "Sun, 21 Jun 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：《龙之屋》的汤姆·格林-卡尼谈到了伊耿成为好国王的潜力。",
+    "explanation": "Google Trends 显示“伊耿·坦格利安”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《龙之屋》的汤姆·格林-卡尼谈到了伊耿成为好国王的潜力。这些报道来自 Comic Book Resources 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Astros vs Guardians Prediction, Odds, Moneyline, Spread & Over/Under for June 21",
-        "url": "https://www.fanduel.com/research/astros-vs-guardians-mlb-odds-prediction-point-spread-over-under-and-betting-trends-for-6-21-2026",
-        "source": "FanDuel"
+        "title": "House of the Dragon’s Tom Glynn-Carney Addresses Aegon’s Potential To Be A Good King",
+        "url": "https://www.cbr.com/house-of-the-dragons-tom-glynn-carney-aegon-good-king/",
+        "source": "Comic Book Resources"
       }
     ]
   }
