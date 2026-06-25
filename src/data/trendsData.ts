@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "dailyn swain",
-    "titleZh": "戴林·斯温",
+    "title": "julian quiñones",
+    "titleZh": "朱利安·奎诺内斯",
     "traffic": "5000+",
-    "started": "Tue, 23 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：德克萨斯州前锋戴林·斯温 (Dailyn Swain) 在明天 2026 年 NBA 选秀前的预测。",
-    "explanation": "Google Trends 显示“戴林·斯温”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：德克萨斯州前锋戴林·斯温 (Dailyn Swain) 在明天 2026 年 NBA 选秀前的预测。这些报道来自 247Sports 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 24 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：墨西哥 vs 捷克：你知道 Julián Quiñones 有一个中间名吗？ 2026 年世界杯期间曝光。",
+    "explanation": "Google Trends 显示“朱利安·奎诺内斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：墨西哥 vs 捷克：你知道 Julián Quiñones 有一个中间名吗？ 2026 年世界杯期间曝光。这些报道来自 Juanfutbol 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Projections for Texas forward Dailyn Swain ahead of tomorrow's 2026 NBA Draft",
-        "url": "https://247sports.com/college/texas/article/projections-for-texas-forward-dailyn-swain-ahead-of-tomorrows-2026-nba-draft-287902839/",
-        "source": "247Sports"
+        "title": "México vs Chequia: ¿Sabías que Julián Quiñones tiene un segundo nombre? Sale a la luz en pleno Mundial 2026",
+        "url": "https://juanfutbol.com/seleccion-mexicana/mexico-vs-republica-checa-el-segundo-nombre-de-julian-quinones-que-pocos-conocen-en-el-mundial-2026",
+        "source": "Juanfutbol"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "chet holmgren",
-    "titleZh": "切特霍姆格伦",
+    "title": "dream vs valkyries",
+    "titleZh": "梦与瓦尔基里",
     "traffic": "2000+",
-    "started": "Tue, 23 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：字母哥的交易应该会让雷霆重新考虑他们对切特·霍姆格伦的立场。",
-    "explanation": "Google Trends 显示“切特霍姆格伦”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：字母哥的交易应该会让雷霆重新考虑他们对切特·霍姆格伦的立场。这些报道来自 Thunderous Intentions 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 24 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：如何观看《Dream vs. Valkyries》：6 月 24 日的电视频道和流媒体选项。",
+    "explanation": "Google Trends 显示“梦与瓦尔基里”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：如何观看《Dream vs. Valkyries》：6 月 24 日的电视频道和流媒体选项。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Giannis trade should make Thunder rethink their stance on Chet Holmgren",
-        "url": "https://thunderousintentions.com/giannis-trade-should-make-thunder-rethink-their-stance-on-chet-holmgren",
-        "source": "Thunderous Intentions"
+        "title": "How to watch Dream vs. Valkyries: TV channel and streaming options for June 24",
+        "url": "https://www.nytimes.com/athletic/7391113/2026/06/24/how-to-watch-dream-vs-valkyries-tv-channel-and-streaming-options-for-june-24/",
+        "source": "The New York Times"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "hannes steinbach",
-    "titleZh": "汉内斯·斯坦巴赫",
-    "traffic": "5000+",
-    "started": "Tue, 23 Jun 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：酿酒人队 vs. 红人队 (2026 年 6 月 24 日) 实时比分 - ESPN。",
-    "explanation": "Google Trends 显示“汉内斯·斯坦巴赫”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：酿酒人队 vs. 红人队 (2026 年 6 月 24 日) 实时比分 - ESPN。这些报道来自 ESPN 等媒体，因此带动了集中搜索。",
+    "title": "felix okpara",
+    "titleZh": "菲利克斯长子",
+    "traffic": "2000+",
+    "started": "Wed, 24 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：华盛顿奇才队 46 号新秀菲利克斯·奥帕拉 2026 年 NBA 选秀球探报告。",
+    "explanation": "Google Trends 显示“菲利克斯长子”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：华盛顿奇才队 46 号新秀菲利克斯·奥帕拉 2026 年 NBA 选秀球探报告。这些报道来自 Bleacher Report 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Brewers vs. Reds (24 Jun, 2026) Live Score - ESPN",
-        "url": "https://africa.espn.com/mlb/game/_/gameId/401815870",
-        "source": "ESPN"
+        "title": "2026 NBA Draft Scouting Report for Washington Wizards' No. 46 Pick Felix Okpara",
+        "url": "https://bleacherreport.com/articles/25433490-2026-nba-draft-scouting-report-washington-wizards-no-46-pick-felix-okpara",
+        "source": "Bleacher Report"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "cameron carr",
-    "titleZh": "卡梅伦·卡尔",
+    "title": "roberto alvarado",
+    "titleZh": "罗伯托·阿尔瓦拉多",
     "traffic": "2000+",
-    "started": "Tue, 23 Jun 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：NBA 模拟选秀：卡梅隆·卡尔会进入乐透区吗？。",
-    "explanation": "Google Trends 显示“卡梅伦·卡尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：NBA 模拟选秀：卡梅隆·卡尔会进入乐透区吗？。这些报道来自 SicEm365 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 24 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：“Piojo”更喜欢节奏而不是对阵捷克的轮换。",
+    "explanation": "Google Trends 显示“罗伯托·阿尔瓦拉多”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：“Piojo”更喜欢节奏而不是对阵捷克的轮换。这些报道来自 Reforma 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "NBA Mock Draft: Will Cameron Carr Land in the Lottery?",
-        "url": "https://sicem365.com/s/21428/nba-mock-draft-will-cameron-carr-land-in-the-lottery",
-        "source": "SicEm365"
+        "title": "Prefiere 'Piojo' ritmo que rotaciones ante Chequia",
+        "url": "https://www.reforma.com/prefiere-piojo-ritmo-que-rotaciones-ante-chequia/ar3227632",
+        "source": "Reforma"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "colombia - rd congo",
-    "titleZh": "哥伦比亚 - 刚果民主共和国",
-    "traffic": "20000+",
-    "started": "Tue, 23 Jun 2026 18:10:00 -0700",
-    "summary": "相关新闻主要集中在：CdM：K组的分类。",
-    "explanation": "Google Trends 显示“哥伦比亚 - 刚果民主共和国”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：CdM：K组的分类。这些报道来自 Maxifoot - football 等媒体，因此带动了集中搜索。",
+    "title": "tyler nickel",
+    "titleZh": "泰勒镍",
+    "traffic": "2000+",
+    "started": "Wed, 24 Jun 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：Sports Xtra 第 14 集：泰勒·尼克尔谈论 NBA 选秀、东罗金厄姆的回忆。",
+    "explanation": "Google Trends 显示“泰勒镍”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Sports Xtra 第 14 集：泰勒·尼克尔谈论 NBA 选秀、东罗金厄姆的回忆。这些报道来自 WHSV 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "CdM : le classement du groupe K",
-        "url": "https://m.maxifoot.fr/cdm/le-classement-du-groupe-k-foot-458389.htm",
-        "source": "Maxifoot - football"
+        "title": "Sports Xtra Episode 14: Tyler Nickel Talks NBA Draft, Memories at East Rockingham",
+        "url": "https://www.whsv.com/video/2026/06/22/sports-xtra-episode-14-tyler-nickel-talks-nba-draft-memories-east-rockingham/",
+        "source": "WHSV"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "liberty vs aces",
-    "titleZh": "自由队 vs 王牌队",
-    "traffic": "5000+",
-    "started": "Tue, 23 Jun 2026 18:10:00 -0700",
-    "summary": "相关新闻主要集中在：如何观看 Liberty 对阵 Aces：6 月 23 日的电视频道和流媒体选项。",
-    "explanation": "Google Trends 显示“自由队 vs 王牌队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：如何观看 Liberty 对阵 Aces：6 月 23 日的电视频道和流媒体选项。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
+    "title": "edson álvarez",
+    "titleZh": "埃德森·阿尔瓦雷斯",
+    "traffic": "2000+",
+    "started": "Wed, 24 Jun 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：哈维尔·阿吉雷是对的：埃德森·阿尔瓦雷斯是墨西哥国家队在世界杯上取得成功的关键。",
+    "explanation": "Google Trends 显示“埃德森·阿尔瓦雷斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：哈维尔·阿吉雷是对的：埃德森·阿尔瓦雷斯是墨西哥国家队在世界杯上取得成功的关键。这些报道来自 MARCA 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "How to watch Liberty vs. Aces: TV channel and streaming options for June 23",
-        "url": "https://www.nytimes.com/athletic/7387537/2026/06/23/how-to-watch-liberty-vs-aces-tv-channel-and-streaming-options-for-june-23/",
-        "source": "The New York Times"
+        "title": "Javier Aguirre tiene razón: Edson Álvarez clave del éxito de la Selección Mexicana en el Mundial",
+        "url": "https://www.marca.com/mx/futbol/seleccion-mx/2026/06/24/6a3c2a0722601d30248b45b2.html",
+        "source": "MARCA"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "yaxel lendeborg age",
-    "titleZh": "亚克塞尔·伦登堡年龄",
-    "traffic": "10000+",
-    "started": "Tue, 23 Jun 2026 18:10:00 -0700",
-    "summary": "相关新闻主要集中在：为什么勇士队总经理迈克邓利维在 2026 年 NBA 选秀中值得 Dub Nation 信任。",
-    "explanation": "Google Trends 显示“亚克塞尔·伦登堡年龄”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：为什么勇士队总经理迈克邓利维在 2026 年 NBA 选秀中值得 Dub Nation 信任。这些报道来自 NBC Sports Bay Area & California 等媒体，因此带动了集中搜索。",
+    "title": "rsa country",
+    "titleZh": "RSA国家",
+    "traffic": "2000+",
+    "started": "Wed, 24 Jun 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：数千移民在反外国人最后通牒前逃离南非。",
+    "explanation": "Google Trends 显示“RSA国家”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：数千移民在反外国人最后通牒前逃离南非。这些报道来自 The Telegraph 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Why Warriors GM Mike Dunleavy deserves Dub Nation's trust in 2026 NBA Draft",
-        "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/mike-dunleavy-2026-draft-pick/1944823/",
-        "source": "NBC Sports Bay Area & California"
+        "title": "Thousands of migrants flee South Africa ahead of anti-foreigner ultimatum",
+        "url": "https://www.telegraph.co.uk/global-health/terror-and-security/thousands-flee-south-africa-ahead-anti-foreigner-ultimatum/",
+        "source": "The Telegraph"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "claire valdez",
-    "titleZh": "克莱尔·瓦尔迪兹",
-    "traffic": "2000+",
-    "started": "Tue, 23 Jun 2026 18:10:00 -0700",
-    "summary": "相关新闻主要集中在：2026 年马里兰州第六国会选区小学：现场选举结果。",
-    "explanation": "Google Trends 显示“克莱尔·瓦尔迪兹”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：2026 年马里兰州第六国会选区小学：现场选举结果。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
+    "title": "tobi lawal",
+    "titleZh": "托比拉瓦尔",
+    "traffic": "1000+",
+    "started": "Wed, 24 Jun 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：教士队 7-6 勇士队（2026 年 6 月 23 日）比赛统计。",
+    "explanation": "Google Trends 显示“托比拉瓦尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：教士队 7-6 勇士队（2026 年 6 月 23 日）比赛统计。这些报道来自 ESPN 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Maryland Sixth Congressional District Primary 2026: Live Election Results",
-        "url": "https://www.nytimes.com/interactive/2026/us/elections/results-maryland-us-house-6-primary.html",
-        "source": "The New York Times"
+        "title": "Padres 7-6 Braves (Jun 23, 2026) Game Stats",
+        "url": "https://www.espn.com/mlb/matchup?gameId=401815880",
+        "source": "ESPN"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "micah lasher",
-    "titleZh": "迈卡·拉什尔",
-    "traffic": "5000+",
-    "started": "Tue, 23 Jun 2026 18:10:00 -0700",
-    "summary": "相关新闻主要集中在：肯尼迪、前共和党人和政治内部人士：来认识一下在 NY-12 竞选的拥挤的民主党人。",
-    "explanation": "Google Trends 显示“迈卡·拉什尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：肯尼迪、前共和党人和政治内部人士：来认识一下在 NY-12 竞选的拥挤的民主党人。这些报道来自 CNN 等媒体，因此带动了集中搜索。",
+    "title": "sudáfrica vs. corea del sur",
+    "titleZh": "南非 vs 韩国",
+    "traffic": "1000+",
+    "started": "Wed, 24 Jun 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：南非队对阵韩国队直播。日期 3 今天 2026 年世界小组赛。",
+    "explanation": "Google Trends 显示“南非 vs 韩国”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：南非队对阵韩国队直播。日期 3 今天 2026 年世界小组赛。这些报道来自 Mediotiempo 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "A Kennedy, a former Republican, and a political insider: Meet the crowded field of Democrats running in NY-12",
-        "url": "https://www.cnn.com/2026/06/22/politics/video/new-york-district-12-election-midterms-democrats-lead",
-        "source": "CNN"
+        "title": "Sudáfrica vs. Corea del Sur EN VIVO. Fecha 3 HOY Fase de Grupos Mundial 2026",
+        "url": "https://www.mediotiempo.com/futbol/copa-mundial/sudafrica-vs-corea-del-sur-a-que-hora-donde-ver-fecha-3-hoy-fase-de-grupos-mundial-2026",
+        "source": "Mediotiempo"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "karim lopez",
-    "titleZh": "卡里姆·洛佩兹",
-    "traffic": "2000+",
-    "started": "Tue, 23 Jun 2026 18:10:00 -0700",
-    "summary": "相关新闻主要集中在：墨西哥出生的卡里姆·洛佩兹上台，NBA选秀迎来历史。",
-    "explanation": "Google Trends 显示“卡里姆·洛佩兹”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：墨西哥出生的卡里姆·洛佩兹上台，NBA选秀迎来历史。这些报道来自 USA Today 等媒体，因此带动了集中搜索。",
+    "title": "emanuel sharp",
+    "titleZh": "伊曼纽尔·夏普",
+    "traffic": "1000+",
+    "started": "Wed, 24 Jun 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：国王队以第 45 顺位选中伊曼纽尔·夏普。",
+    "explanation": "Google Trends 显示“伊曼纽尔·夏普”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：国王队以第 45 顺位选中伊曼纽尔·夏普。这些报道来自 NBC Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "NBA draft to welcome history as Mexican-born Karim Lopez takes stage",
-        "url": "https://www.usatoday.com/story/sports/nba/draft/2026/06/23/karim-lopez-nba-draft-first-mexican-first-round-warriors/90664904007/",
-        "source": "USA Today"
+        "title": "Kings select Emanuel Sharp with No. 45 pick",
+        "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-06-24/kings-select-emanuel-sharp-with-no-45-pick",
+        "source": "NBC Sports"
       }
     ]
   }
