@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "julian quiñones",
-    "titleZh": "朱利安·奎诺内斯",
-    "traffic": "5000+",
-    "started": "Wed, 24 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：墨西哥 vs 捷克：你知道 Julián Quiñones 有一个中间名吗？ 2026 年世界杯期间曝光。",
-    "explanation": "Google Trends 显示“朱利安·奎诺内斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：墨西哥 vs 捷克：你知道 Julián Quiñones 有一个中间名吗？ 2026 年世界杯期间曝光。这些报道来自 Juanfutbol 等媒体，因此带动了集中搜索。",
+    "title": "phillies",
+    "titleZh": "费城人队",
+    "traffic": "10000+",
+    "started": "Thu, 25 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：为什么左撇子福斯特·格里芬代表了国民队的交易截止日期难题 - The Athletic。",
+    "explanation": "Google Trends 显示“费城人队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：为什么左撇子福斯特·格里芬代表了国民队的交易截止日期难题 - The Athletic。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "México vs Chequia: ¿Sabías que Julián Quiñones tiene un segundo nombre? Sale a la luz en pleno Mundial 2026",
-        "url": "https://juanfutbol.com/seleccion-mexicana/mexico-vs-republica-checa-el-segundo-nombre-de-julian-quinones-que-pocos-conocen-en-el-mundial-2026",
-        "source": "Juanfutbol"
+        "title": "Why lefty Foster Griffin personifies the Nationals’ trade deadline conundrum - The Athletic",
+        "url": "https://www.nytimes.com/athletic/7385201/2026/06/23/foster-griffin-nationals-trade-deadline/",
+        "source": "The New York Times"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "dream vs valkyries",
-    "titleZh": "梦与瓦尔基里",
+    "title": "liberty vs storm",
+    "titleZh": "自由与风暴",
     "traffic": "2000+",
-    "started": "Wed, 24 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：如何观看《Dream vs. Valkyries》：6 月 24 日的电视频道和流媒体选项。",
-    "explanation": "Google Trends 显示“梦与瓦尔基里”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：如何观看《Dream vs. Valkyries》：6 月 24 日的电视频道和流媒体选项。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 25 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：如何观看 Liberty vs. Storm：6 月 25 日的电视频道和流媒体选项。",
+    "explanation": "Google Trends 显示“自由与风暴”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：如何观看 Liberty vs. Storm：6 月 25 日的电视频道和流媒体选项。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "How to watch Dream vs. Valkyries: TV channel and streaming options for June 24",
-        "url": "https://www.nytimes.com/athletic/7391113/2026/06/24/how-to-watch-dream-vs-valkyries-tv-channel-and-streaming-options-for-june-24/",
+        "title": "How to watch Liberty vs. Storm: TV channel and streaming options for June 25",
+        "url": "https://www.nytimes.com/athletic/7394831/2026/06/25/how-to-watch-liberty-vs-storm-tv-channel-and-streaming-options-for-june-25/",
         "source": "The New York Times"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "felix okpara",
-    "titleZh": "菲利克斯长子",
+    "title": "faith hill",
+    "titleZh": "信仰山",
     "traffic": "2000+",
-    "started": "Wed, 24 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：华盛顿奇才队 46 号新秀菲利克斯·奥帕拉 2026 年 NBA 选秀球探报告。",
-    "explanation": "Google Trends 显示“菲利克斯长子”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：华盛顿奇才队 46 号新秀菲利克斯·奥帕拉 2026 年 NBA 选秀球探报告。这些报道来自 Bleacher Report 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 25 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：泰勒·斯威夫特 (Taylor Swift) 与乡村音乐艺术家的友谊。",
+    "explanation": "Google Trends 显示“信仰山”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：泰勒·斯威夫特 (Taylor Swift) 与乡村音乐艺术家的友谊。这些报道来自 The Tennessean 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "2026 NBA Draft Scouting Report for Washington Wizards' No. 46 Pick Felix Okpara",
-        "url": "https://bleacherreport.com/articles/25433490-2026-nba-draft-scouting-report-washington-wizards-no-46-pick-felix-okpara",
-        "source": "Bleacher Report"
+        "title": "Inside Taylor Swift friendships with country music artists",
+        "url": "https://www.tennessean.com/picture-gallery/entertainment/music/2026/06/25/taylor-swift-sharing-moments-friendships-with-country-music-artists-friends-stars-photos/90690714007/",
+        "source": "The Tennessean"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "roberto alvarado",
-    "titleZh": "罗伯托·阿尔瓦拉多",
+    "title": "zoe saldana",
+    "titleZh": "佐伊·索尔达娜",
     "traffic": "2000+",
-    "started": "Wed, 24 Jun 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：“Piojo”更喜欢节奏而不是对阵捷克的轮换。",
-    "explanation": "Google Trends 显示“罗伯托·阿尔瓦拉多”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：“Piojo”更喜欢节奏而不是对阵捷克的轮换。这些报道来自 Reforma 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 25 Jun 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：佐伊·索尔达娜 (Zoe Saldana) 讲述了她的两种极其放松的健康做法。",
+    "explanation": "Google Trends 显示“佐伊·索尔达娜”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：佐伊·索尔达娜 (Zoe Saldana) 讲述了她的两种极其放松的健康做法。这些报道来自 IANS LIVE 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Prefiere 'Piojo' ritmo que rotaciones ante Chequia",
-        "url": "https://www.reforma.com/prefiere-piojo-ritmo-que-rotaciones-ante-chequia/ar3227632",
-        "source": "Reforma"
+        "title": "Zoe Saldana sheds light on her 2 extremely relaxing wellness practices",
+        "url": "https://ianslive.in/zoe-saldana-sheds-light-on-her-2-extremely-relaxing-wellness-practices--20260625034443",
+        "source": "IANS LIVE"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "tyler nickel",
-    "titleZh": "泰勒镍",
-    "traffic": "2000+",
-    "started": "Wed, 24 Jun 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：Sports Xtra 第 14 集：泰勒·尼克尔谈论 NBA 选秀、东罗金厄姆的回忆。",
-    "explanation": "Google Trends 显示“泰勒镍”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Sports Xtra 第 14 集：泰勒·尼克尔谈论 NBA 选秀、东罗金厄姆的回忆。这些报道来自 WHSV 等媒体，因此带动了集中搜索。",
+    "title": "alexi lalas",
+    "titleZh": "亚历克西·拉拉斯",
+    "traffic": "5000+",
+    "started": "Thu, 25 Jun 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：法国贵族和全美白痴：亨利vs拉拉斯是世界杯上最引人注目的战斗。",
+    "explanation": "Google Trends 显示“亚历克西·拉拉斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：法国贵族和全美白痴：亨利vs拉拉斯是世界杯上最引人注目的战斗。这些报道来自 The Guardian 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Sports Xtra Episode 14: Tyler Nickel Talks NBA Draft, Memories at East Rockingham",
-        "url": "https://www.whsv.com/video/2026/06/22/sports-xtra-episode-14-tyler-nickel-talks-nba-draft-memories-east-rockingham/",
-        "source": "WHSV"
+        "title": "The French aristocrat and the all-American idiot: Henry v Lalas is the World Cup’s most compelling battle",
+        "url": "https://www.theguardian.com/football/2026/jun/21/thierry-henry-alexi-lalas-fox-world-cup",
+        "source": "The Guardian"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "edson álvarez",
-    "titleZh": "埃德森·阿尔瓦雷斯",
-    "traffic": "2000+",
-    "started": "Wed, 24 Jun 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：哈维尔·阿吉雷是对的：埃德森·阿尔瓦雷斯是墨西哥国家队在世界杯上取得成功的关键。",
-    "explanation": "Google Trends 显示“埃德森·阿尔瓦雷斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：哈维尔·阿吉雷是对的：埃德森·阿尔瓦雷斯是墨西哥国家队在世界杯上取得成功的关键。这些报道来自 MARCA 等媒体，因此带动了集中搜索。",
+    "title": "caleb durbin",
+    "titleZh": "迦勒·德宾",
+    "traffic": "1000+",
+    "started": "Thu, 25 Jun 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：红袜队阵容：3B 在上一场比赛中手指受伤后于周四回归对阵洋基队。",
+    "explanation": "Google Trends 显示“迦勒·德宾”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：红袜队阵容：3B 在上一场比赛中手指受伤后于周四回归对阵洋基队。这些报道来自 MassLive 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Javier Aguirre tiene razón: Edson Álvarez clave del éxito de la Selección Mexicana en el Mundial",
-        "url": "https://www.marca.com/mx/futbol/seleccion-mx/2026/06/24/6a3c2a0722601d30248b45b2.html",
-        "source": "MARCA"
+        "title": "Red Sox lineup: 3B returns vs. Yankees on Thursday after injuring finger in previous game",
+        "url": "https://www.masslive.com/redsox/2026/06/red-sox-lineup-3b-returns-vs-yankees-on-thursday-after-injuring-finger-in-previous-game.html",
+        "source": "MassLive"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "rsa country",
-    "titleZh": "RSA国家",
-    "traffic": "2000+",
-    "started": "Wed, 24 Jun 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：数千移民在反外国人最后通牒前逃离南非。",
-    "explanation": "Google Trends 显示“RSA国家”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：数千移民在反外国人最后通牒前逃离南非。这些报道来自 The Telegraph 等媒体，因此带动了集中搜索。",
+    "title": "antonio freeman",
+    "titleZh": "安东尼奥·弗里曼",
+    "traffic": "10000+",
+    "started": "Thu, 25 Jun 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：足球 vs. 足球：谁是最好的弗里曼？爸爸安东尼奥向儿子亚历克斯致敬。",
+    "explanation": "Google Trends 显示“安东尼奥·弗里曼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：足球 vs. 足球：谁是最好的弗里曼？爸爸安东尼奥向儿子亚历克斯致敬。这些报道来自 NBC News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Thousands of migrants flee South Africa ahead of anti-foreigner ultimatum",
-        "url": "https://www.telegraph.co.uk/global-health/terror-and-security/thousands-flee-south-africa-ahead-anti-foreigner-ultimatum/",
-        "source": "The Telegraph"
+        "title": "Football vs. fútbol: Who is the best Freeman? Dad Antonio salutes son Alex",
+        "url": "https://www.nbcnews.com/news/us-news/antonio-freeman-alex-freeman-fifa-world-cup-us-mens-national-team-rcna351285",
+        "source": "NBC News"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "tobi lawal",
-    "titleZh": "托比拉瓦尔",
-    "traffic": "1000+",
-    "started": "Wed, 24 Jun 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：教士队 7-6 勇士队（2026 年 6 月 23 日）比赛统计。",
-    "explanation": "Google Trends 显示“托比拉瓦尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：教士队 7-6 勇士队（2026 年 6 月 23 日）比赛统计。这些报道来自 ESPN 等媒体，因此带动了集中搜索。",
+    "title": "wings vs aces",
+    "titleZh": "翅膀 vs 王牌",
+    "traffic": "5000+",
+    "started": "Thu, 25 Jun 2026 18:10:00 -0700",
+    "summary": "相关新闻主要集中在：今晚 WNBA 比赛 Wings vs Aces 的预测、选秀和赔率。",
+    "explanation": "Google Trends 显示“翅膀 vs 王牌”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：今晚 WNBA 比赛 Wings vs Aces 的预测、选秀和赔率。这些报道来自 Covers.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Padres 7-6 Braves (Jun 23, 2026) Game Stats",
-        "url": "https://www.espn.com/mlb/matchup?gameId=401815880",
-        "source": "ESPN"
+        "title": "Wings vs Aces Prediction, Picks & Odds for Tonight’s WNBA Game",
+        "url": "https://www.covers.com/wnba/wings-vs-aces-prediction-picks-best-bets-parlay-thursday-6-25-2026",
+        "source": "Covers.com"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "sudáfrica vs. corea del sur",
-    "titleZh": "南非 vs 韩国",
-    "traffic": "1000+",
-    "started": "Wed, 24 Jun 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：南非队对阵韩国队直播。日期 3 今天 2026 年世界小组赛。",
-    "explanation": "Google Trends 显示“南非 vs 韩国”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：南非队对阵韩国队直播。日期 3 今天 2026 年世界小组赛。这些报道来自 Mediotiempo 等媒体，因此带动了集中搜索。",
+    "title": "clint dempsey",
+    "titleZh": "克林特·登普西",
+    "traffic": "2000+",
+    "started": "Thu, 25 Jun 2026 18:10:00 -0700",
+    "summary": "相关新闻主要集中在：克林特·邓普西 (Clint Dempsey) 将 USMNT 2026 年世界杯希望与 1930 年世界杯进行比较。",
+    "explanation": "Google Trends 显示“克林特·登普西”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：克林特·邓普西 (Clint Dempsey) 将 USMNT 2026 年世界杯希望与 1930 年世界杯进行比较。这些报道来自 Crypto Briefing 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Sudáfrica vs. Corea del Sur EN VIVO. Fecha 3 HOY Fase de Grupos Mundial 2026",
-        "url": "https://www.mediotiempo.com/futbol/copa-mundial/sudafrica-vs-corea-del-sur-a-que-hora-donde-ver-fecha-3-hoy-fase-de-grupos-mundial-2026",
-        "source": "Mediotiempo"
+        "title": "Clint Dempsey draws parallels between USMNT’s 2026 hopes and 1930 World Cup run",
+        "url": "https://cryptobriefing.com/clint-dempsey-usmnt-2026-1930-world-cup/",
+        "source": "Crypto Briefing"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "emanuel sharp",
-    "titleZh": "伊曼纽尔·夏普",
+    "title": "brenden aaronson",
+    "titleZh": "布伦登阿伦森",
     "traffic": "1000+",
-    "started": "Wed, 24 Jun 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：国王队以第 45 顺位选中伊曼纽尔·夏普。",
-    "explanation": "Google Trends 显示“伊曼纽尔·夏普”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：国王队以第 45 顺位选中伊曼纽尔·夏普。这些报道来自 NBC Sports 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 25 Jun 2026 18:10:00 -0700",
+    "summary": "相关新闻主要集中在：视频 认识 2026 年世界杯美国男队的 WAGS。",
+    "explanation": "Google Trends 显示“布伦登阿伦森”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：视频 认识 2026 年世界杯美国男队的 WAGS。这些报道来自 ABC News - Breaking News, Latest News and Videos 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Kings select Emanuel Sharp with No. 45 pick",
-        "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-06-24/kings-select-emanuel-sharp-with-no-45-pick",
-        "source": "NBC Sports"
+        "title": "Video Meet the WAGS of the US Men's 2026 World Cup team",
+        "url": "https://abcnews.com/video/133950569/",
+        "source": "ABC News - Breaking News, Latest News and Videos"
       }
     ]
   }
