@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "ana barbara",
-    "titleZh": "有芭芭拉",
-    "traffic": "10000+",
-    "started": "Tue, 30 Jun 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：安娜·芭芭拉 (Ana Bárbara) 在缺席数月后打破沉默，回应有关她个人生活的谣言。",
-    "explanation": "Google Trends 显示“有芭芭拉”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：安娜·芭芭拉 (Ana Bárbara) 在缺席数月后打破沉默，回应有关她个人生活的谣言。这些报道来自 Canal 44 等媒体，因此带动了集中搜索。",
+    "title": "usa red card",
+    "titleZh": "美国红牌",
+    "traffic": "200000+",
+    "started": "Wed, 1 Jul 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：直播：有争议的点球帮助比利时队在加时赛战胜塞内加尔队。",
+    "explanation": "Google Trends 显示“美国红牌”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：直播：有争议的点球帮助比利时队在加时赛战胜塞内加尔队。这些报道来自 ABC News & Headlines – Australian Broadcasting Corporation 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Ana Bárbara rompe el silencio tras meses de ausencia y responde a los rumores sobre su vida personal",
-        "url": "https://canal44.com/ana-barbara-rompe-el-silencio-tras-meses-de-ausencia-y-responde-a-los-rumores-sobre-su-vida-personal/",
-        "source": "Canal 44"
+        "title": "Live: Controversial penalty completes Belgium comeback for extra-time win over Senegal",
+        "url": "https://www.abc.net.au/news/2026-07-02/world-cup-live-england-drc-belgium-senegal-usa-bosnia/106867650",
+        "source": "ABC News & Headlines – Australian Broadcasting Corporation"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "chicharito",
-    "titleZh": "小辣椒",
+    "title": "david beckham",
+    "titleZh": "大卫·贝克汉姆",
     "traffic": "2000+",
-    "started": "Tue, 30 Jun 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：墨西哥球迷向荷兰队施压，荷兰队在世界杯上输给了摩洛哥。",
-    "explanation": "Google Trends 显示“小辣椒”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：墨西哥球迷向荷兰队施压，荷兰队在世界杯上输给了摩洛哥。这些报道来自 Greenwich Time 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 1 Jul 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：2026 年温布尔登网球公开赛迄今为止最好的腕表。",
+    "explanation": "Google Trends 显示“大卫·贝克汉姆”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：2026 年温布尔登网球公开赛迄今为止最好的腕表。这些报道来自 Man of Many 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Aficionados mexicanos presionan a Holanda, en derrota ante Marruecos en el Mundial",
-        "url": "https://www.greenwichtime.com/sports/article/aficionados-mexicanos-presionan-a-holanda-en-22326339.php",
-        "source": "Greenwich Time"
+        "title": "The Best Watches at Wimbledon 2026 So Far",
+        "url": "https://manofmany.com/watches/best-watches-wimbeldon-2026",
+        "source": "Man of Many"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "citizen vigilante where to watch",
-    "titleZh": "公民治安官哪里可以看",
-    "traffic": "1000+",
-    "started": "Tue, 30 Jun 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：马斯克大力宣传一部有争议的电影，该片讲述了义务警员针对移民罪犯的故事。",
-    "explanation": "Google Trends 显示“公民治安官哪里可以看”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：马斯克大力宣传一部有争议的电影，该片讲述了义务警员针对移民罪犯的故事。这些报道来自 Forbes 等媒体，因此带动了集中搜索。",
+    "title": "estados unidos",
+    "titleZh": "美国",
+    "traffic": "2000+",
+    "started": "Wed, 1 Jul 2026 18:30:00 -0700",
+    "summary": "相关新闻主要集中在：美国、加拿大和墨西哥面临艰难的贸易协定续签谈判。",
+    "explanation": "Google Trends 显示“美国”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：美国、加拿大和墨西哥面临艰难的贸易协定续签谈判。这些报道来自 San Antonio Express-News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Musk Boosts Controversial Film Which Sees Vigilante Target Immigrant Criminals",
-        "url": "https://www.forbes.com/sites/siladityaray/2026/06/26/musk-boosts-controversial-film-which-sees-vigilante-target-immigrant-criminals/",
-        "source": "Forbes"
+        "title": "EEUU, Canadá y México encaran negociaciones difíciles para renovar su pacto comercial",
+        "url": "https://www.expressnews.com/news/politics/article/eeuu-canad-y-mexico-encaran-negociaciones-22328248.php",
+        "source": "San Antonio Express-News"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "lou trivino",
-    "titleZh": "卢·特里维诺",
-    "traffic": "1000+",
-    "started": "Tue, 30 Jun 2026 18:10:00 -0700",
-    "summary": "相关新闻主要集中在：费城人队交换名单末尾的中继投手，将当地老将带回牛棚。",
-    "explanation": "Google Trends 显示“卢·特里维诺”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：费城人队交换名单末尾的中继投手，将当地老将带回牛棚。这些报道来自 Phillies Nation 等媒体，因此带动了集中搜索。",
+    "title": "red card in soccer",
+    "titleZh": "足球比赛中的红牌",
+    "traffic": "100000+",
+    "started": "Wed, 1 Jul 2026 18:20:00 -0700",
+    "summary": "相关新闻主要集中在：厄瓜多尔球员在世界杯对阵墨西哥的比赛中捂嘴被红牌罚下。",
+    "explanation": "Google Trends 显示“足球比赛中的红牌”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：厄瓜多尔球员在世界杯对阵墨西哥的比赛中捂嘴被红牌罚下。这些报道来自 USA Today 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Phillies swap relievers on end of roster, bring local veteran back to bullpen",
-        "url": "https://philliesnation.com/2026/06/philadelphia-phillies-roster-move-bullpen-chase-shugart-lou-trivino-notes-gabriel-rincones-jr-brad-keller-injury-update/",
-        "source": "Phillies Nation"
+        "title": "Ecuador player gets red card for covering mouth in World Cup game vs Mexico",
+        "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/01/ecuador-red-card-mouth-covering-mexico-world-cup-hincapie/90756359007/",
+        "source": "USA Today"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "trea turner",
-    "titleZh": "特雷·特纳",
-    "traffic": "1000+",
-    "started": "Tue, 30 Jun 2026 18:10:00 -0700",
-    "summary": "相关新闻主要集中在：打破特雷·特纳的全垒打。",
-    "explanation": "Google Trends 显示“特雷·特纳”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：打破特雷·特纳的全垒打。这些报道来自 MLB.com 等媒体，因此带动了集中搜索。",
+    "title": "alexi lalas",
+    "titleZh": "亚历克西·拉拉斯",
+    "traffic": "5000+",
+    "started": "Wed, 1 Jul 2026 18:00:00 -0700",
+    "summary": "相关新闻主要集中在：为什么大家都讨厌亚历克西·拉拉斯？ |不要@我和丹·达基奇。",
+    "explanation": "Google Trends 显示“亚历克西·拉拉斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：为什么大家都讨厌亚历克西·拉拉斯？ |不要@我和丹·达基奇。这些报道来自 Fox News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Breaking down Trea Turner's home run",
-        "url": "https://www.mlb.com/phillies/video/breaking-down-trea-turner-s-home-run-x3492",
-        "source": "MLB.com"
+        "title": "Why all the hate for Alexi Lalas? | Don't @ Me w/Dan Dakich",
+        "url": "https://www.foxnews.com/video/6399729022112",
+        "source": "Fox News"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "colorado election results",
-    "titleZh": "科罗拉多州选举结果",
-    "traffic": "10000+",
-    "started": "Tue, 30 Jun 2026 18:00:00 -0700",
-    "summary": "相关新闻主要集中在：科罗拉多州初选对民主社会主义运动和其他值得关注的关键竞选的下一次考验。",
-    "explanation": "Google Trends 显示“科罗拉多州选举结果”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：科罗拉多州初选对民主社会主义运动和其他值得关注的关键竞选的下一次考验。这些报道来自 CNN 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "The next test of the democratic socialist movement and other key races to watch in Colorado’s primaries",
-        "url": "https://www.cnn.com/2026/06/30/politics/what-to-watch-colorado-primaries",
-        "source": "CNN"
-      }
-    ]
-  },
-  {
-    "rank": 7,
-    "title": "jason statham",
-    "titleZh": "杰森斯坦森",
-    "traffic": "2000+",
-    "started": "Tue, 30 Jun 2026 18:00:00 -0700",
-    "summary": "相关新闻主要集中在：杰森·斯坦森和西尔维斯特·史泰龙的动作惊悚片在 Prime Video 上回归流媒体。",
-    "explanation": "Google Trends 显示“杰森斯坦森”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：杰森·斯坦森和西尔维斯特·史泰龙的动作惊悚片在 Prime Video 上回归流媒体。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Jason Statham And Sylvester Stallone's Action Thriller Is Having A Streaming Comeback On Prime Video",
-        "url": "https://www.yahoo.com/entertainment/movies/articles/jason-statham-sylvester-stallones-action-210000605.html",
-        "source": "Yahoo"
-      }
-    ]
-  },
-  {
-    "rank": 8,
-    "title": "gilberto mora",
-    "titleZh": "吉尔伯托·莫拉",
+    "title": "clint dempsey",
+    "titleZh": "克林特·登普西",
     "traffic": "5000+",
-    "started": "Tue, 30 Jun 2026 18:00:00 -0700",
-    "summary": "相关新闻主要集中在：墨西哥少年吉尔伯托·莫拉在对阵厄瓜多尔的比赛中创造了历史。",
-    "explanation": "Google Trends 显示“吉尔伯托·莫拉”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：墨西哥少年吉尔伯托·莫拉在对阵厄瓜多尔的比赛中创造了历史。这些报道来自 FOX Sports 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 1 Jul 2026 18:00:00 -0700",
+    "summary": "相关新闻主要集中在：尽管美国队对阵土耳其队取得了胜利，蒂埃里·亨利明确表示克里斯蒂安·普利西奇是球队的未知因素。",
+    "explanation": "Google Trends 显示“克林特·登普西”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：尽管美国队对阵土耳其队取得了胜利，蒂埃里·亨利明确表示克里斯蒂安·普利西奇是球队的未知因素。这些报道来自 FOX Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Mexico Teenager Gilberto Mora Makes History With Start vs. Ecuador",
-        "url": "https://www.foxsports.com/stories/soccer/mexico-teenager-gilberto-mora-makes-history-start-vs-ecuador",
+        "title": "Despite USA's outcome vs Türkiye, Thierry Henry made it clear that Christian Pulisic is the team's x-factor",
+        "url": "https://www.foxsports.com/watch-vertical/fmc-0eki6brrarnklxh1",
         "source": "FOX Sports"
       }
     ]
   },
   {
-    "rank": 9,
-    "title": "keon ellis",
-    "titleZh": "基恩埃利斯",
-    "traffic": "2000+",
-    "started": "Tue, 30 Jun 2026 18:00:00 -0700",
-    "summary": "相关新闻主要集中在：基恩·埃利斯前往布鲁克林。",
-    "explanation": "Google Trends 显示“基恩埃利斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：基恩·埃利斯前往布鲁克林。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "rank": 7,
+    "title": "rip the script",
+    "titleZh": "撕掉剧本",
+    "traffic": "1000+",
+    "started": "Wed, 1 Jul 2026 18:00:00 -0700",
+    "summary": "相关新闻主要集中在：什么是“翻录脚本”？关于耐克世界杯短片你需要了解什么。",
+    "explanation": "Google Trends 显示“撕掉剧本”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：什么是“翻录脚本”？关于耐克世界杯短片你需要了解什么。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Keon Ellis heads to Brooklyn",
-        "url": "https://sports.yahoo.com/articles/keon-ellis-heads-brooklyn-010359442.html",
-        "source": "Yahoo Sports"
+        "title": "What is 'Rip the Script'? What to know about Nike's World Cup short film",
+        "url": "https://www.aol.com/articles/rip-script-know-nikes-world-190710000.html",
+        "source": "AOL.com"
+      }
+    ]
+  },
+  {
+    "rank": 8,
+    "title": "has the us ever won the world cup",
+    "titleZh": "美国曾经赢得过世界杯吗",
+    "traffic": "1000+",
+    "started": "Wed, 1 Jul 2026 18:00:00 -0700",
+    "summary": "相关新闻主要集中在：等等，美国……擅长足球吗？。",
+    "explanation": "Google Trends 显示“美国曾经赢得过世界杯吗”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：等等，美国……擅长足球吗？。这些报道来自 Philadelphia Magazine 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Wait, Is the United States … Good at Soccer?",
+        "url": "https://www.phillymag.com/news/2026/07/01/world-cup-leander-schaerlaeckens/",
+        "source": "Philadelphia Magazine"
+      }
+    ]
+  },
+  {
+    "rank": 9,
+    "title": "does love island come on tonight",
+    "titleZh": "今晚爱情岛来吗",
+    "traffic": "500+",
+    "started": "Wed, 1 Jul 2026 18:00:00 -0700",
+    "summary": "相关新闻主要集中在：今晚爱情岛有新一集吗？第8季时间表。",
+    "explanation": "Google Trends 显示“今晚爱情岛来吗”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：今晚爱情岛有新一集吗？第8季时间表。这些报道来自 Milwaukee Journal Sentinel 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Does a new episode of Love Island come out tonight? Season 8 schedule",
+        "url": "https://www.jsonline.com/story/entertainment/television-radio/2026/07/01/love-island-usa-episode-schedule-season-8/90775765007/",
+        "source": "Milwaukee Journal Sentinel"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "raúl rangel",
-    "titleZh": "劳尔·兰热尔",
-    "traffic": "1000+",
-    "started": "Tue, 30 Jun 2026 18:00:00 -0700",
-    "summary": "相关新闻主要集中在：劳尔·兰赫尔用“纯粹反应”扑救墨西哥队进入世界杯淘汰赛阶段。",
-    "explanation": "Google Trends 显示“劳尔·兰热尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：劳尔·兰赫尔用“纯粹反应”扑救墨西哥队进入世界杯淘汰赛阶段。这些报道来自 Chronicle-Tribune 等媒体，因此带动了集中搜索。",
+    "title": "president of fifa",
+    "titleZh": "国际足联主席",
+    "traffic": "500+",
+    "started": "Wed, 1 Jul 2026 18:00:00 -0700",
+    "summary": "相关新闻主要集中在：世界杯“补水休息”改变了足球比赛方式 - The Athletic。",
+    "explanation": "Google Trends 显示“国际足联主席”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：世界杯“补水休息”改变了足球比赛方式 - The Athletic。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Raúl Rangel uses 'pure reaction' to make save that moves Mexico into knockout stage of World Cup",
-        "url": "https://www.chronicle-tribune.com/sports/wire/ra-l-rangel-uses-pure-reaction-to-make-save-that-moves-mexico-into-knockout-stage/article_4dc3fd11-58fc-5293-9349-ae7b6350d658.html",
-        "source": "Chronicle-Tribune"
+        "title": "World Cup ‘hydration breaks’ have changed how soccer is played - The Athletic",
+        "url": "https://www.nytimes.com/athletic/7397303/2026/06/29/world-cup-hydration-breaks-soccer-tactics/",
+        "source": "The New York Times"
       }
     ]
   }
