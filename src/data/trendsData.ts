@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "usa red card",
-    "titleZh": "美国红牌",
-    "traffic": "200000+",
-    "started": "Wed, 1 Jul 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：直播：有争议的点球帮助比利时队在加时赛战胜塞内加尔队。",
-    "explanation": "Google Trends 显示“美国红牌”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：直播：有争议的点球帮助比利时队在加时赛战胜塞内加尔队。这些报道来自 ABC News & Headlines – Australian Broadcasting Corporation 等媒体，因此带动了集中搜索。",
+    "title": "ndoye",
+    "titleZh": "恩多耶",
+    "traffic": "1000+",
+    "started": "Thu, 2 Jul 2026 21:30:00 -0700",
+    "summary": "相关新闻主要集中在：瑞士 - 阿尔及利亚：官方阵容。",
+    "explanation": "Google Trends 显示“恩多耶”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：瑞士 - 阿尔及利亚：官方阵容。这些报道来自 Foot Mercato 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Live: Controversial penalty completes Belgium comeback for extra-time win over Senegal",
-        "url": "https://www.abc.net.au/news/2026-07-02/world-cup-live-england-drc-belgium-senegal-usa-bosnia/106867650",
-        "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        "title": "Suisse - Algérie : les compositions officielles",
+        "url": "https://www.footmercato.net/a7021010709425832674-suisse-algerie-les-compositions-officielles",
+        "source": "Foot Mercato"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "david beckham",
-    "titleZh": "大卫·贝克汉姆",
-    "traffic": "2000+",
-    "started": "Wed, 1 Jul 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：2026 年温布尔登网球公开赛迄今为止最好的腕表。",
-    "explanation": "Google Trends 显示“大卫·贝克汉姆”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：2026 年温布尔登网球公开赛迄今为止最好的腕表。这些报道来自 Man of Many 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "The Best Watches at Wimbledon 2026 So Far",
-        "url": "https://manofmany.com/watches/best-watches-wimbeldon-2026",
-        "source": "Man of Many"
-      }
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "estados unidos",
-    "titleZh": "美国",
-    "traffic": "2000+",
-    "started": "Wed, 1 Jul 2026 18:30:00 -0700",
-    "summary": "相关新闻主要集中在：美国、加拿大和墨西哥面临艰难的贸易协定续签谈判。",
-    "explanation": "Google Trends 显示“美国”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：美国、加拿大和墨西哥面临艰难的贸易协定续签谈判。这些报道来自 San Antonio Express-News 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "EEUU, Canadá y México encaran negociaciones difíciles para renovar su pacto comercial",
-        "url": "https://www.expressnews.com/news/politics/article/eeuu-canad-y-mexico-encaran-negociaciones-22328248.php",
-        "source": "San Antonio Express-News"
-      }
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "red card in soccer",
-    "titleZh": "足球比赛中的红牌",
-    "traffic": "100000+",
-    "started": "Wed, 1 Jul 2026 18:20:00 -0700",
-    "summary": "相关新闻主要集中在：厄瓜多尔球员在世界杯对阵墨西哥的比赛中捂嘴被红牌罚下。",
-    "explanation": "Google Trends 显示“足球比赛中的红牌”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：厄瓜多尔球员在世界杯对阵墨西哥的比赛中捂嘴被红牌罚下。这些报道来自 USA Today 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Ecuador player gets red card for covering mouth in World Cup game vs Mexico",
-        "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/01/ecuador-red-card-mouth-covering-mexico-world-cup-hincapie/90756359007/",
-        "source": "USA Today"
-      }
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "alexi lalas",
-    "titleZh": "亚历克西·拉拉斯",
-    "traffic": "5000+",
-    "started": "Wed, 1 Jul 2026 18:00:00 -0700",
-    "summary": "相关新闻主要集中在：为什么大家都讨厌亚历克西·拉拉斯？ |不要@我和丹·达基奇。",
-    "explanation": "Google Trends 显示“亚历克西·拉拉斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：为什么大家都讨厌亚历克西·拉拉斯？ |不要@我和丹·达基奇。这些报道来自 Fox News 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Why all the hate for Alexi Lalas? | Don't @ Me w/Dan Dakich",
-        "url": "https://www.foxnews.com/video/6399729022112",
-        "source": "Fox News"
-      }
-    ]
-  },
-  {
-    "rank": 6,
-    "title": "clint dempsey",
-    "titleZh": "克林特·登普西",
-    "traffic": "5000+",
-    "started": "Wed, 1 Jul 2026 18:00:00 -0700",
-    "summary": "相关新闻主要集中在：尽管美国队对阵土耳其队取得了胜利，蒂埃里·亨利明确表示克里斯蒂安·普利西奇是球队的未知因素。",
-    "explanation": "Google Trends 显示“克林特·登普西”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：尽管美国队对阵土耳其队取得了胜利，蒂埃里·亨利明确表示克里斯蒂安·普利西奇是球队的未知因素。这些报道来自 FOX Sports 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Despite USA's outcome vs Türkiye, Thierry Henry made it clear that Christian Pulisic is the team's x-factor",
-        "url": "https://www.foxsports.com/watch-vertical/fmc-0eki6brrarnklxh1",
-        "source": "FOX Sports"
-      }
-    ]
-  },
-  {
-    "rank": 7,
-    "title": "rip the script",
-    "titleZh": "撕掉剧本",
+    "title": "fourth of july baseball",
+    "titleZh": "七月四日棒球",
     "traffic": "1000+",
-    "started": "Wed, 1 Jul 2026 18:00:00 -0700",
-    "summary": "相关新闻主要集中在：什么是“翻录脚本”？关于耐克世界杯短片你需要了解什么。",
-    "explanation": "Google Trends 显示“撕掉剧本”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：什么是“翻录脚本”？关于耐克世界杯短片你需要了解什么。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 2 Jul 2026 21:30:00 -0700",
+    "summary": "相关新闻主要集中在：从游行到节日，7 月 4 日的活动在圣华金县拉开帷幕。",
+    "explanation": "Google Trends 显示“七月四日棒球”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：从游行到节日，7 月 4 日的活动在圣华金县拉开帷幕。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "What is 'Rip the Script'? What to know about Nike's World Cup short film",
-        "url": "https://www.aol.com/articles/rip-script-know-nikes-world-190710000.html",
+        "title": "From parades to festivals, 4th of July events kick off in San Joaquin County",
+        "url": "https://www.aol.com/articles/parades-festivals-4th-july-events-164554495.html",
         "source": "AOL.com"
       }
     ]
   },
   {
-    "rank": 8,
-    "title": "has the us ever won the world cup",
-    "titleZh": "美国曾经赢得过世界杯吗",
-    "traffic": "1000+",
-    "started": "Wed, 1 Jul 2026 18:00:00 -0700",
-    "summary": "相关新闻主要集中在：等等，美国……擅长足球吗？。",
-    "explanation": "Google Trends 显示“美国曾经赢得过世界杯吗”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：等等，美国……擅长足球吗？。这些报道来自 Philadelphia Magazine 等媒体，因此带动了集中搜索。",
+    "rank": 3,
+    "title": "cuatro de julio",
+    "titleZh": "七月四日",
+    "traffic": "2000+",
+    "started": "Thu, 2 Jul 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：随着伊格尔县各市取消烟花表演，消防官员关注 7 月 4 日期间个人烟花使用量可能会增加。",
+    "explanation": "Google Trends 显示“七月四日”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：随着伊格尔县各市取消烟花表演，消防官员关注 7 月 4 日期间个人烟花使用量可能会增加。这些报道来自 VailDaily.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Wait, Is the United States … Good at Soccer?",
-        "url": "https://www.phillymag.com/news/2026/07/01/world-cup-leander-schaerlaeckens/",
-        "source": "Philadelphia Magazine"
+        "title": "A medida que los municipios del condado Eagle cancelan los shows con pirotécnicos, autoridades de bomberos vigilan un posible aumento en el uso de fuegos artificiales personales durante el 4 de julio",
+        "url": "https://www.vaildaily.com/news/vail-vida-latina/a-medida-que-los-municipios-del-condado-eagle-cancelan-los-shows-con-pirotecnicos-autoridades-de-bomberos-vigilan-un-posible-aumento-en-el-uso-de-fuegos-artificiales-personales-durante-el-4-de-julio/",
+        "source": "VailDaily.com"
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "sarah pidgeon",
+    "titleZh": "莎拉·皮金",
+    "traffic": "500+",
+    "started": "Thu, 2 Jul 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：热气腾腾的公园目击新晋名人夫妇。",
+    "explanation": "Google Trends 显示“莎拉·皮金”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：热气腾腾的公园目击新晋名人夫妇。这些报道来自 News.com.au 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Steamy park sighting of hot new celeb couple",
+        "url": "https://www.news.com.au/entertainment/celebrity-life/celebrity-photos/steamy-public-sighting-of-new-celeb-couple/news-story/75f66889b79fa107940863161ba250e6",
+        "source": "News.com.au"
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "title": "zach galifianakis",
+    "titleZh": "扎克·加利凡纳基斯",
+    "traffic": "500+",
+    "started": "Thu, 2 Jul 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：威尔克斯本地人加利凡纳基斯向《人物》杂志推荐家乡餐厅。",
+    "explanation": "Google Trends 显示“扎克·加利凡纳基斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：威尔克斯本地人加利凡纳基斯向《人物》杂志推荐家乡餐厅。这些报道来自 Winston-Salem Journal 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Wilkes native Galifianakis recommends hometown restaurant to People magazine",
+        "url": "https://journalnow.com/life-entertainment/local/food-drink/article_4508062c-85f2-4c0f-9360-c9949a480cd8.html",
+        "source": "Winston-Salem Journal"
+      }
+    ]
+  },
+  {
+    "rank": 6,
+    "title": "fourth of july",
+    "titleZh": "七月四日",
+    "traffic": "100000+",
+    "started": "Thu, 2 Jul 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：科罗拉多斯普林斯官员称，由于火灾危险性高，七月四日烟花表演被取消。",
+    "explanation": "Google Trends 显示“七月四日”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：科罗拉多斯普林斯官员称，由于火灾危险性高，七月四日烟花表演被取消。这些报道来自 Colorado Springs Gazette 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Fourth of July fireworks displays canceled due to high fire danger, Colorado Springs officials say",
+        "url": "https://gazette.com/2026/07/01/fourth-of-july-fireworks-displays-canceled-due-to-high-fire-danger-colorado-springs-officials-say/",
+        "source": "Colorado Springs Gazette"
+      }
+    ]
+  },
+  {
+    "rank": 7,
+    "title": "olivia wilde",
+    "titleZh": "奥利维亚·王尔德",
+    "traffic": "1000+",
+    "started": "Thu, 2 Jul 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：《邀请》电影评论——奥利维亚·王尔德和塞斯·罗根在中年性喜剧中滑稽地摸索。",
+    "explanation": "Google Trends 显示“奥利维亚·王尔德”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《邀请》电影评论——奥利维亚·王尔德和塞斯·罗根在中年性喜剧中滑稽地摸索。这些报道来自 Financial Times 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "The Invite film review — Olivia Wilde and Seth Rogen fumble hilariously in mid-life sex comedy",
+        "url": "https://www.ft.com/content/06f9be9c-9ffc-487c-b39f-c56ebf15a266",
+        "source": "Financial Times"
+      }
+    ]
+  },
+  {
+    "rank": 8,
+    "title": "egypt vs australia",
+    "titleZh": "埃及 vs 澳大利亚",
+    "traffic": "2000+",
+    "started": "Thu, 2 Jul 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：澳大利亚对埃及的赔率、预测：来自久经考验的足球专家的 2026 年世界杯 32 强选秀权。",
+    "explanation": "Google Trends 显示“埃及 vs 澳大利亚”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：澳大利亚对埃及的赔率、预测：来自久经考验的足球专家的 2026 年世界杯 32 强选秀权。这些报道来自 SportsLine 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Australia vs. Egypt odds, predictions: 2026 World Cup Round of 32 picks from proven soccer expert",
+        "url": "https://www.sportsline.com/insiders/australia-vs-egypt-odds-predictions-2026-world-cup-round-of-32-picks-from-proven-soccer-expert/",
+        "source": "SportsLine"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "does love island come on tonight",
-    "titleZh": "今晚爱情岛来吗",
-    "traffic": "500+",
-    "started": "Wed, 1 Jul 2026 18:00:00 -0700",
-    "summary": "相关新闻主要集中在：今晚爱情岛有新一集吗？第8季时间表。",
-    "explanation": "Google Trends 显示“今晚爱情岛来吗”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：今晚爱情岛有新一集吗？第8季时间表。这些报道来自 Milwaukee Journal Sentinel 等媒体，因此带动了集中搜索。",
+    "title": "chicago weather",
+    "titleZh": "芝加哥 天气",
+    "traffic": "2000+",
+    "started": "Thu, 2 Jul 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：芝加哥周四晚上可能有暴风雨。",
+    "explanation": "Google Trends 显示“芝加哥 天气”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：芝加哥周四晚上可能有暴风雨。这些报道来自 CBS News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Does a new episode of Love Island come out tonight? Season 8 schedule",
-        "url": "https://www.jsonline.com/story/entertainment/television-radio/2026/07/01/love-island-usa-episode-schedule-season-8/90775765007/",
-        "source": "Milwaukee Journal Sentinel"
+        "title": "Storms likely Thursday night in Chicago",
+        "url": "https://www.cbsnews.com/chicago/video/storms-likely-thursday-night-in-chicago/",
+        "source": "CBS News"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "president of fifa",
-    "titleZh": "国际足联主席",
+    "title": "mariners game today",
+    "titleZh": "今天水手队的比赛",
     "traffic": "500+",
-    "started": "Wed, 1 Jul 2026 18:00:00 -0700",
-    "summary": "相关新闻主要集中在：世界杯“补水休息”改变了足球比赛方式 - The Athletic。",
-    "explanation": "Google Trends 显示“国际足联主席”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：世界杯“补水休息”改变了足球比赛方式 - The Athletic。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 2 Jul 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：洛杉矶天使队对西雅图水手队的赔率、选秀和预测。",
+    "explanation": "Google Trends 显示“今天水手队的比赛”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：洛杉矶天使队对西雅图水手队的赔率、选秀和预测。这些报道来自 Sportsbook Wire 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "World Cup ‘hydration breaks’ have changed how soccer is played - The Athletic",
-        "url": "https://www.nytimes.com/athletic/7397303/2026/06/29/world-cup-hydration-breaks-soccer-tactics/",
-        "source": "The New York Times"
+        "title": "Los Angeles Angels at Seattle Mariners odds, picks and predictions",
+        "url": "https://sportsbookwire.usatoday.com/story/sports/mlb/2026/07/02/angels-at-mariners-odds-picks-and-predictions/90777027007/",
+        "source": "Sportsbook Wire"
       }
     ]
   }
