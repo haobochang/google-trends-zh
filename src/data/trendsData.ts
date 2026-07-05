@@ -3,114 +3,12 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "dodgers",
-    "titleZh": "道奇队",
-    "traffic": "10000+",
-    "started": "Fri, 3 Jul 2026 21:20:00 -0700",
-    "summary": "相关新闻主要集中在：道奇队 vs 教士队预测：赔率、最新统计数据、趋势和 7 月 2 日最佳投注。",
-    "explanation": "Google Trends 显示“道奇队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：道奇队 vs 教士队预测：赔率、最新统计数据、趋势和 7 月 2 日最佳投注。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Dodgers vs Padres Prediction: Odds, recent stats, trends, and best bets for July 2",
-        "url": "https://sports.yahoo.com/articles/dodgers-vs-padres-prediction-odds-162202786.html",
-        "source": "Yahoo Sports"
-      }
-    ]
-  },
-  {
-    "rank": 2,
-    "title": "dodgers game today",
-    "titleZh": "今天的道奇队比赛",
-    "traffic": "2000+",
-    "started": "Fri, 3 Jul 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：道奇队 12-7 教士队（2026 年 7 月 2 日）比赛回顾。",
-    "explanation": "Google Trends 显示“今天的道奇队比赛”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：道奇队 12-7 教士队（2026 年 7 月 2 日）比赛回顾。这些报道来自 ESPN 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Dodgers 12-7 Padres (Jul 2, 2026) Game Recap",
-        "url": "https://www.espn.com/mlb/recap/_/gameId/401816001",
-        "source": "ESPN"
-      }
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "teoscar hernández",
-    "titleZh": "特奥斯卡·埃尔南德斯",
-    "traffic": "500+",
-    "started": "Fri, 3 Jul 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：特奥斯卡·埃尔南德斯回归，道奇队打出 17 支安打，战胜田径队。",
-    "explanation": "Google Trends 显示“特奥斯卡·埃尔南德斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：特奥斯卡·埃尔南德斯回归，道奇队打出 17 支安打，战胜田径队。这些报道来自 Los Angeles Times 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Teoscar Hernández returns, and Dodgers unleash 17-hit barrage in win over Athletics",
-        "url": "https://www.latimes.com/sports/dodgers/story/2026-06-29/teoscar-hernandez-returns-dodgers-beat-athletics-with-17-hits",
-        "source": "Los Angeles Times"
-      }
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "july 4th",
-    "titleZh": "7月4日",
+    "title": "padres - dodgers",
+    "titleZh": "教士 - 道奇队",
     "traffic": "1000+",
-    "started": "Fri, 3 Jul 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：我们对特朗普七月四日烟花活动的了解。",
-    "explanation": "Google Trends 显示“7月4日”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：我们对特朗普七月四日烟花活动的了解。这些报道来自 CNN 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "What we know about Trump’s July Fourth fireworks event",
-        "url": "https://www.cnn.com/2026/07/03/politics/july-fourth-fireworks-trump-what-we-know",
-        "source": "CNN"
-      }
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "jameis winston",
-    "titleZh": "詹姆斯·温斯顿",
-    "traffic": "200+",
-    "started": "Fri, 3 Jul 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：阿根廷 vs 佛得角精彩集锦 🌎🏆 2026 FIFA 世界杯 | | 32强。",
-    "explanation": "Google Trends 显示“詹姆斯·温斯顿”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：阿根廷 vs 佛得角精彩集锦 🌎🏆 2026 FIFA 世界杯 | | 32强。这些报道来自 FOX Sports 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Argentina vs Cape Verde Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 32",
-        "url": "https://www.foxsports.com/watch/fmc-15ahqoqpr5humuum",
-        "source": "FOX Sports"
-      }
-    ]
-  },
-  {
-    "rank": 6,
-    "title": "andrew garfield",
-    "titleZh": "安德鲁·加菲猫",
-    "traffic": "500+",
-    "started": "Fri, 3 Jul 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：由安德鲁·加菲尔德主演的 2010 年代最怪异惊悚片之一即将离开 Netflix。",
-    "explanation": "Google Trends 显示“安德鲁·加菲猫”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：由安德鲁·加菲尔德主演的 2010 年代最怪异惊悚片之一即将离开 Netflix。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "1 of 2010s’ Weirdest Thrillers Starring Andrew Garfield Is Leaving Netflix",
-        "url": "https://www.yahoo.com/entertainment/movies/articles/1-2010s-weirdest-thrillers-starring-152938796.html",
-        "source": "Yahoo"
-      }
-    ]
-  },
-  {
-    "rank": 7,
-    "title": "dodgers score",
-    "titleZh": "道奇队得分",
-    "traffic": "2000+",
-    "started": "Fri, 3 Jul 2026 20:50:00 -0700",
+    "started": "Sat, 4 Jul 2026 21:50:00 -0700",
     "summary": "相关新闻主要集中在：由于道奇队的投手轮换洗牌，大谷翔平不太可能参加美国职业棒球大联盟全明星赛。",
-    "explanation": "Google Trends 显示“道奇队得分”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：由于道奇队的投手轮换洗牌，大谷翔平不太可能参加美国职业棒球大联盟全明星赛。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "explanation": "Google Trends 显示“教士 - 道奇队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：由于道奇队的投手轮换洗牌，大谷翔平不太可能参加美国职业棒球大联盟全明星赛。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
@@ -121,53 +19,155 @@ export const trendsData: TrendItem[] = [
     ]
   },
   {
-    "rank": 8,
-    "title": "elle fanning",
-    "titleZh": "艾丽·范宁",
-    "traffic": "1000+",
-    "started": "Fri, 3 Jul 2026 20:50:00 -0700",
-    "summary": "相关新闻主要集中在：艾丽·范宁 (Elle Fanning) 赤裸上身坐在泳池边，在热气腾腾的照片中沐浴阳光。",
-    "explanation": "Google Trends 显示“艾丽·范宁”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：艾丽·范宁 (Elle Fanning) 赤裸上身坐在泳池边，在热气腾腾的照片中沐浴阳光。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
+    "rank": 2,
+    "title": "golden gate fireworks",
+    "titleZh": "金门烟花",
+    "traffic": "500+",
+    "started": "Sat, 4 Jul 2026 21:50:00 -0700",
+    "summary": "相关新闻主要集中在：周六天气晴朗到多云。",
+    "explanation": "Google Trends 显示“金门烟花”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：周六天气晴朗到多云。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Topless Elle Fanning Sits by the Pool & Soaks up the Sun in Steamy Photos",
-        "url": "https://www.aol.com/articles/topless-elle-fanning-sits-pool-221503000.html",
+        "title": "Saturday calls for mostly sunny to cloudy skies",
+        "url": "https://www.aol.com/news/saturday-calls-mostly-sunny-cloudy-161858430.html",
         "source": "AOL.com"
       }
     ]
   },
   {
-    "rank": 9,
-    "title": "ball drop for 4th of july",
-    "titleZh": "7 月 4 日落球",
-    "traffic": "1000+",
-    "started": "Fri, 3 Jul 2026 20:50:00 -0700",
-    "summary": "相关新闻主要集中在：观看：7 月 4 日，美国 250 周年庆典，时代广场落下大球。",
-    "explanation": "Google Trends 显示“7 月 4 日落球”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：观看：7 月 4 日，美国 250 周年庆典，时代广场落下大球。这些报道来自 FOX 5 New York 等媒体，因此带动了集中搜索。",
+    "rank": 3,
+    "title": "stadium of fire",
+    "titleZh": "火场",
+    "traffic": "200+",
+    "started": "Sat, 4 Jul 2026 21:50:00 -0700",
+    "summary": "相关新闻主要集中在：火焰体育场充满魔力，而麦克风旁的人则格外紧张。",
+    "explanation": "Google Trends 显示“火场”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：火焰体育场充满魔力，而麦克风旁的人则格外紧张。这些报道来自 Deseret News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "WATCH: Times Square ball drops for July 4th, America250 celebration",
-        "url": "https://www.fox5ny.com/news/nyc-times-square-ball-drop-july-4th-america250-new-york-city",
-        "source": "FOX 5 New York"
+        "title": "There is magic to Stadium of Fire — and extra nerves for those on the mic",
+        "url": "https://www.deseret.com/sports/2026/07/03/stadium-of-fire-dave-mccann/",
+        "source": "Deseret News"
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "jackson chourio",
+    "titleZh": "杰克逊·乔里奥",
+    "traffic": "200+",
+    "started": "Sat, 4 Jul 2026 21:50:00 -0700",
+    "summary": "相关新闻主要集中在：德尔卡斯蒂略 (Del Castillo) 的 3 分 HR 和凯利 (Kelly) 的强劲开局带领 D 后卫击败酿酒人队 (Brewers)。",
+    "explanation": "Google Trends 显示“杰克逊·乔里奥”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：德尔卡斯蒂略 (Del Castillo) 的 3 分 HR 和凯利 (Kelly) 的强劲开局带领 D 后卫击败酿酒人队 (Brewers)。这些报道来自 MLB.com 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Del Castillo's 3-run HR, Kelly's strong start lead D-backs past Brewers",
+        "url": "https://www.mlb.com/news/adrian-del-castillo-merrill-kelly-lead-diamondbacks-past-brewers",
+        "source": "MLB.com"
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "title": "melania trump",
+    "titleZh": "梅拉尼娅·特朗普",
+    "traffic": "1000+",
+    "started": "Sat, 4 Jul 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：梅拉尼娅·特朗普的高级顾问揭示了她爱泼斯坦演讲的动机。",
+    "explanation": "Google Trends 显示“梅拉尼娅·特朗普”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：梅拉尼娅·特朗普的高级顾问揭示了她爱泼斯坦演讲的动机。这些报道来自 The Independent 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Melania Trump’s top adviser reveals what motivated her Epstein speech",
+        "url": "https://www.the-independent.com/bulletin/news/melania-trump-epstein-speech-marc-beckham-b3008741.html",
+        "source": "The Independent"
+      }
+    ]
+  },
+  {
+    "rank": 6,
+    "title": "long beach fireworks",
+    "titleZh": "长滩烟花",
+    "traffic": "500+",
+    "started": "Sat, 4 Jul 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：Grunion 公报日历：7 月 2 日至 8 日当周。。",
+    "explanation": "Google Trends 显示“长滩烟花”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Grunion 公报日历：7 月 2 日至 8 日当周。。这些报道来自 Long Beach Press-Telegram 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Grunion Gazette Calendar: Week of July 2-8.",
+        "url": "https://www.presstelegram.com/2026/07/02/grunion-gazette-calendar-week-of-july-2-8/",
+        "source": "Long Beach Press-Telegram"
+      }
+    ]
+  },
+  {
+    "rank": 7,
+    "title": "arizona diamondbacks",
+    "titleZh": "亚利桑那响尾蛇队",
+    "traffic": "2000+",
+    "started": "Sat, 4 Jul 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：太阳队新秀 Koa Peat 投出响尾蛇队与酿酒人队的第一个投球，为七月四日系列赛拉开序幕。",
+    "explanation": "Google Trends 显示“亚利桑那响尾蛇队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：太阳队新秀 Koa Peat 投出响尾蛇队与酿酒人队的第一个投球，为七月四日系列赛拉开序幕。这些报道来自 Arizona Sports 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Suns rookie Koa Peat throws Diamondbacks-Brewers 1st pitch to kick off Fourth of July series",
+        "url": "https://arizonasports.com/mlb/arizona-diamondbacks/suns-rookie-koa-peat-first-pitch-diamondbacks-brewers-fourth-of-july-series",
+        "source": "Arizona Sports"
+      }
+    ]
+  },
+  {
+    "rank": 8,
+    "title": "fireworks seattle",
+    "titleZh": "烟花西雅图",
+    "traffic": "2000+",
+    "started": "Sat, 4 Jul 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：7 月 4 日快乐！这是本周末在西西澳庆祝的地方。",
+    "explanation": "Google Trends 显示“烟花西雅图”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：7 月 4 日快乐！这是本周末在西西澳庆祝的地方。这些报道来自 KIRO 7 News Seattle 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Happy 4th of July! Here’s where to celebrate in Western WA this weekend",
+        "url": "https://www.kiro7.com/news/local/happy-4th-july-heres-where-you-can-celebrate-western-wa-this-weekend/S72G6WKG3VCAVD636LRAQWM5KI/",
+        "source": "KIRO 7 News Seattle"
+      }
+    ]
+  },
+  {
+    "rank": 9,
+    "title": "lupita nyong'o",
+    "titleZh": "卢皮塔人",
+    "traffic": "500+",
+    "started": "Sat, 4 Jul 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：露皮塔·尼永奥谈到她的《奥德​​赛》选角：“我惊呆了”。",
+    "explanation": "Google Trends 显示“卢皮塔人”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：露皮塔·尼永奥谈到她的《奥德​​赛》选角：“我惊呆了”。这些报道来自 Comic Book Resources 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Lupita Nyong’o Addresses Her Odyssey Casting: ‘I Was Stunned’",
+        "url": "https://www.cbr.com/lupita-nyongo-the-odyssey-casting-confession/",
+        "source": "Comic Book Resources"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "colombia vs suiza",
-    "titleZh": "哥伦比亚 vs 瑞士",
-    "traffic": "1000+",
-    "started": "Fri, 3 Jul 2026 20:50:00 -0700",
-    "summary": "相关新闻主要集中在：世界杯：瑞士为何在八强赛中对哥伦比亚拥有双重优势。",
-    "explanation": "Google Trends 显示“哥伦比亚 vs 瑞士”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：世界杯：瑞士为何在八强赛中对哥伦比亚拥有双重优势。这些报道来自 ESPN Deportes 等媒体，因此带动了集中搜索。",
+    "title": "las vegas fireworks",
+    "titleZh": "拉斯维加斯烟花",
+    "traffic": "2000+",
+    "started": "Sat, 4 Jul 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：拉斯维加斯迎来七月四日来自全国各地的游客。",
+    "explanation": "Google Trends 显示“拉斯维加斯烟花”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：拉斯维加斯迎来七月四日来自全国各地的游客。这些报道来自 KSNV 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Mundial: Por qué Suiza tiene doble ventaja sobre Colombia en 8vos de final",
-        "url": "https://espndeportes.espn.com/futbol/mundial/nota/_/id/16950312/por-que-suiza-vs-colombia-tiene-doble-ventaja-8avos-mundial-2026",
-        "source": "ESPN Deportes"
+        "title": "Las Vegas welcomes Fourth of July visitors from across the country",
+        "url": "https://news3lv.com/news/local/las-vegas-welcomes-fourth-of-july-visitors-from-across-the-country",
+        "source": "KSNV"
       }
     ]
   }
