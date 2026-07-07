@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "copa mundial de fútbol",
-    "titleZh": "足球世界杯",
-    "traffic": "100000+",
-    "started": "Sun, 5 Jul 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：历史重演：巴西队在世界杯上再次输给欧洲人。",
-    "explanation": "Google Trends 显示“足球世界杯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：历史重演：巴西队在世界杯上再次输给欧洲人。这些报道来自 San Antonio Express-News 等媒体，因此带动了集中搜索。",
+    "title": "dreamdoll",
+    "titleZh": "梦娃娃",
+    "traffic": "50000+",
+    "started": "Mon, 6 Jul 2026 21:50:00 -0700",
+    "summary": "相关新闻主要集中在：佛罗里达州知名社交媒体影响者在豪华SUV内遭遇枪击事件身亡。",
+    "explanation": "Google Trends 显示“梦娃娃”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：佛罗里达州知名社交媒体影响者在豪华SUV内遭遇枪击事件身亡。这些报道来自 Fox News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "La historia se repite: Brasil vuelve a claudicar ante un europeo en el Mundial",
-        "url": "https://www.expressnews.com/sports/article/la-historia-se-repite-brasil-vuelve-a-claudicar-22333469.php",
-        "source": "San Antonio Express-News"
+        "title": "Popular Florida social media influencer killed in drive-by shooting while inside luxury SUV",
+        "url": "https://www.foxnews.com/us/popular-florida-social-media-influencer-killed-drive-shooting-luxury-suv",
+        "source": "Fox News"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "seattle seahawks",
-    "titleZh": "西雅图海鹰队",
-    "traffic": "200+",
-    "started": "Sun, 5 Jul 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：预读 6/28：海鹰队的超级碗窗口有多大？。",
-    "explanation": "Google Trends 显示“西雅图海鹰队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：预读 6/28：海鹰队的超级碗窗口有多大？。这些报道来自 Field Gulls 等媒体，因此带动了集中搜索。",
+    "title": "new jersey fireboat whale collision",
+    "titleZh": "新泽西州消防船与鲸鱼相撞",
+    "traffic": "500+",
+    "started": "Mon, 6 Jul 2026 21:50:00 -0700",
+    "summary": "相关新闻主要集中在：鲸鱼袭击，导致新泽西消防船沉没，船员几秒钟内弃船。",
+    "explanation": "Google Trends 显示“新泽西州消防船与鲸鱼相撞”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：鲸鱼袭击，导致新泽西消防船沉没，船员几秒钟内弃船。这些报道来自 FOX Weather 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Pre-Snap Reads 6/28: How wide open is the Seahawks’ Super Bowl window?",
-        "url": "https://www.fieldgulls.com/seattle-seahawks-news/170047/seahawks-news-6-28-how-wide-open-is-the-seahawks-super-bowl-window",
-        "source": "Field Gulls"
+        "title": "Whale strikes, sinks New Jersey fireboat, giving crew seconds to abandon ship",
+        "url": "https://www.foxweather.com/earth-space/whale-strikes-sinks-nj-fireboat-forcing-crew-to-abandon-ship",
+        "source": "FOX Weather"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "cher",
-    "titleZh": "谢尔",
+    "title": "letterman",
+    "titleZh": "莱特曼",
     "traffic": "200+",
-    "started": "Sun, 5 Jul 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：在社交媒体上发表神秘帖子后，雪儿引发了与 AE Edwards 订婚的猜测。",
-    "explanation": "Google Trends 显示“谢尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：在社交媒体上发表神秘帖子后，雪儿引发了与 AE Edwards 订婚的猜测。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
+    "started": "Mon, 6 Jul 2026 21:50:00 -0700",
+    "summary": "相关新闻主要集中在：明迪·卡灵回忆起制片人建议她不要称赞大卫·莱特曼：“他不知道该怎么办”。",
+    "explanation": "Google Trends 显示“莱特曼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：明迪·卡灵回忆起制片人建议她不要称赞大卫·莱特曼：“他不知道该怎么办”。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Cher Fuels Engagement Speculation With AE Edwards After Cryptic Social Media Post",
-        "url": "https://www.aol.com/articles/cher-fuels-engagement-speculation-ae-193009000.html",
+        "title": "Mindy Kaling recalls producers advising her not to compliment David Letterman: 'He doesn't know what to do with it'",
+        "url": "https://www.aol.com/articles/mindy-kaling-recalls-producers-advising-000000123.html",
         "source": "AOL.com"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "sebastian rulli",
-    "titleZh": "塞巴斯蒂安·鲁利",
-    "traffic": "10000+",
-    "started": "Sun, 5 Jul 2026 21:40:00 -0700",
-    "summary": "相关新闻主要集中在：精神都暖起来了！贝琳达和丹娜在对阵英格兰的比赛之前向墨西哥国家队发出了强有力的信息。",
-    "explanation": "Google Trends 显示“塞巴斯蒂安·鲁利”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：精神都暖起来了！贝琳达和丹娜在对阵英格兰的比赛之前向墨西哥国家队发出了强有力的信息。这些报道来自 Las Estrellas 等媒体，因此带动了集中搜索。",
+    "title": "dodger game",
+    "titleZh": "道奇游戏",
+    "traffic": "500+",
+    "started": "Mon, 6 Jul 2026 21:50:00 -0700",
+    "summary": "相关新闻主要集中在：圣地亚哥反击，道奇队未能横扫教士队。",
+    "explanation": "Google Trends 显示“道奇游戏”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：圣地亚哥反击，道奇队未能横扫教士队。这些报道来自 True Blue LA 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "¡Calientan los ánimos! Belinda y Danna lanzan poderoso mensaje a la Selección Mexicana previo a su duelo contra Inglaterra",
-        "url": "https://www.lasestrellas.tv/famosos/calientan-los-animos-belinda-y-danna-lanzan-poderoso-mensaje-a-la-seleccion-mexicana-previo-a-su-duelo-contra-inglaterra",
-        "source": "Las Estrellas"
+        "title": "San Diego strikes back, Dodgers fail to secure sweep of Padres",
+        "url": "https://www.truebluela.com/dodgers-scores-standings/119428/dodgers-padres-game-recap",
+        "source": "True Blue LA"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "rittman ohio",
-    "titleZh": "俄亥俄州里特曼",
-    "traffic": "500+",
-    "started": "Sun, 5 Jul 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：警方连夜对里特曼的活动现场做出反应。",
-    "explanation": "Google Trends 显示“俄亥俄州里特曼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：警方连夜对里特曼的活动现场做出反应。这些报道来自 Cleveland 19 News 等媒体，因此带动了集中搜索。",
+    "title": "hormuz",
+    "titleZh": "霍尔木兹",
+    "traffic": "200+",
+    "started": "Mon, 6 Jul 2026 21:50:00 -0700",
+    "summary": "相关新闻主要集中在：伊朗革命卫队向霍尔木兹海峡的船只发射导弹。",
+    "explanation": "Google Trends 显示“霍尔木兹”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：伊朗革命卫队向霍尔木兹海峡的船只发射导弹。这些报道来自 WSJ 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Police respond to active scene in Rittman overnight",
-        "url": "https://www.cleveland19.com/2026/07/06/police-respond-active-scene-rittman-overnight/",
-        "source": "Cleveland 19 News"
+        "title": "IRGC Fires Missiles at Ships in Strait of Hormuz",
+        "url": "https://www.wsj.com/world/middle-east/irgc-fires-missiles-at-ships-in-strait-of-hormuz-c3fbadd0",
+        "source": "WSJ"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "iron bird seed",
-    "titleZh": "铁鸟种子",
-    "traffic": "20000+",
-    "started": "Sun, 5 Jul 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：今天的 NYT Connections 2026 年 7 月 6 日星期一的提示（和答案）。",
-    "explanation": "Google Trends 显示“铁鸟种子”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：今天的 NYT Connections 2026 年 7 月 6 日星期一的提示（和答案）。这些报道来自 Lifehacker 等媒体，因此带动了集中搜索。",
+    "title": "all american",
+    "titleZh": "全美国人",
+    "traffic": "200+",
+    "started": "Mon, 6 Jul 2026 21:50:00 -0700",
+    "summary": "相关新闻主要集中在：安迪·罗迪克预测谁将在温布尔登网球公开赛上击败可可·高夫和杰西卡·佩古拉。",
+    "explanation": "Google Trends 显示“全美国人”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：安迪·罗迪克预测谁将在温布尔登网球公开赛上击败可可·高夫和杰西卡·佩古拉。这些报道来自 Tennishead 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Today's NYT Connections Hints (and Answer) for Monday, July 6, 2026",
-        "url": "https://lifehacker.com/entertainment/nyt-connections-answer-today-july-6-2026",
-        "source": "Lifehacker"
+        "title": "Andy Roddick predicts who will win out of Coco Gauff and Jessica Pegula at Wimbledon",
+        "url": "https://tennishead.net/andy-roddick-predicts-who-will-win-out-of-coco-gauff-and-jessica-pegula-at-wimbledon/",
+        "source": "Tennishead"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "76ers embiid trade rumors",
-    "titleZh": "76人队恩比德交易传闻",
-    "traffic": "1000+",
-    "started": "Sun, 5 Jul 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：提议 76 人队用乔尔·恩比德交换 1.75 亿美元的全明星球员。",
-    "explanation": "Google Trends 显示“76人队恩比德交易传闻”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：提议 76 人队用乔尔·恩比德交换 1.75 亿美元的全明星球员。这些报道来自 roundtable.io 等媒体，因此带动了集中搜索。",
+    "title": "bernie",
+    "titleZh": "伯尼",
+    "traffic": "500+",
+    "started": "Mon, 6 Jul 2026 21:30:00 -0700",
+    "summary": "相关新闻主要集中在：民主党高层敦促缅因州参议员候选人因性侵犯指控退出竞选。",
+    "explanation": "Google Trends 显示“伯尼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：民主党高层敦促缅因州参议员候选人因性侵犯指控退出竞选。这些报道来自 BBC 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Proposed 76ers Trade Swaps Joel Embiid for $175 Million All-Star",
-        "url": "https://roundtable.io/sports/nba/76ers/news/proposed-76ers-trade-swaps-joel-embiid-for-175-million-all-star",
-        "source": "roundtable.io"
+        "title": "Top Democrats press Maine senate candidate to drop out of race over sexual assault allegation",
+        "url": "https://www.bbc.com/news/articles/cm2004nx8v9o",
+        "source": "BBC"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "is colombia still in the world cup",
-    "titleZh": "哥伦比亚还在世界杯吗",
-    "traffic": "2000+",
-    "started": "Sun, 5 Jul 2026 20:50:00 -0700",
-    "summary": "相关新闻主要集中在：哥伦比亚 1-0 加纳（2026 年 7 月 3 日）比赛分析。",
-    "explanation": "Google Trends 显示“哥伦比亚还在世界杯吗”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：哥伦比亚 1-0 加纳（2026 年 7 月 3 日）比赛分析。这些报道来自 ESPN 等媒体，因此带动了集中搜索。",
+    "title": "colbert",
+    "titleZh": "科尔伯特",
+    "traffic": "1000+",
+    "started": "Mon, 6 Jul 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：吉米·坎摩尔 (Jimmy Kimmel) 突然缺席深夜节目，导致竞争对手主持人的收视率飙升，Live 失去了榜首位置。",
+    "explanation": "Google Trends 显示“科尔伯特”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：吉米·坎摩尔 (Jimmy Kimmel) 突然缺席深夜节目，导致竞争对手主持人的收视率飙升，Live 失去了榜首位置。这些报道来自 The Sun 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Colombia 1-0 Ghana (Jul 3, 2026) Game Analysis",
-        "url": "https://www.espn.com/soccer/report/_/gameId/760501",
-        "source": "ESPN"
+        "title": "Jimmy Kimmel’s abrupt hiatus from late night show leads to ratings surge for rival host as Live loses top spot",
+        "url": "https://www.the-sun.com/tv/16644175/jimmy-kimmel-live-ratings-fallon-hiatus-viewership/",
+        "source": "The Sun"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "dalton knecht",
-    "titleZh": "道尔顿·克内希特",
-    "traffic": "1000+",
-    "started": "Sun, 5 Jul 2026 20:50:00 -0700",
-    "summary": "相关新闻主要集中在：湖人队的贾里德·范德比尔特问题在自由球员加盟后变得更加严重。",
-    "explanation": "Google Trends 显示“道尔顿·克内希特”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：湖人队的贾里德·范德比尔特问题在自由球员加盟后变得更加严重。这些报道来自 Lake Show Life 等媒体，因此带动了集中搜索。",
+    "title": "octavia spencer",
+    "titleZh": "奥克塔维亚·斯宾塞",
+    "traffic": "500+",
+    "started": "Mon, 6 Jul 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：在《骑马或死亡》、《塞尔玛与路易丝》和更多值得观看的电影女孩之前。",
+    "explanation": "Google Trends 显示“奥克塔维亚·斯宾塞”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：在《骑马或死亡》、《塞尔玛与路易丝》和更多值得观看的电影女孩之前。这些报道来自 IMDb 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Lakers' Jarred Vanderbilt problem looms larger after free agency haul",
-        "url": "https://lakeshowlife.com/lakers-jarred-vanderbilt-problem-looms-larger-after-free-agency-haul",
-        "source": "Lake Show Life"
+        "title": "Ahead of ‘Ride or Die,’ ‘Thelma & Louise’ and More Movie Gal Pals to Watch",
+        "url": "https://www.imdb.com/news/ni65915219/?ref_=nwc_art_perm",
+        "source": "IMDb"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "chivas",
-    "titleZh": "芝华士",
-    "traffic": "1000+",
-    "started": "Sun, 5 Jul 2026 20:50:00 -0700",
-    "summary": "相关新闻主要集中在：波乔·古兹曼接受穿得像魔鬼的挑战。",
-    "explanation": "Google Trends 显示“芝华士”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：波乔·古兹曼接受穿得像魔鬼的挑战。这些报道来自 Quadratín Michoacán 等媒体，因此带动了集中搜索。",
+    "title": "tiffany haddish",
+    "titleZh": "蒂凡尼·哈迪斯",
+    "traffic": "2000+",
+    "started": "Mon, 6 Jul 2026 20:40:00 -0700",
+    "summary": "相关新闻主要集中在：蒂芙尼·哈迪斯试图驳回佐治亚州酒驾案，但被法官驳回。",
+    "explanation": "Google Trends 显示“蒂凡尼·哈迪斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：蒂芙尼·哈迪斯试图驳回佐治亚州酒驾案，但被法官驳回。这些报道来自 CBS News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Asume Pocho Guzmán el reto de vestirse como Diablo",
-        "url": "https://www.quadratin.com.mx/deportes/asume-pocho-guzman-el-reto-de-vestirse-como-diablo/",
-        "source": "Quadratín Michoacán"
+        "title": "Tiffany Haddish's attempt to get Georgia DUI case thrown out denied by judge",
+        "url": "https://www.cbsnews.com/atlanta/news/tiffany-haddish-georgia-dui-case-motion-denied-judge-trial-date/",
+        "source": "CBS News"
       }
     ]
   }
