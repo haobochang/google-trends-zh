@@ -3,170 +3,170 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "dreamdoll",
-    "titleZh": "梦娃娃",
-    "traffic": "50000+",
-    "started": "Mon, 6 Jul 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：佛罗里达州知名社交媒体影响者在豪华SUV内遭遇枪击事件身亡。",
-    "explanation": "Google Trends 显示“梦娃娃”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：佛罗里达州知名社交媒体影响者在豪华SUV内遭遇枪击事件身亡。这些报道来自 Fox News 等媒体，因此带动了集中搜索。",
+    "title": "quinten post",
+    "titleZh": "五邮报",
+    "traffic": "200+",
+    "started": "Tue, 7 Jul 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：报道：灰熊队与昆滕·波斯特签订了一份为期三年的报价单。",
+    "explanation": "Google Trends 显示“五邮报”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：报道：灰熊队与昆滕·波斯特签订了一份为期三年的报价单。这些报道来自 NBA.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Popular Florida social media influencer killed in drive-by shooting while inside luxury SUV",
-        "url": "https://www.foxnews.com/us/popular-florida-social-media-influencer-killed-drive-shooting-luxury-suv",
-        "source": "Fox News"
+        "title": "Reports: Grizzlies sign Quinten Post to 3-year offer sheet",
+        "url": "https://www.nba.com/news/quinten-post-free-agency-2026",
+        "source": "NBA.com"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "new jersey fireboat whale collision",
-    "titleZh": "新泽西州消防船与鲸鱼相撞",
-    "traffic": "500+",
-    "started": "Mon, 6 Jul 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：鲸鱼袭击，导致新泽西消防船沉没，船员几秒钟内弃船。",
-    "explanation": "Google Trends 显示“新泽西州消防船与鲸鱼相撞”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：鲸鱼袭击，导致新泽西消防船沉没，船员几秒钟内弃船。这些报道来自 FOX Weather 等媒体，因此带动了集中搜索。",
+    "title": "allison janney",
+    "titleZh": "艾莉森·珍妮",
+    "traffic": "2000+",
+    "started": "Tue, 7 Jul 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：艾莉森·珍妮 (Allison Janney) 分享哪位“非凡”一线明星是她的好莱坞灵感来源：“我最大的偶像”（独家）。",
+    "explanation": "Google Trends 显示“艾莉森·珍妮”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：艾莉森·珍妮 (Allison Janney) 分享哪位“非凡”一线明星是她的好莱坞灵感来源：“我最大的偶像”（独家）。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Whale strikes, sinks New Jersey fireboat, giving crew seconds to abandon ship",
-        "url": "https://www.foxweather.com/earth-space/whale-strikes-sinks-nj-fireboat-forcing-crew-to-abandon-ship",
-        "source": "FOX Weather"
-      }
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "letterman",
-    "titleZh": "莱特曼",
-    "traffic": "200+",
-    "started": "Mon, 6 Jul 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：明迪·卡灵回忆起制片人建议她不要称赞大卫·莱特曼：“他不知道该怎么办”。",
-    "explanation": "Google Trends 显示“莱特曼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：明迪·卡灵回忆起制片人建议她不要称赞大卫·莱特曼：“他不知道该怎么办”。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Mindy Kaling recalls producers advising her not to compliment David Letterman: 'He doesn't know what to do with it'",
-        "url": "https://www.aol.com/articles/mindy-kaling-recalls-producers-advising-000000123.html",
+        "title": "Allison Janney Shares Which ‘Extraordinary’ A-List Star Was Her Hollywood Inspiration: ‘My Biggest Icon’ (Exclusive)",
+        "url": "https://www.aol.com/articles/allison-janney-shares-extraordinary-list-212900656.html",
         "source": "AOL.com"
       }
     ]
   },
   {
-    "rank": 4,
-    "title": "dodger game",
-    "titleZh": "道奇游戏",
-    "traffic": "500+",
-    "started": "Mon, 6 Jul 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：圣地亚哥反击，道奇队未能横扫教士队。",
-    "explanation": "Google Trends 显示“道奇游戏”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：圣地亚哥反击，道奇队未能横扫教士队。这些报道来自 True Blue LA 等媒体，因此带动了集中搜索。",
+    "rank": 3,
+    "title": "padres game",
+    "titleZh": "父母游戏",
+    "traffic": "200+",
+    "started": "Tue, 7 Jul 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：今天美国职业棒球大联盟 (MLB) 比赛响尾蛇 vs 教士队的预测、选秀权和赔率。",
+    "explanation": "Google Trends 显示“父母游戏”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：今天美国职业棒球大联盟 (MLB) 比赛响尾蛇 vs 教士队的预测、选秀权和赔率。这些报道来自 Covers.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "San Diego strikes back, Dodgers fail to secure sweep of Padres",
-        "url": "https://www.truebluela.com/dodgers-scores-standings/119428/dodgers-padres-game-recap",
-        "source": "True Blue LA"
+        "title": "Diamondbacks vs Padres Prediction, Picks & Odds for Today's MLB Game",
+        "url": "https://www.covers.com/mlb/diamondbacks-vs-padres-prediction-picks-odds-tuesday-7-7-2026",
+        "source": "Covers.com"
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "tiffany haddish",
+    "titleZh": "蒂凡尼·哈迪斯",
+    "traffic": "2000+",
+    "started": "Tue, 7 Jul 2026 20:40:00 -0700",
+    "summary": "相关新闻主要集中在：蒂芙尼·哈迪斯 (Tiffany Haddish) 代表金梅尔 (Kimmel) 就世界杯嘲笑特朗普。",
+    "explanation": "Google Trends 显示“蒂凡尼·哈迪斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：蒂芙尼·哈迪斯 (Tiffany Haddish) 代表金梅尔 (Kimmel) 就世界杯嘲笑特朗普。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Tiffany Haddish Mocks Trump Over World Cup as She Stands In for Kimmel",
+        "url": "https://www.yahoo.com/entertainment/tv/articles/tiffany-haddish-mocks-trump-over-113855349.html",
+        "source": "Yahoo"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "hormuz",
-    "titleZh": "霍尔木兹",
-    "traffic": "200+",
-    "started": "Mon, 6 Jul 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：伊朗革命卫队向霍尔木兹海峡的船只发射导弹。",
-    "explanation": "Google Trends 显示“霍尔木兹”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：伊朗革命卫队向霍尔木兹海峡的船只发射导弹。这些报道来自 WSJ 等媒体，因此带动了集中搜索。",
+    "title": "mega millions numbers",
+    "titleZh": "百万数字",
+    "traffic": "1000+",
+    "started": "Tue, 7 Jul 2026 20:40:00 -0700",
+    "summary": "相关新闻主要集中在：7 月 7 日星期二的超级百万大奖中奖号码。",
+    "explanation": "Google Trends 显示“百万数字”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：7 月 7 日星期二的超级百万大奖中奖号码。这些报道来自 The Detroit News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "IRGC Fires Missiles at Ships in Strait of Hormuz",
-        "url": "https://www.wsj.com/world/middle-east/irgc-fires-missiles-at-ships-in-strait-of-hormuz-c3fbadd0",
-        "source": "WSJ"
+        "title": "Mega Millions winning numbers for Tuesday, July 7",
+        "url": "https://www.detroitnews.com/story/news/lottery/2026/07/07/mega-millions-winning-numbers-for-tuesday-july-7/90843076007/",
+        "source": "The Detroit News"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "all american",
-    "titleZh": "全美国人",
-    "traffic": "200+",
-    "started": "Mon, 6 Jul 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：安迪·罗迪克预测谁将在温布尔登网球公开赛上击败可可·高夫和杰西卡·佩古拉。",
-    "explanation": "Google Trends 显示“全美国人”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：安迪·罗迪克预测谁将在温布尔登网球公开赛上击败可可·高夫和杰西卡·佩古拉。这些报道来自 Tennishead 等媒体，因此带动了集中搜索。",
+    "title": "giants game",
+    "titleZh": "巨人队比赛",
+    "traffic": "500+",
+    "started": "Tue, 7 Jul 2026 20:40:00 -0700",
+    "summary": "相关新闻主要集中在：MLB Pipeline 最新模拟选秀让旧金山巨人队以第二顺位选中高中投手。",
+    "explanation": "Google Trends 显示“巨人队比赛”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：MLB Pipeline 最新模拟选秀让旧金山巨人队以第二顺位选中高中投手。这些报道来自 Around the Foghorn 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Andy Roddick predicts who will win out of Coco Gauff and Jessica Pegula at Wimbledon",
-        "url": "https://tennishead.net/andy-roddick-predicts-who-will-win-out-of-coco-gauff-and-jessica-pegula-at-wimbledon/",
-        "source": "Tennishead"
+        "title": "MLB Pipeline's latest mock draft has SF Giants taking high school pitcher with second pick",
+        "url": "https://aroundthefoghorn.com/mlb-pipeline-s-latest-mock-draft-has-sf-giants-taking-high-school-pitcher-with-second-pick-01kwmr9bat7g",
+        "source": "Around the Foghorn"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "bernie",
-    "titleZh": "伯尼",
-    "traffic": "500+",
-    "started": "Mon, 6 Jul 2026 21:30:00 -0700",
-    "summary": "相关新闻主要集中在：民主党高层敦促缅因州参议员候选人因性侵犯指控退出竞选。",
-    "explanation": "Google Trends 显示“伯尼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：民主党高层敦促缅因州参议员候选人因性侵犯指控退出竞选。这些报道来自 BBC 等媒体，因此带动了集中搜索。",
+    "title": "lorenzo salgado araujo",
+    "titleZh": "洛伦佐·萨尔加多·阿劳霍",
+    "traffic": "200+",
+    "started": "Tue, 7 Jul 2026 20:40:00 -0700",
+    "summary": "相关新闻主要集中在：联邦官员称，一名男子在休斯敦东区的针对性行动中被 ICE 官员开枪打死。",
+    "explanation": "Google Trends 显示“洛伦佐·萨尔加多·阿劳霍”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：联邦官员称，一名男子在休斯敦东区的针对性行动中被 ICE 官员开枪打死。这些报道来自 KHOU 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Top Democrats press Maine senate candidate to drop out of race over sexual assault allegation",
-        "url": "https://www.bbc.com/news/articles/cm2004nx8v9o",
-        "source": "BBC"
+        "title": "Man shot and killed by ICE officer during targeted operation in Houston's East End, federal officials say",
+        "url": "https://www.khou.com/article/news/local/houston-deadly-ice-agent-shooting/285-e7f8edab-ef71-4de3-a748-933bc6308453",
+        "source": "KHOU"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "colbert",
-    "titleZh": "科尔伯特",
-    "traffic": "1000+",
-    "started": "Mon, 6 Jul 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：吉米·坎摩尔 (Jimmy Kimmel) 突然缺席深夜节目，导致竞争对手主持人的收视率飙升，Live 失去了榜首位置。",
-    "explanation": "Google Trends 显示“科尔伯特”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：吉米·坎摩尔 (Jimmy Kimmel) 突然缺席深夜节目，导致竞争对手主持人的收视率飙升，Live 失去了榜首位置。这些报道来自 The Sun 等媒体，因此带动了集中搜索。",
+    "title": "daycare",
+    "titleZh": "日托",
+    "traffic": "2000+",
+    "started": "Tue, 7 Jul 2026 20:30:00 -0700",
+    "summary": "相关新闻主要集中在：托儿所因幼儿受伤被起诉。",
+    "explanation": "Google Trends 显示“日托”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：托儿所因幼儿受伤被起诉。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Jimmy Kimmel’s abrupt hiatus from late night show leads to ratings surge for rival host as Live loses top spot",
-        "url": "https://www.the-sun.com/tv/16644175/jimmy-kimmel-live-ratings-fallon-hiatus-viewership/",
-        "source": "The Sun"
+        "title": "Childcare sued over toddler's injuries",
+        "url": "https://www.yahoo.com/lifestyle/videos/childcare-sued-over-toddlers-injuries-201322134.html",
+        "source": "Yahoo"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "octavia spencer",
-    "titleZh": "奥克塔维亚·斯宾塞",
+    "title": "harriet tubman on $20 bill",
+    "titleZh": "20 美元钞票上的哈里特·塔布曼",
     "traffic": "500+",
-    "started": "Mon, 6 Jul 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：在《骑马或死亡》、《塞尔玛与路易丝》和更多值得观看的电影女孩之前。",
-    "explanation": "Google Trends 显示“奥克塔维亚·斯宾塞”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：在《骑马或死亡》、《塞尔玛与路易丝》和更多值得观看的电影女孩之前。这些报道来自 IMDb 等媒体，因此带动了集中搜索。",
+    "started": "Tue, 7 Jul 2026 20:30:00 -0700",
+    "summary": "相关新闻主要集中在：财政部取消将 Harriet Tubman 印在 20 美元钞票上的计划。",
+    "explanation": "Google Trends 显示“20 美元钞票上的哈里特·塔布曼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：财政部取消将 Harriet Tubman 印在 20 美元钞票上的计划。这些报道来自 The Hill 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Ahead of ‘Ride or Die,’ ‘Thelma & Louise’ and More Movie Gal Pals to Watch",
-        "url": "https://www.imdb.com/news/ni65915219/?ref_=nwc_art_perm",
-        "source": "IMDb"
+        "title": "Treasury scraps plans to put Harriet Tubman on $20 bill",
+        "url": "https://thehill.com/homenews/administration/5957729-harriet-tubman-20-dollar-bill-treasury-scott-bessent/",
+        "source": "The Hill"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "tiffany haddish",
-    "titleZh": "蒂凡尼·哈迪斯",
+    "title": "childcare",
+    "titleZh": "儿童保育",
     "traffic": "2000+",
-    "started": "Mon, 6 Jul 2026 20:40:00 -0700",
-    "summary": "相关新闻主要集中在：蒂芙尼·哈迪斯试图驳回佐治亚州酒驾案，但被法官驳回。",
-    "explanation": "Google Trends 显示“蒂凡尼·哈迪斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：蒂芙尼·哈迪斯试图驳回佐治亚州酒驾案，但被法官驳回。这些报道来自 CBS News 等媒体，因此带动了集中搜索。",
+    "started": "Tue, 7 Jul 2026 20:20:00 -0700",
+    "summary": "相关新闻主要集中在：诉讼称，洛杉矶地区日托中心员工据称将幼儿扔到空中，导致幼儿严重受伤。",
+    "explanation": "Google Trends 显示“儿童保育”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：诉讼称，洛杉矶地区日托中心员工据称将幼儿扔到空中，导致幼儿严重受伤。这些报道来自 CBS News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Tiffany Haddish's attempt to get Georgia DUI case thrown out denied by judge",
-        "url": "https://www.cbsnews.com/atlanta/news/tiffany-haddish-georgia-dui-case-motion-denied-judge-trial-date/",
+        "title": "Toddler severely injured after LA-area daycare employee allegedly throws him into air, lawsuit says",
+        "url": "https://www.cbsnews.com/losangeles/news/el-segundo-bay-club-clubhouse-daycare-sued-toddler-dropped-injured/",
         "source": "CBS News"
       }
     ]
