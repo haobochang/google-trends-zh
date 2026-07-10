@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "rolling stone",
-    "titleZh": "滚石",
+    "title": "mason thames",
+    "titleZh": "梅森泰晤士报",
     "traffic": "200+",
-    "started": "Wed, 8 Jul 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：麦当娜的新书收录了有关西恩·潘浪漫史、肯·里根照片、尼罗·罗杰斯采访等的新鲜细节。",
-    "explanation": "Google Trends 显示“滚石”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：麦当娜的新书收录了有关西恩·潘浪漫史、肯·里根照片、尼罗·罗杰斯采访等的新鲜细节。这些报道来自 Variety 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 9 Jul 2026 21:50:00 -0700",
+    "summary": "相关新闻主要集中在：戴夫·弗兰科 (Dave Franco) 和小奥谢·杰克逊 (O'Shea Jackson Jr.) 在《白痴》预告片中进行了一场愚蠢的午夜跑步。",
+    "explanation": "Google Trends 显示“梅森泰晤士报”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：戴夫·弗兰科 (Dave Franco) 和小奥谢·杰克逊 (O'Shea Jackson Jr.) 在《白痴》预告片中进行了一场愚蠢的午夜跑步。这些报道来自 A.V. Club 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "A New Madonna Book Features Fresh Details About Sean Penn Romance, Ken Regan Photos, Interviews With Nile Rodgers and More",
-        "url": "https://variety.com/2026/shopping/news/madonna-book-sean-penn-fight-into-the-groove-buy-online-1236804886/",
-        "source": "Variety"
+        "title": "Dave Franco and O'Shea Jackson Jr. make a stupid midnight run in the Idiots trailer",
+        "url": "https://www.avclub.com/the-idiots-trailer-dave-franco",
+        "source": "A.V. Club"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "obsidian fallout games",
-    "titleZh": "黑曜石辐射游戏",
-    "traffic": "200+",
-    "started": "Wed, 8 Jul 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：Xbox 的 Obsidian 和 Bethesda 正在合作制作一款新的《辐射》游戏，这是我们所知道的。",
-    "explanation": "Google Trends 显示“黑曜石辐射游戏”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Xbox 的 Obsidian 和 Bethesda 正在合作制作一款新的《辐射》游戏，这是我们所知道的。这些报道来自 Windows Central 等媒体，因此带动了集中搜索。",
+    "title": "erika kirk",
+    "titleZh": "埃里卡·柯克",
+    "traffic": "500+",
+    "started": "Thu, 9 Jul 2026 21:50:00 -0700",
+    "summary": "相关新闻主要集中在：州政府在泰勒·罗宾逊初步听证会上休息，预计将于周五结束。",
+    "explanation": "Google Trends 显示“埃里卡·柯克”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：州政府在泰勒·罗宾逊初步听证会上休息，预计将于周五结束。这些报道来自 KSL.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Xbox's Obsidian and Bethesda are making a new Fallout game together, here's what we know",
-        "url": "https://www.windowscentral.com/gaming/xbox/xboxs-rpg-studio-obsidian-is-making-a-new-fallout-game-with-bethesda-and-fallout-new-vegas-game-director",
-        "source": "Windows Central"
+        "title": "State rests in Tyler Robinson preliminary hearing expected to wrap up Friday",
+        "url": "https://www.ksl.com/article/51595867/watch-live-more-evidence-expected-in-day-4-of-tyler-robinsons-preliminary-hearing",
+        "source": "KSL.com"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "is mexico and england playing again",
-    "titleZh": "墨西哥和英格兰又要比赛了吗",
+    "title": "charles manson",
+    "titleZh": "查尔斯·曼森",
     "traffic": "200+",
-    "started": "Wed, 8 Jul 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：墨西哥 vs 英格兰 世界杯精彩集锦。",
-    "explanation": "Google Trends 显示“墨西哥和英格兰又要比赛了吗”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：墨西哥 vs 英格兰 世界杯精彩集锦。这些报道来自 Los Angeles Times 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 9 Jul 2026 21:40:00 -0700",
+    "summary": "相关新闻主要集中在：一名妇女在令人震惊的新 Hulu 纪录片中发现查尔斯·曼森是她的祖父。",
+    "explanation": "Google Trends 显示“查尔斯·曼森”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：一名妇女在令人震惊的新 Hulu 纪录片中发现查尔斯·曼森是她的祖父。这些报道来自 Laughing Place 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Mexico vs. England World Cup highlights",
-        "url": "https://www.latimes.com/n7ca4k6tjbs-123",
-        "source": "Los Angeles Times"
+        "title": "One Woman Discovers Charles Manson is Her Grandfather in Shocking New Hulu Documentary",
+        "url": "https://www.laughingplace.com/entertainment/my-grandfather-is-charles-manson-trailer/",
+        "source": "Laughing Place"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "ipl",
-    "titleZh": "强脉冲光",
+    "title": "wnba scores",
+    "titleZh": "WNBA分数",
     "traffic": "200+",
-    "started": "Wed, 8 Jul 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：乔夫准备好挑战印度神童。",
-    "explanation": "Google Trends 显示“强脉冲光”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：乔夫准备好挑战印度神童。这些报道来自 Magzter 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 9 Jul 2026 21:40:00 -0700",
+    "summary": "相关新闻主要集中在：2026 年专员杯预展。",
+    "explanation": "Google Trends 显示“WNBA分数”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：2026 年专员杯预展。这些报道来自 WNBA 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Jof ready to take on Indian wonderkid",
-        "url": "https://www.magzter.com/stories/newspaper/Birmingham-Mail/JOF-READY-TO-TAKE-ON-INDIAN-WONDERKID",
-        "source": "Magzter"
+        "title": "Commissioner's Cup 2026 Preview Show",
+        "url": "https://www.wnba.com/watch/video/commissioners-cup-2026-preview-show",
+        "source": "WNBA"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "san diego padres",
-    "titleZh": "圣地亚哥父母",
-    "traffic": "500+",
-    "started": "Wed, 8 Jul 2026 21:40:00 -0700",
-    "summary": "相关新闻主要集中在：在又一次耻辱性失利之后，圣地亚哥教士队必须在交易截止日期前出售。",
-    "explanation": "Google Trends 显示“圣地亚哥父母”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：在又一次耻辱性失利之后，圣地亚哥教士队必须在交易截止日期前出售。这些报道来自 myfoxzone.com 等媒体，因此带动了集中搜索。",
+    "title": "play store",
+    "titleZh": "游戏商店",
+    "traffic": "200+",
+    "started": "Thu, 9 Jul 2026 21:40:00 -0700",
+    "summary": "相关新闻主要集中在：我离开了 Play 商店，转向免费的开源应用商店，并且再也没有回头。",
+    "explanation": "Google Trends 显示“游戏商店”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：我离开了 Play 商店，转向免费的开源应用商店，并且再也没有回头。这些报道来自 MakeUseOf 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "After Another HUMILIATING LOSS, the San Diego Padres MUST SELL at the Trade Deadline",
-        "url": "https://www.myfoxzone.com/video/sports/locked-on/lo-san-diego/padres-show/after-another-humiliating-loss-the-san-diego-padres-must-sell-at-the-trade-deadline/535-b3c3da81-a9bf-4ce2-8195-a8afb03d8f8c",
-        "source": "myfoxzone.com"
+        "title": "I left the Play Store for a free open-source app store and never looked back",
+        "url": "https://www.makeuseof.com/left-play-store-for-free-open-source-app-store-never-looked-back/",
+        "source": "MakeUseOf"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "grand prix",
-    "titleZh": "大奖",
+    "title": "wnba standings",
+    "titleZh": "WNBA积分榜",
     "traffic": "200+",
-    "started": "Wed, 8 Jul 2026 21:40:00 -0700",
-    "summary": "相关新闻主要集中在：F1反高潮大问题的解决方案。",
-    "explanation": "Google Trends 显示“大奖”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：F1反高潮大问题的解决方案。这些报道来自 The Race 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 9 Jul 2026 21:30:00 -0700",
+    "summary": "相关新闻主要集中在：奥巴马总统中心将于本月举办 2026 年 WNBA 全明星赛。",
+    "explanation": "Google Trends 显示“WNBA积分榜”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：奥巴马总统中心将于本月举办 2026 年 WNBA 全明星赛。这些报道来自 Chicago Sun-Times 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "The solution to F1's big anti-climax problem",
-        "url": "https://www.the-race.com/formula-1/f1-safety-car-race-finish-anti-climax-solution/",
-        "source": "The Race"
+        "title": "Obama Presidential Center to host 2026 WNBA All-Star events this month",
+        "url": "https://chicago.suntimes.com/news/2026/07/08/wnba-to-host-all-star-events-at-obama-center-this-month",
+        "source": "Chicago Sun-Times"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "luis campusano",
-    "titleZh": "路易斯·坎帕萨诺",
-    "traffic": "500+",
-    "started": "Wed, 8 Jul 2026 21:40:00 -0700",
-    "summary": "相关新闻主要集中在：PGA 和 MLB 更新了新的 50 美元 Polymarket 邀请码“OREGON”！。",
-    "explanation": "Google Trends 显示“路易斯·坎帕萨诺”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：PGA 和 MLB 更新了新的 50 美元 Polymarket 邀请码“OREGON”！。这些报道来自 OregonLive.com 等媒体，因此带动了集中搜索。",
+    "title": "tracy cortez",
+    "titleZh": "特雷西·科尔特斯",
+    "traffic": "200+",
+    "started": "Thu, 9 Jul 2026 21:30:00 -0700",
+    "summary": "相关新闻主要集中在：UFC尤物特雷西·科尔特斯热爱世界杯，尽管她心爱的墨西哥队输给了英格兰队。",
+    "explanation": "Google Trends 显示“特雷西·科尔特斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：UFC尤物特雷西·科尔特斯热爱世界杯，尽管她心爱的墨西哥队输给了英格兰队。这些报道来自 The Sun 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "New $50 Polymarket invite code “OREGON” updated for PGA and MLB!",
-        "url": "https://www.oregonlive.com/betting/2026/07/new-50-polymarket-invite-code-oregon-updated-for-pga-and-mlb.html",
-        "source": "OregonLive.com"
+        "title": "UFC stunner Tracy Cortez loving World Cup fever despite her beloved Mexico crashing out against England",
+        "url": "https://www.thesun.co.uk/sport/39704683/ufc-tracey-cortez-loves-world-cup-fever-mexico-out/",
+        "source": "The Sun"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "john daly",
-    "titleZh": "约翰·戴利",
-    "traffic": "500+",
-    "started": "Wed, 8 Jul 2026 21:20:00 -0700",
-    "summary": "相关新闻主要集中在：“新秀”扎克·约翰逊准备在考利格公司锦标赛上摇滚。",
-    "explanation": "Google Trends 显示“约翰·戴利”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：“新秀”扎克·约翰逊准备在考利格公司锦标赛上摇滚。这些报道来自 Akron Beacon Journal 等媒体，因此带动了集中搜索。",
+    "title": "fever",
+    "titleZh": "发烧",
+    "traffic": "5000+",
+    "started": "Thu, 9 Jul 2026 21:20:00 -0700",
+    "summary": "相关新闻主要集中在：狂热教练斯蒂芬妮·怀特回避了共和党关于凯特琳·克拉克在 WNBA 待遇的信中的问题。",
+    "explanation": "Google Trends 显示“发烧”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：狂热教练斯蒂芬妮·怀特回避了共和党关于凯特琳·克拉克在 WNBA 待遇的信中的问题。这些报道来自 Fox News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "'Rookie' Zach Johnson ready to rock at Kaulig Companies Championship",
-        "url": "https://www.beaconjournal.com/story/sports/pga/2026/07/08/zach-johnson-pga-tour-champions-kaulig-companies-championship/90835341007/",
-        "source": "Akron Beacon Journal"
+        "title": "Fever coach Stephanie White dodges question on GOP letter about Caitlin Clark’s treatment in WNBA",
+        "url": "https://www.foxnews.com/outkick-sports/fever-coach-stephanie-white-dodges-question-gop-letter-caitlin-clark-treatment-wnba",
+        "source": "Fox News"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "france vs morocco prediction",
-    "titleZh": "法国 vs 摩洛哥 预测",
-    "traffic": "2000+",
-    "started": "Wed, 8 Jul 2026 21:20:00 -0700",
-    "summary": "相关新闻主要集中在：对于摩洛哥人来说，击败法国不仅仅是足球——这是一个历史问题。",
-    "explanation": "Google Trends 显示“法国 vs 摩洛哥 预测”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：对于摩洛哥人来说，击败法国不仅仅是足球——这是一个历史问题。这些报道来自 The Boston Globe 等媒体，因此带动了集中搜索。",
+    "title": "jung hoo lee",
+    "titleZh": "李正厚",
+    "traffic": "200+",
+    "started": "Thu, 9 Jul 2026 21:20:00 -0700",
+    "summary": "相关新闻主要集中在：'突如其来的单打→.319安打率：李正厚闪耀！ SF 投手的投手丘被摧毁，王牌 Logan Webb 在 3 局中丢了 7 个自责分“震惊”......以 3-15 彻底击败科罗拉多 [SF 评论]。",
+    "explanation": "Google Trends 显示“李正厚”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：'突如其来的单打→.319安打率：李正厚闪耀！ SF 投手的投手丘被摧毁，王牌 Logan Webb 在 3 局中丢了 7 个自责分“震惊”......以 3-15 彻底击败科罗拉多 [SF 评论]。这些报道来自 스타뉴스 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "For Moroccans, beating France is more than soccer — it’s a matter of history",
-        "url": "https://www.bostonglobe.com/2026/07/08/metro/world-cup-morocco-france/",
-        "source": "The Boston Globe"
+        "title": "'Sudden bunt single → .319 batting average: Lee Jung-hoo shines! SF pitcher's mound devastated, ace Logan Webb allows 7 earned runs in 3 innings 'shock'... complete defeat to Colorado 3-15 [SF Review]",
+        "url": "https://www.starnewskorea.com/en/sports/2026/07/04/2026070408115659667",
+        "source": "스타뉴스"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "dodger game",
-    "titleZh": "道奇游戏",
-    "traffic": "500+",
-    "started": "Wed, 8 Jul 2026 21:20:00 -0700",
-    "summary": "相关新闻主要集中在：道奇队的道尔顿冲锋：周三坐在替补席上。",
-    "explanation": "Google Trends 显示“道奇游戏”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：道奇队的道尔顿冲锋：周三坐在替补席上。这些报道来自 CBS Sports 等媒体，因此带动了集中搜索。",
+    "title": "tiffany haddish",
+    "titleZh": "蒂凡尼·哈迪斯",
+    "traffic": "2000+",
+    "started": "Thu, 9 Jul 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：蒂芙尼·哈迪斯 (Tiffany Haddish) 对白宫因“吉米·金梅尔现场秀”笑话而对她造成阴影的反应是：“你进错屋了！”。",
+    "explanation": "Google Trends 显示“蒂凡尼·哈迪斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：蒂芙尼·哈迪斯 (Tiffany Haddish) 对白宫因“吉米·金梅尔现场秀”笑话而对她造成阴影的反应是：“你进错屋了！”。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Dodgers' Dalton Rushing: On bench Wednesday",
-        "url": "https://www.cbssports.com/fantasy/baseball/news/dodgers-dalton-rushing-on-bench-wednesday/",
-        "source": "CBS Sports"
+        "title": "Tiffany Haddish reacts to White House shading her over“ Jimmy Kimmel Live” joke: 'You in the wrong house!'",
+        "url": "https://www.yahoo.com/entertainment/tv/articles/tiffany-haddish-reacts-white-house-165027457.html",
+        "source": "Yahoo"
       }
     ]
   }
