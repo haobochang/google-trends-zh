@@ -3,154 +3,148 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "mason thames",
-    "titleZh": "梅森泰晤士报",
+    "title": "edgardo henriquez",
+    "titleZh": "埃德加多·恩里克斯",
     "traffic": "200+",
-    "started": "Thu, 9 Jul 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：戴夫·弗兰科 (Dave Franco) 和小奥谢·杰克逊 (O'Shea Jackson Jr.) 在《白痴》预告片中进行了一场愚蠢的午夜跑步。",
-    "explanation": "Google Trends 显示“梅森泰晤士报”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：戴夫·弗兰科 (Dave Franco) 和小奥谢·杰克逊 (O'Shea Jackson Jr.) 在《白痴》预告片中进行了一场愚蠢的午夜跑步。这些报道来自 A.V. Club 等媒体，因此带动了集中搜索。",
+    "started": "Fri, 10 Jul 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：道奇队将于 7 月 23 日访问白宫庆祝 2025 年世界职业棒球大赛冠军。",
+    "explanation": "Google Trends 显示“埃德加多·恩里克斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：道奇队将于 7 月 23 日访问白宫庆祝 2025 年世界职业棒球大赛冠军。这些报道来自 ABC7 Los Angeles 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Dave Franco and O'Shea Jackson Jr. make a stupid midnight run in the Idiots trailer",
-        "url": "https://www.avclub.com/the-idiots-trailer-dave-franco",
-        "source": "A.V. Club"
+        "title": "Dodgers to visit White House on July 23 to celebrate 2025 World Series title",
+        "url": "https://abc7.com/post/dodgers-visit-white-house-july-23-celebrate-2025-world-series-title/19478927/",
+        "source": "ABC7 Los Angeles"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "erika kirk",
-    "titleZh": "埃里卡·柯克",
-    "traffic": "500+",
-    "started": "Thu, 9 Jul 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：州政府在泰勒·罗宾逊初步听证会上休息，预计将于周五结束。",
-    "explanation": "Google Trends 显示“埃里卡·柯克”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：州政府在泰勒·罗宾逊初步听证会上休息，预计将于周五结束。这些报道来自 KSL.com 等媒体，因此带动了集中搜索。",
+    "title": "al pacino",
+    "titleZh": "阿尔帕西诺",
+    "traffic": "200+",
+    "started": "Fri, 10 Jul 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：本周值得观看的 3 部精彩 Netflix 惊悚片（7 月 6 日至 12 日）。",
+    "explanation": "Google Trends 显示“阿尔帕西诺”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：本周值得观看的 3 部精彩 Netflix 惊悚片（7 月 6 日至 12 日）。这些报道来自 How-To Geek 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "State rests in Tyler Robinson preliminary hearing expected to wrap up Friday",
-        "url": "https://www.ksl.com/article/51595867/watch-live-more-evidence-expected-in-day-4-of-tyler-robinsons-preliminary-hearing",
-        "source": "KSL.com"
+        "title": "3 exciting Netflix thrillers to watch this week (July 6-12)",
+        "url": "https://www.howtogeek.com/netflix-movies-thrillers-watch-this-week-july-6/",
+        "source": "How-To Geek"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "charles manson",
-    "titleZh": "查尔斯·曼森",
+    "title": "sahar ramirez",
+    "titleZh": "萨哈拉米雷斯",
     "traffic": "200+",
-    "started": "Thu, 9 Jul 2026 21:40:00 -0700",
-    "summary": "相关新闻主要集中在：一名妇女在令人震惊的新 Hulu 纪录片中发现查尔斯·曼森是她的祖父。",
-    "explanation": "Google Trends 显示“查尔斯·曼森”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：一名妇女在令人震惊的新 Hulu 纪录片中发现查尔斯·曼森是她的祖父。这些报道来自 Laughing Place 等媒体，因此带动了集中搜索。",
+    "started": "Fri, 10 Jul 2026 21:10:00 -0700",
+    "summary": "萨哈拉米雷斯 在 Google Trends 上出现明显搜索热度上升。",
+    "explanation": "萨哈拉米雷斯 当天在 Google 搜索中迅速升温，但当前可用新闻线索有限，建议结合后续报道继续观察。",
     "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "One Woman Discovers Charles Manson is Her Grandfather in Shocking New Hulu Documentary",
-        "url": "https://www.laughingplace.com/entertainment/my-grandfather-is-charles-manson-trailer/",
-        "source": "Laughing Place"
-      }
-    ]
+    "sourceLinks": []
   },
   {
     "rank": 4,
-    "title": "wnba scores",
-    "titleZh": "WNBA分数",
-    "traffic": "200+",
-    "started": "Thu, 9 Jul 2026 21:40:00 -0700",
-    "summary": "相关新闻主要集中在：2026 年专员杯预展。",
-    "explanation": "Google Trends 显示“WNBA分数”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：2026 年专员杯预展。这些报道来自 WNBA 等媒体，因此带动了集中搜索。",
+    "title": "zoey deutch",
+    "titleZh": "佐伊·达奇",
+    "traffic": "2000+",
+    "started": "Fri, 10 Jul 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：《盖尔女儿》：为期 7 天的写作练习，制作了三部故事片。",
+    "explanation": "Google Trends 显示“佐伊·达奇”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《盖尔女儿》：为期 7 天的写作练习，制作了三部故事片。这些报道来自 IndieWire 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Commissioner's Cup 2026 Preview Show",
-        "url": "https://www.wnba.com/watch/video/commissioners-cup-2026-preview-show",
-        "source": "WNBA"
+        "title": "‘Gail Daughtry’: Inside the 7-Day Writing Exercise That’s Produced Three Feature Films",
+        "url": "https://www.indiewire.com/features/podcast/screenwriting-101-how-to-write-script-week-1235204436/",
+        "source": "IndieWire"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "play store",
-    "titleZh": "游戏商店",
-    "traffic": "200+",
-    "started": "Thu, 9 Jul 2026 21:40:00 -0700",
-    "summary": "相关新闻主要集中在：我离开了 Play 商店，转向免费的开源应用商店，并且再也没有回头。",
-    "explanation": "Google Trends 显示“游戏商店”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：我离开了 Play 商店，转向免费的开源应用商店，并且再也没有回头。这些报道来自 MakeUseOf 等媒体，因此带动了集中搜索。",
+    "title": "bocce",
+    "titleZh": "地滚球",
+    "traffic": "500+",
+    "started": "Fri, 10 Jul 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：地掷球运动员在乔西·克劳利喜爱的露台上向她致敬。",
+    "explanation": "Google Trends 显示“地滚球”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：地掷球运动员在乔西·克劳利喜爱的露台上向她致敬。这些报道来自 The Marblehead Independent 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "I left the Play Store for a free open-source app store and never looked back",
-        "url": "https://www.makeuseof.com/left-play-store-for-free-open-source-app-store-never-looked-back/",
-        "source": "MakeUseOf"
+        "title": "Bocce players honor Josie Crowley on the patio she loved",
+        "url": "https://www.marbleheadindependent.com/bocce-players-honor-josie-crowley-on-the-patio-she-loved/",
+        "source": "The Marblehead Independent"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "wnba standings",
-    "titleZh": "WNBA积分榜",
-    "traffic": "200+",
-    "started": "Thu, 9 Jul 2026 21:30:00 -0700",
-    "summary": "相关新闻主要集中在：奥巴马总统中心将于本月举办 2026 年 WNBA 全明星赛。",
-    "explanation": "Google Trends 显示“WNBA积分榜”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：奥巴马总统中心将于本月举办 2026 年 WNBA 全明星赛。这些报道来自 Chicago Sun-Times 等媒体，因此带动了集中搜索。",
+    "title": "octavia spencer",
+    "titleZh": "奥克塔维亚·斯宾塞",
+    "traffic": "500+",
+    "started": "Fri, 10 Jul 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：“骑行或死亡”：7 月 15 日起在 Prime Video 上推出新系列预告片中的布拉格地点。",
+    "explanation": "Google Trends 显示“奥克塔维亚·斯宾塞”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：“骑行或死亡”：7 月 15 日起在 Prime Video 上推出新系列预告片中的布拉格地点。这些报道来自 The Prague Reporter 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Obama Presidential Center to host 2026 WNBA All-Star events this month",
-        "url": "https://chicago.suntimes.com/news/2026/07/08/wnba-to-host-all-star-events-at-obama-center-this-month",
-        "source": "Chicago Sun-Times"
+        "title": "‘Ride or Die’: Prague locations feature in trailer for new series, on Prime Video from July 15",
+        "url": "https://www.praguereporter.com/home/2026/7/10/ride-or-die-prague-locations-feature-in-trailer-for-new-series-on-prime-video-from-july-15/",
+        "source": "The Prague Reporter"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "tracy cortez",
-    "titleZh": "特雷西·科尔特斯",
+    "title": "anthony volpe",
+    "titleZh": "安东尼·沃尔普",
     "traffic": "200+",
-    "started": "Thu, 9 Jul 2026 21:30:00 -0700",
-    "summary": "相关新闻主要集中在：UFC尤物特雷西·科尔特斯热爱世界杯，尽管她心爱的墨西哥队输给了英格兰队。",
-    "explanation": "Google Trends 显示“特雷西·科尔特斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：UFC尤物特雷西·科尔特斯热爱世界杯，尽管她心爱的墨西哥队输给了英格兰队。这些报道来自 The Sun 等媒体，因此带动了集中搜索。",
+    "started": "Fri, 10 Jul 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：广播公司退回“B.S.”报道称洋基队 SS 安东尼·沃尔普拒绝打 2B。",
+    "explanation": "Google Trends 显示“安东尼·沃尔普”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：广播公司退回“B.S.”报道称洋基队 SS 安东尼·沃尔普拒绝打 2B。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "UFC stunner Tracy Cortez loving World Cup fever despite her beloved Mexico crashing out against England",
-        "url": "https://www.thesun.co.uk/sport/39704683/ufc-tracey-cortez-loves-world-cup-fever-mexico-out/",
-        "source": "The Sun"
+        "title": "Broadcaster walks back 'B.S.' report that Yankees SS Anthony Volpe refused to play 2B",
+        "url": "https://sports.yahoo.com/mlb/article/broadcaster-walks-back-bs-report-that-yankees-ss-anthony-volpe-refused-to-play-2b-181458118.html",
+        "source": "Yahoo Sports"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "fever",
-    "titleZh": "发烧",
-    "traffic": "5000+",
-    "started": "Thu, 9 Jul 2026 21:20:00 -0700",
-    "summary": "相关新闻主要集中在：狂热教练斯蒂芬妮·怀特回避了共和党关于凯特琳·克拉克在 WNBA 待遇的信中的问题。",
-    "explanation": "Google Trends 显示“发烧”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：狂热教练斯蒂芬妮·怀特回避了共和党关于凯特琳·克拉克在 WNBA 待遇的信中的问题。这些报道来自 Fox News 等媒体，因此带动了集中搜索。",
+    "title": "amber alert",
+    "titleZh": "琥珀警报",
+    "traffic": "1000+",
+    "started": "Fri, 10 Jul 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：SAPD：在南区发现母亲还活着后，继续寻找 7 个月大的孩子。",
+    "explanation": "Google Trends 显示“琥珀警报”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：SAPD：在南区发现母亲还活着后，继续寻找 7 个月大的孩子。这些报道来自 San Antonio Express-News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Fever coach Stephanie White dodges question on GOP letter about Caitlin Clark’s treatment in WNBA",
-        "url": "https://www.foxnews.com/outkick-sports/fever-coach-stephanie-white-dodges-question-gop-letter-caitlin-clark-treatment-wnba",
-        "source": "Fox News"
+        "title": "SAPD: Search continues for 7-month-old after mother found alive on South Side",
+        "url": "https://www.expressnews.com/news/article/amber-alert-missing-baby-teen-south-downtown-22340126.php",
+        "source": "San Antonio Express-News"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "jung hoo lee",
-    "titleZh": "李正厚",
-    "traffic": "200+",
-    "started": "Thu, 9 Jul 2026 21:20:00 -0700",
-    "summary": "相关新闻主要集中在：'突如其来的单打→.319安打率：李正厚闪耀！ SF 投手的投手丘被摧毁，王牌 Logan Webb 在 3 局中丢了 7 个自责分“震惊”......以 3-15 彻底击败科罗拉多 [SF 评论]。",
-    "explanation": "Google Trends 显示“李正厚”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：'突如其来的单打→.319安打率：李正厚闪耀！ SF 投手的投手丘被摧毁，王牌 Logan Webb 在 3 局中丢了 7 个自责分“震惊”......以 3-15 彻底击败科罗拉多 [SF 评论]。这些报道来自 스타뉴스 等媒体，因此带动了集中搜索。",
+    "title": "reese witherspoon",
+    "titleZh": "瑞茜·威瑟斯彭",
+    "traffic": "1000+",
+    "started": "Fri, 10 Jul 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：为什么《律政俏佳人》仍然具有现实意义。",
+    "explanation": "Google Trends 显示“瑞茜·威瑟斯彭”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：为什么《律政俏佳人》仍然具有现实意义。这些报道来自 Sleek Magazine 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "'Sudden bunt single → .319 batting average: Lee Jung-hoo shines! SF pitcher's mound devastated, ace Logan Webb allows 7 earned runs in 3 innings 'shock'... complete defeat to Colorado 3-15 [SF Review]",
-        "url": "https://www.starnewskorea.com/en/sports/2026/07/04/2026070408115659667",
-        "source": "스타뉴스"
+        "title": "Why ‘Legally Blonde’ Is Still Relevant",
+        "url": "https://www.sleek-mag.com/article/why-legally-blonde-is-still-relevant/",
+        "source": "Sleek Magazine"
       }
     ]
   },
@@ -158,16 +152,16 @@ export const trendsData: TrendItem[] = [
     "rank": 10,
     "title": "tiffany haddish",
     "titleZh": "蒂凡尼·哈迪斯",
-    "traffic": "2000+",
-    "started": "Thu, 9 Jul 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：蒂芙尼·哈迪斯 (Tiffany Haddish) 对白宫因“吉米·金梅尔现场秀”笑话而对她造成阴影的反应是：“你进错屋了！”。",
-    "explanation": "Google Trends 显示“蒂凡尼·哈迪斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：蒂芙尼·哈迪斯 (Tiffany Haddish) 对白宫因“吉米·金梅尔现场秀”笑话而对她造成阴影的反应是：“你进错屋了！”。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
+    "traffic": "1000+",
+    "started": "Fri, 10 Jul 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：吉米·金梅尔的节目揭示了有关特朗普之手的新理论。",
+    "explanation": "Google Trends 显示“蒂凡尼·哈迪斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：吉米·金梅尔的节目揭示了有关特朗普之手的新理论。这些报道来自 The Daily Beast 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Tiffany Haddish reacts to White House shading her over“ Jimmy Kimmel Live” joke: 'You in the wrong house!'",
-        "url": "https://www.yahoo.com/entertainment/tv/articles/tiffany-haddish-reacts-white-house-165027457.html",
-        "source": "Yahoo"
+        "title": "Jimmy Kimmel’s Show Reveals New Theory About Trump’s Hands",
+        "url": "https://www.thedailybeast.com/obsessed/jimmy-kimmels-show-reveals-new-theory-about-trumps-hands/",
+        "source": "The Daily Beast"
       }
     ]
   }
