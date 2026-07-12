@@ -3,165 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "edgardo henriquez",
-    "titleZh": "埃德加多·恩里克斯",
+    "title": "dominick cruz",
+    "titleZh": "多米尼克·克鲁兹",
     "traffic": "200+",
-    "started": "Fri, 10 Jul 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：道奇队将于 7 月 23 日访问白宫庆祝 2025 年世界职业棒球大赛冠军。",
-    "explanation": "Google Trends 显示“埃德加多·恩里克斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：道奇队将于 7 月 23 日访问白宫庆祝 2025 年世界职业棒球大赛冠军。这些报道来自 ABC7 Los Angeles 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 11 Jul 2026 21:20:00 -0700",
+    "summary": "相关新闻主要集中在：狄米崔斯·约翰逊专访 | 2026 年 UFC 名人堂。",
+    "explanation": "Google Trends 显示“多米尼克·克鲁兹”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：狄米崔斯·约翰逊专访 | 2026 年 UFC 名人堂。这些报道来自 UFC.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Dodgers to visit White House on July 23 to celebrate 2025 World Series title",
-        "url": "https://abc7.com/post/dodgers-visit-white-house-july-23-celebrate-2025-world-series-title/19478927/",
-        "source": "ABC7 Los Angeles"
+        "title": "Demetrious Johnson Interview | UFC Hall of Fame 2026",
+        "url": "https://www.ufc.com/video/158251",
+        "source": "UFC.com"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "al pacino",
-    "titleZh": "阿尔帕西诺",
+    "title": "slavery",
+    "titleZh": "奴隶制",
     "traffic": "200+",
-    "started": "Fri, 10 Jul 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：本周值得观看的 3 部精彩 Netflix 惊悚片（7 月 6 日至 12 日）。",
-    "explanation": "Google Trends 显示“阿尔帕西诺”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：本周值得观看的 3 部精彩 Netflix 惊悚片（7 月 6 日至 12 日）。这些报道来自 How-To Geek 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 11 Jul 2026 21:20:00 -0700",
+    "summary": "相关新闻主要集中在：法律承诺向从类似奴隶制环境中解救出来的家庭工人提供援助。",
+    "explanation": "Google Trends 显示“奴隶制”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：法律承诺向从类似奴隶制环境中解救出来的家庭工人提供援助。这些报道来自 Valor International 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "3 exciting Netflix thrillers to watch this week (July 6-12)",
-        "url": "https://www.howtogeek.com/netflix-movies-thrillers-watch-this-week-july-6/",
-        "source": "How-To Geek"
+        "title": "Law promises aid to domestic workers rescued from slavery-like conditions",
+        "url": "https://valorinternational.globo.com/law/news/2026/07/07/law-promises-aid-to-domestic-workers-rescued-from-slavery-like-conditions.ghtml",
+        "source": "Valor International"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "sahar ramirez",
-    "titleZh": "萨哈拉米雷斯",
-    "traffic": "200+",
-    "started": "Fri, 10 Jul 2026 21:10:00 -0700",
-    "summary": "萨哈拉米雷斯 在 Google Trends 上出现明显搜索热度上升。",
-    "explanation": "萨哈拉米雷斯 当天在 Google 搜索中迅速升温，但当前可用新闻线索有限，建议结合后续报道继续观察。",
+    "title": "maradona hand of god",
+    "titleZh": "马拉多纳上帝之手",
+    "traffic": "500+",
+    "started": "Sat, 11 Jul 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：当祈祷成为公关：主教会议就世界杯“上帝之手”文本对教堂进行拷问。",
+    "explanation": "Google Trends 显示“马拉多纳上帝之手”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：当祈祷成为公关：主教会议就世界杯“上帝之手”文本对教堂进行拷问。这些报道来自 Anglican Ink 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
-    "sourceLinks": []
+    "sourceLinks": [
+      {
+        "title": "When Prayer Becomes PR: Synod Grills Church House over World Cup ‘Hand of God’ Text",
+        "url": "https://anglican.ink/2026/07/11/when-prayer-becomes-pr-synod-grills-church-house-over-world-cup-hand-of-god-text/",
+        "source": "Anglican Ink"
+      }
+    ]
   },
   {
     "rank": 4,
-    "title": "zoey deutch",
-    "titleZh": "佐伊·达奇",
+    "title": "sinner vs zverev",
+    "titleZh": "罪人 vs 兹维列夫",
     "traffic": "2000+",
-    "started": "Fri, 10 Jul 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：《盖尔女儿》：为期 7 天的写作练习，制作了三部故事片。",
-    "explanation": "Google Trends 显示“佐伊·达奇”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《盖尔女儿》：为期 7 天的写作练习，制作了三部故事片。这些报道来自 IndieWire 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 11 Jul 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：温布尔登：德约科维奇大满贯第25名的争夺已经结束。",
+    "explanation": "Google Trends 显示“罪人 vs 兹维列夫”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：温布尔登：德约科维奇大满贯第25名的争夺已经结束。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "‘Gail Daughtry’: Inside the 7-Day Writing Exercise That’s Produced Three Feature Films",
-        "url": "https://www.indiewire.com/features/podcast/screenwriting-101-how-to-write-script-week-1235204436/",
-        "source": "IndieWire"
-      }
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "bocce",
-    "titleZh": "地滚球",
-    "traffic": "500+",
-    "started": "Fri, 10 Jul 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：地掷球运动员在乔西·克劳利喜爱的露台上向她致敬。",
-    "explanation": "Google Trends 显示“地滚球”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：地掷球运动员在乔西·克劳利喜爱的露台上向她致敬。这些报道来自 The Marblehead Independent 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Bocce players honor Josie Crowley on the patio she loved",
-        "url": "https://www.marbleheadindependent.com/bocce-players-honor-josie-crowley-on-the-patio-she-loved/",
-        "source": "The Marblehead Independent"
-      }
-    ]
-  },
-  {
-    "rank": 6,
-    "title": "octavia spencer",
-    "titleZh": "奥克塔维亚·斯宾塞",
-    "traffic": "500+",
-    "started": "Fri, 10 Jul 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：“骑行或死亡”：7 月 15 日起在 Prime Video 上推出新系列预告片中的布拉格地点。",
-    "explanation": "Google Trends 显示“奥克塔维亚·斯宾塞”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：“骑行或死亡”：7 月 15 日起在 Prime Video 上推出新系列预告片中的布拉格地点。这些报道来自 The Prague Reporter 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "‘Ride or Die’: Prague locations feature in trailer for new series, on Prime Video from July 15",
-        "url": "https://www.praguereporter.com/home/2026/7/10/ride-or-die-prague-locations-feature-in-trailer-for-new-series-on-prime-video-from-july-15/",
-        "source": "The Prague Reporter"
-      }
-    ]
-  },
-  {
-    "rank": 7,
-    "title": "anthony volpe",
-    "titleZh": "安东尼·沃尔普",
-    "traffic": "200+",
-    "started": "Fri, 10 Jul 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：广播公司退回“B.S.”报道称洋基队 SS 安东尼·沃尔普拒绝打 2B。",
-    "explanation": "Google Trends 显示“安东尼·沃尔普”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：广播公司退回“B.S.”报道称洋基队 SS 安东尼·沃尔普拒绝打 2B。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Broadcaster walks back 'B.S.' report that Yankees SS Anthony Volpe refused to play 2B",
-        "url": "https://sports.yahoo.com/mlb/article/broadcaster-walks-back-bs-report-that-yankees-ss-anthony-volpe-refused-to-play-2b-181458118.html",
+        "title": "Wimbledon: The race for Grand Slam No. 25 is over for Novak Djokovic",
+        "url": "https://sports.yahoo.com/tennis/article/wimbledon-the-race-for-grand-slam-no-25-is-over-for-novak-djokovic-181151863.html",
         "source": "Yahoo Sports"
       }
     ]
   },
   {
-    "rank": 8,
-    "title": "amber alert",
-    "titleZh": "琥珀警报",
-    "traffic": "1000+",
-    "started": "Fri, 10 Jul 2026 20:50:00 -0700",
-    "summary": "相关新闻主要集中在：SAPD：在南区发现母亲还活着后，继续寻找 7 个月大的孩子。",
-    "explanation": "Google Trends 显示“琥珀警报”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：SAPD：在南区发现母亲还活着后，继续寻找 7 个月大的孩子。这些报道来自 San Antonio Express-News 等媒体，因此带动了集中搜索。",
+    "rank": 5,
+    "title": "ben stiller",
+    "titleZh": "腿仍然",
+    "traffic": "200+",
+    "started": "Sat, 11 Jul 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：Apple TV 的两集科幻杰作在新季开始前惊喜回归流媒体。",
+    "explanation": "Google Trends 显示“腿仍然”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Apple TV 的两集科幻杰作在新季开始前惊喜回归流媒体。这些报道来自 MovieWeb 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "SAPD: Search continues for 7-month-old after mother found alive on South Side",
-        "url": "https://www.expressnews.com/news/article/amber-alert-missing-baby-teen-south-downtown-22340126.php",
-        "source": "San Antonio Express-News"
+        "title": "Apple TV's 2-Part Sci-Fi Masterpiece Makes Surprise Return on Streaming Before New Season",
+        "url": "https://movieweb.com/severance-scifi-streaming-success-apple-july-2026/",
+        "source": "MovieWeb"
+      }
+    ]
+  },
+  {
+    "rank": 6,
+    "title": "partidos mundial",
+    "titleZh": "世界比赛",
+    "traffic": "200+",
+    "started": "Sat, 11 Jul 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：今天的世界杯比赛：谁将参加四分之一决赛？。",
+    "explanation": "Google Trends 显示“世界比赛”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：今天的世界杯比赛：谁将参加四分之一决赛？。这些报道来自 El Paso Times 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Partidos del Mundial hoy: ¿Quién juega en cuartos de final?",
+        "url": "https://www.elpasotimes.com/story/sports/soccer/2026/07/11/quien-juega-hoy-en-el-mundial-partidos-del-mundial-hoy/90884160007/",
+        "source": "El Paso Times"
+      }
+    ]
+  },
+  {
+    "rank": 7,
+    "title": "world cup bracket",
+    "titleZh": "世界杯支架",
+    "traffic": "100000+",
+    "started": "Sat, 11 Jul 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：世界杯大戏重塑分组。",
+    "explanation": "Google Trends 显示“世界杯支架”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：世界杯大戏重塑分组。这些报道来自 11Alive.com 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "World Cup drama reshaping the bracket",
+        "url": "https://www.11alive.com/video/sports/world-cup-drama-reshaping-the-bracket/85-a0e90e83-e6e3-466b-8e31-b1044d7a6838",
+        "source": "11Alive.com"
+      }
+    ]
+  },
+  {
+    "rank": 8,
+    "title": "world cup game schedule",
+    "titleZh": "世界杯比赛日程",
+    "traffic": "10000+",
+    "started": "Sat, 11 Jul 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：今日 FIFA 2026 世界杯™ 比赛：在 SiriusXM 上收听现场直播。",
+    "explanation": "Google Trends 显示“世界杯比赛日程”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：今日 FIFA 2026 世界杯™ 比赛：在 SiriusXM 上收听现场直播。这些报道来自 SiriusXM 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Today’s FIFA World Cup 2026™ Games: Listen Live on SiriusXM",
+        "url": "https://www.siriusxm.com/blog/world-cup-quarterfinal-games",
+        "source": "SiriusXM"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "reese witherspoon",
-    "titleZh": "瑞茜·威瑟斯彭",
-    "traffic": "1000+",
-    "started": "Fri, 10 Jul 2026 20:50:00 -0700",
-    "summary": "相关新闻主要集中在：为什么《律政俏佳人》仍然具有现实意义。",
-    "explanation": "Google Trends 显示“瑞茜·威瑟斯彭”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：为什么《律政俏佳人》仍然具有现实意义。这些报道来自 Sleek Magazine 等媒体，因此带动了集中搜索。",
+    "title": "lakers summer league roster",
+    "titleZh": "湖人队夏季联赛名单",
+    "traffic": "500+",
+    "started": "Sat, 11 Jul 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：阿杜·蒂罗 (Adou Thiero) 在带领湖人队在拉斯维加斯夏季联赛中战胜雷霆队的比赛中展现了进步。",
+    "explanation": "Google Trends 显示“湖人队夏季联赛名单”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：阿杜·蒂罗 (Adou Thiero) 在带领湖人队在拉斯维加斯夏季联赛中战胜雷霆队的比赛中展现了进步。这些报道来自 Los Angeles Times 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Why ‘Legally Blonde’ Is Still Relevant",
-        "url": "https://www.sleek-mag.com/article/why-legally-blonde-is-still-relevant/",
-        "source": "Sleek Magazine"
+        "title": "Adou Thiero shows progress while leading Lakers to Vegas Summer League win over Thunder",
+        "url": "https://www.latimes.com/sports/lakers/story/2026-07-10/lakers-thunder-game-at-las-vegas-summer-league-aduo-thiero",
+        "source": "Los Angeles Times"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "tiffany haddish",
-    "titleZh": "蒂凡尼·哈迪斯",
-    "traffic": "1000+",
-    "started": "Fri, 10 Jul 2026 20:50:00 -0700",
-    "summary": "相关新闻主要集中在：吉米·金梅尔的节目揭示了有关特朗普之手的新理论。",
-    "explanation": "Google Trends 显示“蒂凡尼·哈迪斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：吉米·金梅尔的节目揭示了有关特朗普之手的新理论。这些报道来自 The Daily Beast 等媒体，因此带动了集中搜索。",
+    "title": "malvinas",
+    "titleZh": "马尔维纳斯群岛",
+    "traffic": "200+",
+    "started": "Sat, 11 Jul 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：智利和英国在英国皇家海军梅德韦号的甲板上暴露了他们的军事联盟。",
+    "explanation": "Google Trends 显示“马尔维纳斯群岛”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：智利和英国在英国皇家海军梅德韦号的甲板上暴露了他们的军事联盟。这些报道来自 Agenda Malvinas 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Jimmy Kimmel’s Show Reveals New Theory About Trump’s Hands",
-        "url": "https://www.thedailybeast.com/obsessed/jimmy-kimmels-show-reveals-new-theory-about-trumps-hands/",
-        "source": "The Daily Beast"
+        "title": "Chile y el Reino Unido exponen su alianza militar en la cubierta del HMS Medway",
+        "url": "https://agendamalvinas.com.ar/noticia/chile-y-el-reino-unido-exponen-su-alianza-militar-en-la-cubierta-del-hms-medway",
+        "source": "Agenda Malvinas"
       }
     ]
   }
