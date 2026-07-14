@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "pitch",
-    "titleZh": "沥青",
-    "traffic": "2000+",
-    "started": "Sun, 12 Jul 2026 21:30:00 -0700",
-    "summary": "相关新闻主要集中在：金莺队的布雷泽·亚历山大在连续热刺中受伤，受到“肠道重击”。",
-    "explanation": "Google Trends 显示“沥青”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：金莺队的布雷泽·亚历山大在连续热刺中受伤，受到“肠道重击”。这些报道来自 Baltimore Sun 等媒体，因此带动了集中搜索。",
+    "title": "mindy kaling",
+    "titleZh": "明迪·卡灵",
+    "traffic": "1000+",
+    "started": "Mon, 13 Jul 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：专栏：“不适合工作”将成年早期变成情景喜剧般的混乱。",
+    "explanation": "Google Trends 显示“明迪·卡灵”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：专栏：“不适合工作”将成年早期变成情景喜剧般的混乱。这些报道来自 Indiana Daily Student 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Orioles’ Blaze Alexander injury a ‘gut punch’ amid hot streak",
-        "url": "https://www.baltimoresun.com/2026/07/12/orioles-blaze-alexander-suffers-broken-hand-on-hit-by-pitch/",
-        "source": "Baltimore Sun"
+        "title": "COLUMN: ‘Not Suitable for Work’ turns early adulthood into sitcom-worthy chaos",
+        "url": "https://www.idsnews.com/article/2026/07/not-suitable-for-work-review-early-adulthood-sitcom-chaos",
+        "source": "Indiana Daily Student"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "showdown",
-    "titleZh": "摊牌",
-    "traffic": "10000+",
-    "started": "Sun, 12 Jul 2026 21:30:00 -0700",
-    "summary": "相关新闻主要集中在：特朗普政府就报道向《纽约时报》记者发出传票。",
-    "explanation": "Google Trends 显示“摊牌”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：特朗普政府就报道向《纽约时报》记者发出传票。这些报道来自 Al Jazeera 等媒体，因此带动了集中搜索。",
+    "title": "elon musk",
+    "titleZh": "埃隆·马斯克",
+    "traffic": "500+",
+    "started": "Mon, 13 Jul 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：观看税收制度能跟上亿万富翁的步伐吗？。",
+    "explanation": "Google Trends 显示“埃隆·马斯克”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：观看税收制度能跟上亿万富翁的步伐吗？。这些报道来自 Bloomberg.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Trump administration subpoenas New York Times reporters over coverage",
-        "url": "https://www.aljazeera.com/news/2026/7/11/trump-administration-subpoenas-new-york-times-reporters-over-coverage",
-        "source": "Al Jazeera"
+        "title": "Watch Can the Tax System Keep Up with Trillionaires?",
+        "url": "https://www.bloomberg.com/news/videos/2026-07-11/can-the-tax-system-keep-up-with-trillionaires-video",
+        "source": "Bloomberg.com"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "weather next week",
-    "titleZh": "下周天气",
-    "traffic": "100+",
-    "started": "Sun, 12 Jul 2026 21:30:00 -0700",
-    "summary": "相关新闻主要集中在：随着炎热天气的到来，密歇根州本周气温将突破 100 度。",
-    "explanation": "Google Trends 显示“下周天气”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：随着炎热天气的到来，密歇根州本周气温将突破 100 度。这些报道来自 The Detroit News 等媒体，因此带动了集中搜索。",
+    "title": "maddox chivan jolie",
+    "titleZh": "马多克斯·奇万·朱莉",
+    "traffic": "500+",
+    "started": "Mon, 13 Jul 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：扎哈拉·朱莉-皮特 (Zahara Jolie-Pitt) 拿出报纸广告，确认她将放弃父亲布拉德·皮特 (Brad Pitt) 的姓氏。",
+    "explanation": "Google Trends 显示“马多克斯·奇万·朱莉”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：扎哈拉·朱莉-皮特 (Zahara Jolie-Pitt) 拿出报纸广告，确认她将放弃父亲布拉德·皮特 (Brad Pitt) 的姓氏。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Michigan temperatures to top 100 degrees this week as heat settles in",
-        "url": "https://www.detroitnews.com/story/weather/2026/07/12/michigan-temperatures-to-top-100-degrees-this-week/90893442007/",
-        "source": "The Detroit News"
-      }
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "que hacer este fin de semana",
-    "titleZh": "这个周末做什么",
-    "traffic": "200+",
-    "started": "Sun, 12 Jul 2026 21:30:00 -0700",
-    "summary": "相关新闻主要集中在：Windy City Smokeout 2026 为芝加哥带来震撼：音乐会、烧烤和夏季最大的乡村派对。",
-    "explanation": "Google Trends 显示“这个周末做什么”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Windy City Smokeout 2026 为芝加哥带来震撼：音乐会、烧烤和夏季最大的乡村派对。这些报道来自 UnoTV 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Chicago vibra con Windy City Smokeout 2026: conciertos, barbacoa y la mayor fiesta country del verano",
-        "url": "https://www.unotv.com/us/chicago-vibra-con-windy-city-smokeout-2026-conciertos-barbacoa-y-la-mayor-fiesta-country-del-verano/",
-        "source": "UnoTV"
-      }
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "météo cette semaine",
-    "titleZh": "本周天气",
-    "traffic": "100+",
-    "started": "Sun, 12 Jul 2026 21:30:00 -0700",
-    "summary": "相关新闻主要集中在：天气预报。迪耶普及其周边地区 2026 年 7 月 13 日星期一 天气预报。",
-    "explanation": "Google Trends 显示“本周天气”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：天气预报。迪耶普及其周边地区 2026 年 7 月 13 日星期一 天气预报。这些报道来自 Ouest-France 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Météo. Les prévisions météorologiques du lundi 13 juillet 2026 à Dieppe et ses environs",
-        "url": "https://www.ouest-france.fr/meteo/normandie/dieppe-76200/la-meteo-du-jour-a-dieppe-9226ed6d-ffa6-43b3-b7b7-3539d01e8c68",
-        "source": "Ouest-France"
-      }
-    ]
-  },
-  {
-    "rank": 6,
-    "title": "what is the news today",
-    "titleZh": "今天有什么新闻",
-    "traffic": "100+",
-    "started": "Sun, 12 Jul 2026 21:20:00 -0700",
-    "summary": "相关新闻主要集中在：随着白人工人阶级选民对特朗普的支持率下滑，特朗普选民现在对经济有何看法。",
-    "explanation": "Google Trends 显示“今天有什么新闻”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：随着白人工人阶级选民对特朗普的支持率下滑，特朗普选民现在对经济有何看法。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "What Trump Voters Say About The Economy Now As His Approval Slips With White Working-Class Voters",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-voters-economy-now-approval-234158380.html",
+        "title": "Zahara Jolie-Pitt Takes Out Newspaper Ad to Confirm She’s Dropping Dad Brad Pitt’s Last Name",
+        "url": "https://www.yahoo.com/entertainment/celebrity/articles/zahara-jolie-pitt-takes-newspaper-153805405.html",
         "source": "Yahoo"
       }
     ]
   },
   {
-    "rank": 7,
-    "title": "smackdown",
-    "titleZh": "拍击下",
+    "rank": 4,
+    "title": "nba summer league scores",
+    "titleZh": "NBA夏季联赛比分",
     "traffic": "500+",
-    "started": "Sun, 12 Jul 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：前美国冠军在 SmackDown 上令人震惊地重返 WWE。",
-    "explanation": "Google Trends 显示“拍击下”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：前美国冠军在 SmackDown 上令人震惊地重返 WWE。这些报道来自 The Times of India 等媒体，因此带动了集中搜索。",
+    "started": "Mon, 13 Jul 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：76 人队 100-93 步行者队（2026 年 7 月 11 日）视频集锦。",
+    "explanation": "Google Trends 显示“NBA夏季联赛比分”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：76 人队 100-93 步行者队（2026 年 7 月 11 日）视频集锦。这些报道来自 ESPN 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Former United States champion makes shocking return to WWE on SmackDown",
-        "url": "https://timesofindia.indiatimes.com/sports/wwe/top-stories/former-united-states-champion-makes-shocking-return-to-wwe-on-smackdown/articleshow/132323964.cms",
-        "source": "The Times of India"
+        "title": "76ers 100-93 Pacers (Jul 11, 2026) Video Highlights",
+        "url": "https://www.espn.com/nba-summer-league/video/_/gameId/401881837/league/nba-summer-las-vegas",
+        "source": "ESPN"
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "title": "blake lively attorney fee dispute",
+    "titleZh": "布莱克·莱弗尔律师费纠纷",
+    "traffic": "200+",
+    "started": "Mon, 13 Jul 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：费思告诉贾斯汀·巴尔多尼是时候发帖了。",
+    "explanation": "Google Trends 显示“布莱克·莱弗尔律师费纠纷”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：费思告诉贾斯汀·巴尔多尼是时候发帖了。这些报道来自 Vulture 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Faith Told Justin Baldoni That It Was Time to Post",
+        "url": "https://www.vulture.com/article/justin-baldoni-and-wife-say-faith-helped-in-lively-lawsuit.html",
+        "source": "Vulture"
+      }
+    ]
+  },
+  {
+    "rank": 6,
+    "title": "jon stewart",
+    "titleZh": "乔恩·斯图尔特",
+    "traffic": "200+",
+    "started": "Mon, 13 Jul 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：乔恩·斯图尔特 (Jon Stewart) 和迈克尔·科斯塔 (Michael Kosta) 本周将共享每日秀主播台。",
+    "explanation": "Google Trends 显示“乔恩·斯图尔特”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：乔恩·斯图尔特 (Jon Stewart) 和迈克尔·科斯塔 (Michael Kosta) 本周将共享每日秀主播台。这些报道来自 LateNighter 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Jon Stewart, Michael Kosta to Share Daily Show Anchor Desk This Week",
+        "url": "https://latenighter.com/news/jon-stewart-michael-kosta-share-daily-show-anchor-desk-this-week/",
+        "source": "LateNighter"
+      }
+    ]
+  },
+  {
+    "rank": 7,
+    "title": "halo project ekur",
+    "titleZh": "做一个尾部项目",
+    "traffic": "500+",
+    "started": "Mon, 13 Jul 2026 20:40:00 -0700",
+    "summary": "相关新闻主要集中在：Jez Corden 确认 Halo Studios 取消了《Ekur》系列多人游戏项目。",
+    "explanation": "Google Trends 显示“做一个尾部项目”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Jez Corden 确认 Halo Studios 取消了《Ekur》系列多人游戏项目。这些报道来自 EGW.News 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Jez Corden Confirmed Halo Studios Cancelled Project Ekur—Multiplayer Title In a Franchise",
+        "url": "https://egw.news/halo/news/36107/jez-corden-confirmed-halo-studios-cancelled-projec-Bp6DR1tOC",
+        "source": "EGW.News"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "shia labeouf",
-    "titleZh": "希亚·拉博夫",
-    "traffic": "200+",
-    "started": "Sun, 12 Jul 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：希亚·拉博夫在罕见的赤裸上身照片中看起来与迪士尼时代完全不同。",
-    "explanation": "Google Trends 显示“希亚·拉博夫”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：希亚·拉博夫在罕见的赤裸上身照片中看起来与迪士尼时代完全不同。这些报道来自 HELLO! Magazine 等媒体，因此带动了集中搜索。",
+    "title": "christopher nolan",
+    "titleZh": "克里斯托弗·诺兰",
+    "traffic": "2000+",
+    "started": "Mon, 13 Jul 2026 20:30:00 -0700",
+    "summary": "相关新闻主要集中在：克里斯托弗·诺兰赞扬“痴迷”和“幕后”，称年轻观众拒绝“人工智能废话”。",
+    "explanation": "Google Trends 显示“克里斯托弗·诺兰”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：克里斯托弗·诺兰赞扬“痴迷”和“幕后”，称年轻观众拒绝“人工智能废话”。这些报道来自 The Hollywood Reporter 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Shia LaBeouf looks completely different from Disney days in rare shirtless photo",
-        "url": "https://www.hellomagazine.com/us/912284/shia-labeouf-looks-completely-different-from-disney-days-in-rare-shirtless-photo/",
-        "source": "HELLO! Magazine"
+        "title": "Christopher Nolan Praises ‘Obsession’ and ‘Backrooms,’ Says Young Audiences Are Rejecting “AI Slop”",
+        "url": "https://www.hollywoodreporter.com/movies/movie-news/christopher-nolan-young-audiences-reject-ai-slop-1236644273/",
+        "source": "The Hollywood Reporter"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "figaro",
-    "titleZh": "费加罗",
-    "traffic": "2000+",
-    "started": "Sun, 12 Jul 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：中东战争：美军称已结束对伊朗“数十个目标”的一系列打击。",
-    "explanation": "Google Trends 显示“费加罗”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：中东战争：美军称已结束对伊朗“数十个目标”的一系列打击。这些报道来自 Le Figaro 等媒体，因此带动了集中搜索。",
+    "title": "马兴瑞",
+    "titleZh": "马兴瑞",
+    "traffic": "1000+",
+    "started": "Mon, 13 Jul 2026 20:10:00 -0700",
+    "summary": "相关新闻主要集中在：中共中央决定给予马兴瑞开除党籍、开除公职处分。",
+    "explanation": "Google Trends 显示“马兴瑞”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：中共中央决定给予马兴瑞开除党籍、开除公职处分。这些报道来自 手机网易网 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Guerre au Moyen-Orient : l’armée américaine dit avoir conclu une série de frappes en Iran contre «des dizaines de cibles»",
-        "url": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-americains-et-iraniens-reprennent-les-hostilites-apres-l-attaque-d-un-navire-dans-le-detroit-d-ormuz-20260712",
-        "source": "Le Figaro"
+        "title": "中共中央决定给予马兴瑞开除党籍、开除公职处分",
+        "url": "https://www.163.com/dy/article/L1Q09NPH05199NPP.html",
+        "source": "手机网易网"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "democratic republic of the congo",
-    "titleZh": "刚果民主共和国",
+    "title": "trey alexander",
+    "titleZh": "特雷·亚历山大",
     "traffic": "500+",
-    "started": "Sun, 12 Jul 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：美国疾病预防控制中心称，在刚果的美国公民埃博拉病毒检测呈阳性。",
-    "explanation": "Google Trends 显示“刚果民主共和国”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：美国疾病预防控制中心称，在刚果的美国公民埃博拉病毒检测呈阳性。这些报道来自 Reuters 等媒体，因此带动了集中搜索。",
+    "started": "Mon, 13 Jul 2026 20:10:00 -0700",
+    "summary": "相关新闻主要集中在：迪班萨带领奇才队赢得潜在的夏季绝唱。",
+    "explanation": "Google Trends 显示“特雷·亚历山大”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：迪班萨带领奇才队赢得潜在的夏季绝唱。这些报道来自 ESPN 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "US citizen in Congo tests positive for Ebola virus, US CDC says",
-        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-citizen-congo-tests-positive-ebola-virus-us-cdc-says-2026-07-11/",
-        "source": "Reuters"
+        "title": "Dybantsa leads Wizards to win in potential summer swan song",
+        "url": "https://www.espn.com/nba/story/_/id/49347819/dybantsa-leads-wizards-win-potential-summer-swan-song",
+        "source": "ESPN"
       }
     ]
   }
