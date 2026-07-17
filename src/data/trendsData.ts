@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "molly shannon",
-    "titleZh": "莫莉·香农",
-    "traffic": "1000+",
-    "started": "Wed, 15 Jul 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：威尔·法瑞尔与莫莉·香农第一次见到他时“一模一样”。",
-    "explanation": "Google Trends 显示“莫莉·香农”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：威尔·法瑞尔与莫莉·香农第一次见到他时“一模一样”。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
+    "title": "ike barinholtz",
+    "titleZh": "艾克·巴林霍尔茨",
+    "traffic": "500+",
+    "started": "Thu, 16 Jul 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：“特朗普腹泻”：吉米·金梅尔主持人艾克·巴林霍尔茨给疫情起新名字。",
+    "explanation": "Google Trends 显示“艾克·巴林霍尔茨”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：“特朗普腹泻”：吉米·金梅尔主持人艾克·巴林霍尔茨给疫情起新名字。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Will Ferrell is 'exactly the same' as when Molly Shannon first met him",
-        "url": "https://www.yahoo.com/entertainment/videos/ferrell-exactly-same-molly-shannon-120158306.html",
+        "title": "‘Trump Diarrhea’: Jimmy Kimmel Host Ike Barinholtz Gives Outbreak New Name",
+        "url": "https://www.yahoo.com/entertainment/tv/articles/trump-diarrhea-jimmy-kimmel-host-092031846.html",
         "source": "Yahoo"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "seth rogen",
-    "titleZh": "塞斯·罗根",
-    "traffic": "500+",
-    "started": "Wed, 15 Jul 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：奥利维亚·王尔德的《邀请》探索现代婚姻的新规则。",
-    "explanation": "Google Trends 显示“塞斯·罗根”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：奥利维亚·王尔德的《邀请》探索现代婚姻的新规则。这些报道来自 Newsweek 等媒体，因此带动了集中搜索。",
+    "title": "what time does heartstopper forever come out",
+    "titleZh": "永远的心塞什么时候出",
+    "traffic": "1000+",
+    "started": "Thu, 16 Jul 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：《Heartstopper: Forever》什么时候在 Netflix 上映？。",
+    "explanation": "Google Trends 显示“永远的心塞什么时候出”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《Heartstopper: Forever》什么时候在 Netflix 上映？。这些报道来自 Decider 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Olivia Wilde’s ‘The Invite’ Explores the New Rules of Modern Marriage",
-        "url": "https://www.newsweek.com/entertainment/olivia-wildes-the-invite-explores-new-rules-modern-marriage-12195467",
-        "source": "Newsweek"
+        "title": "What Time Does ‘Heartstopper: Forever’ Come Out On Netflix?",
+        "url": "https://decider.com/2026/07/16/what-time-does-heartstopper-forever-come-out-on-netflix-heartstopper-movie-release-date/",
+        "source": "Decider"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "ike barinholtz",
-    "titleZh": "艾克·巴林霍尔茨",
-    "traffic": "500+",
-    "started": "Wed, 15 Jul 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：特朗普对林赛·格雷厄姆的疯狂悼词、米奇·麦康奈尔的生命证明照片和爆炸性腹泻！。",
-    "explanation": "Google Trends 显示“艾克·巴林霍尔茨”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：特朗普对林赛·格雷厄姆的疯狂悼词、米奇·麦康奈尔的生命证明照片和爆炸性腹泻！。这些报道来自 ABC Network 等媒体，因此带动了集中搜索。",
+    "title": "necaxa vs atlante f.c. standings",
+    "titleZh": "内卡萨 vs 亚特兰特足球俱乐部积分榜",
+    "traffic": "2000+",
+    "started": "Thu, 16 Jul 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：内卡萨俱乐部 vs 亚特兰特 F.C.预测：12 年后，总部位于首都的俱乐部重返墨西哥足球甲级联赛。",
+    "explanation": "Google Trends 显示“内卡萨 vs 亚特兰特足球俱乐部积分榜”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：内卡萨俱乐部 vs 亚特兰特 F.C.预测：12 年后，总部位于首都的俱乐部重返墨西哥足球甲级联赛。这些报道来自 WSN.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Trump's Crazy Eulogy for Lindsey Graham, Mitch McConnell's Proof of Life Photo and Explosive Diarrhea!",
-        "url": "https://abc.com/video/aba03634-e79b-466d-98d9-70c57181e14a",
-        "source": "ABC Network"
+        "title": "Club Necaxa vs. Atlante F.C. Prediction: After 12 Years, the Capital City-Based Club Returns to Liga MX",
+        "url": "https://www.wsn.com/liga-mx/club-necaxa-vs-atlante-fc-prediction-2026-07-16/",
+        "source": "WSN.com"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "sdge power outage",
-    "titleZh": "sdge停电",
+    "title": "yael padilla",
+    "titleZh": "亚尔·帕迪拉",
     "traffic": "500+",
-    "started": "Wed, 15 Jul 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：丘拉维斯塔停电影响了 700 多名 SDG&E 客户。",
-    "explanation": "Google Trends 显示“sdge停电”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：丘拉维斯塔停电影响了 700 多名 SDG&E 客户。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 16 Jul 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：芝华士将其中一颗珠宝送给蒂华纳的 Xolos。",
+    "explanation": "Google Trends 显示“亚尔·帕迪拉”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：芝华士将其中一颗珠宝送给蒂华纳的 Xolos。这些报道来自 www.xeudeportes.mx 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Power outage affects over 700 SDG&E customers in Chula Vista",
-        "url": "https://www.yahoo.com/news/articles/power-outage-affects-over-700-232315438.html",
-        "source": "Yahoo"
+        "title": "Chivas manda una de sus joyas a los Xolos de Tijuana",
+        "url": "https://www.xeudeportes.mx/liga-mx/1425846/chivas-manda-una-de-sus-joyas-a-los-xolos-de-tijuana",
+        "source": "www.xeudeportes.mx"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "zendaya",
-    "titleZh": "这条链",
+    "title": "elliot page",
+    "titleZh": "艾略特·佩奇",
     "traffic": "2000+",
-    "started": "Wed, 15 Jul 2026 20:50:00 -0700",
-    "summary": "相关新闻主要集中在：赞达亚 (Zendaya) 的《扭曲》新片已成为流媒体上最大的电影之一。",
-    "explanation": "Google Trends 显示“这条链”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：赞达亚 (Zendaya) 的《扭曲》新片已成为流媒体上最大的电影之一。这些报道来自 Collider 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 16 Jul 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：艾略特·佩奇 (Elliot Page) 和朱莉娅·希普莱特 (Julia Shiplett) 罕见地共同亮相红地毯。",
+    "explanation": "Google Trends 显示“艾略特·佩奇”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：艾略特·佩奇 (Elliot Page) 和朱莉娅·希普莱特 (Julia Shiplett) 罕见地共同亮相红地毯。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Zendaya's Twisted New Release Is Already One of the Biggest Movies on Streaming",
-        "url": "https://collider.com/zendaya-robert-pattinson-the-drama-streaming-success-amazon-prime-july-2026/",
-        "source": "Collider"
+        "title": "Elliot Page and Julia Shiplett Make a Rare Red Carpet Appearance Together",
+        "url": "https://www.aol.com/articles/elliot-page-julia-shiplett-rare-142700701.html",
+        "source": "AOL.com"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "interstellar",
-    "titleZh": "星际穿越",
-    "traffic": "2000+",
-    "started": "Wed, 15 Jul 2026 20:50:00 -0700",
-    "summary": "相关新闻主要集中在：星际空间中四碳糖的探测。",
-    "explanation": "Google Trends 显示“星际穿越”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：星际空间中四碳糖的探测。这些报道来自 Nature 等媒体，因此带动了集中搜索。",
+    "title": "robin williams",
+    "titleZh": "罗宾·威廉姆斯",
+    "traffic": "500+",
+    "started": "Thu, 16 Jul 2026 20:40:00 -0700",
+    "summary": "相关新闻主要集中在：《侏罗纪公园》演员代表称萨姆·尼尔死于肺炎。",
+    "explanation": "Google Trends 显示“罗宾·威廉姆斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《侏罗纪公园》演员代表称萨姆·尼尔死于肺炎。这些报道来自 ABC News - Breaking News, Latest News and Videos 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Detection of a four-carbon sugar in interstellar space",
-        "url": "https://www.nature.com/articles/s41550-026-02905-7",
-        "source": "Nature"
+        "title": "Sam Neill died from pneumonia, representative for 'Jurassic Park' actor says",
+        "url": "https://abcnews.com/GMA/Culture/sam-neill-died-pneumonia-representative-jurassic-park-actor/story?id=134805458",
+        "source": "ABC News - Breaking News, Latest News and Videos"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "kim kardashian",
-    "titleZh": "金·卡戴珊",
-    "traffic": "500+",
-    "started": "Wed, 15 Jul 2026 20:40:00 -0700",
-    "summary": "相关新闻主要集中在：卡戴珊长期保镖梅森·海恩斯因交通事故去世，享年 52 岁。",
-    "explanation": "Google Trends 显示“金·卡戴珊”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：卡戴珊长期保镖梅森·海恩斯因交通事故去世，享年 52 岁。这些报道来自 People.com 等媒体，因此带动了集中搜索。",
+    "title": "the dodo",
+    "titleZh": "渡渡鸟",
+    "traffic": "1000+",
+    "started": "Thu, 16 Jul 2026 20:20:00 -0700",
+    "summary": "相关新闻主要集中在：救援人员发现肿胀的脸卡在回收箱底部并赶去帮忙。",
+    "explanation": "Google Trends 显示“渡渡鸟”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：救援人员发现肿胀的脸卡在回收箱底部并赶去帮忙。这些报道来自 The Dodo 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Longtime Kardashian Bodyguard Mason Haynes Dies in Traffic Accident at 52",
-        "url": "https://people.com/longtime-kardashian-bodyguard-mason-haynes-52-dead-accident-12019931",
-        "source": "People.com"
+        "title": "Rescuer Spots Swollen Face Stuck At The Bottom Of Recycling Bin And Rushes To Help",
+        "url": "https://www.thedodo.com/daily-dodo/rescuer-spots-swollen-face-stuck-at-the-bottom-of-recycling-bin-and-rushes-to-help",
+        "source": "The Dodo"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "angelina jolie",
-    "titleZh": "安吉丽娜·朱莉",
-    "traffic": "500+",
-    "started": "Wed, 15 Jul 2026 20:40:00 -0700",
-    "summary": "相关新闻主要集中在：布兰吉利娜孩子们想要放弃布拉德·皮特名字的真正原因。",
-    "explanation": "Google Trends 显示“安吉丽娜·朱莉”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：布兰吉利娜孩子们想要放弃布拉德·皮特名字的真正原因。这些报道来自 The Independent 等媒体，因此带动了集中搜索。",
+    "title": "lebron james free agency decision",
+    "titleZh": "勒布朗·詹姆斯自由球员市场决定",
+    "traffic": "20000+",
+    "started": "Thu, 16 Jul 2026 20:20:00 -0700",
+    "summary": "相关新闻主要集中在：亚当·萧华表示勒布朗·詹姆斯的 NBA 自由球员决定影响赛程发布。",
+    "explanation": "Google Trends 显示“勒布朗·詹姆斯自由球员市场决定”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：亚当·萧华表示勒布朗·詹姆斯的 NBA 自由球员决定影响赛程发布。这些报道来自 Bleacher Report 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "The real reason the Brangelina children want to drop Brad Pitt’s name",
-        "url": "https://www.the-independent.com/life-style/brad-pitt-children-surnames-angelina-jolie-b3015331.html",
-        "source": "The Independent"
+        "title": "LeBron James' NBA Free Agency Decision Impacting Schedule Release, Adam Silver Says",
+        "url": "https://bleacherreport.com/articles/25455659-lebron-james-nba-free-agency-decision-impacting-schedule-release-adam-silver-says",
+        "source": "Bleacher Report"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "new monkey species",
-    "titleZh": "新猴种",
-    "traffic": "1000+",
-    "started": "Wed, 15 Jul 2026 20:30:00 -0700",
-    "summary": "相关新闻主要集中在：在刚果雨林深处发现的引人注目的非洲猴新物种。",
-    "explanation": "Google Trends 显示“新猴种”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：在刚果雨林深处发现的引人注目的非洲猴新物种。这些报道来自 Phys.org 等媒体，因此带动了集中搜索。",
+    "title": "killing eve",
+    "titleZh": "杀死伊芙",
+    "traffic": "500+",
+    "started": "Thu, 16 Jul 2026 20:20:00 -0700",
+    "summary": "相关新闻主要集中在：“甚至比杀死伊芙还要好”：哈里特·沃尔特在广受好评的间谍惊悚片中表现出色。",
+    "explanation": "Google Trends 显示“杀死伊芙”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：“甚至比杀死伊芙还要好”：哈里特·沃尔特在广受好评的间谍惊悚片中表现出色。这些报道来自 Cosmopolitan 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Striking new species of African monkey discovered deep in the Congo rainforest",
-        "url": "https://phys.org/news/2026-07-species-african-monkey-deep-congo.html",
-        "source": "Phys.org"
+        "title": "\"Even better than Killing Eve\": Harriet Walter is exceptional in critically acclaimed spy thriller",
+        "url": "https://www.cosmopolitan.com/uk/entertainment/a72470551/harriet-walter-london-spy/",
+        "source": "Cosmopolitan"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "aja wilson",
-    "titleZh": "阿贾·威尔逊",
-    "traffic": "2000+",
-    "started": "Wed, 15 Jul 2026 20:30:00 -0700",
-    "summary": "相关新闻主要集中在：2026 年 WNBA 全明星赛选秀：凯特琳·克拉克和阿贾·威尔逊将对阵佩奇·布克斯和布里安娜·斯图尔特。",
-    "explanation": "Google Trends 显示“阿贾·威尔逊”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：2026 年 WNBA 全明星赛选秀：凯特琳·克拉克和阿贾·威尔逊将对阵佩奇·布克斯和布里安娜·斯图尔特。这些报道来自 CBS Sports 等媒体，因此带动了集中搜索。",
+    "title": "elissa slotkin",
+    "titleZh": "艾丽莎也有槽",
+    "traffic": "500+",
+    "started": "Thu, 16 Jul 2026 20:10:00 -0700",
+    "summary": "相关新闻主要集中在：斯洛特金表示，《拯救美国法案》将使“任何民主党人都很难”赢得选举。",
+    "explanation": "Google Trends 显示“艾丽莎也有槽”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：斯洛特金表示，《拯救美国法案》将使“任何民主党人都很难”赢得选举。这些报道来自 Fox News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "2026 WNBA All-Star Game draft: Caitlin Clark and A'ja Wilson to face Paige Bueckers and Breanna Stewart",
-        "url": "https://www.cbssports.com/wnba/news/2026-wnba-all-star-draft-caitlin-clark-paige-bueckers/",
-        "source": "CBS Sports"
+        "title": "Slotkin says SAVE America Act would make it 'hard for any Democrat' to win an election",
+        "url": "https://www.foxnews.com/video/6401120342112",
+        "source": "Fox News"
       }
     ]
   }
