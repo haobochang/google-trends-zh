@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "ike barinholtz",
-    "titleZh": "艾克·巴林霍尔茨",
-    "traffic": "500+",
-    "started": "Thu, 16 Jul 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：“特朗普腹泻”：吉米·金梅尔主持人艾克·巴林霍尔茨给疫情起新名字。",
-    "explanation": "Google Trends 显示“艾克·巴林霍尔茨”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：“特朗普腹泻”：吉米·金梅尔主持人艾克·巴林霍尔茨给疫情起新名字。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
+    "title": "millie bobby brown",
+    "titleZh": "米莉·鲍比·布朗",
+    "traffic": "2000+",
+    "started": "Fri, 17 Jul 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：米莉·鲍比·布朗 (Millie Bobby Brown) 在罕见的照片中展示了女婴浓密的黑发。",
+    "explanation": "Google Trends 显示“米莉·鲍比·布朗”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：米莉·鲍比·布朗 (Millie Bobby Brown) 在罕见的照片中展示了女婴浓密的黑发。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "‘Trump Diarrhea’: Jimmy Kimmel Host Ike Barinholtz Gives Outbreak New Name",
-        "url": "https://www.yahoo.com/entertainment/tv/articles/trump-diarrhea-jimmy-kimmel-host-092031846.html",
+        "title": "Millie Bobby Brown reveals baby girl's very full head of dark hair in rare photo",
+        "url": "https://www.yahoo.com/entertainment/celebrity/articles/millie-bobby-brown-reveals-baby-103044270.html",
         "source": "Yahoo"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "what time does heartstopper forever come out",
-    "titleZh": "永远的心塞什么时候出",
+    "title": "mindy kaling",
+    "titleZh": "明迪·卡灵",
     "traffic": "1000+",
-    "started": "Thu, 16 Jul 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：《Heartstopper: Forever》什么时候在 Netflix 上映？。",
-    "explanation": "Google Trends 显示“永远的心塞什么时候出”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《Heartstopper: Forever》什么时候在 Netflix 上映？。这些报道来自 Decider 等媒体，因此带动了集中搜索。",
+    "started": "Fri, 17 Jul 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：无论是浪漫主角还是编剧兼导演，杰克·马丁已准备好应对接下来的任何角色。",
+    "explanation": "Google Trends 显示“明迪·卡灵”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：无论是浪漫主角还是编剧兼导演，杰克·马丁已准备好应对接下来的任何角色。这些报道来自 The Hollywood Reporter 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "What Time Does ‘Heartstopper: Forever’ Come Out On Netflix?",
-        "url": "https://decider.com/2026/07/16/what-time-does-heartstopper-forever-come-out-on-netflix-heartstopper-movie-release-date/",
-        "source": "Decider"
+        "title": "Whether It Be Romantic Lead or Writer-Director, Jack Martin’s Ready to Tackle Whatever Role Comes Next",
+        "url": "https://www.hollywoodreporter.com/tv/tv-features/jack-martin-not-suitable-for-work-interview-1236637882/",
+        "source": "The Hollywood Reporter"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "necaxa vs atlante f.c. standings",
-    "titleZh": "内卡萨 vs 亚特兰特足球俱乐部积分榜",
-    "traffic": "2000+",
-    "started": "Thu, 16 Jul 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：内卡萨俱乐部 vs 亚特兰特 F.C.预测：12 年后，总部位于首都的俱乐部重返墨西哥足球甲级联赛。",
-    "explanation": "Google Trends 显示“内卡萨 vs 亚特兰特足球俱乐部积分榜”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：内卡萨俱乐部 vs 亚特兰特 F.C.预测：12 年后，总部位于首都的俱乐部重返墨西哥足球甲级联赛。这些报道来自 WSN.com 等媒体，因此带动了集中搜索。",
+    "title": "jennifer english",
+    "titleZh": "詹妮弗·英语",
+    "traffic": "200+",
+    "started": "Fri, 17 Jul 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：2026 年最受期待的农业模拟游戏拥有令人难以置信的配音阵容。",
+    "explanation": "Google Trends 显示“詹妮弗·英语”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：2026 年最受期待的农业模拟游戏拥有令人难以置信的配音阵容。这些报道来自 MSN 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Club Necaxa vs. Atlante F.C. Prediction: After 12 Years, the Capital City-Based Club Returns to Liga MX",
-        "url": "https://www.wsn.com/liga-mx/club-necaxa-vs-atlante-fc-prediction-2026-07-16/",
-        "source": "WSN.com"
+        "title": "The most anticipated farming sim of 2026 boasts an incredible voice cast",
+        "url": "https://www.msn.com/en-in/entertainment/news/the-most-anticipated-farming-sim-of-2026-boasts-an-incredible-voice-cast/ar-AA285oKC",
+        "source": "MSN"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "yael padilla",
-    "titleZh": "亚尔·帕迪拉",
-    "traffic": "500+",
-    "started": "Thu, 16 Jul 2026 20:50:00 -0700",
-    "summary": "相关新闻主要集中在：芝华士将其中一颗珠宝送给蒂华纳的 Xolos。",
-    "explanation": "Google Trends 显示“亚尔·帕迪拉”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：芝华士将其中一颗珠宝送给蒂华纳的 Xolos。这些报道来自 www.xeudeportes.mx 等媒体，因此带动了集中搜索。",
+    "title": "ike barinholtz",
+    "titleZh": "艾克·巴林霍尔茨",
+    "traffic": "1000+",
+    "started": "Fri, 17 Jul 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：《金梅尔》客座主持人艾克·巴里霍尔茨对特朗普的一些真正令人讨厌的事情给予充分的“信任”。",
+    "explanation": "Google Trends 显示“艾克·巴林霍尔茨”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《金梅尔》客座主持人艾克·巴里霍尔茨对特朗普的一些真正令人讨厌的事情给予充分的“信任”。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Chivas manda una de sus joyas a los Xolos de Tijuana",
-        "url": "https://www.xeudeportes.mx/liga-mx/1425846/chivas-manda-una-de-sus-joyas-a-los-xolos-de-tijuana",
-        "source": "www.xeudeportes.mx"
+        "title": "‘Kimmel’ Guest Host Ike Barinholtz Gives Trump Full ‘Credit’ For Something Truly Nasty",
+        "url": "https://www.yahoo.com/entertainment/tv/articles/kimmel-guest-host-ike-barinholtz-073838538.html",
+        "source": "Yahoo"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "elliot page",
-    "titleZh": "艾略特·佩奇",
-    "traffic": "2000+",
-    "started": "Thu, 16 Jul 2026 20:50:00 -0700",
-    "summary": "相关新闻主要集中在：艾略特·佩奇 (Elliot Page) 和朱莉娅·希普莱特 (Julia Shiplett) 罕见地共同亮相红地毯。",
-    "explanation": "Google Trends 显示“艾略特·佩奇”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：艾略特·佩奇 (Elliot Page) 和朱莉娅·希普莱特 (Julia Shiplett) 罕见地共同亮相红地毯。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
+    "title": "showers",
+    "titleZh": "阵雨",
+    "traffic": "500+",
+    "started": "Fri, 17 Jul 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：乔的博客：更热的风暴 (THU-7/16)。",
+    "explanation": "Google Trends 显示“阵雨”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：乔的博客：更热的风暴 (THU-7/16)。这些报道来自 FOX4KC.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Elliot Page and Julia Shiplett Make a Rare Red Carpet Appearance Together",
-        "url": "https://www.aol.com/articles/elliot-page-julia-shiplett-rare-142700701.html",
-        "source": "AOL.com"
+        "title": "Joe’s Blog: Storms with bigger heat (THU-7/16)",
+        "url": "https://fox4kc.com/weather/weather-blog/joes-blog-storms-with-bigger-heat-thu-7-16/",
+        "source": "FOX4KC.com"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "robin williams",
-    "titleZh": "罗宾·威廉姆斯",
+    "title": "baylen dupree",
+    "titleZh": "拜伦杜普雷",
     "traffic": "500+",
-    "started": "Thu, 16 Jul 2026 20:40:00 -0700",
-    "summary": "相关新闻主要集中在：《侏罗纪公园》演员代表称萨姆·尼尔死于肺炎。",
-    "explanation": "Google Trends 显示“罗宾·威廉姆斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《侏罗纪公园》演员代表称萨姆·尼尔死于肺炎。这些报道来自 ABC News - Breaking News, Latest News and Videos 等媒体，因此带动了集中搜索。",
+    "started": "Fri, 17 Jul 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：拜伦·杜普雷 (Baylen Dupree) 表示，如果不服用妥瑞氏症药物，她的身体就会“完全不正常”（独家）。",
+    "explanation": "Google Trends 显示“拜伦杜普雷”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：拜伦·杜普雷 (Baylen Dupree) 表示，如果不服用妥瑞氏症药物，她的身体就会“完全不正常”（独家）。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Sam Neill died from pneumonia, representative for 'Jurassic Park' actor says",
-        "url": "https://abcnews.com/GMA/Culture/sam-neill-died-pneumonia-representative-jurassic-park-actor/story?id=134805458",
-        "source": "ABC News - Breaking News, Latest News and Videos"
+        "title": "Baylen Dupree Says Her Body Is ‘All Out of Whack’ Without Her Tourette’s Medication (Exclusive)",
+        "url": "https://www.aol.com/articles/baylen-dupree-says-her-body-193717000.html",
+        "source": "AOL.com"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "the dodo",
-    "titleZh": "渡渡鸟",
-    "traffic": "1000+",
-    "started": "Thu, 16 Jul 2026 20:20:00 -0700",
-    "summary": "相关新闻主要集中在：救援人员发现肿胀的脸卡在回收箱底部并赶去帮忙。",
-    "explanation": "Google Trends 显示“渡渡鸟”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：救援人员发现肿胀的脸卡在回收箱底部并赶去帮忙。这些报道来自 The Dodo 等媒体，因此带动了集中搜索。",
+    "title": "mega millions numbers",
+    "titleZh": "百万数字",
+    "traffic": "500+",
+    "started": "Fri, 17 Jul 2026 20:40:00 -0700",
+    "summary": "相关新闻主要集中在：如果闪电击中两次，你可能会立即成为亿万富翁。",
+    "explanation": "Google Trends 显示“百万数字”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：如果闪电击中两次，你可能会立即成为亿万富翁。这些报道来自 KFDM 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Rescuer Spots Swollen Face Stuck At The Bottom Of Recycling Bin And Rushes To Help",
-        "url": "https://www.thedodo.com/daily-dodo/rescuer-spots-swollen-face-stuck-at-the-bottom-of-recycling-bin-and-rushes-to-help",
-        "source": "The Dodo"
+        "title": "If lightning strikes twice, you could become an instant billionaire",
+        "url": "https://kfdm.com/news/local/two-chances-to-become-a-billionaire-powerball-mega-millions-jackpots-skyrocket",
+        "source": "KFDM"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "lebron james free agency decision",
-    "titleZh": "勒布朗·詹姆斯自由球员市场决定",
-    "traffic": "20000+",
-    "started": "Thu, 16 Jul 2026 20:20:00 -0700",
-    "summary": "相关新闻主要集中在：亚当·萧华表示勒布朗·詹姆斯的 NBA 自由球员决定影响赛程发布。",
-    "explanation": "Google Trends 显示“勒布朗·詹姆斯自由球员市场决定”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：亚当·萧华表示勒布朗·詹姆斯的 NBA 自由球员决定影响赛程发布。这些报道来自 Bleacher Report 等媒体，因此带动了集中搜索。",
+    "title": "harry ford",
+    "titleZh": "哈里·福特",
+    "traffic": "500+",
+    "started": "Fri, 17 Jul 2026 20:40:00 -0700",
+    "summary": "相关新闻主要集中在：国家队将提拔新秀福特在球队中首次亮相（来源）。",
+    "explanation": "Google Trends 显示“哈里·福特”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：国家队将提拔新秀福特在球队中首次亮相（来源）。这些报道来自 MLB.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "LeBron James' NBA Free Agency Decision Impacting Schedule Release, Adam Silver Says",
-        "url": "https://bleacherreport.com/articles/25455659-lebron-james-nba-free-agency-decision-impacting-schedule-release-adam-silver-says",
-        "source": "Bleacher Report"
+        "title": "Nats to promote prospect Ford to make his team debut (source)",
+        "url": "https://www.mlb.com/news/harry-ford-promoted-nationals-debut",
+        "source": "MLB.com"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "killing eve",
-    "titleZh": "杀死伊芙",
+    "title": "ludwika paleta",
+    "titleZh": "路德维卡调色板",
     "traffic": "500+",
-    "started": "Thu, 16 Jul 2026 20:20:00 -0700",
-    "summary": "相关新闻主要集中在：“甚至比杀死伊芙还要好”：哈里特·沃尔特在广受好评的间谍惊悚片中表现出色。",
-    "explanation": "Google Trends 显示“杀死伊芙”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：“甚至比杀死伊芙还要好”：哈里特·沃尔特在广受好评的间谍惊悚片中表现出色。这些报道来自 Cosmopolitan 等媒体，因此带动了集中搜索。",
+    "started": "Fri, 17 Jul 2026 20:20:00 -0700",
+    "summary": "相关新闻主要集中在：《欲望》中的谁是谁？与路德维卡·帕莱塔 (Ludwika Paleta) 一起认识 Netflix 新电影的演员们。",
+    "explanation": "Google Trends 显示“路德维卡调色板”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《欲望》中的谁是谁？与路德维卡·帕莱塔 (Ludwika Paleta) 一起认识 Netflix 新电影的演员们。这些报道来自 Excélsior 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "\"Even better than Killing Eve\": Harriet Walter is exceptional in critically acclaimed spy thriller",
-        "url": "https://www.cosmopolitan.com/uk/entertainment/a72470551/harriet-walter-london-spy/",
-        "source": "Cosmopolitan"
+        "title": "¿Quién es quién en \"Deseo\"? Conoce al elenco de la nueva película de Netflix con Ludwika Paleta",
+        "url": "https://www.excelsior.com.mx/espectaculos/quien-es-quien-deseo-conoce-elenco-nueva-pelicula-netflix-con-ludwika-paleta",
+        "source": "Excélsior"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "elissa slotkin",
-    "titleZh": "艾丽莎也有槽",
+    "title": "san diego padres",
+    "titleZh": "圣地亚哥父母",
     "traffic": "500+",
-    "started": "Thu, 16 Jul 2026 20:10:00 -0700",
-    "summary": "相关新闻主要集中在：斯洛特金表示，《拯救美国法案》将使“任何民主党人都很难”赢得选举。",
-    "explanation": "Google Trends 显示“艾丽莎也有槽”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：斯洛特金表示，《拯救美国法案》将使“任何民主党人都很难”赢得选举。这些报道来自 Fox News 等媒体，因此带动了集中搜索。",
+    "started": "Fri, 17 Jul 2026 20:20:00 -0700",
+    "summary": "相关新闻主要集中在：在背水一战的情况下，皇家队在 The K 球场以 7-6 击败了教士队。以下是如何进行的。",
+    "explanation": "Google Trends 显示“圣地亚哥父母”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：在背水一战的情况下，皇家队在 The K 球场以 7-6 击败了教士队。以下是如何进行的。这些报道来自 Kansas City Star 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Slotkin says SAVE America Act would make it 'hard for any Democrat' to win an election",
-        "url": "https://www.foxnews.com/video/6401120342112",
-        "source": "Fox News"
+        "title": "With backs against the wall, Royals walked off Padres 7-6 at The K. Here’s how",
+        "url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/article316557796.html",
+        "source": "Kansas City Star"
       }
     ]
   }
