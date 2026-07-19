@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "millie bobby brown",
-    "titleZh": "米莉·鲍比·布朗",
-    "traffic": "2000+",
-    "started": "Fri, 17 Jul 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：米莉·鲍比·布朗 (Millie Bobby Brown) 在罕见的照片中展示了女婴浓密的黑发。",
-    "explanation": "Google Trends 显示“米莉·鲍比·布朗”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：米莉·鲍比·布朗 (Millie Bobby Brown) 在罕见的照片中展示了女婴浓密的黑发。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
+    "title": "tarik skubal",
+    "titleZh": "拉 skubal",
+    "traffic": "500+",
+    "started": "Sat, 18 Jul 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：勇士队与猛虎队关于塔里克·斯库巴尔的交易提议将颠覆国联比赛。",
+    "explanation": "Google Trends 显示“拉 skubal”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：勇士队与猛虎队关于塔里克·斯库巴尔的交易提议将颠覆国联比赛。这些报道来自 FanSided 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Millie Bobby Brown reveals baby girl's very full head of dark hair in rare photo",
-        "url": "https://www.yahoo.com/entertainment/celebrity/articles/millie-bobby-brown-reveals-baby-103044270.html",
-        "source": "Yahoo"
+        "title": "This Braves-Tigers trade proposal for Tarik Skubal would upend the NL race",
+        "url": "https://fansided.com/mlb/this-braves-tigers-trade-proposal-for-tarik-skubal-would-upend-the-nl-race",
+        "source": "FanSided"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "mindy kaling",
-    "titleZh": "明迪·卡灵",
-    "traffic": "1000+",
-    "started": "Fri, 17 Jul 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：无论是浪漫主角还是编剧兼导演，杰克·马丁已准备好应对接下来的任何角色。",
-    "explanation": "Google Trends 显示“明迪·卡灵”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：无论是浪漫主角还是编剧兼导演，杰克·马丁已准备好应对接下来的任何角色。这些报道来自 The Hollywood Reporter 等媒体，因此带动了集中搜索。",
+    "title": "curry barker",
+    "titleZh": "咖喱巴克",
+    "traffic": "500+",
+    "started": "Sat, 18 Jul 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：本周末值得观看的 3 部电影和 1 部电视剧，其中包括正在上映的《奥德赛》。",
+    "explanation": "Google Trends 显示“咖喱巴克”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：本周末值得观看的 3 部电影和 1 部电视剧，其中包括正在上映的《奥德赛》。这些报道来自 BuzzFeed 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Whether It Be Romantic Lead or Writer-Director, Jack Martin’s Ready to Tackle Whatever Role Comes Next",
-        "url": "https://www.hollywoodreporter.com/tv/tv-features/jack-martin-not-suitable-for-work-interview-1236637882/",
-        "source": "The Hollywood Reporter"
+        "title": "Here Are 3 Movies And 1 Show To Watch This Weekend, Including \"The Odyssey\" In Theaters",
+        "url": "https://www.buzzfeed.com/noradominick/weekend-tv-movie-recommendations-7-17-26",
+        "source": "BuzzFeed"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "jennifer english",
-    "titleZh": "詹妮弗·英语",
-    "traffic": "200+",
-    "started": "Fri, 17 Jul 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：2026 年最受期待的农业模拟游戏拥有令人难以置信的配音阵容。",
-    "explanation": "Google Trends 显示“詹妮弗·英语”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：2026 年最受期待的农业模拟游戏拥有令人难以置信的配音阵容。这些报道来自 MSN 等媒体，因此带动了集中搜索。",
+    "title": "ludwika paleta",
+    "titleZh": "路德维卡调色板",
+    "traffic": "500+",
+    "started": "Sat, 18 Jul 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：这部充满激情浪漫的全新色情惊悚片《Fury》在 Netflix 首播。",
+    "explanation": "Google Trends 显示“路德维卡调色板”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：这部充满激情浪漫的全新色情惊悚片《Fury》在 Netflix 首播。这些报道来自 A24.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "The most anticipated farming sim of 2026 boasts an incredible voice cast",
-        "url": "https://www.msn.com/en-in/entertainment/news/the-most-anticipated-farming-sim-of-2026-boasts-an-incredible-voice-cast/ar-AA285oKC",
-        "source": "MSN"
+        "title": "Furor en Netflix por el estreno de este nuevo thriller erótico con un apasionado romance",
+        "url": "https://www.a24.com/trends/furor-netflix-el-estreno-este-nuevo-thriller-erotico-un-apasionado-romance-n1576248",
+        "source": "A24.com"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "ike barinholtz",
-    "titleZh": "艾克·巴林霍尔茨",
-    "traffic": "1000+",
-    "started": "Fri, 17 Jul 2026 20:50:00 -0700",
-    "summary": "相关新闻主要集中在：《金梅尔》客座主持人艾克·巴里霍尔茨对特朗普的一些真正令人讨厌的事情给予充分的“信任”。",
-    "explanation": "Google Trends 显示“艾克·巴林霍尔茨”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《金梅尔》客座主持人艾克·巴里霍尔茨对特朗普的一些真正令人讨厌的事情给予充分的“信任”。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
+    "title": "powerball",
+    "titleZh": "强力球",
+    "traffic": "2000+",
+    "started": "Sat, 18 Jul 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：中奖强力球彩票在俄亥俄州售出，头奖飙升。",
+    "explanation": "Google Trends 显示“强力球”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：中奖强力球彩票在俄亥俄州售出，头奖飙升。这些报道来自 FOX 8 News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "‘Kimmel’ Guest Host Ike Barinholtz Gives Trump Full ‘Credit’ For Something Truly Nasty",
-        "url": "https://www.yahoo.com/entertainment/tv/articles/kimmel-guest-host-ike-barinholtz-073838538.html",
-        "source": "Yahoo"
+        "title": "Winning Powerball ticket sold in Ohio, jackpot soars",
+        "url": "https://fox8.com/news/winning-powerball-ticket-sold-in-ohio-jackpot-soars/",
+        "source": "FOX 8 News"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "showers",
-    "titleZh": "阵雨",
-    "traffic": "500+",
-    "started": "Fri, 17 Jul 2026 20:50:00 -0700",
-    "summary": "相关新闻主要集中在：乔的博客：更热的风暴 (THU-7/16)。",
-    "explanation": "Google Trends 显示“阵雨”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：乔的博客：更热的风暴 (THU-7/16)。这些报道来自 FOX4KC.com 等媒体，因此带动了集中搜索。",
+    "title": "snl tonight",
+    "titleZh": "今晚周六夜现场",
+    "traffic": "200+",
+    "started": "Sat, 18 Jul 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：《周六夜现场》7 月 18 日今晚将重播另一集。",
+    "explanation": "Google Trends 显示“今晚周六夜现场”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《周六夜现场》7 月 18 日今晚将重播另一集。这些报道来自 IMDb 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Joe’s Blog: Storms with bigger heat (THU-7/16)",
-        "url": "https://fox4kc.com/weather/weather-blog/joes-blog-storms-with-bigger-heat-thu-7-16/",
-        "source": "FOX4KC.com"
+        "title": "Saturday Night Live July 18 To Air Another Repeat Episode Tonight",
+        "url": "https://www.imdb.com/news/ni65934577/?ref_=ttnw_art_perm",
+        "source": "IMDb"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "baylen dupree",
-    "titleZh": "拜伦杜普雷",
-    "traffic": "500+",
-    "started": "Fri, 17 Jul 2026 20:50:00 -0700",
-    "summary": "相关新闻主要集中在：拜伦·杜普雷 (Baylen Dupree) 表示，如果不服用妥瑞氏症药物，她的身体就会“完全不正常”（独家）。",
-    "explanation": "Google Trends 显示“拜伦杜普雷”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：拜伦·杜普雷 (Baylen Dupree) 表示，如果不服用妥瑞氏症药物，她的身体就会“完全不正常”（独家）。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
+    "title": "desire netflix",
+    "titleZh": "欲望 Netflix",
+    "traffic": "200+",
+    "started": "Sat, 18 Jul 2026 20:40:00 -0700",
+    "summary": "相关新闻主要集中在：粉丝们表示 Netflix 的新“热辣惊悚片”非常适合继《Heartstopper》之后观看。",
+    "explanation": "Google Trends 显示“欲望 Netflix”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：粉丝们表示 Netflix 的新“热辣惊悚片”非常适合继《Heartstopper》之后观看。这些报道来自 AOL.co.uk 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Baylen Dupree Says Her Body Is ‘All Out of Whack’ Without Her Tourette’s Medication (Exclusive)",
-        "url": "https://www.aol.com/articles/baylen-dupree-says-her-body-193717000.html",
-        "source": "AOL.com"
+        "title": "Netflix's new 'steamy thriller' fans say is perfect to watch after Heartstopper",
+        "url": "https://www.aol.co.uk/articles/netflixs-steamy-thriller-fans-perfect-123701000.html",
+        "source": "AOL.co.uk"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "mega millions numbers",
-    "titleZh": "百万数字",
-    "traffic": "500+",
-    "started": "Fri, 17 Jul 2026 20:40:00 -0700",
-    "summary": "相关新闻主要集中在：如果闪电击中两次，你可能会立即成为亿万富翁。",
-    "explanation": "Google Trends 显示“百万数字”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：如果闪电击中两次，你可能会立即成为亿万富翁。这些报道来自 KFDM 等媒体，因此带动了集中搜索。",
+    "title": "chivas de guadalajara vs toluca fc standings",
+    "titleZh": "瓜达拉哈拉芝华士 VS 托卢卡 FC 积分榜",
+    "traffic": "5000+",
+    "started": "Sat, 18 Jul 2026 20:30:00 -0700",
+    "summary": "相关新闻主要集中在：U-19 队以胜利开局！ Rojiblanca 学院以下为 2026 年 Apertura 拉开帷幕。",
+    "explanation": "Google Trends 显示“瓜达拉哈拉芝华士 VS 托卢卡 FC 积分榜”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：U-19 队以胜利开局！ Rojiblanca 学院以下为 2026 年 Apertura 拉开帷幕。这些报道来自 OneFootball 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "If lightning strikes twice, you could become an instant billionaire",
-        "url": "https://kfdm.com/news/local/two-chances-to-become-a-billionaire-powerball-mega-millions-jackpots-skyrocket",
-        "source": "KFDM"
+        "title": "The U-19s Opened with a Win! Here’s How the Rojiblanca Academy Kicked Off the Apertura 2026",
+        "url": "https://onefootball.com/en/news/the-u-19s-opened-with-a-win-heres-how-the-rojiblanca-academy-kicked-off-the-apertura-2026-43156493",
+        "source": "OneFootball"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "harry ford",
-    "titleZh": "哈里·福特",
+    "title": "mariners game today",
+    "titleZh": "今天水手队的比赛",
     "traffic": "500+",
-    "started": "Fri, 17 Jul 2026 20:40:00 -0700",
-    "summary": "相关新闻主要集中在：国家队将提拔新秀福特在球队中首次亮相（来源）。",
-    "explanation": "Google Trends 显示“哈里·福特”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：国家队将提拔新秀福特在球队中首次亮相（来源）。这些报道来自 MLB.com 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 18 Jul 2026 20:20:00 -0700",
+    "summary": "相关新闻主要集中在：胡里奥·罗德里格斯（Julio Rodríguez）激活，迈尔斯·马斯特罗博尼（Miles Mastrobuoni）DFA。",
+    "explanation": "Google Trends 显示“今天水手队的比赛”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：胡里奥·罗德里格斯（Julio Rodríguez）激活，迈尔斯·马斯特罗博尼（Miles Mastrobuoni）DFA。这些报道来自 Lookout Landing 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Nats to promote prospect Ford to make his team debut (source)",
-        "url": "https://www.mlb.com/news/harry-ford-promoted-nationals-debut",
-        "source": "MLB.com"
+        "title": "Julio Rodríguez activated, Miles Mastrobuoni DFA’d",
+        "url": "https://www.lookoutlanding.com/seattle-mariners-injuries/146487/julio-rodriguez-activated-miles-mastrobouni-dfad",
+        "source": "Lookout Landing"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "ludwika paleta",
-    "titleZh": "路德维卡调色板",
-    "traffic": "500+",
-    "started": "Fri, 17 Jul 2026 20:20:00 -0700",
-    "summary": "相关新闻主要集中在：《欲望》中的谁是谁？与路德维卡·帕莱塔 (Ludwika Paleta) 一起认识 Netflix 新电影的演员们。",
-    "explanation": "Google Trends 显示“路德维卡调色板”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《欲望》中的谁是谁？与路德维卡·帕莱塔 (Ludwika Paleta) 一起认识 Netflix 新电影的演员们。这些报道来自 Excélsior 等媒体，因此带动了集中搜索。",
+    "title": "san francisco giants",
+    "titleZh": "旧金山巨人队",
+    "traffic": "2000+",
+    "started": "Sat, 18 Jul 2026 20:10:00 -0700",
+    "summary": "相关新闻主要集中在：休息和放松。",
+    "explanation": "Google Trends 显示“旧金山巨人队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：休息和放松。这些报道来自 McCovey Chronicles 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "¿Quién es quién en \"Deseo\"? Conoce al elenco de la nueva película de Netflix con Ludwika Paleta",
-        "url": "https://www.excelsior.com.mx/espectaculos/quien-es-quien-deseo-conoce-elenco-nueva-pelicula-netflix-con-ludwika-paleta",
-        "source": "Excélsior"
+        "title": "Rested and relaxed",
+        "url": "https://www.mccoveychronicles.com/san-francisco-giants-scores-standings/109279/relaxed-and-rested-landen-roupp-willy-adames-bryce-eldridge",
+        "source": "McCovey Chronicles"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "san diego padres",
-    "titleZh": "圣地亚哥父母",
-    "traffic": "500+",
-    "started": "Fri, 17 Jul 2026 20:20:00 -0700",
-    "summary": "相关新闻主要集中在：在背水一战的情况下，皇家队在 The K 球场以 7-6 击败了教士队。以下是如何进行的。",
-    "explanation": "Google Trends 显示“圣地亚哥父母”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：在背水一战的情况下，皇家队在 The K 球场以 7-6 击败了教士队。以下是如何进行的。这些报道来自 Kansas City Star 等媒体，因此带动了集中搜索。",
+    "title": "emily willis now",
+    "titleZh": "艾米莉·威利斯现在",
+    "traffic": "2000+",
+    "started": "Sat, 18 Jul 2026 20:00:00 -0700",
+    "summary": "相关新闻主要集中在：艾米丽·威利斯 (Emily Willis) 的家人在永久丧失工作能力后获得了 300 万美元的康复资助。",
+    "explanation": "Google Trends 显示“艾米莉·威利斯现在”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：艾米丽·威利斯 (Emily Willis) 的家人在永久丧失工作能力后获得了 300 万美元的康复资助。这些报道来自 Complex 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "With backs against the wall, Royals walked off Padres 7-6 at The K. Here’s how",
-        "url": "https://www.kansascity.com/sports/mlb/kansas-city-royals/article316557796.html",
-        "source": "Kansas City Star"
+        "title": "Emily Willis' Family Awarded $3 Million From Rehab After Permanent Incapacitation",
+        "url": "https://www.complex.com/pop-culture/a/jaelaniturnerwilliams/emily-willis-settlement-summit-malibu-brain-injury",
+        "source": "Complex"
       }
     ]
   }
