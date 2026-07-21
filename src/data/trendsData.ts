@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "air force one",
-    "titleZh": "空军一号",
+    "title": "olivia miles",
+    "titleZh": "奥利维亚·迈尔斯",
     "traffic": "500+",
-    "started": "Sun, 19 Jul 2026 21:30:00 -0700",
-    "summary": "相关新闻主要集中在：特朗普表示，出于安全考虑，新的空军一号将“最大限度地发挥作用”。",
-    "explanation": "Google Trends 显示“空军一号”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：特朗普表示，出于安全考虑，新的空军一号将“最大限度地发挥作用”。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
+    "started": "Mon, 20 Jul 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：如何观看 7 月 15 日明尼苏达山猫队对阵洛杉矶火花队的比赛：直播、比赛时间、伤病报告、球衣。",
+    "explanation": "Google Trends 显示“奥利维亚·迈尔斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：如何观看 7 月 15 日明尼苏达山猫队对阵洛杉矶火花队的比赛：直播、比赛时间、伤病报告、球衣。这些报道来自 Minnesota Lynx 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Trump says new Air Force One to be 'maxed out' after security concerns",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-says-air-force-one-030812473.html",
-        "source": "Yahoo"
+        "title": "How To Watch Minnesota Lynx vs Los Angeles Sparks on July 15: Streaming, Game Time, Injury Report, Jerseys",
+        "url": "https://lynx.wnba.com/news/how-to-watch-minnesota-lynx-vs-los-angeles-sparks-on-july-15-streaming-game-time-injury-report-jerseys",
+        "source": "Minnesota Lynx"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "herald",
-    "titleZh": "先驱报",
+    "title": "mariners game today",
+    "titleZh": "今天水手队的比赛",
     "traffic": "500+",
-    "started": "Sun, 19 Jul 2026 21:30:00 -0700",
-    "summary": "相关新闻主要集中在：莱格斯队六分钟内两次失球，输给精神队，三场不败纪录被终结。",
-    "explanation": "Google Trends 显示“先驱报”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：莱格斯队六分钟内两次失球，输给精神队，三场不败纪录被终结。这些报道来自 The Boston Globe 等媒体，因此带动了集中搜索。",
+    "started": "Mon, 20 Jul 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：随着红军临近交易截止日期，尤金尼奥·苏亚雷斯明确表示了自己的偏好。",
+    "explanation": "Google Trends 显示“今天水手队的比赛”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：随着红军临近交易截止日期，尤金尼奥·苏亚雷斯明确表示了自己的偏好。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Legacy concede twice in six minutes, fall to Spirit, snapping three-game unbeaten run",
-        "url": "https://www.bostonglobe.com/2026/07/19/sports/nwsl-boston-legacy-washington-spirit/",
-        "source": "The Boston Globe"
+        "title": "Eugenio Suárez makes preference clear as Reds approach trade deadline",
+        "url": "https://sports.yahoo.com/articles/eugenio-su-rez-makes-preference-034028203.html",
+        "source": "Yahoo Sports"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "avengers doomsday tickets",
-    "titleZh": "复仇者联盟末日门票",
+    "title": "flau'jae johnson",
+    "titleZh": "尴尬的约翰逊",
     "traffic": "500+",
-    "started": "Sun, 19 Jul 2026 21:30:00 -0700",
-    "summary": "相关新闻主要集中在：《复仇者联盟：世界末日》的最新更新让紧张的 MCU 粉丝陷入恐慌模式。",
-    "explanation": "Google Trends 显示“复仇者联盟末日门票”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《复仇者联盟：世界末日》的最新更新让紧张的 MCU 粉丝陷入恐慌模式。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
+    "started": "Mon, 20 Jul 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：可授权图片：2026 年 7 月 17 日星期五，印第安纳狂热队后卫凯特琳·克拉克 (Caitlin Clark)（22 岁）和西雅图风暴队后卫弗劳杰·约翰逊 (Flau'jae Johnson) (4) 在第一场比赛之前拥抱。",
+    "explanation": "Google Trends 显示“尴尬的约翰逊”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：可授权图片：2026 年 7 月 17 日星期五，印第安纳狂热队后卫凯特琳·克拉克 (Caitlin Clark)（22 岁）和西雅图风暴队后卫弗劳杰·约翰逊 (Flau'jae Johnson) (4) 在第一场比赛之前拥抱。这些报道来自 Reuters Connect 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Avengers: Doomsday’s Latest Update Sends Nervous MCU Fans Into Panic Mode",
-        "url": "https://www.yahoo.com/entertainment/movies/articles/avengers-doomsday-latest-sends-nervous-192151510.html",
-        "source": "Yahoo"
+        "title": "Licensable picture: Indiana Fever guard Caitlin Clark (22) and Seattle Storm guard Flau'jae Johnson (4) hug Friday, July 17, 2026, before the first",
+        "url": "https://www.reutersconnect.com/item/indiana-fever-guard-caitlin-clark-22-and-seattle-storm-guard-flaujae-johnson-4-hug-friday-july-17-2026-before-the-first/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk0MDM3NjI",
+        "source": "Reuters Connect"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "sandy brondello comment",
-    "titleZh": "桑迪·布隆德罗评论",
-    "traffic": "2000+",
-    "started": "Sun, 19 Jul 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：安吉尔·里斯接受多伦多教练桑迪·布隆德罗就不当言论做出的道歉。",
-    "explanation": "Google Trends 显示“桑迪·布隆德罗评论”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：安吉尔·里斯接受多伦多教练桑迪·布隆德罗就不当言论做出的道歉。这些报道来自 CP24 等媒体，因此带动了集中搜索。",
+    "title": "kayla mcbride",
+    "titleZh": "凯拉·麦克布莱德",
+    "traffic": "500+",
+    "started": "Mon, 20 Jul 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：火面对第一名山猫。",
+    "explanation": "Google Trends 显示“凯拉·麦克布莱德”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：火面对第一名山猫。这些报道来自 Blazer's Edge 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Angel Reese accepts Toronto coach Sandy Brondello's apology for inappropriate comment",
-        "url": "https://www.cp24.com/news/sports/2026/07/19/angel-reese-accepts-toronto-coach-sandy-brondellos-apology-for-inappropriate-comment/",
-        "source": "CP24"
+        "title": "Fire Face the First-Place Lynx",
+        "url": "https://www.blazersedge.com/portland-fire-wnba/114543/portland-fire-minnesota-lynx-discussion-time-tv-streaming",
+        "source": "Blazer's Edge"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "europe",
-    "titleZh": "欧洲",
-    "traffic": "500+",
-    "started": "Sun, 19 Jul 2026 20:50:00 -0700",
-    "summary": "相关新闻主要集中在：尽管热浪消退，野火、干旱和风暴仍困扰着欧洲。",
-    "explanation": "Google Trends 显示“欧洲”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：尽管热浪消退，野火、干旱和风暴仍困扰着欧洲。这些报道来自 Reuters 等媒体，因此带动了集中搜索。",
+    "title": "jacob elordi",
+    "titleZh": "雅各布·埃洛迪",
+    "traffic": "2000+",
+    "started": "Mon, 20 Jul 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：肯德尔·詹纳 (Kendall Jenner) 终于对雅各布·埃洛迪 (Jacob Elordi) 因 MJ 去世照片引发的强烈反对做出了回应。",
+    "explanation": "Google Trends 显示“雅各布·埃洛迪”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：肯德尔·詹纳 (Kendall Jenner) 终于对雅各布·埃洛迪 (Jacob Elordi) 因 MJ 去世照片引发的强烈反对做出了回应。这些报道来自 Jang 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Wildfires, drought and storms hound Europe even as heatwave recedes",
-        "url": "https://www.reuters.com/business/environment/wildfires-drought-storms-hound-europe-even-heatwave-recedes-2026-07-17/",
-        "source": "Reuters"
+        "title": "Kendall Jenner finally responds to Jacob Elordi photos backlash amid MJ’s death",
+        "url": "https://jang.com.pk/en/69359-kendall-jenner-finally-responds-to-jacob-elordi-photos-backlash-amid-mjs-death-news",
+        "source": "Jang"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "google play services",
-    "titleZh": "谷歌播放服务",
-    "traffic": "500+",
-    "started": "Sun, 19 Jul 2026 20:40:00 -0700",
-    "summary": "相关新闻主要集中在：谷歌对Android智能手机做出重大改变。",
-    "explanation": "Google Trends 显示“谷歌播放服务”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：谷歌对Android智能手机做出重大改变。这些报道来自 MyBroadband 等媒体，因此带动了集中搜索。",
+    "title": "cal raleigh",
+    "titleZh": "卡尔罗利",
+    "traffic": "1000+",
+    "started": "Mon, 20 Jul 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：水手队的卡尔罗利问题并没有好转。",
+    "explanation": "Google Trends 显示“卡尔罗利”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：水手队的卡尔罗利问题并没有好转。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Google makes big change on Android smartphones",
-        "url": "https://mybroadband.co.za/news/cloud-hosting/658776-google-makes-big-change-on-android-smartphones.html",
-        "source": "MyBroadband"
+        "title": "Mariners' Cal Raleigh problem isn't getting better",
+        "url": "https://sports.yahoo.com/articles/mariners-cal-raleigh-problem-isnt-140014360.html",
+        "source": "Yahoo Sports"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "legionnaires disease",
-    "titleZh": "军团病",
-    "traffic": "500+",
-    "started": "Sun, 19 Jul 2026 20:30:00 -0700",
-    "summary": "相关新闻主要集中在：纽约市退伍军人病群报告三人死亡。",
-    "explanation": "Google Trends 显示“军团病”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：纽约市退伍军人病群报告三人死亡。这些报道来自 CNN 等媒体，因此带动了集中搜索。",
+    "title": "garlic powder recall",
+    "titleZh": "大蒜粉召回",
+    "traffic": "1000+",
+    "started": "Mon, 20 Jul 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：因存在严重腹泻和恶心风险，一元店流行调味品被下令召回。",
+    "explanation": "Google Trends 显示“大蒜粉召回”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：因存在严重腹泻和恶心风险，一元店流行调味品被下令召回。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Three deaths reported in New York City Legionnaires’ disease cluster",
-        "url": "https://www.cnn.com/2026/07/17/health/legionnaires-death-nyc",
-        "source": "CNN"
+        "title": "Recall ordered for popular dollar-store seasoning over severe diarrhea and nausea risk",
+        "url": "https://www.yahoo.com/news/world/articles/recall-ordered-popular-dollar-store-133140013.html",
+        "source": "Yahoo"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "ralph sampson",
-    "titleZh": "拉尔夫·桑普森",
-    "traffic": "200+",
-    "started": "Sun, 19 Jul 2026 20:30:00 -0700",
-    "summary": "相关新闻主要集中在：雷霆队以三队交易将多尔特送到老鹰队；小牛得到里萨彻。",
-    "explanation": "Google Trends 显示“拉尔夫·桑普森”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：雷霆队以三队交易将多尔特送到老鹰队；小牛得到里萨彻。这些报道来自 ESPN 等媒体，因此带动了集中搜索。",
+    "title": "nicaraguan president daniel ortega",
+    "titleZh": "尼加拉瓜总统丹尼尔·奥尔特加",
+    "traffic": "5000+",
+    "started": "Mon, 20 Jul 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：尼加拉瓜总统丹尼尔·奥尔特加表示他计划废除选举。",
+    "explanation": "Google Trends 显示“尼加拉瓜总统丹尼尔·奥尔特加”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：尼加拉瓜总统丹尼尔·奥尔特加表示他计划废除选举。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Thunder send Dort to Hawks in 3-team trade; Mavericks get Risacher",
-        "url": "https://www.espn.com/nba/story/_/id/49400155/thunder-send-dort-hawks-three-team-trade-sources-say",
-        "source": "ESPN"
+        "title": "Daniel Ortega, President of Nicaragua, Says He Plans to Abolish Elections",
+        "url": "https://www.nytimes.com/2026/07/20/world/americas/nicaragua-ortega-abolish-elections.html",
+        "source": "The New York Times"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "yaxel lendeborg",
-    "titleZh": "亚克塞尔·伦德堡",
-    "traffic": "5000+",
-    "started": "Sun, 19 Jul 2026 19:50:00 -0700",
-    "summary": "相关新闻主要集中在：勇士队的亚克塞尔·伦德堡赢得 2026 年 NBA 夏季联赛冠军赛 MVP。",
-    "explanation": "Google Trends 显示“亚克塞尔·伦德堡”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：勇士队的亚克塞尔·伦德堡赢得 2026 年 NBA 夏季联赛冠军赛 MVP。这些报道来自 Bleacher Report 等媒体，因此带动了集中搜索。",
+    "title": "arizona diamondbacks",
+    "titleZh": "亚利桑那响尾蛇队",
+    "traffic": "1000+",
+    "started": "Mon, 20 Jul 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：诺兰·阿雷纳多 (Nolan Arenado) 带领 D-Backs 凭借红雀队达斯汀·梅 (Dustin May) 的三分球取得胜利。",
+    "explanation": "Google Trends 显示“亚利桑那响尾蛇队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：诺兰·阿雷纳多 (Nolan Arenado) 带领 D-Backs 凭借红雀队达斯汀·梅 (Dustin May) 的三分球取得胜利。这些报道来自 STLtoday.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Warriors' Yaxel Lendeborg Wins 2026 NBA Summer League Championship Game MVP",
-        "url": "https://bleacherreport.com/articles/25456498-warriors-yaxel-lendeborg-wins-2026-nba-summer-league-championship-game-mvp",
-        "source": "Bleacher Report"
+        "title": "Nolan Arenado drives D-Backs to victory as they exploit Cardinals Dustin May's rocky 3rd",
+        "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_791dc562-8381-459c-9c83-5c6f54867b00.html",
+        "source": "STLtoday.com"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "cedric coward",
-    "titleZh": "塞德里克·考沃德",
+    "title": "kaitlyn chen",
+    "titleZh": "陈凯特琳",
     "traffic": "500+",
-    "started": "Sun, 19 Jul 2026 19:50:00 -0700",
-    "summary": "相关新闻主要集中在：灰熊队塞德里克·考沃德：全场拿下28分。",
-    "explanation": "Google Trends 显示“塞德里克·考沃德”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：灰熊队塞德里克·考沃德：全场拿下28分。这些报道来自 CBS Sports 等媒体，因此带动了集中搜索。",
+    "started": "Mon, 20 Jul 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：神秘女武神最终伤病报告：贾斯特·乔赛克会上场吗？。",
+    "explanation": "Google Trends 显示“陈凯特琳”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：神秘女武神最终伤病报告：贾斯特·乔赛克会上场吗？。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Grizzlies' Cedric Coward: Scores 28 points with full line",
-        "url": "https://www.cbssports.com/fantasy/basketball/news/grizzlies-cedric-coward-scores-28-points-with-full-line/",
-        "source": "CBS Sports"
+        "title": "Final Injury Report for Mystics-Valkyries: Will Juste Jocyte Play?",
+        "url": "https://sports.yahoo.com/articles/final-injury-report-mystics-valkyries-220000469.html",
+        "source": "Yahoo Sports"
       }
     ]
   }
