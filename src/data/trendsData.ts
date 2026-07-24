@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "john leguizamo",
-    "titleZh": "约翰·雷吉扎莫",
-    "traffic": "1000+",
-    "started": "Wed, 22 Jul 2026 21:20:00 -0700",
-    "summary": "相关新闻主要集中在：为什么约翰·雷吉扎莫在《奥德赛》片场需要一名卫生间护送人员。",
-    "explanation": "Google Trends 显示“约翰·雷吉扎莫”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：为什么约翰·雷吉扎莫在《奥德赛》片场需要一名卫生间护送人员。这些报道来自 Entertainment Weekly 等媒体，因此带动了集中搜索。",
+    "title": "shiloh hendrix",
+    "titleZh": "希洛·亨德里克斯",
+    "traffic": "500+",
+    "started": "Thu, 23 Jul 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：检察官在种族诽谤视频案中休息。",
+    "explanation": "Google Trends 显示“希洛·亨德里克斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：检察官在种族诽谤视频案中休息。这些报道来自 Post Bulletin 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Why John Leguizamo needed a bathroom escort on the set of ‘The Odyssey’",
-        "url": "https://ew.com/john-leguizamo-needed-bathroom-escort-on-the-odyssey-set-12024486",
-        "source": "Entertainment Weekly"
+        "title": "Prosecutors rest in racial slur video case",
+        "url": "https://www.postbulletin.com/news/local/prosecutors-rest-in-racial-slur-video-case",
+        "source": "Post Bulletin"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "jessica shepard",
-    "titleZh": "杰西卡·谢泼德",
+    "title": "animal katseye",
+    "titleZh": "动物猫眼",
     "traffic": "2000+",
-    "started": "Wed, 22 Jul 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：达拉斯之翼队前锋杰西卡·谢泼德将参加 2026 年 WNBA 流星大赛。",
-    "explanation": "Google Trends 显示“杰西卡·谢泼德”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：达拉斯之翼队前锋杰西卡·谢泼德将参加 2026 年 WNBA 流星大赛。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 23 Jul 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：KATSEYE 在新歌预告片中融合了男性魅力和挑衅魅力 - CHOSUNBIZ。",
+    "explanation": "Google Trends 显示“动物猫眼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：KATSEYE 在新歌预告片中融合了男性魅力和挑衅魅力 - CHOSUNBIZ。这些报道来自 Chosunbiz 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Dallas Wings forward Jessica Shepard set to compete in 2026 WNBA Shooting Stars Contest",
-        "url": "https://sports.yahoo.com/articles/dallas-wings-forward-jessica-shepard-230335672.html",
-        "source": "Yahoo Sports"
+        "title": "KATSEYE blends mannish charisma and provocative glam in new song teaser - CHOSUNBIZ",
+        "url": "https://biz.chosun.com/en/en-entertainment/2026/07/23/K3XX7SIG4ZE4HKZPBXFSGM3ZMY/",
+        "source": "Chosunbiz"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "portland timbers",
-    "titleZh": "波特兰木材公司",
+    "title": "demi moore",
+    "titleZh": "黛米摩尔",
     "traffic": "1000+",
-    "started": "Wed, 22 Jul 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：达拉斯足球俱乐部 2026 赛季重启需要了解哪些信息。",
-    "explanation": "Google Trends 显示“波特兰木材公司”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：达拉斯足球俱乐部 2026 赛季重启需要了解哪些信息。这些报道来自 FC Dallas 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 23 Jul 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：黛米·摩尔 (Demi Moore) 带着一顶令人回头率的帽子参加巴黎时装周。",
+    "explanation": "Google Trends 显示“黛米摩尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：黛米·摩尔 (Demi Moore) 带着一顶令人回头率的帽子参加巴黎时装周。这些报道来自 Page Six 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "What You Need to Know for FC Dallas' 2026 Season Restart",
-        "url": "https://www.fcdallas.com/news/what-you-need-to-know-for-fc-dallas-2026-season-restart",
-        "source": "FC Dallas"
+        "title": "Demi Moore packed a head-turning hat for Paris Couture Week",
+        "url": "https://pagesix.com/2026/07/23/style/demi-moore-dons-a-dramatic-hat-for-outing-in-paris-with-tallulah-willis/",
+        "source": "Page Six"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "halo campaign evolved",
-    "titleZh": "光环战役演变",
-    "traffic": "500+",
-    "started": "Wed, 22 Jul 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：以下是如何在 Xbox、PlayStation 和 PC 上玩光环：与好友一起进化的战役。",
-    "explanation": "Google Trends 显示“光环战役演变”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：以下是如何在 Xbox、PlayStation 和 PC 上玩光环：与好友一起进化的战役。这些报道来自 GameSpot 等媒体，因此带动了集中搜索。",
+    "title": "colman domingo",
+    "titleZh": "科尔曼星期日报",
+    "traffic": "2000+",
+    "started": "Thu, 23 Jul 2026 20:40:00 -0700",
+    "summary": "相关新闻主要集中在：耗资数千美元的人工智能生成的《奥德赛》电影在诺兰价值 2.5 亿美元的故事片之前推出。",
+    "explanation": "Google Trends 显示“科尔曼星期日报”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：耗资数千美元的人工智能生成的《奥德赛》电影在诺兰价值 2.5 亿美元的故事片之前推出。这些报道来自 The Hollywood Reporter 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Here's How To Play Halo: Campaign Evolved With Your Friends Across Xbox, PlayStation, And PC",
-        "url": "https://www.gamespot.com/articles/heres-how-to-play-halo-campaign-evolved-with-your-friends-across-xbox-playstation-and-pc/",
-        "source": "GameSpot"
+        "title": "AI-Generated Odyssey Movie Costing a Few Thousand Dollars Unveiled Ahead of Nolan’s $250 Million Feature",
+        "url": "https://www.hollywoodreporter.com/business/digital/ai-generated-feature-odysseus-the-fall-1236646751/",
+        "source": "The Hollywood Reporter"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "azzi fudd",
-    "titleZh": "阿齐效益",
-    "traffic": "1000+",
-    "started": "Wed, 22 Jul 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：State Farm® 公布明星云集的名人三分球大赛阵容。",
-    "explanation": "Google Trends 显示“阿齐效益”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：State Farm® 公布明星云集的名人三分球大赛阵容。这些报道来自 State Farm 等媒体，因此带动了集中搜索。",
+    "title": "heath ledger",
+    "titleZh": "希斯·莱杰",
+    "traffic": "500+",
+    "started": "Thu, 23 Jul 2026 20:40:00 -0700",
+    "summary": "相关新闻主要集中在：萨曼莎·莫顿如何在《奥德赛》中完成瑟西变身猪的场景。",
+    "explanation": "Google Trends 显示“希斯·莱杰”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：萨曼莎·莫顿如何在《奥德赛》中完成瑟西变身猪的场景。这些报道来自 Vanity Fair 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "State Farm® Announces Star-Studded Celebrity 3-Point Contest Line Up",
-        "url": "https://newsroom.statefarm.com/state-farm-announces-star-studded-celebrity-3-point-contest-line-up/",
-        "source": "State Farm"
+        "title": "How Samantha Morton Pulled Off Circe's Pig-Transformation Scene in 'The Odyssey’",
+        "url": "https://www.vanityfair.com/story/the-odyssey-samantha-morton-circe-interview",
+        "source": "Vanity Fair"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "colman domingo",
-    "titleZh": "科尔曼星期日报",
-    "traffic": "1000+",
-    "started": "Wed, 22 Jul 2026 20:50:00 -0700",
-    "summary": "相关新闻主要集中在：特朗普传记作者迈克尔·沃尔夫认为特朗普的婚姻陷入困境。",
-    "explanation": "Google Trends 显示“科尔曼星期日报”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：特朗普传记作者迈克尔·沃尔夫认为特朗普的婚姻陷入困境。这些报道来自 Raw Story 等媒体，因此带动了集中搜索。",
+    "title": "bon jovi",
+    "titleZh": "邦乔维",
+    "traffic": "500+",
+    "started": "Thu, 23 Jul 2026 20:20:00 -0700",
+    "summary": "相关新闻主要集中在：Bon Jovi 在第七届 MSG 展会上带回了一对复古摇杆。",
+    "explanation": "Google Trends 显示“邦乔维”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Bon Jovi 在第七届 MSG 展会上带回了一对复古摇杆。这些报道来自 Ultimate Classic Rock 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Trump biographer Michael Wolff argues Trump's marriage is struggling",
-        "url": "https://www.rawstory.com/donald-trump-2677252539/",
-        "source": "Raw Story"
+        "title": "Bon Jovi Brings Back a Pair of Vintage Rockers at Seventh MSG Show",
+        "url": "https://ultimateclassicrock.com/bon-jovi-tour-debuts-2026/",
+        "source": "Ultimate Classic Rock"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "joan collins",
-    "titleZh": "琼·柯林斯",
-    "traffic": "500+",
-    "started": "Wed, 22 Jul 2026 20:50:00 -0700",
-    "summary": "相关新闻主要集中在：93 岁的琼·柯林斯 (Joan Collins) 穿着两件大胆的白色连衣裙，回到了她的“王朝”时代。",
-    "explanation": "Google Trends 显示“琼·柯林斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：93 岁的琼·柯林斯 (Joan Collins) 穿着两件大胆的白色连衣裙，回到了她的“王朝”时代。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
+    "title": "david lee roth",
+    "titleZh": "大卫·李·罗斯",
+    "traffic": "2000+",
+    "started": "Thu, 23 Jul 2026 20:00:00 -0700",
+    "summary": "相关新闻主要集中在：大卫·李·罗斯：善、恶、丑。",
+    "explanation": "Google Trends 显示“大卫·李·罗斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：大卫·李·罗斯：善、恶、丑。这些报道来自 www.soundcheckentertainment.ca 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Joan Collins, 93, Throws It Back to Her ‘Dynasty’ Days in Two Daring White Dresses",
-        "url": "https://www.aol.com/articles/joan-collins-93-throws-back-222248000.html",
-        "source": "AOL.com"
+        "title": "David Lee Roth: The Good, The Bad and The Ugly",
+        "url": "https://www.soundcheckentertainment.ca/david-lee-roth-the-good-the-bad-and-the-ugly/",
+        "source": "www.soundcheckentertainment.ca"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "powerball numbers",
-    "titleZh": "强力球号码",
-    "traffic": "2000+",
-    "started": "Wed, 22 Jul 2026 20:50:00 -0700",
-    "summary": "相关新闻主要集中在：加州售出价值 37,000 美元的强力球彩票。",
-    "explanation": "Google Trends 显示“强力球号码”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：加州售出价值 37,000 美元的强力球彩票。这些报道来自 FOX 11 Los Angeles 等媒体，因此带动了集中搜索。",
+    "title": "remnants of bertha",
+    "titleZh": "伯莎的残余物",
+    "traffic": "20000+",
+    "started": "Thu, 23 Jul 2026 19:50:00 -0700",
+    "summary": "相关新闻主要集中在：热带风暴伯莎最恶劣的天气发生在 800 英里内陆地区。",
+    "explanation": "Google Trends 显示“伯莎的残余物”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：热带风暴伯莎最恶劣的天气发生在 800 英里内陆地区。这些报道来自 The Washington Post 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Powerball ticket worth $37,000 sold in California",
-        "url": "https://www.foxla.com/news/california-powerball-ticket-misses-jackpot-wins-37k-san-gabriel",
-        "source": "FOX 11 Los Angeles"
+        "title": "Some of Tropical Storm Bertha’s worst weather is 800 miles inland",
+        "url": "https://www.washingtonpost.com/weather/2026/07/23/some-tropical-storm-berthas-worst-weather-is-800-miles-inland/",
+        "source": "The Washington Post"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "heath ledger",
-    "titleZh": "希斯·莱杰",
-    "traffic": "500+",
-    "started": "Wed, 22 Jul 2026 20:50:00 -0700",
-    "summary": "相关新闻主要集中在：《奥德赛》的萨曼莎·莫顿扮演喀耳刻就像她以前见过并爱过奥德修斯一样。",
-    "explanation": "Google Trends 显示“希斯·莱杰”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《奥德赛》的萨曼莎·莫顿扮演喀耳刻就像她以前见过并爱过奥德修斯一样。这些报道来自 Vulture 等媒体，因此带动了集中搜索。",
+    "title": "jeff hays dungeon crawler carl",
+    "titleZh": "杰夫·海斯 地下城探索者 卡尔",
+    "traffic": "2000+",
+    "started": "Thu, 23 Jul 2026 19:50:00 -0700",
+    "summary": "相关新闻主要集中在：赛斯·格林想加入《地下城爬行者卡尔》真人系列：“我会塑造一个非常好的莫迪凯”。",
+    "explanation": "Google Trends 显示“杰夫·海斯 地下城探索者 卡尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：赛斯·格林想加入《地下城爬行者卡尔》真人系列：“我会塑造一个非常好的莫迪凯”。这些报道来自 Variety 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "The Odyssey’s Samantha Morton Played Circe Like She Had Met and Loved Odysseus Before",
-        "url": "https://www.vulture.com/article/samantha-morton-played-circe-like-shed-met-odysseus-before.html",
-        "source": "Vulture"
+        "title": "Seth Green Wants to Join the ‘Dungeon Crawler Carl’ Live-Action Series: ‘I’d Make a Really Good Mordecai’",
+        "url": "https://variety.com/2026/tv/news/dungeon-crawler-carl-tv-series-seth-green-mordecai-1236810542/",
+        "source": "Variety"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "diego luna",
-    "titleZh": "迭戈月亮",
-    "traffic": "500+",
-    "started": "Wed, 22 Jul 2026 20:50:00 -0700",
-    "summary": "相关新闻主要集中在：带着“口中的骨灰”去西班牙。",
-    "explanation": "Google Trends 显示“迭戈月亮”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：带着“口中的骨灰”去西班牙。这些报道来自 El Mañana de Reynosa 等媒体，因此带动了集中搜索。",
+    "title": "vaccines",
+    "titleZh": "疫苗",
+    "traffic": "1000+",
+    "started": "Thu, 23 Jul 2026 19:40:00 -0700",
+    "summary": "相关新闻主要集中在：美国麻疹病例创35年新高 距离2026年还有几个月。",
+    "explanation": "Google Trends 显示“疫苗”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：美国麻疹病例创35年新高 距离2026年还有几个月。这些报道来自 The Washington Post 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "A España con \"Ceniza en la boca\"",
-        "url": "https://www.elmanana.com/escena/famosos/pelicula-sobre-migracion-mexicana-en-espana-competira-en-san-sebastian/6163156",
-        "source": "El Mañana de Reynosa"
+        "title": "U.S. measles cases hit 35-year record with months left in 2026",
+        "url": "https://www.washingtonpost.com/health/2026/07/21/us-measles-cases-hit-35-year-record-with-months-left-2026/",
+        "source": "The Washington Post"
       }
     ]
   }
