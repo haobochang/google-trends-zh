@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "kentavious caldwell-pope",
-    "titleZh": "肯塔维厄斯·考德威尔·波普",
-    "traffic": "1000+",
-    "started": "Fri, 24 Jul 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：76人队很快就会以几乎免费的方式抢走勒布朗的前冠军队友。",
-    "explanation": "Google Trends 显示“肯塔维厄斯·考德威尔·波普”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：76人队很快就会以几乎免费的方式抢走勒布朗的前冠军队友。这些报道来自 The Sixer Sense 等媒体，因此带动了集中搜索。",
+    "title": "mlb trade deadline",
+    "titleZh": "美国职棒大联盟交易截止日期",
+    "traffic": "500+",
+    "started": "Sat, 25 Jul 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：教士队会搬走梅森·米勒吗？。",
+    "explanation": "Google Trends 显示“美国职棒大联盟交易截止日期”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：教士队会搬走梅森·米勒吗？。这些报道来自 MLB Trade Rumors 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "76ers should soon steal LeBron's former champion teammate for almost nothing",
-        "url": "https://thesixersense.com/76ers-soon-steal-lebrons-former-champion-teammate-almost-nothing",
-        "source": "The Sixer Sense"
+        "title": "Will The Padres Move Mason Miller?",
+        "url": "https://www.mlbtraderumors.com/2026/07/will-the-padres-move-mason-miller.html",
+        "source": "MLB Trade Rumors"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "sl-w vs pakw",
-    "titleZh": "SL-W VS PAKW",
+    "title": "citizenship",
+    "titleZh": "国籍",
     "traffic": "500+",
-    "started": "Fri, 24 Jul 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：海鸥·费罗扎 (Gull Feroza) 和西德拉·阿明 (Sidra Amin) 在首次 ODI 比赛中凭借冷静的巴基斯坦击败斯里兰卡，取得了 50 多岁的成绩。",
-    "explanation": "Google Trends 显示“SL-W VS PAKW”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：海鸥·费罗扎 (Gull Feroza) 和西德拉·阿明 (Sidra Amin) 在首次 ODI 比赛中凭借冷静的巴基斯坦击败斯里兰卡，取得了 50 多岁的成绩。这些报道来自 Dawn 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 25 Jul 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：两年前，马可·梅隆 (Marco Mellone) 就已经指出了现在将意大利公民身份置于欧洲司法面前的道路。",
+    "explanation": "Google Trends 显示“国籍”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：两年前，马可·梅隆 (Marco Mellone) 就已经指出了现在将意大利公民身份置于欧洲司法面前的道路。这些报道来自 Revista Insieme 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Gull Feroza, Sidra Amin smash fifties as clinical Pakistan down Sri Lanka in first ODI",
-        "url": "https://www.dawn.com/news/2017912",
-        "source": "Dawn"
+        "title": "Two years earlier, Marco Mellone had already pointed the way that now brings Italian citizenship before European justice",
+        "url": "https://www.insieme.com.br/en/dois-anos-antes-marco-mellone-ja-apontava-o-caminho-que-agora-leva-a-cidadania-italiana-a-justica-europeia/",
+        "source": "Revista Insieme"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "jaafar jackson",
-    "titleZh": "贾法尔·杰克逊",
+    "title": "sdfc",
+    "titleZh": "SDFC",
     "traffic": "500+",
-    "started": "Fri, 24 Jul 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：贾法尔·杰克逊 (Jaafar Jackson) 在吉米·坎梅尔现场 (Jimmy Kimmel Live) 上佩戴大圆满！。",
-    "explanation": "Google Trends 显示“贾法尔·杰克逊”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：贾法尔·杰克逊 (Jaafar Jackson) 在吉米·坎梅尔现场 (Jimmy Kimmel Live) 上佩戴大圆满！。这些报道来自 Red Carpet Fashion Awards 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 25 Jul 2026 20:30:00 -0700",
+    "summary": "相关新闻主要集中在：圣地亚哥从哥本哈根足球俱乐部签下突尼斯国脚边锋。",
+    "explanation": "Google Trends 显示“SDFC”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：圣地亚哥从哥本哈根足球俱乐部签下突尼斯国脚边锋。这些报道来自 Flashscore.co.za 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Jaafar Jackson Wore Dzojchen On Jimmy Kimmel Live!",
-        "url": "https://www.redcarpet-fashionawards.com/2026/07/21/jaafar-jackson-wore-dzojchen-on-jimmy-kimmel-live/",
-        "source": "Red Carpet Fashion Awards"
+        "title": "San Diego sign Tunesian international winger from FC Copenhagen",
+        "url": "https://www.flashscore.co.za/news/soccer-mls-san-diego-sign-tunesian-international-winger-from-fc-copenhagen/W2ysB11f/",
+        "source": "Flashscore.co.za"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "naira",
-    "titleZh": "奈拉",
-    "traffic": "2000+",
-    "started": "Fri, 24 Jul 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：尼日利亚奈拉上涨，官方汇率收于 N1367。",
-    "explanation": "Google Trends 显示“奈拉”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：尼日利亚奈拉上涨，官方汇率收于 N1367。这些报道来自 MarketForces Africa 等媒体，因此带动了集中搜索。",
+    "title": "curtis mead",
+    "titleZh": "柯蒂斯·米德",
+    "traffic": "20000+",
+    "started": "Sat, 25 Jul 2026 20:10:00 -0700",
+    "summary": "相关新闻主要集中在：报告：红袜队提前向 Nats 交易米德。",
+    "explanation": "Google Trends 显示“柯蒂斯·米德”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：报告：红袜队提前向 Nats 交易米德。这些报道来自 NBC Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Nigerian Naira Rallies, Official Exchange Rate Closes At N1367",
-        "url": "https://dmarketforces.com/nigerian-naira-rallies-official-exchange-rate-closes-at-n1367/",
-        "source": "MarketForces Africa"
+        "title": "Report: Red Sox trading Early to Nats for Mead",
+        "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-25/report-red-sox-trading-early-to-nats-for-mead",
+        "source": "NBC Sports"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "zendaya",
-    "titleZh": "这条链",
-    "traffic": "5000+",
-    "started": "Fri, 24 Jul 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：丈夫和妻子#TomHolland 和#Zendaya 在新蜘蛛侠电影的首映式上齐聚，看起来一如既往的精致😍！ （📸：@gettyimages）✍🏾：#TSRStaffST。",
-    "explanation": "Google Trends 显示“这条链”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：丈夫和妻子#TomHolland 和#Zendaya 在新蜘蛛侠电影的首映式上齐聚，看起来一如既往的精致😍！ （📸：@gettyimages）✍🏾：#TSRStaffST。这些报道来自 Instagram 等媒体，因此带动了集中搜索。",
+    "title": "tottenham",
+    "titleZh": "托特纳姆热刺",
+    "traffic": "2000+",
+    "started": "Sat, 25 Jul 2026 20:10:00 -0700",
+    "summary": "相关新闻主要集中在：托特纳姆热刺队对阵奥克兰队的上半场球员评分——格雷和唐利令人印象深刻，威廉姆斯-巴内特表现出色。",
+    "explanation": "Google Trends 显示“托特纳姆热刺”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：托特纳姆热刺队对阵奥克兰队的上半场球员评分——格雷和唐利令人印象深刻，威廉姆斯-巴内特表现出色。这些报道来自 Football London 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Husband and wife #TomHolland and #Zendaya pull up together at the premiere of the new Spider-Man movie looking dapper as ever 😍! (📸: @gettyimages) ✍🏾: #TSRStaffST",
-        "url": "https://www.instagram.com/p/DbLcVsKDtLg/",
-        "source": "Instagram"
+        "title": "Tottenham first half player ratings vs Auckland - Gray and Donley impress with Williams-Barnett bright",
+        "url": "https://www.football.london/tottenham-hotspur-fc/fixtures-results/tottenham-first-half-player-ratings-34353171",
+        "source": "Football London"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "jacob elordi",
-    "titleZh": "雅各布·埃洛迪",
-    "traffic": "1000+",
-    "started": "Fri, 24 Jul 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：“一切都感觉不同”：据报道肯达尔·詹纳相信演员雅各布·艾洛迪可能是“那个人”。",
-    "explanation": "Google Trends 显示“雅各布·埃洛迪”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：“一切都感觉不同”：据报道肯达尔·詹纳相信演员雅各布·艾洛迪可能是“那个人”。这些报道来自 inkl 等媒体，因此带动了集中搜索。",
+    "title": "j b pritzker",
+    "titleZh": "J·B·普利兹克",
+    "traffic": "2000+",
+    "started": "Sat, 25 Jul 2026 20:00:00 -0700",
+    "summary": "相关新闻主要集中在：南伊利诺伊州美国检察官 Weinhoeft 宣布联邦法院胜诉违宪的伊利诺伊州庇护州政策。",
+    "explanation": "Google Trends 显示“J·B·普利兹克”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：南伊利诺伊州美国检察官 Weinhoeft 宣布联邦法院胜诉违宪的伊利诺伊州庇护州政策。这些报道来自 WJBD 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "'Everything Feels Different': Kendall Jenner Reportedly Believes Actor Jacob Elordi Might Be 'The One'",
-        "url": "https://www.inkl.com/news/everything-feels-different-kendall-jenner-reportedly-believes-actor-jacob-elordi-might-be-the-one",
-        "source": "inkl"
+        "title": "Southern Illinois US Attorney Weinhoeft Announces Federal Court Victory Over Unconstitutional Illinois Sanctuary State Policy",
+        "url": "https://southernillinoisnow.com/2026/07/25/southern-illinois-us-attorney-weinhoeft-announces-federal-court-victory-over-unconstitutional-illinois-sanctuary-state-policy/",
+        "source": "WJBD"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "colman domingo",
-    "titleZh": "科尔曼星期日报",
-    "traffic": "1000+",
-    "started": "Fri, 24 Jul 2026 20:50:00 -0700",
-    "summary": "相关新闻主要集中在：埃隆·马斯克表示 Grok 将在今年年底制作一部“历史准确”的人工智能电影《奥德赛》。",
-    "explanation": "Google Trends 显示“科尔曼星期日报”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：埃隆·马斯克表示 Grok 将在今年年底制作一部“历史准确”的人工智能电影《奥德赛》。这些报道来自 Variety 等媒体，因此带动了集中搜索。",
+    "title": "powerball drawing",
+    "titleZh": "强力球绘图",
+    "traffic": "2000+",
+    "started": "Sat, 25 Jul 2026 20:00:00 -0700",
+    "summary": "相关新闻主要集中在：强力球：查看周六 6 亿美元抽奖的中奖号码。",
+    "explanation": "Google Trends 显示“强力球绘图”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：强力球：查看周六 6 亿美元抽奖的中奖号码。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Elon Musk Says Grok Will Make an AI ‘Odyssey’ Film That Is ‘Historically Accurate’ by the End of the Year",
-        "url": "https://variety.com/2026/film/global/elon-musk-grok-ai-odyssey-film-historically-accurate-1236817856/",
-        "source": "Variety"
+        "title": "Powerball: See the winning numbers in Saturday’s $600 million drawing",
+        "url": "https://www.yahoo.com/news/us/articles/powerball-see-winning-numbers-saturday-033554425.html",
+        "source": "Yahoo"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "utah lake fireworks",
-    "titleZh": "犹他湖烟花",
-    "traffic": "500+",
-    "started": "Fri, 24 Jul 2026 20:50:00 -0700",
-    "summary": "相关新闻主要集中在：犹他州各城市在先锋日之前采取不同的烟花限制措施。",
-    "explanation": "Google Trends 显示“犹他湖烟花”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：犹他州各城市在先锋日之前采取不同的烟花限制措施。这些报道来自 KUTV 等媒体，因此带动了集中搜索。",
+    "title": "elize matsunaga",
+    "titleZh": "埃莉兹·纲永",
+    "traffic": "1000+",
+    "started": "Sat, 25 Jul 2026 20:00:00 -0700",
+    "summary": "相关新闻主要集中在：马科斯·松永的第一任妻子和第一个女儿发生了什么。",
+    "explanation": "Google Trends 显示“埃莉兹·纲永”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：马科斯·松永的第一任妻子和第一个女儿发生了什么。这些报道来自 R7 Entretenimento 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Utah cities take different approaches to fireworks restrictions ahead of Pioneer Day",
-        "url": "https://kutv.com/news/local/utah-cities-take-different-approaches-to-fireworks-restrictions-ahead-of-pioneer-day",
-        "source": "KUTV"
+        "title": "O que aconteceu com 1ª esposa e 1ª filha de Marcos Matsunaga",
+        "url": "https://entretenimento.r7.com/bebe-mamae/o-que-aconteceu-com-1-esposa-e-1-filha-de-marcos-matsunaga-23072026/",
+        "source": "R7 Entretenimento"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "sony playstation network outage",
-    "titleZh": "索尼游戏机网络中断",
-    "traffic": "20000+",
-    "started": "Fri, 24 Jul 2026 20:40:00 -0700",
-    "summary": "相关新闻主要集中在：PlayStation 网络现在宕机了吗？玩家报告 PSN 问题。",
-    "explanation": "Google Trends 显示“索尼游戏机网络中断”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：PlayStation 网络现在宕机了吗？玩家报告 PSN 问题。这些报道来自 VICE 等媒体，因此带动了集中搜索。",
+    "title": "santos laguna vs atlas",
+    "titleZh": "桑托斯拉古纳 vs 阿特拉斯历史战绩",
+    "traffic": "5000+",
+    "started": "Sat, 25 Jul 2026 19:50:00 -0700",
+    "summary": "相关新闻主要集中在：桑托斯拉古纳 vs 阿特拉斯足球俱乐部：预测、推荐、赔率和统计数据。",
+    "explanation": "Google Trends 显示“桑托斯拉古纳 vs 阿特拉斯历史战绩”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：桑托斯拉古纳 vs 阿特拉斯足球俱乐部：预测、推荐、赔率和统计数据。这些报道来自 Squawka 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Is PlayStation Network Down Right Now? Players Report PSN Issues",
-        "url": "https://www.vice.com/en/article/is-playstation-network-down-right-now/",
-        "source": "VICE"
+        "title": "Santos Laguna vs Atlas FC: Predictions, Picks, Odds & Stats",
+        "url": "https://www.squawka.com/us/news/liga-mx/match-preview-santos-laguna-vs-atlas-07-25-26-liga-mx/",
+        "source": "Squawka"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "florence pugh",
-    "titleZh": "弗洛伦斯·普格",
-    "traffic": "500+",
-    "started": "Fri, 24 Jul 2026 20:40:00 -0700",
-    "summary": "相关新闻主要集中在：Florence Pugh 穿着低调灯芯绒运动鞋庆祝《复仇者联盟：世界末日》预告片发布。",
-    "explanation": "Google Trends 显示“弗洛伦斯·普格”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Florence Pugh 穿着低调灯芯绒运动鞋庆祝《复仇者联盟：世界末日》预告片发布。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
+    "title": "tigres - san luis",
+    "titleZh": "老虎 - 圣路易斯",
+    "traffic": "20000+",
+    "started": "Sat, 25 Jul 2026 19:40:00 -0700",
+    "summary": "相关新闻主要集中在：布鲁内塔、奥齐尔和“Chicha”将成为老虎队的进攻。",
+    "explanation": "Google Trends 显示“老虎 - 圣路易斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：布鲁内塔、奥齐尔和“Chicha”将成为老虎队的进攻。这些报道来自 El Norte 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Florence Pugh Celebrates the ‘Avengers: Doomsday’ Trailer Release in Low-profile Corduroy Sneakers",
-        "url": "https://shopping.yahoo.com/style/shoes/articles/florence-pugh-celebrates-avengers-doomsday-201922490.html",
-        "source": "Yahoo"
+        "title": "Brunetta, Ozziel y 'Chicha' serán la ofensiva de Tigres",
+        "url": "https://www.elnorte.com/brunetta-ozziel-y-chicha-seranla-ofensiva-de-tigres/ar3246917",
+        "source": "El Norte"
       }
     ]
   }
