@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "vladimir putin",
-    "titleZh": "弗拉基米尔·普京",
+    "title": "coleman wong",
+    "titleZh": "黄科尔曼",
     "traffic": "200+",
-    "started": "Sun, 26 Jul 2026 21:30:00 -0700",
-    "summary": "相关新闻主要集中在：普京声称乌克兰将失去西部土地，乌克兰每个人都“互相争吵”。",
-    "explanation": "Google Trends 显示“弗拉基米尔·普京”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：普京声称乌克兰将失去西部土地，乌克兰每个人都“互相争吵”。这些报道来自 Українська правда 等媒体，因此带动了集中搜索。",
+    "started": "Mon, 27 Jul 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：体育新闻、转会、比分 |观看体育赛事直播。",
+    "explanation": "Google Trends 显示“黄科尔曼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：体育新闻、转会、比分 |观看体育赛事直播。这些报道来自 Sky Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Putin claims Ukraine will lose western lands and that everyone in Ukraine \"has fallen out with each other\"",
-        "url": "https://www.pravda.com.ua/eng/news/2026/07/26/8045999/",
-        "source": "Українська правда"
+        "title": "Sports News, Transfers, Scores | Watch Live Sport",
+        "url": "https://www.skysports.com/tennis/watch/5961838123982918112/mifel-tennis-open-by-telcel-oppo-2026",
+        "source": "Sky Sports"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "rick and morty season 9 episode 10",
-    "titleZh": "瑞克和莫蒂第九季第10集",
-    "traffic": "200+",
-    "started": "Sun, 26 Jul 2026 21:30:00 -0700",
-    "summary": "相关新闻主要集中在：瑞克和莫蒂第 9 季第 9 集剧透回顾：“向你的死者致敬”。",
-    "explanation": "Google Trends 显示“瑞克和莫蒂第九季第10集”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：瑞克和莫蒂第 9 季第 9 集剧透回顾：“向你的死者致敬”。这些报道来自 IMDb 等媒体，因此带动了集中搜索。",
+    "title": "aquarius full moon astrology",
+    "titleZh": "水瓶座满月占星术",
+    "traffic": "1000+",
+    "started": "Mon, 27 Jul 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：本周雄鹿满月升起：在它达到顶峰之前要知道什么。",
+    "explanation": "Google Trends 显示“水瓶座满月占星术”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：本周雄鹿满月升起：在它达到顶峰之前要知道什么。这些报道来自 Click2Houston 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Rick and Morty Season 9 Episode 9 Spoiler Recap: “Salute Your Morts”",
-        "url": "https://www.imdb.com/news/ni65936005/?ref_=ttnw_art_perm",
-        "source": "IMDb"
+        "title": "Full Buck Moon rises this week: What to know before it peaks",
+        "url": "https://www.click2houston.com/weather/2026/07/27/full-buck-moon-rises-this-week-what-to-know-before-it-peaks/",
+        "source": "Click2Houston"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "furious hulu",
-    "titleZh": "愤怒的葫芦",
+    "title": "lollapalooza",
+    "titleZh": "洛拉帕卢萨",
     "traffic": "500+",
-    "started": "Sun, 26 Jul 2026 21:20:00 -0700",
-    "summary": "相关新闻主要集中在：艾美·罗森 (Emmy Rossum) 畅谈《无耻之徒》同工同酬的自豪感以及演员们的持久纽带（独家）。",
-    "explanation": "Google Trends 显示“愤怒的葫芦”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：艾美·罗森 (Emmy Rossum) 畅谈《无耻之徒》同工同酬的自豪感以及演员们的持久纽带（独家）。这些报道来自 Extra 等媒体，因此带动了集中搜索。",
+    "started": "Mon, 27 Jul 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：以下是您需要了解的有关 SB19 美国和日本赛程表的所有信息。",
+    "explanation": "Google Trends 显示“洛拉帕卢萨”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：以下是您需要了解的有关 SB19 美国和日本赛程表的所有信息。这些报道来自 When In Manila 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Emmy Rossum on Pride Over ‘Shameless’ Equal Pay Win & Cast’s Lasting Bond (Exclusive)",
-        "url": "https://extratv.com/2026/07/24/emmy-rossum-on-pride-over-shameless-equal-pay-win-and-cast-s-lasting-bond-exclusive/",
-        "source": "Extra"
+        "title": "Here’s Everything You Need to Know About SB19’s US and Japan Schedule",
+        "url": "https://www.wheninmanila.com/sb19-us-japan-schedule/",
+        "source": "When In Manila"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "luis chaparro",
-    "titleZh": "路易斯·查帕罗",
-    "traffic": "200+",
-    "started": "Sun, 26 Jul 2026 21:20:00 -0700",
-    "summary": "相关新闻主要集中在：路易斯·查帕罗是谁？拥有超过 800 万粉丝的网红于 2026 年抵达 La Casa de los Famosos。",
-    "explanation": "Google Trends 显示“路易斯·查帕罗”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：路易斯·查帕罗是谁？拥有超过 800 万粉丝的网红于 2026 年抵达 La Casa de los Famosos。这些报道来自 Debate 等媒体，因此带动了集中搜索。",
+    "title": "john fetterman",
+    "titleZh": "约翰·费特曼",
+    "traffic": "2000+",
+    "started": "Mon, 27 Jul 2026 20:40:00 -0700",
+    "summary": "相关新闻主要集中在：费特曼转而反对消除参议院阻挠议事，称这迫使妥协。",
+    "explanation": "Google Trends 显示“约翰·费特曼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：费特曼转而反对消除参议院阻挠议事，称这迫使妥协。这些报道来自 TribLIVE.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "¿Quién es Luis Chaparro? El influencer con más de 8 millones de seguidores que llegó a La Casa de los Famosos 2026",
-        "url": "https://www.debate.com.mx/tendencias/quien-es-luis-chaparro-el-influencer-con-mas-de-8-millones-de-seguidores-que-llego-a-la-casa-de-los-famosos-2026-20260726-0212.html",
-        "source": "Debate"
+        "title": "Fetterman flips to oppose eliminating Senate filibusters, saying they force compromise",
+        "url": "https://triblive.com/news/pennsylvania/fetterman-flips-to-oppose-eliminating-senate-filibusters-saying-they-force-compromise/",
+        "source": "TribLIVE.com"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "xbox outage",
-    "titleZh": "Xbox 中断",
-    "traffic": "1000+",
-    "started": "Sun, 26 Jul 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：微软光纤故障导致加州 Azure 中断近五个小时。",
-    "explanation": "Google Trends 显示“Xbox 中断”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：微软光纤故障导致加州 Azure 中断近五个小时。这些报道来自 The Register 等媒体，因此带动了集中搜索。",
+    "title": "phil mickelson",
+    "titleZh": "菲尔·米克尔森",
+    "traffic": "500+",
+    "started": "Mon, 27 Jul 2026 20:20:00 -0700",
+    "summary": "相关新闻主要集中在：2026 年火箭经典赛赔率、精选：经过验证的高尔夫模型揭示了预测的排行榜，令人惊讶的预测。",
+    "explanation": "Google Trends 显示“菲尔·米克尔森”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：2026 年火箭经典赛赔率、精选：经过验证的高尔夫模型揭示了预测的排行榜，令人惊讶的预测。这些报道来自 SportsLine 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Microsoft fiber foul-up cut off Azure California for almost five hours",
-        "url": "https://www.theregister.com/off-prem/2026/07/24/microsoft-fiber-foul-up-cut-off-azure-california-for-almost-five-hours/5277945",
-        "source": "The Register"
+        "title": "2026 Rocket Classic odds, picks: Proven golf model reveals projected leaderboard, surprising predictions",
+        "url": "https://www.sportsline.com/insiders/2026-rocket-classic-odds-picks-proven-golf-model-reveals-projected-leaderboard-surprising-predictions/",
+        "source": "SportsLine"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "ernesto laguardia",
-    "titleZh": "埃内斯托·拉瓜迪亚",
+    "title": "ceddanne rafaela",
+    "titleZh": "塞丹·拉斐拉",
     "traffic": "500+",
-    "started": "Sun, 26 Jul 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：这是埃内斯托·拉瓜迪亚 (Ernesto Laguardia) 的豪华住宅，进入 La Casa de los Famosos 时必须离开它 |视频。",
-    "explanation": "Google Trends 显示“埃内斯托·拉瓜迪亚”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：这是埃内斯托·拉瓜迪亚 (Ernesto Laguardia) 的豪华住宅，进入 La Casa de los Famosos 时必须离开它 |视频。这些报道来自 El Heraldo de México 等媒体，因此带动了集中搜索。",
+    "started": "Mon, 27 Jul 2026 20:20:00 -0700",
+    "summary": "相关新闻主要集中在：红袜队和国民队开始了贸易赛季，教士队和老虎队决定了他们的最后期限命运，埃里克·费德谈论了白袜队和 Pop-A-Shot。",
+    "explanation": "Google Trends 显示“塞丹·拉斐拉”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：红袜队和国民队开始了贸易赛季，教士队和老虎队决定了他们的最后期限命运，埃里克·费德谈论了白袜队和 Pop-A-Shot。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Esta es la LUJOSA casa de Ernesto Laguardia que deberá abandonar al entrar a La Casa de los Famosos | VIDEOS",
-        "url": "https://heraldodemexico.com.mx/espectaculos/2026/7/26/esta-es-la-lujosa-casa-de-ernesto-laguardia-que-debera-abandonar-al-entrar-la-casa-de-los-famosos-videos-857008.html",
-        "source": "El Heraldo de México"
+        "title": "Red Sox & Nationals kick off trade season, Padres & Tigers determine their deadline fate and Erick Fedde talks White Sox & Pop-A-Shot",
+        "url": "https://sports.yahoo.com/mlb/article/red-sox--nationals-kick-off-trade-season-padres--tigers-determine-their-deadline-fate-and-erick-fedde-talks-white-sox--pop-a-shot-180752508.html",
+        "source": "Yahoo Sports"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "ximena herrera",
-    "titleZh": "希梅娜·埃雷拉",
+    "title": "grant mccray",
+    "titleZh": "格兰特·麦克雷",
     "traffic": "500+",
-    "started": "Sun, 26 Jul 2026 20:50:00 -0700",
-    "summary": "相关新闻主要集中在：认识 Ximena Herrera：La Casa de los Famosos 2026 中的优雅、职业和力量。",
-    "explanation": "Google Trends 显示“希梅娜·埃雷拉”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：认识 Ximena Herrera：La Casa de los Famosos 2026 中的优雅、职业和力量。这些报道来自 Soy Carmín 等媒体，因此带动了集中搜索。",
+    "started": "Mon, 27 Jul 2026 20:20:00 -0700",
+    "summary": "相关新闻主要集中在：泰勒·马勒对阵酿酒人队的比赛。",
+    "explanation": "Google Trends 显示“格兰特·麦克雷”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：泰勒·马勒对阵酿酒人队的比赛。这些报道来自 MLB.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Conoce a Ximena Herrera: Elegancia, trayectoria y fortaleza dentro de La Casa de los Famosos 2026",
-        "url": "https://www.soycarmin.com/trendy/conoce-a-ximena-herrera-elegancia-trayectoria-y-fortaleza-dentro-de-la-casa-de-los-famosos-2026-20260726-0002.html",
-        "source": "Soy Carmín"
+        "title": "Tyler Mahle's outing against the Brewers",
+        "url": "https://www.mlb.com/giants/video/tyler-mahle-s-outing-against-the-brewers",
+        "source": "MLB.com"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "cynthia klitbo",
-    "titleZh": "辛西娅·克里博",
-    "traffic": "500+",
-    "started": "Sun, 26 Jul 2026 20:50:00 -0700",
-    "summary": "相关新闻主要集中在：辛西娅·克利特博 (Cynthia Klitbo) 已经为墨西哥 La Casa de los Famosos 找到了她的第一个提名人。",
-    "explanation": "Google Trends 显示“辛西娅·克里博”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：辛西娅·克利特博 (Cynthia Klitbo) 已经为墨西哥 La Casa de los Famosos 找到了她的第一个提名人。这些报道来自 El Heraldo de México 等媒体，因此带动了集中搜索。",
+    "title": "powerball drawing",
+    "titleZh": "强力球绘图",
+    "traffic": "1000+",
+    "started": "Mon, 27 Jul 2026 20:20:00 -0700",
+    "summary": "相关新闻主要集中在：昨晚，7 月 25 日强力球号码。有人中了大奖吗？。",
+    "explanation": "Google Trends 显示“强力球绘图”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：昨晚，7 月 25 日强力球号码。有人中了大奖吗？。这些报道来自 Akron Beacon Journal 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Cynthia Klitbo ya tiene a su primer nominado para La Casa de los Famosos México",
-        "url": "https://heraldodemexico.com.mx/espectaculos/2026/7/26/cynthia-klitbo-ya-tiene-su-primer-nominado-para-la-casa-de-los-famosos-mexico-857128.html",
-        "source": "El Heraldo de México"
+        "title": "Powerball numbers last night, July 25. Did anyone win the jackpot?",
+        "url": "https://www.beaconjournal.com/story/news/lottery/2026/07/26/did-anyone-win-powerball-last-night-see-july-25-powerball-numbers/91054270007/",
+        "source": "Akron Beacon Journal"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "eagle",
-    "titleZh": "鹰",
+    "title": "michael landon",
+    "titleZh": "迈克尔·兰登",
     "traffic": "500+",
-    "started": "Sun, 26 Jul 2026 20:40:00 -0700",
-    "summary": "相关新闻主要集中在：来认识一下秃头鹰“Spirit”吧，它为杰基提供了“救命”献血。",
-    "explanation": "Google Trends 显示“鹰”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：来认识一下秃头鹰“Spirit”吧，它为杰基提供了“救命”献血。这些报道来自 KTLA 等媒体，因此带动了集中搜索。",
+    "started": "Mon, 27 Jul 2026 20:20:00 -0700",
+    "summary": "相关新闻主要集中在：《草原小屋》可能是美国经典，但新剧却在美丽的加拿大拍摄。",
+    "explanation": "Google Trends 显示“迈克尔·兰登”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《草原小屋》可能是美国经典，但新剧却在美丽的加拿大拍摄。这些报道来自 Condé Nast Traveler 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Meet Spirit, the bald eagle who gave Jackie a ‘life-saving’ blood donation",
-        "url": "https://ktla.com/news/california/meet-spirit-the-bald-eagle-who-gave-jackie-a-life-saving-blood-donation/",
-        "source": "KTLA"
+        "title": "Little House on the Prairie May Be an American Classic, But the New Series Was Filmed in Beautiful Canada",
+        "url": "https://www.cntraveler.com/story/little-house-on-the-prairie-may-be-an-american-classic-but-the-new-series-was-filmed-in-beautiful-canada",
+        "source": "Condé Nast Traveler"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "peyton watson",
-    "titleZh": "佩顿·沃森",
-    "traffic": "500+",
-    "started": "Sun, 26 Jul 2026 20:40:00 -0700",
-    "summary": "相关新闻主要集中在：佩顿·沃森最新消息：我所听到的关于掘金队有趣的受限制自由球员的消息。",
-    "explanation": "Google Trends 显示“佩顿·沃森”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：佩顿·沃森最新消息：我所听到的关于掘金队有趣的受限制自由球员的消息。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
+    "title": "alex bregman",
+    "titleZh": "亚历克斯·布雷格曼",
+    "traffic": "1000+",
+    "started": "Mon, 27 Jul 2026 20:00:00 -0700",
+    "summary": "相关新闻主要集中在：小熊队的亚历克斯·布雷格曼：周日将担任替补。",
+    "explanation": "Google Trends 显示“亚历克斯·布雷格曼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：小熊队的亚历克斯·布雷格曼：周日将担任替补。这些报道来自 CBS Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Peyton Watson latest: What I’m hearing about Nuggets’ intriguing restricted free agent",
-        "url": "https://www.nytimes.com/athletic/7451203/2026/07/17/peyton-watson-nuggets-free-agency-bucks/",
-        "source": "The New York Times"
+        "title": "Cubs' Alex Bregman: Heading to bench Sunday",
+        "url": "https://www.cbssports.com/fantasy/baseball/news/cubs-alex-bregman-heading-to-bench-sunday/",
+        "source": "CBS Sports"
       }
     ]
   }
