@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "coleman wong",
-    "titleZh": "黄科尔曼",
-    "traffic": "200+",
-    "started": "Mon, 27 Jul 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：体育新闻、转会、比分 |观看体育赛事直播。",
-    "explanation": "Google Trends 显示“黄科尔曼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：体育新闻、转会、比分 |观看体育赛事直播。这些报道来自 Sky Sports 等媒体，因此带动了集中搜索。",
+    "title": "wnba scores",
+    "titleZh": "WNBA分数",
+    "traffic": "1000+",
+    "started": "Tue, 28 Jul 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：报告：Tempo 优先提供未来的岗位帮助。",
+    "explanation": "Google Trends 显示“WNBA分数”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：报告：Tempo 优先提供未来的岗位帮助。这些报道来自 TSN 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Sports News, Transfers, Scores | Watch Live Sport",
-        "url": "https://www.skysports.com/tennis/watch/5961838123982918112/mifel-tennis-open-by-telcel-oppo-2026",
-        "source": "Sky Sports"
+        "title": "Report: Tempo offering future first for post help",
+        "url": "https://www.tsn.ca/wnba/article/report-tempo-offering-future-first-for-post-help/",
+        "source": "TSN"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "aquarius full moon astrology",
-    "titleZh": "水瓶座满月占星术",
-    "traffic": "1000+",
-    "started": "Mon, 27 Jul 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：本周雄鹿满月升起：在它达到顶峰之前要知道什么。",
-    "explanation": "Google Trends 显示“水瓶座满月占星术”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：本周雄鹿满月升起：在它达到顶峰之前要知道什么。这些报道来自 Click2Houston 等媒体，因此带动了集中搜索。",
+    "title": "dominic canzone",
+    "titleZh": "多米尼克·宋",
+    "traffic": "500+",
+    "started": "Tue, 28 Jul 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：水手队四连败|终极西雅图体育秀。",
+    "explanation": "Google Trends 显示“多米尼克·宋”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：水手队四连败|终极西雅图体育秀。这些报道来自 KING5.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Full Buck Moon rises this week: What to know before it peaks",
-        "url": "https://www.click2houston.com/weather/2026/07/27/full-buck-moon-rises-this-week-what-to-know-before-it-peaks/",
-        "source": "Click2Houston"
+        "title": "Mariners snap 4-game skid | Ultimate Seattle Sports Show",
+        "url": "https://www.king5.com/video/syndication/ott/ultimate-seattle-sports-show/mariners-snap-4-game-skid-ultimate-seattle-sports-show/281-69325b91-13ac-4b2f-99fd-e839bda5128c",
+        "source": "KING5.com"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "lollapalooza",
-    "titleZh": "洛拉帕卢萨",
-    "traffic": "500+",
-    "started": "Mon, 27 Jul 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：以下是您需要了解的有关 SB19 美国和日本赛程表的所有信息。",
-    "explanation": "Google Trends 显示“洛拉帕卢萨”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：以下是您需要了解的有关 SB19 美国和日本赛程表的所有信息。这些报道来自 When In Manila 等媒体，因此带动了集中搜索。",
+    "title": "nneka ogwumike",
+    "titleZh": "医疗助理",
+    "traffic": "200+",
+    "started": "Tue, 28 Jul 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：Nneka Ogwumike 成为 WNBA 全明星赛积分榜历史第一。",
+    "explanation": "Google Trends 显示“医疗助理”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Nneka Ogwumike 成为 WNBA 全明星赛积分榜历史第一。这些报道来自 ESPN 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Here’s Everything You Need to Know About SB19’s US and Japan Schedule",
-        "url": "https://www.wheninmanila.com/sb19-us-japan-schedule/",
-        "source": "When In Manila"
+        "title": "Nneka Ogwumike becomes all-time leader in WNBA All-Star Game points",
+        "url": "https://www.espn.com.au/video/clip/_/id/49450930/nneka-ogwumike-becomes-all-leader-wnba-all-star-game-points",
+        "source": "ESPN"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "john fetterman",
-    "titleZh": "约翰·费特曼",
-    "traffic": "2000+",
-    "started": "Mon, 27 Jul 2026 20:40:00 -0700",
-    "summary": "相关新闻主要集中在：费特曼转而反对消除参议院阻挠议事，称这迫使妥协。",
-    "explanation": "Google Trends 显示“约翰·费特曼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：费特曼转而反对消除参议院阻挠议事，称这迫使妥协。这些报道来自 TribLIVE.com 等媒体，因此带动了集中搜索。",
+    "title": "jimmy fallon",
+    "titleZh": "吉米法伦",
+    "traffic": "200+",
+    "started": "Tue, 28 Jul 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：可授权图片：7 月 26 日发布的照片​​中，美国参议员米奇·麦康奈尔（肯塔基州共和党）与妻子坐在一起。",
+    "explanation": "Google Trends 显示“吉米法伦”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：可授权图片：7 月 26 日发布的照片​​中，美国参议员米奇·麦康奈尔（肯塔基州共和党）与妻子坐在一起。这些报道来自 Reuters Connect 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Fetterman flips to oppose eliminating Senate filibusters, saying they force compromise",
-        "url": "https://triblive.com/news/pennsylvania/fetterman-flips-to-oppose-eliminating-senate-filibusters-saying-they-force-compromise/",
-        "source": "TribLIVE.com"
+        "title": "Licensable picture: U.S. Senator Mitch McConnell (R-KY) sits with his wife in photo released July 26",
+        "url": "https://www.reutersconnect.com/item/us-senator-mitch-mcconnell-r-ky-sits-with-his-wife-in-photo-released-july-26/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkdNTUEzS0tXSg",
+        "source": "Reuters Connect"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "phil mickelson",
-    "titleZh": "菲尔·米克尔森",
-    "traffic": "500+",
-    "started": "Mon, 27 Jul 2026 20:20:00 -0700",
-    "summary": "相关新闻主要集中在：2026 年火箭经典赛赔率、精选：经过验证的高尔夫模型揭示了预测的排行榜，令人惊讶的预测。",
-    "explanation": "Google Trends 显示“菲尔·米克尔森”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：2026 年火箭经典赛赔率、精选：经过验证的高尔夫模型揭示了预测的排行榜，令人惊讶的预测。这些报道来自 SportsLine 等媒体，因此带动了集中搜索。",
+    "title": "iphone 18 release date",
+    "titleZh": "iPhone 18 发布日期",
+    "traffic": "200+",
+    "started": "Tue, 28 Jul 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：iPhone 18 Pro 对于许多用户来说可能是一个毫不费力的升级。",
+    "explanation": "Google Trends 显示“iPhone 18 发布日期”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：iPhone 18 Pro 对于许多用户来说可能是一个毫不费力的升级。这些报道来自 9to5Mac 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "2026 Rocket Classic odds, picks: Proven golf model reveals projected leaderboard, surprising predictions",
-        "url": "https://www.sportsline.com/insiders/2026-rocket-classic-odds-picks-proven-golf-model-reveals-projected-leaderboard-surprising-predictions/",
-        "source": "SportsLine"
+        "title": "iPhone 18 Pro could be a no-brainer upgrade for lots of users",
+        "url": "https://9to5mac.com/2026/07/28/iphone-18-pro-could-be-a-no-brainer-upgrade-for-lots-of-users/",
+        "source": "9to5Mac"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "ceddanne rafaela",
-    "titleZh": "塞丹·拉斐拉",
-    "traffic": "500+",
-    "started": "Mon, 27 Jul 2026 20:20:00 -0700",
-    "summary": "相关新闻主要集中在：红袜队和国民队开始了贸易赛季，教士队和老虎队决定了他们的最后期限命运，埃里克·费德谈论了白袜队和 Pop-A-Shot。",
-    "explanation": "Google Trends 显示“塞丹·拉斐拉”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：红袜队和国民队开始了贸易赛季，教士队和老虎队决定了他们的最后期限命运，埃里克·费德谈论了白袜队和 Pop-A-Shot。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "title": "wnba standings",
+    "titleZh": "WNBA积分榜",
+    "traffic": "2000+",
+    "started": "Tue, 28 Jul 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：第 30 季延伸跑：每支球队需要注意的一件事。",
+    "explanation": "Google Trends 显示“WNBA积分榜”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：第 30 季延伸跑：每支球队需要注意的一件事。这些报道来自 WNBA 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Red Sox & Nationals kick off trade season, Padres & Tigers determine their deadline fate and Erick Fedde talks White Sox & Pop-A-Shot",
-        "url": "https://sports.yahoo.com/mlb/article/red-sox--nationals-kick-off-trade-season-padres--tigers-determine-their-deadline-fate-and-erick-fedde-talks-white-sox--pop-a-shot-180752508.html",
-        "source": "Yahoo Sports"
+        "title": "Season 30 Stretch Run: One Thing to Watch for Each Team",
+        "url": "https://www.wnba.com/news/season-30-stretch-run-one-thing-to-watch",
+        "source": "WNBA"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "grant mccray",
-    "titleZh": "格兰特·麦克雷",
+    "title": "jeff hiller",
+    "titleZh": "杰夫·希勒",
     "traffic": "500+",
-    "started": "Mon, 27 Jul 2026 20:20:00 -0700",
-    "summary": "相关新闻主要集中在：泰勒·马勒对阵酿酒人队的比赛。",
-    "explanation": "Google Trends 显示“格兰特·麦克雷”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：泰勒·马勒对阵酿酒人队的比赛。这些报道来自 MLB.com 等媒体，因此带动了集中搜索。",
+    "started": "Tue, 28 Jul 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：观看：酷儿信仰和归属：杰夫·希勒 (Jeff Hiller) 在 Soul Boom 播客上说道，“社区成了我的教堂。”。",
+    "explanation": "Google Trends 显示“杰夫·希勒”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：观看：酷儿信仰和归属：杰夫·希勒 (Jeff Hiller) 在 Soul Boom 播客上说道，“社区成了我的教堂。”。这些报道来自 GLAAD 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Tyler Mahle's outing against the Brewers",
-        "url": "https://www.mlb.com/giants/video/tyler-mahle-s-outing-against-the-brewers",
-        "source": "MLB.com"
+        "title": "WATCH: Queer Faith and Belonging: Jeff Hiller on the Soul Boom Podcast, “Community became my church.”",
+        "url": "https://glaad.org/watch-queer-faith-and-belonging-jeff-hiller-soul-boom-podcast/",
+        "source": "GLAAD"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "powerball drawing",
-    "titleZh": "强力球绘图",
-    "traffic": "1000+",
-    "started": "Mon, 27 Jul 2026 20:20:00 -0700",
-    "summary": "相关新闻主要集中在：昨晚，7 月 25 日强力球号码。有人中了大奖吗？。",
-    "explanation": "Google Trends 显示“强力球绘图”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：昨晚，7 月 25 日强力球号码。有人中了大奖吗？。这些报道来自 Akron Beacon Journal 等媒体，因此带动了集中搜索。",
+    "title": "pluribus",
+    "titleZh": "对很多人",
+    "traffic": "500+",
+    "started": "Tue, 28 Jul 2026 20:40:00 -0700",
+    "summary": "相关新闻主要集中在：Pluribus 推出新版本，第二季等待仍在继续。",
+    "explanation": "Google Trends 显示“对很多人”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Pluribus 推出新版本，第二季等待仍在继续。这些报道来自 ScreenRant 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Powerball numbers last night, July 25. Did anyone win the jackpot?",
-        "url": "https://www.beaconjournal.com/story/news/lottery/2026/07/26/did-anyone-win-powerball-last-night-see-july-25-powerball-numbers/91054270007/",
-        "source": "Akron Beacon Journal"
+        "title": "Pluribus Unveils New Release As Season 2 Wait Continues",
+        "url": "https://screenrant.com/pluribus-season-1-apple-tv-bloopers-video/",
+        "source": "ScreenRant"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "michael landon",
-    "titleZh": "迈克尔·兰登",
+    "title": "max muncy",
+    "titleZh": "马克斯·蒙西",
     "traffic": "500+",
-    "started": "Mon, 27 Jul 2026 20:20:00 -0700",
-    "summary": "相关新闻主要集中在：《草原小屋》可能是美国经典，但新剧却在美丽的加拿大拍摄。",
-    "explanation": "Google Trends 显示“迈克尔·兰登”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《草原小屋》可能是美国经典，但新剧却在美丽的加拿大拍摄。这些报道来自 Condé Nast Traveler 等媒体，因此带动了集中搜索。",
+    "started": "Tue, 28 Jul 2026 20:30:00 -0700",
+    "summary": "相关新闻主要集中在：道奇队 9-5 费城人队（2026 年 7 月 22 日）比赛回顾。",
+    "explanation": "Google Trends 显示“马克斯·蒙西”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：道奇队 9-5 费城人队（2026 年 7 月 22 日）比赛回顾。这些报道来自 ESPN 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Little House on the Prairie May Be an American Classic, But the New Series Was Filmed in Beautiful Canada",
-        "url": "https://www.cntraveler.com/story/little-house-on-the-prairie-may-be-an-american-classic-but-the-new-series-was-filmed-in-beautiful-canada",
-        "source": "Condé Nast Traveler"
+        "title": "Dodgers 9-5 Phillies (Jul 22, 2026) Game Recap",
+        "url": "https://www.espn.com/mlb/recap/_/gameId/401816217",
+        "source": "ESPN"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "alex bregman",
-    "titleZh": "亚历克斯·布雷格曼",
-    "traffic": "1000+",
-    "started": "Mon, 27 Jul 2026 20:00:00 -0700",
-    "summary": "相关新闻主要集中在：小熊队的亚历克斯·布雷格曼：周日将担任替补。",
-    "explanation": "Google Trends 显示“亚历克斯·布雷格曼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：小熊队的亚历克斯·布雷格曼：周日将担任替补。这些报道来自 CBS Sports 等媒体，因此带动了集中搜索。",
+    "title": "padres game today",
+    "titleZh": "今天教士队比赛",
+    "traffic": "500+",
+    "started": "Tue, 28 Jul 2026 20:30:00 -0700",
+    "summary": "相关新闻主要集中在：费里西亚诺集团提交了教士队出售的最终文件。",
+    "explanation": "Google Trends 显示“今天教士队比赛”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：费里西亚诺集团提交了教士队出售的最终文件。这些报道来自 Sports Business Journal 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Cubs' Alex Bregman: Heading to bench Sunday",
-        "url": "https://www.cbssports.com/fantasy/baseball/news/cubs-alex-bregman-heading-to-bench-sunday/",
-        "source": "CBS Sports"
+        "title": "Feliciano group submits final documentation for Padres sale",
+        "url": "https://www.sportsbusinessjournal.com/Articles/2026/07/22/feliciano-group-submits-final-documentation-for-padres-sale/",
+        "source": "Sports Business Journal"
       }
     ]
   }
