@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "aroldis chapman",
-    "titleZh": "阿罗迪斯·查普曼",
-    "traffic": "2000+",
-    "started": "Thu, 30 Jul 2026 21:20:00 -0700",
-    "summary": "相关新闻主要集中在：红袜队的胜利包括英雄的道歉、险些离场、“大规模”跑垒和祈祷。",
-    "explanation": "Google Trends 显示“阿罗迪斯·查普曼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：红袜队的胜利包括英雄的道歉、险些离场、“大规模”跑垒和祈祷。这些报道来自 MassLive 等媒体，因此带动了集中搜索。",
+    "title": "dillon dingler",
+    "titleZh": "狄龙悬垂",
+    "traffic": "500+",
+    "started": "Fri, 31 Jul 2026 21:20:00 -0700",
+    "summary": "相关新闻主要集中在：老虎田径棒球。",
+    "explanation": "Google Trends 显示“狄龙悬垂”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：老虎田径棒球。这些报道来自 The Herald Journal 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Red Sox win includes the hero apologizing, a near walk-off, ‘massive’ base running and prayers",
-        "url": "https://www.masslive.com/redsox/2026/07/red-sox-win-includes-the-hero-apologizing-a-near-walk-off-massive-base-running-and-prayers.html",
-        "source": "MassLive"
+        "title": "Tigers Athletics Baseball",
+        "url": "https://www.hjnews.com/sports/nation/tigers-athletics-baseball/image_9de862d8-e992-5951-9bef-0a4bc75886b4.html",
+        "source": "The Herald Journal"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "freddie freeman",
-    "titleZh": "弗雷迪·弗里曼",
-    "traffic": "500+",
-    "started": "Thu, 30 Jul 2026 21:20:00 -0700",
-    "summary": "相关新闻主要集中在：道奇队球员弗雷迪·弗里曼：三安打、盗垒获胜。",
-    "explanation": "Google Trends 显示“弗雷迪·弗里曼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：道奇队球员弗雷迪·弗里曼：三安打、盗垒获胜。这些报道来自 CBS Sports 等媒体，因此带动了集中搜索。",
+    "title": "navajo stirling",
+    "titleZh": "纳瓦霍斯特林",
+    "traffic": "200+",
+    "started": "Fri, 31 Jul 2026 21:20:00 -0700",
+    "summary": "相关新闻主要集中在：分析斯特林与布拉霍维奇：战斗赔率和预测。",
+    "explanation": "Google Trends 显示“纳瓦霍斯特林”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：分析斯特林与布拉霍维奇：战斗赔率和预测。这些报道来自 SportsGrid 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Dodgers' Freddie Freeman: Three hits, stolen base in win",
-        "url": "https://www.cbssports.com/fantasy/baseball/news/dodgers-freddie-freeman-three-hits-stolen-base-in-win/",
-        "source": "CBS Sports"
+        "title": "Analyzing Stirling vs. Blachowicz: Fight Odds and Predictions",
+        "url": "https://www.sportsgrid.com/mixed-martial-arts/video/analyzing-stirling-vs-blachowicz-fight-odds-and-predictions",
+        "source": "SportsGrid"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "teoscar hernández",
-    "titleZh": "特奥斯卡·埃尔南德斯",
+    "title": "javier báez",
+    "titleZh": "哈维尔·贝兹",
     "traffic": "200+",
-    "started": "Thu, 30 Jul 2026 21:20:00 -0700",
-    "summary": "相关新闻主要集中在：道奇队将苦苦挣扎的穆基·贝茨排除在阵容中。",
-    "explanation": "Google Trends 显示“特奥斯卡·埃尔南德斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：道奇队将苦苦挣扎的穆基·贝茨排除在阵容中。这些报道来自 NBC Sports 等媒体，因此带动了集中搜索。",
+    "started": "Fri, 31 Jul 2026 21:20:00 -0700",
+    "summary": "相关新闻主要集中在：老虎队将杰克·罗杰斯交易到金莺队以获得小联盟投手。",
+    "explanation": "Google Trends 显示“哈维尔·贝兹”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：老虎队将杰克·罗杰斯交易到金莺队以获得小联盟投手。这些报道来自 The Detroit News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Dodgers drop struggling Mookie Betts in lineup",
-        "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/dodgers-drop-struggling-mookie-betts-in-lineup",
-        "source": "NBC Sports"
+        "title": "Tigers trade Jake Rogers to Orioles for minor-league pitcher",
+        "url": "https://www.detroitnews.com/story/sports/mlb/tigers/2026/07/30/jake-rogers-traded-to-orioles-for-minor-league-pitcher/91115226007/",
+        "source": "The Detroit News"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "katie price",
-    "titleZh": "凯蒂·普莱斯",
-    "traffic": "200+",
-    "started": "Thu, 30 Jul 2026 21:20:00 -0700",
-    "summary": "相关新闻主要集中在：凯蒂·普莱斯 (Katie Price) 遭受财务打击，表示不会支付李·安德鲁斯 (Lee Andrews) 的监狱罚款。",
-    "explanation": "Google Trends 显示“凯蒂·普莱斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：凯蒂·普莱斯 (Katie Price) 遭受财务打击，表示不会支付李·安德鲁斯 (Lee Andrews) 的监狱罚款。这些报道来自 The Sun 等媒体，因此带动了集中搜索。",
+    "title": "tiffany haddish",
+    "titleZh": "蒂凡尼·哈迪斯",
+    "traffic": "1000+",
+    "started": "Fri, 31 Jul 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：莎拉·西尔弗曼 (Sarah Silverman) 制作了一个 PowerPoint 来寻找蒂芙尼·哈迪斯 (Tiffany Haddish) 男朋友。",
+    "explanation": "Google Trends 显示“蒂凡尼·哈迪斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：莎拉·西尔弗曼 (Sarah Silverman) 制作了一个 PowerPoint 来寻找蒂芙尼·哈迪斯 (Tiffany Haddish) 男朋友。这些报道来自 BroadwayWorld 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Katie Price hit by financial blow & says she won’t pay Lee Andrews’ prison fines",
-        "url": "https://www.thesun.co.uk/tvandshowbiz/39909075/katie-price-financial-blow-lee-andrews-prison-fines/",
-        "source": "The Sun"
+        "title": "Sarah Silverman Builds a PowerPoint to Find Tiffany Haddish a Boyfriend",
+        "url": "https://www.broadwayworld.com/bwwtv/article/Sarah-Silverman-Builds-a-PowerPoint-to-Find-Tiffany-Haddish-a-Boyfriend-20260731",
+        "source": "BroadwayWorld"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "denis shapovalov",
-    "titleZh": "丹尼斯·沙波瓦洛夫",
-    "traffic": "1000+",
-    "started": "Thu, 30 Jul 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：ATP 洛斯卡沃斯第 2 天预测，包括 Denis Shapovalov vs Rinky Hijikata。",
-    "explanation": "Google Trends 显示“丹尼斯·沙波瓦洛夫”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：ATP 洛斯卡沃斯第 2 天预测，包括 Denis Shapovalov vs Rinky Hijikata。这些报道来自 Last Word On Sports 等媒体，因此带动了集中搜索。",
+    "title": "boule",
+    "titleZh": "滚球",
+    "traffic": "500+",
+    "started": "Fri, 31 Jul 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：格鲁里。弗朗索瓦丝·安布罗西尼在里昂舞会上证实了她的才华。",
+    "explanation": "Google Trends 显示“滚球”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：格鲁里。弗朗索瓦丝·安布罗西尼在里昂舞会上证实了她的才华。这些报道来自 larenaissancehebdo.fr 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "ATP Los Cabos Day 2 Predictions Including Denis Shapovalov vs Rinky Hijikata",
-        "url": "https://lastwordonsports.com/tennis/2026/07/28/atp-los-cabos-predictions-shapovalov-hijikata/",
-        "source": "Last Word On Sports"
+        "title": "Grury. Françoise Ambrosioni confirme ses talents à la boule lyonnaise",
+        "url": "https://www.larenaissancehebdo.fr/actualite-52954-grury-francoise-ambrosioni-confirme-ses-talents-a-la-boule-lyonnaise",
+        "source": "larenaissancehebdo.fr"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "seth rogen",
-    "titleZh": "塞斯·罗根",
+    "title": "luis arraez",
+    "titleZh": "路易斯·阿拉埃斯",
     "traffic": "200+",
-    "started": "Thu, 30 Jul 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：《山谷》第 3 季重聚预告片揭示了令人震惊的未播出剧情：“发生了什么？”。",
-    "explanation": "Google Trends 显示“塞斯·罗根”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《山谷》第 3 季重聚预告片揭示了令人震惊的未播出剧情：“发生了什么？”。这些报道来自 Bravo 等媒体，因此带动了集中搜索。",
+    "started": "Fri, 31 Jul 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：巨人队的路易斯·阿雷兹交易更新是潜在巨额回报的好消息。",
+    "explanation": "Google Trends 显示“路易斯·阿拉埃斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：巨人队的路易斯·阿雷兹交易更新是潜在巨额回报的好消息。这些报道来自 Sporting News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "The Valley Season 3 Reunion Trailer Uncovers Shocking Unaired Drama: \"What Happened?\"",
-        "url": "https://www.bravotv.com/the-daily-dish/the-valley-season-3-reunion-trailer-air-dates-how-to-watch-details",
-        "source": "Bravo"
+        "title": "Giants' Luis Arraez trade update is great news for a potential huge return",
+        "url": "https://www.sportingnews.com/us/mlb/san-francisco-giants/news/giants-luis-arraez-trade-update-great-news-potential-return/c001a37445314ab9d6be6f32",
+        "source": "Sporting News"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "padres game",
-    "titleZh": "父母游戏",
+    "title": "who is sadie sink in brand new day",
+    "titleZh": "谁是全新的一天的萨迪·辛克",
     "traffic": "200+",
-    "started": "Thu, 30 Jul 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：教士队两场横扫落基山脉，延续连胜。",
-    "explanation": "Google Trends 显示“父母游戏”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：教士队两场横扫落基山脉，延续连胜。这些报道来自 San Diego Union-Tribune 等媒体，因此带动了集中搜索。",
+    "started": "Fri, 31 Jul 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：萨迪·辛克 (Sadie Sink) 的《蜘蛛侠》发布会造型：Prada、Givenchy 等。",
+    "explanation": "Google Trends 显示“谁是全新的一天的萨迪·辛克”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：萨迪·辛克 (Sadie Sink) 的《蜘蛛侠》发布会造型：Prada、Givenchy 等。这些报道来自 WWD 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Padres finish off two-game sweep of Rockies, extend winning streak",
-        "url": "https://www.sandiegouniontribune.com/2026/07/29/padres-finish-off-two-game-sweep-of-rockies-to-run-winning-streak-to-five/",
-        "source": "San Diego Union-Tribune"
+        "title": "Sadie Sink's 'Spider-Man' Press Tour Looks: Prada, Givenchy and More",
+        "url": "https://wwd.com/pop-culture/celebrity-news/sadie-sink-spider-man-press-tour-outfits-prada-givenchy-1239089581/",
+        "source": "WWD"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "drew starkey",
-    "titleZh": "德鲁·斯塔基",
-    "traffic": "2000+",
-    "started": "Thu, 30 Jul 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：高风险，低回报。",
-    "explanation": "Google Trends 显示“德鲁·斯塔基”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：高风险，低回报。这些报道来自 Bangkok Post 等媒体，因此带动了集中搜索。",
+    "title": "arthur gea",
+    "titleZh": "亚瑟·吉亚",
+    "traffic": "200+",
+    "started": "Fri, 31 Jul 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：ATP 洛斯卡沃斯最佳投注包括弗朗西斯科·塞伦多洛 (Francisco Cerundolo) 对阵特里斯坦·博耶 (Tristan Boyer)。",
+    "explanation": "Google Trends 显示“亚瑟·吉亚”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：ATP 洛斯卡沃斯最佳投注包括弗朗西斯科·塞伦多洛 (Francisco Cerundolo) 对阵特里斯坦·博耶 (Tristan Boyer)。这些报道来自 Last Word On Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "High stakes, low payoff",
-        "url": "https://www.bangkokpost.com/life/arts-and-entertainment/3294362/high-stakes-low-payoff",
-        "source": "Bangkok Post"
+        "title": "ATP Los Cabos Best Bets Including Francisco Cerundolo Vs Tristan Boyer",
+        "url": "https://lastwordonsports.com/tennis/2026/07/29/atp-los-cabos-best-bets-cerundolo-boyer/",
+        "source": "Last Word On Sports"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "willson contreras",
-    "titleZh": "威尔森康特拉斯",
-    "traffic": "500+",
-    "started": "Thu, 30 Jul 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：尽管对阵 A 队的比赛表现有些奇怪，红袜队仍取得了翻盘胜利。",
-    "explanation": "Google Trends 显示“威尔森康特拉斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：尽管对阵 A 队的比赛表现有些奇怪，红袜队仍取得了翻盘胜利。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "title": "coleman wong",
+    "titleZh": "黄科尔曼",
+    "traffic": "200+",
+    "started": "Fri, 31 Jul 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：2026 年 8 月 2 日：马泰奥·贝雷蒂尼 (Matteo Berrettini) VS 马里亚诺·纳沃尼 (Mariano Navone)：第二盘获胜者 网球预测市场。",
+    "explanation": "Google Trends 显示“黄科尔曼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：2026 年 8 月 2 日：马泰奥·贝雷蒂尼 (Matteo Berrettini) VS 马里亚诺·纳沃尼 (Mariano Navone)：第二盘获胜者 网球预测市场。这些报道来自 Robinhood 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Red Sox secure comeback victory despite odd moment vs. A’s",
-        "url": "https://sports.yahoo.com/articles/red-sox-secure-comeback-victory-041032486.html",
-        "source": "Yahoo Sports"
+        "title": "August 2, 2026: Matteo Berrettini vs Mariano Navone: Set 2 Winner Tennis Prediction Market",
+        "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/matteo-berrettini-vs-mariano-navone-set-2-winner-aug-02-2026/",
+        "source": "Robinhood"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "michael b. jordan",
-    "titleZh": "迈克尔湾约旦",
-    "traffic": "200+",
-    "started": "Thu, 30 Jul 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：《托马斯皇冠事件》：关于迈克尔·B·乔丹电影的一切信息，将于 2027 年 3 月 5 日上映。",
-    "explanation": "Google Trends 显示“迈克尔湾约旦”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《托马斯皇冠事件》：关于迈克尔·B·乔丹电影的一切信息，将于 2027 年 3 月 5 日上映。这些报道来自 About Amazon 等媒体，因此带动了集中搜索。",
+    "title": "daredevil",
+    "titleZh": "胆大妄为的人",
+    "traffic": "500+",
+    "started": "Fri, 31 Jul 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：夜魔侠的马特·默多克被从《蜘蛛侠：全新的一天》中删掉了吗？查理·考克斯回归传闻背后的真相。",
+    "explanation": "Google Trends 显示“胆大妄为的人”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：夜魔侠的马特·默多克被从《蜘蛛侠：全新的一天》中删掉了吗？查理·考克斯回归传闻背后的真相。这些报道来自 The Sunday Guardian 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "'The Thomas Crown Affair': Everything to know about the Michael B. Jordan film, in theaters March 5, 2027",
-        "url": "https://www.aboutamazon.com/news/entertainment/thomas-crown-affair-michael-b-jordan-amazon-mgm-studios",
-        "source": "About Amazon"
+        "title": "Was Daredevil's Matt Murdock Cut From Spider-Man: Brand New Day? Truth Behind Charlie Cox's Rumoured Return",
+        "url": "https://sundayguardianlive.com/entertainment-news/was-daredevils-matt-murdock-cut-from-spider-man-brand-new-day-truth-behind-charlie-coxs-rumoured-return-250378/",
+        "source": "The Sunday Guardian"
       }
     ]
   }
