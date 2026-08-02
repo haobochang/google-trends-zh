@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "dillon dingler",
-    "titleZh": "狄龙悬垂",
-    "traffic": "500+",
-    "started": "Fri, 31 Jul 2026 21:20:00 -0700",
-    "summary": "相关新闻主要集中在：老虎田径棒球。",
-    "explanation": "Google Trends 显示“狄龙悬垂”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：老虎田径棒球。这些报道来自 The Herald Journal 等媒体，因此带动了集中搜索。",
+    "title": "goodfellas",
+    "titleZh": "好家伙",
+    "traffic": "200+",
+    "started": "Sat, 1 Aug 2026 21:20:00 -0700",
+    "summary": "相关新闻主要集中在：《黑道家族》演员文森特·帕斯托雷去世，享年 80 岁。",
+    "explanation": "Google Trends 显示“好家伙”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《黑道家族》演员文森特·帕斯托雷去世，享年 80 岁。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Tigers Athletics Baseball",
-        "url": "https://www.hjnews.com/sports/nation/tigers-athletics-baseball/image_9de862d8-e992-5951-9bef-0a4bc75886b4.html",
-        "source": "The Herald Journal"
+        "title": "Vincent Pastore, Actor on ‘The Sopranos,’ Dies at 80",
+        "url": "https://www.nytimes.com/2026/08/01/arts/television/vincent-pastore-dead.html",
+        "source": "The New York Times"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "navajo stirling",
-    "titleZh": "纳瓦霍斯特林",
+    "title": "ohtani",
+    "titleZh": "薄的",
     "traffic": "200+",
-    "started": "Fri, 31 Jul 2026 21:20:00 -0700",
-    "summary": "相关新闻主要集中在：分析斯特林与布拉霍维奇：战斗赔率和预测。",
-    "explanation": "Google Trends 显示“纳瓦霍斯特林”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：分析斯特林与布拉霍维奇：战斗赔率和预测。这些报道来自 SportsGrid 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 1 Aug 2026 21:20:00 -0700",
+    "summary": "相关新闻主要集中在：Shohei Ohtani 重返阵容，陷入深深的失落。",
+    "explanation": "Google Trends 显示“薄的”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Shohei Ohtani 重返阵容，陷入深深的失落。这些报道来自 FantasyPros 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Analyzing Stirling vs. Blachowicz: Fight Odds and Predictions",
-        "url": "https://www.sportsgrid.com/mixed-martial-arts/video/analyzing-stirling-vs-blachowicz-fight-odds-and-predictions",
-        "source": "SportsGrid"
+        "title": "Shohei Ohtani back in the lineup, goes deep in loss",
+        "url": "https://www.fantasypros.com/mlb/news/599577/shohei-ohtani-back-lineup-goes-deep-loss.php",
+        "source": "FantasyPros"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "javier báez",
-    "titleZh": "哈维尔·贝兹",
+    "title": "sheehan dodgers",
+    "titleZh": "希恩道奇队",
     "traffic": "200+",
-    "started": "Fri, 31 Jul 2026 21:20:00 -0700",
-    "summary": "相关新闻主要集中在：老虎队将杰克·罗杰斯交易到金莺队以获得小联盟投手。",
-    "explanation": "Google Trends 显示“哈维尔·贝兹”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：老虎队将杰克·罗杰斯交易到金莺队以获得小联盟投手。这些报道来自 The Detroit News 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 1 Aug 2026 21:20:00 -0700",
+    "summary": "相关新闻主要集中在：随着最后期限的临近，斯内尔和格拉斯诺将加入洛杉矶增援队伍。",
+    "explanation": "Google Trends 显示“希恩道奇队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：随着最后期限的临近，斯内尔和格拉斯诺将加入洛杉矶增援队伍。这些报道来自 MLB.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Tigers trade Jake Rogers to Orioles for minor-league pitcher",
-        "url": "https://www.detroitnews.com/story/sports/mlb/tigers/2026/07/30/jake-rogers-traded-to-orioles-for-minor-league-pitcher/91115226007/",
-        "source": "The Detroit News"
+        "title": "Snell, Glasnow among reinforcements on horizon for LA as Deadline nears",
+        "url": "https://www.mlb.com/news/blake-snell-tyler-glasnow-reinforcements-nearing-return-to-dodgers",
+        "source": "MLB.com"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "tiffany haddish",
-    "titleZh": "蒂凡尼·哈迪斯",
-    "traffic": "1000+",
-    "started": "Fri, 31 Jul 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：莎拉·西尔弗曼 (Sarah Silverman) 制作了一个 PowerPoint 来寻找蒂芙尼·哈迪斯 (Tiffany Haddish) 男朋友。",
-    "explanation": "Google Trends 显示“蒂凡尼·哈迪斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：莎拉·西尔弗曼 (Sarah Silverman) 制作了一个 PowerPoint 来寻找蒂芙尼·哈迪斯 (Tiffany Haddish) 男朋友。这些报道来自 BroadwayWorld 等媒体，因此带动了集中搜索。",
+    "title": "casey mize",
+    "titleZh": "凯西·米兹",
+    "traffic": "500+",
+    "started": "Sat, 1 Aug 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：FanGraphs 每周邮袋：2026 年 8 月 1 日。",
+    "explanation": "Google Trends 显示“凯西·米兹”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：FanGraphs 每周邮袋：2026 年 8 月 1 日。这些报道来自 FanGraphs 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Sarah Silverman Builds a PowerPoint to Find Tiffany Haddish a Boyfriend",
-        "url": "https://www.broadwayworld.com/bwwtv/article/Sarah-Silverman-Builds-a-PowerPoint-to-Find-Tiffany-Haddish-a-Boyfriend-20260731",
-        "source": "BroadwayWorld"
+        "title": "FanGraphs Weekly Mailbag: August 1, 2026",
+        "url": "https://blogs.fangraphs.com/fangraphs-weekly-mailbag-august-1-2026/",
+        "source": "FanGraphs"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "boule",
-    "titleZh": "滚球",
+    "title": "mike trout",
+    "titleZh": "迈克·特劳特",
     "traffic": "500+",
-    "started": "Fri, 31 Jul 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：格鲁里。弗朗索瓦丝·安布罗西尼在里昂舞会上证实了她的才华。",
-    "explanation": "Google Trends 显示“滚球”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：格鲁里。弗朗索瓦丝·安布罗西尼在里昂舞会上证实了她的才华。这些报道来自 larenaissancehebdo.fr 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 1 Aug 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：田纳西州东部 11 岁癌症幸存者通过许愿会见迈克·特劳特。",
+    "explanation": "Google Trends 显示“迈克·特劳特”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：田纳西州东部 11 岁癌症幸存者通过许愿会见迈克·特劳特。这些报道来自 Knoxville News Sentinel 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Grury. Françoise Ambrosioni confirme ses talents à la boule lyonnaise",
-        "url": "https://www.larenaissancehebdo.fr/actualite-52954-grury-francoise-ambrosioni-confirme-ses-talents-a-la-boule-lyonnaise",
-        "source": "larenaissancehebdo.fr"
+        "title": "11-year-old East Tennessee cancer survivor to meet Mike Trout with Make-A-Wish",
+        "url": "https://www.knoxnews.com/story/sports/local/2026/07/24/cancer-survivor-jensen-vaught-make-a-wish-mike-trout-angels/91027933007/",
+        "source": "Knoxville News Sentinel"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "luis arraez",
-    "titleZh": "路易斯·阿拉埃斯",
+    "title": "dodgers owner",
+    "titleZh": "道奇队老板",
     "traffic": "200+",
-    "started": "Fri, 31 Jul 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：巨人队的路易斯·阿雷兹交易更新是潜在巨额回报的好消息。",
-    "explanation": "Google Trends 显示“路易斯·阿拉埃斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：巨人队的路易斯·阿雷兹交易更新是潜在巨额回报的好消息。这些报道来自 Sporting News 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 1 Aug 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：据报道，纽波特亿万富翁受到联邦调查局调查。",
+    "explanation": "Google Trends 显示“道奇队老板”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：据报道，纽波特亿万富翁受到联邦调查局调查。这些报道来自 Go Local Prov 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Giants' Luis Arraez trade update is great news for a potential huge return",
-        "url": "https://www.sportingnews.com/us/mlb/san-francisco-giants/news/giants-luis-arraez-trade-update-great-news-potential-return/c001a37445314ab9d6be6f32",
-        "source": "Sporting News"
+        "title": "Newport Billionaire Investigated By FBI, According to Report",
+        "url": "https://www.golocalprov.com/news/newport-billionaire-investigated-by-fbi-according-to-report",
+        "source": "Go Local Prov"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "who is sadie sink in brand new day",
-    "titleZh": "谁是全新的一天的萨迪·辛克",
+    "title": "angels game",
+    "titleZh": "天使游戏",
     "traffic": "200+",
-    "started": "Fri, 31 Jul 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：萨迪·辛克 (Sadie Sink) 的《蜘蛛侠》发布会造型：Prada、Givenchy 等。",
-    "explanation": "Google Trends 显示“谁是全新的一天的萨迪·辛克”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：萨迪·辛克 (Sadie Sink) 的《蜘蛛侠》发布会造型：Prada、Givenchy 等。这些报道来自 WWD 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 1 Aug 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：6 位天使队交易了可能在洛杉矶酿酒人系列赛中翻转教练席的候选人。",
+    "explanation": "Google Trends 显示“天使游戏”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：6 位天使队交易了可能在洛杉矶酿酒人系列赛中翻转教练席的候选人。这些报道来自 Reviewing the Brew 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Sadie Sink's 'Spider-Man' Press Tour Looks: Prada, Givenchy and More",
-        "url": "https://wwd.com/pop-culture/celebrity-news/sadie-sink-spider-man-press-tour-outfits-prada-givenchy-1239089581/",
-        "source": "WWD"
+        "title": "6 Angels trade candidates who could flip dugouts during Brewers' series in Los Angeles",
+        "url": "https://reviewingthebrew.com/6-angels-trade-candidates-who-could-flip-dugouts-during-brewers-series-in-los-angeles-01kyxnd3hqnt",
+        "source": "Reviewing the Brew"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "arthur gea",
-    "titleZh": "亚瑟·吉亚",
+    "title": "x men movies",
+    "titleZh": "x战警电影",
     "traffic": "200+",
-    "started": "Fri, 31 Jul 2026 20:50:00 -0700",
-    "summary": "相关新闻主要集中在：ATP 洛斯卡沃斯最佳投注包括弗朗西斯科·塞伦多洛 (Francisco Cerundolo) 对阵特里斯坦·博耶 (Tristan Boyer)。",
-    "explanation": "Google Trends 显示“亚瑟·吉亚”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：ATP 洛斯卡沃斯最佳投注包括弗朗西斯科·塞伦多洛 (Francisco Cerundolo) 对阵特里斯坦·博耶 (Tristan Boyer)。这些报道来自 Last Word On Sports 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 1 Aug 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：据报道，漫威电影宇宙《X战警》电影将由萨马拉·维文饰演艾玛·弗罗斯特。",
+    "explanation": "Google Trends 显示“x战警电影”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：据报道，漫威电影宇宙《X战警》电影将由萨马拉·维文饰演艾玛·弗罗斯特。这些报道来自 Empire 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "ATP Los Cabos Best Bets Including Francisco Cerundolo Vs Tristan Boyer",
-        "url": "https://lastwordonsports.com/tennis/2026/07/29/atp-los-cabos-best-bets-cerundolo-boyer/",
-        "source": "Last Word On Sports"
+        "title": "MCU X-Men Movie Reportedly Casts Samara Weaving As Emma Frost",
+        "url": "https://www.empireonline.com/movies/news/mcu-x-men-movie-reportedly-casts-samara-weaving-as-emma-frost/",
+        "source": "Empire"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "coleman wong",
-    "titleZh": "黄科尔曼",
+    "title": "luis puente",
+    "titleZh": "路易斯·蓬特",
     "traffic": "200+",
-    "started": "Fri, 31 Jul 2026 20:50:00 -0700",
-    "summary": "相关新闻主要集中在：2026 年 8 月 2 日：马泰奥·贝雷蒂尼 (Matteo Berrettini) VS 马里亚诺·纳沃尼 (Mariano Navone)：第二盘获胜者 网球预测市场。",
-    "explanation": "Google Trends 显示“黄科尔曼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：2026 年 8 月 2 日：马泰奥·贝雷蒂尼 (Matteo Berrettini) VS 马里亚诺·纳沃尼 (Mariano Navone)：第二盘获胜者 网球预测市场。这些报道来自 Robinhood 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 1 Aug 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：安德烈斯·古迪尼奥在克鲁兹·阿祖尔对阵亚特兰蒂斯的比赛中将进球传给了路易斯·普恩特，这是一个荒谬的错误。",
+    "explanation": "Google Trends 显示“路易斯·蓬特”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：安德烈斯·古迪尼奥在克鲁兹·阿祖尔对阵亚特兰蒂斯的比赛中将进球传给了路易斯·普恩特，这是一个荒谬的错误。这些报道来自 Vamos Azul 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "August 2, 2026: Matteo Berrettini vs Mariano Navone: Set 2 Winner Tennis Prediction Market",
-        "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/matteo-berrettini-vs-mariano-navone-set-2-winner-aug-02-2026/",
-        "source": "Robinhood"
+        "title": "El ridículo error de Andrés Gudiño para regalarle el gol a Luis Puente en el Cruz Azul vs. Atlante",
+        "url": "https://vamoscruzazul.bolavip.com/ligamx/el-ridiculo-error-de-andres-gudino-para-regalarle-el-gol-a-luis-puente-en-el-cruz-azul-vs-atlante",
+        "source": "Vamos Azul"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "daredevil",
-    "titleZh": "胆大妄为的人",
-    "traffic": "500+",
-    "started": "Fri, 31 Jul 2026 20:50:00 -0700",
-    "summary": "相关新闻主要集中在：夜魔侠的马特·默多克被从《蜘蛛侠：全新的一天》中删掉了吗？查理·考克斯回归传闻背后的真相。",
-    "explanation": "Google Trends 显示“胆大妄为的人”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：夜魔侠的马特·默多克被从《蜘蛛侠：全新的一天》中删掉了吗？查理·考克斯回归传闻背后的真相。这些报道来自 The Sunday Guardian 等媒体，因此带动了集中搜索。",
+    "title": "shakur stevenson",
+    "titleZh": "沙库尔·史蒂文森",
+    "traffic": "200+",
+    "started": "Sat, 1 Aug 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：比尔·哈尼告诉沙库尔·史蒂文森成为 WBO 强制成员。",
+    "explanation": "Google Trends 显示“沙库尔·史蒂文森”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：比尔·哈尼告诉沙库尔·史蒂文森成为 WBO 强制成员。这些报道来自 Boxing News 24 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Was Daredevil's Matt Murdock Cut From Spider-Man: Brand New Day? Truth Behind Charlie Cox's Rumoured Return",
-        "url": "https://sundayguardianlive.com/entertainment-news/was-daredevils-matt-murdock-cut-from-spider-man-brand-new-day-truth-behind-charlie-coxs-rumoured-return-250378/",
-        "source": "The Sunday Guardian"
+        "title": "Bill Haney Tells Shakur Stevenson To Become WBO Mandatory",
+        "url": "https://www.boxingnews24.com/2026/08/bill-haney-tells-shakur-stevenson-to-become-wbo-mandatory/",
+        "source": "Boxing News 24"
       }
     ]
   }
