@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "professor",
-    "titleZh": "教授",
-    "traffic": "500+",
-    "started": "Sun, 2 Aug 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：剑桥多元化海报男孩陷入抄袭行列。",
-    "explanation": "Google Trends 显示“教授”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：剑桥多元化海报男孩陷入抄袭行列。这些报道来自 The Telegraph 等媒体，因此带动了集中搜索。",
+    "title": "jasson dominguez",
+    "titleZh": "贾森·多明格斯",
+    "traffic": "200+",
+    "started": "Mon, 3 Aug 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：洋基队决定降级两名著名球员。",
+    "explanation": "Google Trends 显示“贾森·多明格斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：洋基队决定降级两名著名球员。这些报道来自 Larry Brown Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Cambridge’s diversity poster boy in plagiarism row",
-        "url": "https://www.telegraph.co.uk/news/2026/07/24/cambridges-diversity-poster-boy-in-plagiarism-row/",
-        "source": "The Telegraph"
+        "title": "Yankees decide to demote 2 notable players",
+        "url": "https://larrybrownsports.com/baseball/yankees-demote-2-notable-players-volpe-dominguez/764501",
+        "source": "Larry Brown Sports"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "earthquake now",
-    "titleZh": "现在地震",
-    "traffic": "10000+",
-    "started": "Sun, 2 Aug 2026 20:50:00 -0700",
-    "summary": "相关新闻主要集中在：8 月 1 日，加利福尼亚州阿瓦隆附近发生 2.0 级地震。",
-    "explanation": "Google Trends 显示“现在地震”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：8 月 1 日，加利福尼亚州阿瓦隆附近发生 2.0 级地震。这些报道来自 San Luis Obispo Tribune 等媒体，因此带动了集中搜索。",
+    "title": "harry truman",
+    "titleZh": "哈里·杜鲁门",
+    "traffic": "500+",
+    "started": "Mon, 3 Aug 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：81 年后：为何《波茨坦公告》对日本和台湾问题仍然重要。",
+    "explanation": "Google Trends 显示“哈里·杜鲁门”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：81 年后：为何《波茨坦公告》对日本和台湾问题仍然重要。这些报道来自 CGTN 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "2.0 magnitude earthquake shakes near Avalon, CA on Aug. 1",
-        "url": "https://www.sanluisobispo.com/news/california/earthquakes/article316738997.html",
-        "source": "San Luis Obispo Tribune"
+        "title": "81 years on: Why the Potsdam Proclamation still matters for Japan and the Taiwan question",
+        "url": "https://news.cgtn.com/news/2026-07-26/81-years-on-Why-the-Potsdam-Proclamation-still-matters-1P5Gfjk3E8E/p.html",
+        "source": "CGTN"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "earthquake",
-    "titleZh": "地震",
-    "traffic": "5000+",
-    "started": "Sun, 2 Aug 2026 20:50:00 -0700",
-    "summary": "相关新闻主要集中在：以埃及为中心的地震席卷以色列中部和南部。",
-    "explanation": "Google Trends 显示“地震”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：以埃及为中心的地震席卷以色列中部和南部。这些报道来自 Israel National News 等媒体，因此带动了集中搜索。",
+    "title": "eshop sale",
+    "titleZh": "网店销售",
+    "traffic": "200+",
+    "started": "Mon, 3 Aug 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：在任天堂 eShop 夏季特卖（欧洲）中购买这 88 款 Switch 1 和 2 游戏的最后机会。",
+    "explanation": "Google Trends 显示“网店销售”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：在任天堂 eShop 夏季特卖（欧洲）中购买这 88 款 Switch 1 和 2 游戏的最后机会。这些报道来自 Nintendo Life 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Earthquake centered in Egypt felt across central and southern Israel",
-        "url": "https://www.israelnationalnews.com/news/431140",
-        "source": "Israel National News"
+        "title": "Last Chance To Grab These 88 Switch 1 & 2 Games In Nintendo's eShop Summer Sale (Europe)",
+        "url": "https://www.nintendolife.com/guides/last-chance-to-grab-these-88-switch-1-and-2-games-in-nintendos-eshop-summer-sale-europe",
+        "source": "Nintendo Life"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "tornado warnings",
-    "titleZh": "龙卷风警告",
-    "traffic": "500+",
-    "started": "Sun, 2 Aug 2026 20:50:00 -0700",
-    "summary": "相关新闻主要集中在：风暴进入新泽西州时发布天气观察。",
-    "explanation": "Google Trends 显示“龙卷风警告”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：风暴进入新泽西州时发布天气观察。这些报道来自 Patch 等媒体，因此带动了集中搜索。",
+    "title": "oregon fires",
+    "titleZh": "俄勒冈州火灾",
+    "traffic": "200+",
+    "started": "Mon, 3 Aug 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：罗溪综合体 | 2026 年 8 月 2 日。",
+    "explanation": "Google Trends 显示“俄勒冈州火灾”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：罗溪综合体 | 2026 年 8 月 2 日。这些报道来自 Central Oregon Fire Information 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Weather Watches Issued As Storms Move Into NJ",
-        "url": "https://patch.com/new-jersey/mendham-chester/major-weather-pattern-shift-sunday-monday-across-nj",
-        "source": "Patch"
+        "title": "Rowe Creek Complex | August 2, 2026",
+        "url": "https://centraloregonfire.org/2026/08/02/rowe-creek-complex-august-2-2026/",
+        "source": "Central Oregon Fire Information"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "bryan kohberger motive",
-    "titleZh": "布莱恩·科伯格图案",
-    "traffic": "500+",
-    "started": "Sun, 2 Aug 2026 20:40:00 -0700",
-    "summary": "相关新闻主要集中在：爱达荷大学杀人案被定罪的男子寻求收回认罪。",
-    "explanation": "Google Trends 显示“布莱恩·科伯格图案”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：爱达荷大学杀人案被定罪的男子寻求收回认罪。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
+    "title": "chevron",
+    "titleZh": "雪佛龙",
+    "traffic": "1000+",
+    "started": "Mon, 3 Aug 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：特朗普猛烈抨击雪佛龙首席执行官，要求立即降低美国燃油价格。",
+    "explanation": "Google Trends 显示“雪佛龙”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：特朗普猛烈抨击雪佛龙首席执行官，要求立即降低美国燃油价格。这些报道来自 Al Jazeera 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Man Convicted in Idaho College Killings Seeks to Take Back Guilty Plea",
-        "url": "https://www.nytimes.com/2026/07/27/us/bryan-kohberger-idaho-college-deaths.html",
-        "source": "The New York Times"
+        "title": "Trump slams Chevron CEO, demands immediate reduction in US fuel prices",
+        "url": "https://www.aljazeera.com/economy/2026/8/3/trump-slams-chevron-ceo-demands-immediate-reduction-in-us-fuel-prices",
+        "source": "Al Jazeera"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "aerodiana",
-    "titleZh": "航空",
-    "traffic": "1000+",
-    "started": "Sun, 2 Aug 2026 20:20:00 -0700",
-    "summary": "相关新闻主要集中在：载有欧洲游客的飞机在秘鲁坠毁，纳斯卡线观光航班造成13人死亡。",
-    "explanation": "Google Trends 显示“航空”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：载有欧洲游客的飞机在秘鲁坠毁，纳斯卡线观光航班造成13人死亡。这些报道来自 AP News 等媒体，因此带动了集中搜索。",
+    "title": "gann fire",
+    "titleZh": "江恩火",
+    "traffic": "500+",
+    "started": "Mon, 3 Aug 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
+    "explanation": "Google Trends 显示“江恩火”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 SFGATE 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Plane carrying European tourists crashes in Peru, killing 13 people on Nazca Lines viewing flight",
-        "url": "https://apnews.com/article/peru-plane-crash-912cc69276f12afbfc921fa8b71c03c3",
-        "source": "AP News"
+        "title": "Evacuation orders issued for Gann Fire in Calaveras County",
+        "url": "https://www.sfgate.com/bayarea/article/evacuation-orders-issued-gann-fire-calaveras-22372783.php",
+        "source": "SFGATE"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "house of the dragon season 4",
-    "titleZh": "龙之屋第四季",
-    "traffic": "200+",
-    "started": "Sun, 2 Aug 2026 19:50:00 -0700",
-    "summary": "相关新闻主要集中在：我们希望在《龙之屋》第三季最后两集中看到的 8 件事。",
-    "explanation": "Google Trends 显示“龙之屋第四季”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：我们希望在《龙之屋》第三季最后两集中看到的 8 件事。这些报道来自 IMDb 等媒体，因此带动了集中搜索。",
+    "title": "mark harmon",
+    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "traffic": "500+",
+    "started": "Mon, 3 Aug 2026 20:40:00 -0700",
+    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "8 things we want to see in House of the Dragon season 3's final two episodes",
-        "url": "https://www.imdb.com/news/ni65951535/?ref_=int_nwr_3",
-        "source": "IMDb"
+        "title": "NCIS: What Did Gibbs Whisper In Ziva's Ear In Season 7?",
+        "url": "https://www.aol.com/articles/ncis-did-gibbs-whisper-zivas-014500000.html",
+        "source": "AOL.com"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "denver summit fc",
-    "titleZh": "丹佛峰会足球俱乐部",
-    "traffic": "500+",
-    "started": "Sun, 2 Aug 2026 19:40:00 -0700",
-    "summary": "相关新闻主要集中在：索尼斯在顶峰FC对阵波士顿的比赛中获得一分。",
-    "explanation": "Google Trends 显示“丹佛峰会足球俱乐部”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：索尼斯在顶峰FC对阵波士顿的比赛中获得一分。这些报道来自 Denver7 等媒体，因此带动了集中搜索。",
+    "title": "kamil majchrzak",
+    "titleZh": "卡米尔·马吉扎克",
+    "traffic": "1000+",
+    "started": "Mon, 3 Aug 2026 20:30:00 -0700",
+    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
+    "explanation": "Google Trends 显示“卡米尔·马吉扎克”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 The Grandstand 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Sonis secures point for Summit FC against Boston",
-        "url": "https://www.denver7.com/sports/denver-summit-fc/sonis-secures-point-for-summit-fc-against-boston",
-        "source": "Denver7"
+        "title": "Montreal R1 previews and predictions: Tsitsipas vs. Damm, Majchrzak vs. Monfils",
+        "url": "https://tenngrand.com/montreal-tennis-previews-picks-predictions-tsitsipas-vs-damm-majchrzak-monfils/",
+        "source": "The Grandstand"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "alex call",
-    "titleZh": "亚历克斯·卡尔",
+    "title": "taken",
+    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "traffic": "500+",
-    "started": "Sun, 2 Aug 2026 19:40:00 -0700",
-    "summary": "相关新闻主要集中在：道奇队的埃里克·劳尔和亚历克斯·卡尔在交易传闻中向管理层发出明确的信息。",
-    "explanation": "Google Trends 显示“亚历克斯·卡尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：道奇队的埃里克·劳尔和亚历克斯·卡尔在交易传闻中向管理层发出明确的信息。这些报道来自 Sports Illustrated 等媒体，因此带动了集中搜索。",
+    "started": "Mon, 3 Aug 2026 20:30:00 -0700",
+    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Toledo Blade 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Dodgers' Eric Lauer, Alex Call Send Clear Message to Front Office Amid Trade Rumors",
-        "url": "https://www.si.com/mlb/dodgers/onsi/dodgers-eric-lauer-alex-call-send-clear-message-front-office-amid-trade-rumors",
-        "source": "Sports Illustrated"
+        "title": "U.S. Rep. Marcy Kaptur continues to recover after auto accident",
+        "url": "https://www.toledoblade.com/local/police-fire/2026/08/03/us-rep-marcy-kaptur-continues-recover-after-auto-accident/stories/20260803084",
+        "source": "Toledo Blade"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "valkyries",
-    "titleZh": "瓦尔基里",
-    "traffic": "2000+",
-    "started": "Sun, 2 Aug 2026 19:20:00 -0700",
-    "summary": "相关新闻主要集中在：Valkyries vs. Tempo：投注趋势、赔率、赔率记录、预测 - 8 月 2 日。",
-    "explanation": "Google Trends 显示“瓦尔基里”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Valkyries vs. Tempo：投注趋势、赔率、赔率记录、预测 - 8 月 2 日。这些报道来自 The Dunkel Index 等媒体，因此带动了集中搜索。",
+    "title": "george lombard jr",
+    "titleZh": "小乔治·隆巴德",
+    "traffic": "20000+",
+    "started": "Mon, 3 Aug 2026 20:20:00 -0700",
+    "summary": "相关新闻主要集中在：报道：洋基队征召小乔治·隆巴德。",
+    "explanation": "Google Trends 显示“小乔治·隆巴德”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：报道：洋基队征召小乔治·隆巴德。这些报道来自 NBC Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Valkyries vs. Tempo: Betting Trends, Odds, Records Against the Spread, Predictions - Aug. 2",
-        "url": "https://www.dunkelindex.com/news/valkyries-vs-tempo-wnba-betting-trends-stats-8-2-2026",
-        "source": "The Dunkel Index"
+        "title": "Report: Yankees calling up George Lombard Jr.",
+        "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/report-yankees-calling-up-george-lombard-jr",
+        "source": "NBC Sports"
       }
     ]
   }
