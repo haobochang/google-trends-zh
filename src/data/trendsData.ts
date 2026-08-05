@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "jasson dominguez",
-    "titleZh": "贾森·多明格斯",
-    "traffic": "200+",
-    "started": "Mon, 3 Aug 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：洋基队决定降级两名著名球员。",
-    "explanation": "Google Trends 显示“贾森·多明格斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：洋基队决定降级两名著名球员。这些报道来自 Larry Brown Sports 等媒体，因此带动了集中搜索。",
+    "title": "gage workman",
+    "titleZh": "量具工人",
+    "traffic": "500+",
+    "started": "Tue, 4 Aug 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：教士队收购凯西·米兹。",
+    "explanation": "Google Trends 显示“量具工人”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：教士队收购凯西·米兹。这些报道来自 MLB Trade Rumors 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Yankees decide to demote 2 notable players",
-        "url": "https://larrybrownsports.com/baseball/yankees-demote-2-notable-players-volpe-dominguez/764501",
-        "source": "Larry Brown Sports"
+        "title": "Padres Acquire Casey Mize",
+        "url": "https://www.mlbtraderumors.com/2026/08/padres-acquire-casey-mize.html",
+        "source": "MLB Trade Rumors"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "harry truman",
-    "titleZh": "哈里·杜鲁门",
-    "traffic": "500+",
-    "started": "Mon, 3 Aug 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：81 年后：为何《波茨坦公告》对日本和台湾问题仍然重要。",
-    "explanation": "Google Trends 显示“哈里·杜鲁门”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：81 年后：为何《波茨坦公告》对日本和台湾问题仍然重要。这些报道来自 CGTN 等媒体，因此带动了集中搜索。",
+    "title": "diego luna",
+    "titleZh": "迭戈月亮",
+    "traffic": "200+",
+    "started": "Tue, 4 Aug 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：利桑德罗·阿隆索的《双重自由》和马里亚诺·利纳斯的《豪尔赫·路易斯·博尔赫斯传》在多伦多艺术节上亮相。",
+    "explanation": "Google Trends 显示“迭戈月亮”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：利桑德罗·阿隆索的《双重自由》和马里亚诺·利纳斯的《豪尔赫·路易斯·博尔赫斯传》在多伦多艺术节上亮相。这些报道来自 GPS Audiovisual 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "81 years on: Why the Potsdam Proclamation still matters for Japan and the Taiwan question",
-        "url": "https://news.cgtn.com/news/2026-07-26/81-years-on-Why-the-Potsdam-Proclamation-still-matters-1P5Gfjk3E8E/p.html",
-        "source": "CGTN"
+        "title": "«La libertad doble», de Lisandro Alonso y «Biografía de Jorge Luis Borges», de Mariano Llinás, en el Festival de Toronto",
+        "url": "https://gpsaudiovisual.com/2026/08/04/la-libertad-doble-de-lisandro-alonso-y-biografia-de-jorge-luis-borges-de-mariano-llinas-en-el-festival-de-toronto/",
+        "source": "GPS Audiovisual"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "eshop sale",
-    "titleZh": "网店销售",
-    "traffic": "200+",
-    "started": "Mon, 3 Aug 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：在任天堂 eShop 夏季特卖（欧洲）中购买这 88 款 Switch 1 和 2 游戏的最后机会。",
-    "explanation": "Google Trends 显示“网店销售”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：在任天堂 eShop 夏季特卖（欧洲）中购买这 88 款 Switch 1 和 2 游戏的最后机会。这些报道来自 Nintendo Life 等媒体，因此带动了集中搜索。",
+    "title": "colman domingo",
+    "titleZh": "科尔曼星期日报",
+    "traffic": "1000+",
+    "started": "Tue, 4 Aug 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：奥斯卡提名者科尔曼·多明戈重返路易斯维尔演员剧院参加仅限一晚的活动。",
+    "explanation": "Google Trends 显示“科尔曼星期日报”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：奥斯卡提名者科尔曼·多明戈重返路易斯维尔演员剧院参加仅限一晚的活动。这些报道来自 WKYT 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Last Chance To Grab These 88 Switch 1 & 2 Games In Nintendo's eShop Summer Sale (Europe)",
-        "url": "https://www.nintendolife.com/guides/last-chance-to-grab-these-88-switch-1-and-2-games-in-nintendos-eshop-summer-sale-europe",
-        "source": "Nintendo Life"
+        "title": "Oscar nominee Colman Domingo returning to Actors Theatre of Louisville for one-night-only event",
+        "url": "https://www.wkyt.com/2026/08/02/oscar-nominee-colman-domingo-returning-actors-theatre-louisville-one-night-only-event/",
+        "source": "WKYT"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "oregon fires",
-    "titleZh": "俄勒冈州火灾",
-    "traffic": "200+",
-    "started": "Mon, 3 Aug 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：罗溪综合体 | 2026 年 8 月 2 日。",
-    "explanation": "Google Trends 显示“俄勒冈州火灾”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：罗溪综合体 | 2026 年 8 月 2 日。这些报道来自 Central Oregon Fire Information 等媒体，因此带动了集中搜索。",
+    "title": "cesar gastelum",
+    "titleZh": "塞萨尔·加斯特卢姆",
+    "traffic": "500+",
+    "started": "Tue, 4 Aug 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：州总检察长办公室正在调查库利亚坎塞萨尔·加斯特鲁姆 (César Gastélum) 谋杀案。",
+    "explanation": "Google Trends 显示“塞萨尔·加斯特卢姆”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：州总检察长办公室正在调查库利亚坎塞萨尔·加斯特鲁姆 (César Gastélum) 谋杀案。这些报道来自 Sinaloahoy 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Rowe Creek Complex | August 2, 2026",
-        "url": "https://centraloregonfire.org/2026/08/02/rowe-creek-complex-august-2-2026/",
-        "source": "Central Oregon Fire Information"
+        "title": "Fiscalía General del Estado investiga el homicidio de César Gastélum en Culiacán",
+        "url": "https://www.sinaloahoy.com.mx/portal/fiscalia-general-del-estado-investiga-el-homicidio-de-cesar-gastelum-en-culiacan/",
+        "source": "Sinaloahoy"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "chevron",
-    "titleZh": "雪佛龙",
-    "traffic": "1000+",
-    "started": "Mon, 3 Aug 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：特朗普猛烈抨击雪佛龙首席执行官，要求立即降低美国燃油价格。",
-    "explanation": "Google Trends 显示“雪佛龙”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：特朗普猛烈抨击雪佛龙首席执行官，要求立即降低美国燃油价格。这些报道来自 Al Jazeera 等媒体，因此带动了集中搜索。",
+    "title": "yilber diaz",
+    "titleZh": "伊尔伯·迪亚兹",
+    "traffic": "500+",
+    "started": "Tue, 4 Aug 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：老虎队召回 3A 球员伊尔伯·迪亚兹。",
+    "explanation": "Google Trends 显示“伊尔伯·迪亚兹”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：老虎队召回 3A 球员伊尔伯·迪亚兹。这些报道来自 NBC Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Trump slams Chevron CEO, demands immediate reduction in US fuel prices",
-        "url": "https://www.aljazeera.com/economy/2026/8/3/trump-slams-chevron-ceo-demands-immediate-reduction-in-us-fuel-prices",
-        "source": "Al Jazeera"
+        "title": "Tigers recall Yilber Díaz from Triple-A",
+        "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-04/tigers-recall-yilber-diaz-from-triple-a",
+        "source": "NBC Sports"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "gann fire",
-    "titleZh": "江恩火",
+    "title": "seranthony domínguez",
+    "titleZh": "塞兰托尼·多明格斯",
     "traffic": "500+",
-    "started": "Mon, 3 Aug 2026 20:50:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“江恩火”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 SFGATE 等媒体，因此带动了集中搜索。",
+    "started": "Tue, 4 Aug 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：前赖特州袭击者棒球运动员，当地高中毕业生被交易到西雅图。",
+    "explanation": "Google Trends 显示“塞兰托尼·多明格斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：前赖特州袭击者棒球运动员，当地高中毕业生被交易到西雅图。这些报道来自 WHIO TV 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Evacuation orders issued for Gann Fire in Calaveras County",
-        "url": "https://www.sfgate.com/bayarea/article/evacuation-orders-issued-gann-fire-calaveras-22372783.php",
-        "source": "SFGATE"
+        "title": "Former Wright State Raider baseball player, local high school graduate traded to Seattle",
+        "url": "https://www.whio.com/news/local/former-wright-state-raider-baseball-player-local-high-school-graduate-traded-seattle/G6KGXRMKLJHSRJD4M7D2EQPAMQ/",
+        "source": "WHIO TV"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "mark harmon",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title": "manny machado",
+    "titleZh": "曼尼·马查多",
     "traffic": "500+",
-    "started": "Mon, 3 Aug 2026 20:40:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
+    "started": "Tue, 4 Aug 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：圣地亚哥教士队宣布小费尔南多·塔蒂斯在响尾蛇系列赛前换人。",
+    "explanation": "Google Trends 显示“曼尼·马查多”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：圣地亚哥教士队宣布小费尔南多·塔蒂斯在响尾蛇系列赛前换人。这些报道来自 Heavy.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "NCIS: What Did Gibbs Whisper In Ziva's Ear In Season 7?",
-        "url": "https://www.aol.com/articles/ncis-did-gibbs-whisper-zivas-014500000.html",
-        "source": "AOL.com"
+        "title": "San Diego Padres Announce Fernando Tatis Jr. Change Before Diamondbacks Series",
+        "url": "https://heavy.com/sports/mlb/san-diego-padres/padres-announce-fernando-tatis-jr-change-before-diamondbacks-series/",
+        "source": "Heavy.com"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "kamil majchrzak",
-    "titleZh": "卡米尔·马吉扎克",
-    "traffic": "1000+",
-    "started": "Mon, 3 Aug 2026 20:30:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“卡米尔·马吉扎克”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 The Grandstand 等媒体，因此带动了集中搜索。",
+    "title": "kshama sawant",
+    "titleZh": "克沙马萨旺特",
+    "traffic": "200+",
+    "started": "Tue, 4 Aug 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：社会主义者卡萨玛·萨万特 (Kshama Sawant) 表示 AOC 和进步派的策略不起作用。",
+    "explanation": "Google Trends 显示“克沙马萨旺特”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：社会主义者卡萨玛·萨万特 (Kshama Sawant) 表示 AOC 和进步派的策略不起作用。这些报道来自 Newsweek 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Montreal R1 previews and predictions: Tsitsipas vs. Damm, Majchrzak vs. Monfils",
-        "url": "https://tenngrand.com/montreal-tennis-previews-picks-predictions-tsitsipas-vs-damm-majchrzak-monfils/",
-        "source": "The Grandstand"
+        "title": "Socialist Kshama Sawant Says AOC’s and Progressives’ Strategy Isn’t Working",
+        "url": "https://www.newsweek.com/kshama-sawant-aoc-adam-smith-midterm-socialist-washington-12275692",
+        "source": "Newsweek"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "taken",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "500+",
-    "started": "Mon, 3 Aug 2026 20:30:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Toledo Blade 等媒体，因此带动了集中搜索。",
+    "title": "marie gluesenkamp perez",
+    "titleZh": "玛丽·格鲁森坎普·佩雷斯",
+    "traffic": "200+",
+    "started": "Tue, 4 Aug 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：格鲁森坎普·佩雷斯和布劳恩在华盛顿国会第三区初选中领先。",
+    "explanation": "Google Trends 显示“玛丽·格鲁森坎普·佩雷斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：格鲁森坎普·佩雷斯和布劳恩在华盛顿国会第三区初选中领先。这些报道来自 KING5.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "U.S. Rep. Marcy Kaptur continues to recover after auto accident",
-        "url": "https://www.toledoblade.com/local/police-fire/2026/08/03/us-rep-marcy-kaptur-continues-recover-after-auto-accident/stories/20260803084",
-        "source": "Toledo Blade"
+        "title": "Gluesenkamp Perez and Braun lead in primary race for Washington's Congressional District 3",
+        "url": "https://www.king5.com/article/news/politics/elections/gluesenkamp-perez-and-braun-lead-in-primary-race-for-washingtons-congressional-district-3/281-e80e9926-2974-4277-9c67-d9a3ac84a42f",
+        "source": "KING5.com"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "george lombard jr",
-    "titleZh": "小乔治·隆巴德",
-    "traffic": "20000+",
-    "started": "Mon, 3 Aug 2026 20:20:00 -0700",
-    "summary": "相关新闻主要集中在：报道：洋基队征召小乔治·隆巴德。",
-    "explanation": "Google Trends 显示“小乔治·隆巴德”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：报道：洋基队征召小乔治·隆巴德。这些报道来自 NBC Sports 等媒体，因此带动了集中搜索。",
+    "title": "spacex rocket moon crash",
+    "titleZh": "SpaceX 火箭月球坠毁",
+    "traffic": "5000+",
+    "started": "Tue, 4 Aug 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：美国宇航局将尝试观测火箭部件的月球撞击。",
+    "explanation": "Google Trends 显示“SpaceX 火箭月球坠毁”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：美国宇航局将尝试观测火箭部件的月球撞击。这些报道来自 NASA (.gov) 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Report: Yankees calling up George Lombard Jr.",
-        "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-03/report-yankees-calling-up-george-lombard-jr",
-        "source": "NBC Sports"
+        "title": "NASA Will Attempt to Observe Rocket Part’s Lunar Impact",
+        "url": "https://www.nasa.gov/humans-in-space/commercial-space/nasa-will-attempt-to-observe-rocket-parts-lunar-impact/",
+        "source": "NASA (.gov)"
       }
     ]
   }
