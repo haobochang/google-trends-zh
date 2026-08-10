@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "operation safed sagar",
-    "titleZh": "安全萨加尔行动",
-    "traffic": "500+",
-    "started": "Sat, 8 Aug 2026 19:50:00 -0700",
-    "summary": "相关新闻主要集中在：安全萨加尔行动评论：席特哈斯、吉米·谢尔吉尔主演了一部没有嗜血的尖锐战争剧。",
-    "explanation": "Google Trends 显示“安全萨加尔行动”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：安全萨加尔行动评论：席特哈斯、吉米·谢尔吉尔主演了一部没有嗜血的尖锐战争剧。这些报道来自 NDTV 等媒体，因此带动了集中搜索。",
+    "title": "posiciones de guayaquil city contra emelec",
+    "titleZh": "瓜亚基尔市对埃梅莱克的立场",
+    "traffic": "1000+",
+    "started": "Sun, 9 Aug 2026 19:50:00 -0700",
+    "summary": "相关新闻主要集中在：埃梅莱克队教练克里斯蒂安·纳苏蒂表示，“我们在最后几米表现不佳”，以及对阵瓜亚基尔城的平局。",
+    "explanation": "Google Trends 显示“瓜亚基尔市对埃梅莱克的立场”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：埃梅莱克队教练克里斯蒂安·纳苏蒂表示，“我们在最后几米表现不佳”，以及对阵瓜亚基尔城的平局。这些报道来自 El Universo 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Operation Safed Sagar Review: Siddharth, Jimmy Shergill Lead A Razor-Sharp War Drama Without Bloodlust",
-        "url": "https://www.ndtv.com/entertainment/operation-safed-sagar-review-siddharth-jimmy-shergill-lead-a-razor-sharp-war-drama-without-bloodlust-4-stars-11882553",
-        "source": "NDTV"
+        "title": "‘No estuvimos finos en los últimos metros’, dice Cristian Nasuti, técnico de Emelec, y el empate frente a Guayaquil City",
+        "url": "https://www.eluniverso.com/deportes/campeonato-ecuatoriano/no-estuvimos-finos-en-los-ultimos-metros-dice-cristian-nasuti-tecnico-de-emelec-y-el-empate-frente-a-guayaquil-city-nota/",
+        "source": "El Universo"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "kyle tucker",
-    "titleZh": "凯尔·塔克",
-    "traffic": "1000+",
-    "started": "Sat, 8 Aug 2026 19:40:00 -0700",
-    "summary": "相关新闻主要集中在：凯尔·塔克的挣扎应该会让小熊队球迷重新对杰德·霍耶产生信心。",
-    "explanation": "Google Trends 显示“凯尔·塔克”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：凯尔·塔克的挣扎应该会让小熊队球迷重新对杰德·霍耶产生信心。这些报道来自 FanSided 等媒体，因此带动了集中搜索。",
+    "title": "brian rodríguez",
+    "titleZh": "布莱恩·罗德里格斯",
+    "traffic": "500+",
+    "started": "Sun, 9 Aug 2026 19:40:00 -0700",
+    "summary": "相关新闻主要集中在：拉萨尔维亚回应布莱恩·罗德里格斯受挫的传球并威胁采取法律行动。",
+    "explanation": "Google Trends 显示“布莱恩·罗德里格斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：拉萨尔维亚回应布莱恩·罗德里格斯受挫的传球并威胁采取法律行动。这些报道来自 Montevideo Portal 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Kyle Tucker’s struggles should give Cubs fans renewed faith in Jed Hoyer",
-        "url": "https://fansided.com/mlb/kyle-tucker-s-struggles-should-give-cubs-fans-renewed-faith-in-jed-hoyer-01kz8mg6a4ar",
-        "source": "FanSided"
+        "title": "Lasalvia respondió por pase frustrado de Brian Rodríguez y amenazó con acciones legales",
+        "url": "https://www.montevideo.com.uy/Deportes/Lasalvia-respondio-por-pase-frustrado-de-Brian-Rodriguez-y-amenazo-con-acciones-legales-uc971171",
+        "source": "Montevideo Portal"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "atlante fc",
-    "titleZh": "亚特兰特足球俱乐部",
+    "title": "julian newman",
+    "titleZh": "朱利安·纽曼",
     "traffic": "500+",
-    "started": "Sat, 8 Aug 2026 19:40:00 -0700",
-    "summary": "相关新闻主要集中在：守门员大换血？克鲁兹·阿祖尔可能会在联赛杯后替补凯文·米尔。",
-    "explanation": "Google Trends 显示“亚特兰特足球俱乐部”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：守门员大换血？克鲁兹·阿祖尔可能会在联赛杯后替补凯文·米尔。这些报道来自 Soy Futbol 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 9 Aug 2026 19:40:00 -0700",
+    "summary": "相关新闻主要集中在：贾登·纽曼泄露视频争议：朱利安·纽曼兄弟解决网上强烈反对。",
+    "explanation": "Google Trends 显示“朱利安·纽曼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：贾登·纽曼泄露视频争议：朱利安·纽曼兄弟解决网上强烈反对。这些报道来自 The Express Tribune 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Goalkeeper Shake-Up? Cruz Azul Might Bench Kevin Mier After Leagues Cup",
-        "url": "https://www.soyfutbol.com/en/news/goalkeeper-shake-up-cruz-azul-might-bench-kevin-mier-after-leagues-cup-20260805-0023.html",
-        "source": "Soy Futbol"
+        "title": "Jaden Newman leaked video controversy: Brother Julian Newman addresses online backlash",
+        "url": "https://tribune.com.pk/story/2622932/jaden-newman-leaked-video-controversy-brother-julian-newman-addresses-online-backlash",
+        "source": "The Express Tribune"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "arman tsarukyan",
-    "titleZh": "亚美尼亚察鲁基扬",
-    "traffic": "500+",
-    "started": "Sat, 8 Aug 2026 19:30:00 -0700",
-    "summary": "相关新闻主要集中在：丹尼尔·科米尔：阿曼·查鲁基安 (Arman Tsarukyan) 与毛里西奥·鲁菲 (Mauricio Ruffy) 的比赛让他无可否认。",
-    "explanation": "Google Trends 显示“亚美尼亚察鲁基扬”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：丹尼尔·科米尔：阿曼·查鲁基安 (Arman Tsarukyan) 与毛里西奥·鲁菲 (Mauricio Ruffy) 的比赛让他无可否认。这些报道来自 MMA Junkie 等媒体，因此带动了集中搜索。",
+    "title": "anne hathaway",
+    "titleZh": "安妮·海瑟薇",
+    "traffic": "2000+",
+    "started": "Sun, 9 Aug 2026 19:30:00 -0700",
+    "summary": "相关新闻主要集中在：赢得“橡树街尽头”的 Fandango 通行证。",
+    "explanation": "Google Trends 显示“安妮·海瑟薇”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：赢得“橡树街尽头”的 Fandango 通行证。这些报道来自 San Diego Reader 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Daniel Cormier: Arman Tsarukyan taking Mauricio Ruffy fight makes him undeniable",
-        "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/07/daniel-cormier-lauds-arman-tsarukyan-for-taking-mauricio-ruffy-fight/91211752007/",
-        "source": "MMA Junkie"
+        "title": "Win Fandango Passes to \"THE END OF OAK STREET\"",
+        "url": "https://www.sandiegoreader.com/contests/win-a-pair-of-fandango-passes-to-the-end-of-oak-street/",
+        "source": "San Diego Reader"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "jordan walker",
-    "titleZh": "乔丹·沃克",
-    "traffic": "200+",
-    "started": "Sat, 8 Aug 2026 19:30:00 -0700",
-    "summary": "相关新闻主要集中在：红雀队因右膝发炎而划伤乔丹·沃克。",
-    "explanation": "Google Trends 显示“乔丹·沃克”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：红雀队因右膝发炎而划伤乔丹·沃克。这些报道来自 ESPN 等媒体，因此带动了集中搜索。",
+    "title": "farmers almanac winter weather forecast",
+    "titleZh": "农民年鉴冬季天气预报",
+    "traffic": "2000+",
+    "started": "Sun, 9 Aug 2026 19:30:00 -0700",
+    "summary": "相关新闻主要集中在：农民年鉴 2026 / 2027 冬季天气预报。",
+    "explanation": "Google Trends 显示“农民年鉴冬季天气预报”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：农民年鉴 2026 / 2027 冬季天气预报。这些报道来自 Farmers' Almanac 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Cardinals scratch Jordan Walker with right knee inflammation",
-        "url": "https://www.espn.com/mlb/story/_/id/49532466/cardinals-scratch-jordan-walker-right-knee-inflammation",
-        "source": "ESPN"
+        "title": "Farmers’ Almanac 2026 / 2027 Winter Weather Forecast",
+        "url": "https://www.farmersalmanac.com/farmers-almanac-2026-2027-winter-weather-forecast",
+        "source": "Farmers' Almanac"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "christopher lambert",
-    "titleZh": "克里斯托弗·兰伯特",
-    "traffic": "200+",
-    "started": "Sat, 8 Aug 2026 19:30:00 -0700",
-    "summary": "相关新闻主要集中在：《高地人》明星克里斯托弗·兰伯特在钢铁城动漫展上倒下。",
-    "explanation": "Google Trends 显示“克里斯托弗·兰伯特”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《高地人》明星克里斯托弗·兰伯特在钢铁城动漫展上倒下。这些报道来自 ComicBook.com 等媒体，因此带动了集中搜索。",
+    "title": "nashville sc vs atletico san luis standings",
+    "titleZh": "纳什维尔 SC VS 圣路易斯竞技 积分榜",
+    "traffic": "500+",
+    "started": "Sun, 9 Aug 2026 19:30:00 -0700",
+    "summary": "相关新闻主要集中在：进球：K. Velde 对阵 A.M.E.，19'。",
+    "explanation": "Google Trends 显示“纳什维尔 SC VS 圣路易斯竞技 积分榜”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：进球：K. Velde 对阵 A.M.E.，19'。这些报道来自 MLSsoccer.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Highlander Star Christopher Lambert Collapses at Steel City Comic-Con",
-        "url": "https://comicbook.com/movies/news/highlander-star-christopher-lambert-collapses-at-steel-city-comic-con/",
-        "source": "ComicBook.com"
-      }
-    ]
-  },
-  {
-    "rank": 7,
-    "title": "mariners top 50 players",
-    "titleZh": "水手队前50名球员",
-    "traffic": "200+",
-    "started": "Sat, 8 Aug 2026 19:30:00 -0700",
-    "summary": "相关新闻主要集中在：史黛西：当水手队向他们的伟人致敬时，现在的明星们能继续前进吗？。",
-    "explanation": "Google Trends 显示“水手队前50名球员”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：史黛西：当水手队向他们的伟人致敬时，现在的明星们能继续前进吗？。这些报道来自 Seattle Sports 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Stacy: As Mariners honor their greats, can current stars get going?",
-        "url": "https://sports.mynorthwest.com/mlb/seattle-mariners/stacy-as-seattle-mariners-honor-greats-can-current-stars-get-going",
-        "source": "Seattle Sports"
-      }
-    ]
-  },
-  {
-    "rank": 8,
-    "title": "inter miami vs c.f. monterrey standings",
-    "titleZh": "国际迈阿密 vs C.F.蒙特雷 积分榜",
-    "traffic": "5000+",
-    "started": "Sat, 8 Aug 2026 19:20:00 -0700",
-    "summary": "相关新闻主要集中在：亮点：国际迈阿密 vs. 蒙特雷 | 2026 年 8 月 8 日。",
-    "explanation": "Google Trends 显示“国际迈阿密 vs C.F.蒙特雷 积分榜”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：亮点：国际迈阿密 vs. 蒙特雷 | 2026 年 8 月 8 日。这些报道来自 MLSsoccer.com 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "HIGHLIGHTS: Inter Miami CF vs. CF Monterrey | August 8, 2026",
-        "url": "https://www.mlssoccer.com/competitions/leagues-cup/video/highlights-inter-miami-cf-vs-cf-monterrey-august-8-2026",
+        "title": "Goal: K. Velde vs. AME, 19'",
+        "url": "https://www.mlssoccer.com/video/goal-k-velde-vs-ame-19",
         "source": "MLSsoccer.com"
       }
     ]
   },
   {
-    "rank": 9,
-    "title": "chicago white sox",
-    "titleZh": "芝加哥白袜队",
-    "traffic": "2000+",
-    "started": "Sat, 8 Aug 2026 19:20:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“芝加哥白袜队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Cleveland.com 等媒体，因此带动了集中搜索。",
+    "rank": 7,
+    "title": "game of thrones cast",
+    "titleZh": "权力的游戏演员表",
+    "traffic": "500+",
+    "started": "Sun, 9 Aug 2026 19:30:00 -0700",
+    "summary": "相关新闻主要集中在：我们所知道的关于《权力的游戏》电影《伊耿的征服》的一切。",
+    "explanation": "Google Trends 显示“权力的游戏演员表”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：我们所知道的关于《权力的游戏》电影《伊耿的征服》的一切。这些报道来自 British GQ 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Is opportunity or disaster knocking for Guardians in 3-game series vs. White Sox?",
-        "url": "https://www.cleveland.com/guardians/2026/08/is-opportunity-or-disaster-knocking-for-guardians-in-3-game-series-vs-white-sox.html",
-        "source": "Cleveland.com"
+        "title": "Everything we know about the Game of Thrones movie, Aegon's Conquest",
+        "url": "https://www.gq-magazine.co.uk/article/everything-we-know-about-the-game-of-thrones-movie-aegons-conquest",
+        "source": "British GQ"
+      }
+    ]
+  },
+  {
+    "rank": 8,
+    "title": "óscar perea",
+    "titleZh": "奥斯卡·佩雷亚",
+    "traffic": "500+",
+    "started": "Sun, 9 Aug 2026 19:30:00 -0700",
+    "summary": "相关新闻主要集中在：奥斯卡·佩雷亚 (Óscar Perea) 在 2026 年世界杯期间作为球迷了解了阿兹特克体育场，现在他想与美洲队一起闪耀。",
+    "explanation": "Google Trends 显示“奥斯卡·佩雷亚”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：奥斯卡·佩雷亚 (Óscar Perea) 在 2026 年世界杯期间作为球迷了解了阿兹特克体育场，现在他想与美洲队一起闪耀。这些报道来自 El Universal 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Óscar Perea conoció el Estadio Azteca como aficionado durante al Mundial 2026, ahora quiere brillar con el América",
+        "url": "https://www.eluniversal.com.mx/deportes/oscar-perea-conocio-el-estadio-azteca-como-aficionado-durante-al-mundial-2026-ahora-quiere-brillar-con-el-america/",
+        "source": "El Universal"
+      }
+    ]
+  },
+  {
+    "rank": 9,
+    "title": "matt smith",
+    "titleZh": "马特·史密斯",
+    "traffic": "500+",
+    "started": "Sun, 9 Aug 2026 19:10:00 -0700",
+    "summary": "相关新闻主要集中在：据报道，马特·史密斯每集《龙之屋》能赚多少钱？。",
+    "explanation": "Google Trends 显示“马特·史密斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：据报道，马特·史密斯每集《龙之屋》能赚多少钱？。这些报道来自 IMDb 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "How Much Does Matt Smith Reportedly Earn per Episode of ‘House of the Dragon’?",
+        "url": "https://www.imdb.com/news/ni65964494/?ref_=int_nwr_1",
+        "source": "IMDb"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "samuel monroe jr",
-    "titleZh": "小塞缪尔·门罗",
+    "title": "call of duty",
+    "titleZh": "使命召唤",
     "traffic": "200+",
-    "started": "Sat, 8 Aug 2026 19:20:00 -0700",
-    "summary": "相关新闻主要集中在：《社会威胁 II》演员小塞缪尔·门罗的医疗磨难仍在继续，重大决定迫在眉睫。",
-    "explanation": "Google Trends 显示“小塞缪尔·门罗”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《社会威胁 II》演员小塞缪尔·门罗的医疗磨难仍在继续，重大决定迫在眉睫。这些报道来自 TheGrio 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 9 Aug 2026 19:10:00 -0700",
+    "summary": "相关新闻主要集中在：《使命召唤：现代战争 4》——迄今为止我们所知道的一切。",
+    "explanation": "Google Trends 显示“使命召唤”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《使命召唤：现代战争 4》——迄今为止我们所知道的一切。这些报道来自 Indy100 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "'Menace II Society' actor Samuel Monroe Jr.'s medical ordeal continues as major decision looms",
-        "url": "https://thegrio.com/2026/08/08/samuel-monroe-jr-menace-ii-society-health-update/",
-        "source": "TheGrio"
+        "title": "Call of Duty: Modern Warfare 4 - Everything we know so far",
+        "url": "https://www.indy100.com/gaming/call-of-duty-modern-warfare-4-2677675683",
+        "source": "Indy100"
       }
     ]
   }
