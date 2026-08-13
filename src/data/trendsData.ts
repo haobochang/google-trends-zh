@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "kalshi",
-    "titleZh": "卡尔希",
-    "traffic": "1000+",
-    "started": "Tue, 11 Aug 2026 20:00:00 -0700",
-    "summary": "相关新闻主要集中在：Kalshi 代码“OREGONLIVE1”为明天 Fire vs. Lynx WNBA 比赛的 WA 和 OR 提供 500 美元推荐奖金。",
-    "explanation": "Google Trends 显示“卡尔希”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Kalshi 代码“OREGONLIVE1”为明天 Fire vs. Lynx WNBA 比赛的 WA 和 OR 提供 500 美元推荐奖金。这些报道来自 OregonLive.com 等媒体，因此带动了集中搜索。",
+    "title": "rybakina",
+    "titleZh": "雷巴基纳",
+    "traffic": "5000+",
+    "started": "Wed, 12 Aug 2026 20:10:00 -0700",
+    "summary": "相关新闻主要集中在：雷巴基娜在逆转战胜大阪队的比赛中展现了冠军的勇气；进入多伦多半决赛。",
+    "explanation": "Google Trends 显示“雷巴基纳”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：雷巴基娜在逆转战胜大阪队的比赛中展现了冠军的勇气；进入多伦多半决赛。这些报道来自 WTA Tennis 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Kalshi code “OREGONLIVE1” extends $500 referral bonus possibility into WA and OR for Fire vs. Lynx WNBA game tomorrow",
-        "url": "https://www.oregonlive.com/betting/2026/08/kalshi-code-oregonlive1-extends-500-referral-bonus-possibility-into-wa-and-or-for-fire-vs-lynx-wnba-game-tomorrow.html",
-        "source": "OregonLive.com"
+        "title": "Rybakina shows champion's grit in comeback win over Osaka; reaches Toronto semis",
+        "url": "https://www.wtatennis.com/news/4557966/rybakina-shows-champions-grit-in-comeback-win-over-osaka-to-reach-toronto-semis",
+        "source": "WTA Tennis"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "mookie betts",
-    "titleZh": "穆基·贝茨",
-    "traffic": "1000+",
-    "started": "Tue, 11 Aug 2026 20:00:00 -0700",
-    "summary": "相关新闻主要集中在：耐心还是恐慌：Mookie Betts、William Contreras、Brayan Rocchio。",
-    "explanation": "Google Trends 显示“穆基·贝茨”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：耐心还是恐慌：Mookie Betts、William Contreras、Brayan Rocchio。这些报道来自 Pitcher List 等媒体，因此带动了集中搜索。",
+    "title": "omar cooper jr",
+    "titleZh": "小奥马尔·库珀",
+    "traffic": "200+",
+    "started": "Wed, 12 Aug 2026 20:10:00 -0700",
+    "summary": "相关新闻主要集中在：以赛亚·威廉姆斯的夏天仍在继续，喷气机队 WR 赢得了强有力的认可。",
+    "explanation": "Google Trends 显示“小奥马尔·库珀”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：以赛亚·威廉姆斯的夏天仍在继续，喷气机队 WR 赢得了强有力的认可。这些报道来自 The Jet Press 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Patience or Panic: Mookie Betts, William Contreras, Brayan Rocchio",
-        "url": "https://pitcherlist.com/patience-or-panic-mookie-betts-william-contreras-brayan-rocchio/",
-        "source": "Pitcher List"
+        "title": "Summer of Isaiah Williams continues as Jets WR earns powerful endorsement",
+        "url": "https://thejetpress.com/summer-isaiah-williams-continues-jets-wr-earns-powerful-endorsement-01kzrh3gb1mf",
+        "source": "The Jet Press"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "kyle harrison",
-    "titleZh": "凯尔·哈里森",
+    "title": "arjun aravind",
+    "titleZh": "阿琼·阿拉文德",
     "traffic": "500+",
-    "started": "Tue, 11 Aug 2026 20:00:00 -0700",
-    "summary": "相关新闻主要集中在：酿酒人队 4-2 海盗队（2026 年 8 月 5 日）比赛回顾。",
-    "explanation": "Google Trends 显示“凯尔·哈里森”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：酿酒人队 4-2 海盗队（2026 年 8 月 5 日）比赛回顾。这些报道来自 ESPN 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 12 Aug 2026 20:10:00 -0700",
+    "summary": "相关新闻主要集中在：调查人员在玛莎莱恩死亡调查后寻找下落不明的人员。",
+    "explanation": "Google Trends 显示“阿琼·阿拉文德”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：调查人员在玛莎莱恩死亡调查后寻找下落不明的人员。这些报道来自 middlesexda | 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Brewers 4-2 Pirates (Aug 5, 2026) Game Recap",
-        "url": "https://www.espn.com/mlb/recap/_/gameId/401816408",
-        "source": "ESPN"
+        "title": "Investigators Seeking Unaccounted for Individual Following Death Investigation on Martha Lane",
+        "url": "https://www.middlesexda.com/press-releases/news/investigators-seeking-unaccounted-individual-following-death-investigation",
+        "source": "middlesexda |"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "michael wacha",
-    "titleZh": "迈克尔·停止",
-    "traffic": "5000+",
-    "started": "Tue, 11 Aug 2026 20:00:00 -0700",
-    "summary": "相关新闻主要集中在：道奇队价格过高且表现不佳：LAD vs. KC 预览。",
-    "explanation": "Google Trends 显示“迈克尔·停止”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：道奇队价格过高且表现不佳：LAD vs. KC 预览。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "title": "elena rybakina",
+    "titleZh": "埃琳娜·雷巴基娜",
+    "traffic": "1000+",
+    "started": "Wed, 12 Aug 2026 20:00:00 -0700",
+    "summary": "相关新闻主要集中在：2026 年辛辛那提网球奖金。",
+    "explanation": "Google Trends 显示“埃琳娜·雷巴基娜”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：2026 年辛辛那提网球奖金。这些报道来自 ATP Tour 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Dodgers Overpriced & Underperforming: LAD vs. KC Preview",
-        "url": "https://sports.yahoo.com/videos/dodgers-overpriced-underperforming-lad-vs-180725542.html",
-        "source": "Yahoo Sports"
+        "title": "2026 Cincinnati tennis prize money",
+        "url": "https://www.atptour.com/en/news/cincinnati-2026-prize-money",
+        "source": "ATP Tour"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "minnesota united fc vs atlante f.c. standings",
-    "titleZh": "明尼苏达联队 vs 亚特兰特队积分榜",
+    "title": "mike trout",
+    "titleZh": "迈克·特劳特",
     "traffic": "1000+",
-    "started": "Tue, 11 Aug 2026 19:50:00 -0700",
-    "summary": "相关新闻主要集中在：可授权图片：MLS：联赛杯第一阶段 - 马萨特兰队对阵明尼苏达联队。",
-    "explanation": "Google Trends 显示“明尼苏达联队 vs 亚特兰特队积分榜”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：可授权图片：MLS：联赛杯第一阶段 - 马萨特兰队对阵明尼苏达联队。这些报道来自 Reuters Connect 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 12 Aug 2026 20:00:00 -0700",
+    "summary": "相关新闻主要集中在：美国职业棒球大联盟(MLB)球星在大肆宣传的新球场进行的高尔夫郊游，在交易截止日期前却陷入了困境。",
+    "explanation": "Google Trends 显示“迈克·特劳特”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：美国职业棒球大联盟(MLB)球星在大肆宣传的新球场进行的高尔夫郊游，在交易截止日期前却陷入了困境。这些报道来自 Golf Digest 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Licensable picture: MLS: Leagues Cup Phase One-Mazatlan FC at Minnesota United FC",
-        "url": "https://www.reutersconnect.com/item/mls-leagues-cup-phase-one-mazatlan-fc-at-minnesota-united-fc/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk1NjM2Mzc",
-        "source": "Reuters Connect"
+        "title": "MLB star’s team-bonding golf outing at hyped new course turns into trade-deadline trainwreck",
+        "url": "https://www.golfdigest.com/story/mlb-star-mike-trout-team-bonding-golf-outing-trout-national-the-reserve-barbaric-trade-deadline-trainwreck",
+        "source": "Golf Digest"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "mark ruffalo",
-    "titleZh": "马克·鲁法洛",
-    "traffic": "1000+",
-    "started": "Tue, 11 Aug 2026 19:50:00 -0700",
-    "summary": "相关新闻主要集中在：马克·鲁法洛 (Mark Ruffalo) 的儿子基恩 (Keen) 在新的亚马逊 Prime 剧集中担任主要角色。",
-    "explanation": "Google Trends 显示“马克·鲁法洛”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：马克·鲁法洛 (Mark Ruffalo) 的儿子基恩 (Keen) 在新的亚马逊 Prime 剧集中担任主要角色。这些报道来自 HOLA 等媒体，因此带动了集中搜索。",
+    "title": "pokemon go 10th anniversary mewtwo",
+    "titleZh": "《精灵宝可梦 Go》十周年纪念超梦",
+    "traffic": "200+",
+    "started": "Wed, 12 Aug 2026 20:00:00 -0700",
+    "summary": "相关新闻主要集中在：“一万亿神奇宝贝”之后：《神奇宝贝 GO》如何打造出持续十年的文化现象——以及一位副总裁对未来几年的“个人愿望”。",
+    "explanation": "Google Trends 显示“《精灵宝可梦 Go》十周年纪念超梦”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：“一万亿神奇宝贝”之后：《神奇宝贝 GO》如何打造出持续十年的文化现象——以及一位副总裁对未来几年的“个人愿望”。这些报道来自 TechRadar 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Mark Ruffalo’s son Keen lands major role in new Amazon Prime drama",
-        "url": "https://www.hola.com/us/celebrities/20260808917089/mark-ruffalos-son-keen-lands-amazon-role/",
-        "source": "HOLA"
+        "title": "‘One trillion Pokémon’ later: How Pokémon GO built a cultural phenomenon that lasted a decade – and one VP’s 'personal wish' for the years to come",
+        "url": "https://www.techradar.com/gaming/theres-never-been-a-better-time-to-be-a-pokemon-go-player-10-years-on-vp-of-game-development-says-theres-plenty-still-to-come",
+        "source": "TechRadar"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "real salt lake",
-    "titleZh": "真正的盐湖",
-    "traffic": "500+",
-    "started": "Tue, 11 Aug 2026 19:50:00 -0700",
-    "summary": "相关新闻主要集中在：皇家盐湖城 - FC 华雷斯 预测和技巧 12.08.2026。",
-    "explanation": "Google Trends 显示“真正的盐湖”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：皇家盐湖城 - FC 华雷斯 预测和技巧 12.08.2026。这些报道来自 Transfermarkt 等媒体，因此带动了集中搜索。",
+    "title": "coco gauff",
+    "titleZh": "可可·高夫",
+    "traffic": "5000+",
+    "started": "Wed, 12 Aug 2026 19:50:00 -0700",
+    "summary": "相关新闻主要集中在：观看：Alex Eala 和 Coco Gauff 通过俏皮的 TikTok 取悦粉丝。",
+    "explanation": "Google Trends 显示“可可·高夫”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：观看：Alex Eala 和 Coco Gauff 通过俏皮的 TikTok 取悦粉丝。这些报道来自 INQUIRER.net USA 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Real Salt Lake - FC Juárez prediction & tips 12.08.2026",
-        "url": "https://www.transfermarkt.com/betting/tips/real-salt-lake-vs-fc-juarez-prediction-12-08-2026/",
-        "source": "Transfermarkt"
+        "title": "WATCH: Alex Eala, Coco Gauff delight fans with playful TikTok",
+        "url": "https://usa.inquirer.net/206372/watch-alex-eala-coco-gauff-delight-fans-with-playful-tiktok",
+        "source": "INQUIRER.net USA"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "tigres uanl",
-    "titleZh": "乌尔老虎",
+    "title": "wade boggs",
+    "titleZh": "韦德·博格斯",
     "traffic": "1000+",
-    "started": "Tue, 11 Aug 2026 19:40:00 -0700",
-    "summary": "相关新闻主要集中在：老虎队 vs 温哥华白帽队比赛的人工智能预测。",
-    "explanation": "Google Trends 显示“乌尔老虎”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：老虎队 vs 温哥华白帽队比赛的人工智能预测。这些报道来自 Sports Illustrated 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 12 Aug 2026 19:50:00 -0700",
+    "summary": "相关新闻主要集中在：MLB 名人堂成员韦德·博格斯 (Wade Boggs) 在病毒式钓鱼照片中看起来已经 68 岁了。",
+    "explanation": "Google Trends 显示“韦德·博格斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：MLB 名人堂成员韦德·博格斯 (Wade Boggs) 在病毒式钓鱼照片中看起来已经 68 岁了。这些报道来自 Generation Iron 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "El pronóstico de la Inteligencia Artificial para el partido Tigres vs Vancouver Whitecaps",
-        "url": "https://www.si.com/es-us/futbol/el-pronostico-de-la-inteligencia-artificial-para-el-partido-tigres-vs-vancouver-whitecaps-12-8-2026",
-        "source": "Sports Illustrated"
+        "title": "MLB Hall of Famer Wade Boggs Looks Absolutely Jacked at 68 in Viral Fishing Photo",
+        "url": "https://generationiron.com/wade-boggs-jacked-fishing-photo/",
+        "source": "Generation Iron"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "dorinda medley",
-    "titleZh": "多琳达混合泳",
-    "traffic": "500+",
-    "started": "Tue, 11 Aug 2026 19:40:00 -0700",
-    "summary": "相关新闻主要集中在：DORINDA MEDLEY 和 LUANN DE LESSEPS 启航参加纽约派对游船活动。",
-    "explanation": "Google Trends 显示“多琳达混合泳”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：DORINDA MEDLEY 和 LUANN DE LESSEPS 启航参加纽约派对游船活动。这些报道来自 XO Diva D 等媒体，因此带动了集中搜索。",
+    "title": "eric lauer",
+    "titleZh": "埃里克·劳尔",
+    "traffic": "1000+",
+    "started": "Wed, 12 Aug 2026 19:50:00 -0700",
+    "summary": "相关新闻主要集中在：今晚美国职业棒球大联盟 (MLB) 比赛皇家队 vs 道奇队的预测、选秀和赔率。",
+    "explanation": "Google Trends 显示“埃里克·劳尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：今晚美国职业棒球大联盟 (MLB) 比赛皇家队 vs 道奇队的预测、选秀和赔率。这些报道来自 Covers.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "DORINDA MEDLEY AND LUANN DE LESSEPS ARE SETTING SAIL FOR A NYC PARTY BOAT EVENT",
-        "url": "https://xodivad.com/2026/08/11/dorinda-medley-and-luann-de-lesseps-are-setting-sail-for-a-nyc-party-boat-event/",
-        "source": "XO Diva D"
+        "title": "Royals vs Dodgers Prediction, Picks & Odds for Tonight's MLB Game",
+        "url": "https://www.covers.com/mlb/royals-vs-dodgers-prediction-picks-odds-wednesday-8-12-2026",
+        "source": "Covers.com"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "rebecca cooke",
-    "titleZh": "丽贝卡·库克",
-    "traffic": "1000+",
-    "started": "Tue, 11 Aug 2026 19:40:00 -0700",
-    "summary": "相关新闻主要集中在：丽贝卡·库克赢得第三国会选区初选。",
-    "explanation": "Google Trends 显示“丽贝卡·库克”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：丽贝卡·库克赢得第三国会选区初选。这些报道来自 Channel 3000 等媒体，因此带动了集中搜索。",
+    "title": "raiders",
+    "titleZh": "袭击者",
+    "traffic": "500+",
+    "started": "Wed, 12 Aug 2026 19:50:00 -0700",
+    "summary": "相关新闻主要集中在：突袭者计划在周四的季前赛揭幕战中为状元费尔南多·门多萨提供“丰富的经验”。",
+    "explanation": "Google Trends 显示“袭击者”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：突袭者计划在周四的季前赛揭幕战中为状元费尔南多·门多萨提供“丰富的经验”。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Rebecca Cooke wins primary for 3rd Congressional District",
-        "url": "https://www.channel3000.com/news/rebecca-cooke-wins-primary-for-3rd-congressional-district/article_c4e9bc95-096b-49f4-b8cd-773ae7195487.html",
-        "source": "Channel 3000"
+        "title": "Raiders plan to give top pick Fernando Mendoza 'plenty of experience' in Thursday's preseason opener",
+        "url": "https://sports.yahoo.com/nfl/article/raiders-plan-to-give-top-pick-fernando-mendoza-plenty-of-experience-in-thursdays-preseason-opener-172144234.html",
+        "source": "Yahoo Sports"
       }
     ]
   }
