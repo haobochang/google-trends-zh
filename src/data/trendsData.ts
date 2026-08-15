@@ -3,170 +3,170 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "jacob degrom",
-    "titleZh": "雅各布·德格罗姆",
-    "traffic": "1000+",
-    "started": "Thu, 13 Aug 2026 20:10:00 -0700",
-    "summary": "相关新闻主要集中在：迈克·特劳特 (Mike Trout) 的 RBI 单曲。",
-    "explanation": "Google Trends 显示“雅各布·德格罗姆”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：迈克·特劳特 (Mike Trout) 的 RBI 单曲。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "title": "d23 livestream",
+    "titleZh": "d23 直播",
+    "traffic": "200+",
+    "started": "Fri, 14 Aug 2026 19:00:00 -0700",
+    "summary": "相关新闻主要集中在：《王国之心 4》粉丝在 D23 等待更新，迪士尼表示该 JRPG 系列现已成为价值 10 亿美元的系列。",
+    "explanation": "Google Trends 显示“d23 直播”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《王国之心 4》粉丝在 D23 等待更新，迪士尼表示该 JRPG 系列现已成为价值 10 亿美元的系列。这些报道来自 GamesRadar+ 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Mike Trout's RBI single",
-        "url": "https://sports.yahoo.com/videos/mike-trouts-rbi-single-030628769.html",
-        "source": "Yahoo Sports"
+        "title": "As Kingdom Hearts 4 fans await an update at D23, Disney says the JRPG series is now a $1 billion franchise",
+        "url": "https://www.gamesradar.com/games/kingdom-hearts/as-kingdom-hearts-4-fans-await-an-update-at-d23-disney-says-the-jrpg-series-is-now-a-usd1-billion-franchise/",
+        "source": "GamesRadar+"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "rangers",
-    "titleZh": "护林员",
-    "traffic": "5000+",
-    "started": "Thu, 13 Aug 2026 20:10:00 -0700",
-    "summary": "相关新闻主要集中在：今晚美国职业棒球大联盟 (MLB) 比赛流浪者队 vs 天使队的预测、选秀和赔率。",
-    "explanation": "Google Trends 显示“护林员”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：今晚美国职业棒球大联盟 (MLB) 比赛流浪者队 vs 天使队的预测、选秀和赔率。这些报道来自 Covers.com 等媒体，因此带动了集中搜索。",
+    "title": "nascar truck series",
+    "titleZh": "纳斯卡卡车系列",
+    "traffic": "200+",
+    "started": "Fri, 14 Aug 2026 19:00:00 -0700",
+    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
+    "explanation": "Google Trends 显示“纳斯卡卡车系列”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Jayski 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Rangers vs Angels Prediction, Picks & Odds for Tonight's MLB Game",
-        "url": "https://www.covers.com/mlb/rangers-vs-angels-prediction-picks-odds-thursday-8-13-2026",
-        "source": "Covers.com"
+        "title": "This weekend at Richmond is pivotal to setting the CRAFTSMAN Truck Series Chase field",
+        "url": "https://www.jayski.com/2026/08/13/this-weekend-at-richmond-is-pivotal-to-setting-the-craftsman-truck-series-chase-field/",
+        "source": "Jayski"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "dre greenlaw",
-    "titleZh": "德雷·格林劳",
-    "traffic": "500+",
-    "started": "Thu, 13 Aug 2026 20:10:00 -0700",
-    "summary": "相关新闻主要集中在：49人队德雷·格林劳：因伤缺席。",
-    "explanation": "Google Trends 显示“德雷·格林劳”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：49人队德雷·格林劳：因伤缺席。这些报道来自 CBS Sports 等媒体，因此带动了集中搜索。",
+    "title": "johnny knoxville",
+    "titleZh": "约翰尼·诺克斯维尔",
+    "traffic": "200+",
+    "started": "Fri, 14 Aug 2026 19:00:00 -0700",
+    "summary": "相关新闻主要集中在：约翰尼·诺克斯维尔分享来自“Jackass”的痛苦的看不见的拳头 |独家的。",
+    "explanation": "Google Trends 显示“约翰尼·诺克斯维尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：约翰尼·诺克斯维尔分享来自“Jackass”的痛苦的看不见的拳头 |独家的。这些报道来自 USA Today 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "49ers' Dre Greenlaw: Absent due to injury",
-        "url": "https://www.cbssports.com/fantasy/football/news/49ers-dre-greenlaw-absent-due-to-injury/",
-        "source": "CBS Sports"
+        "title": "Johnny Knoxville shares painful unseen punch from 'Jackass' | Exclusive",
+        "url": "https://www.usatoday.com/story/entertainment/movies/2026/08/11/jackass-best-and-last-deleted-scene-liver-punch-exclusive/91245499007/",
+        "source": "USA Today"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "league cup",
-    "titleZh": "联赛杯",
-    "traffic": "5000+",
-    "started": "Thu, 13 Aug 2026 20:10:00 -0700",
-    "summary": "相关新闻主要集中在：预计双方将在第一阶段结局中进行大量轮换。",
-    "explanation": "Google Trends 显示“联赛杯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：预计双方将在第一阶段结局中进行大量轮换。这些报道来自 Sounder at Heart 等媒体，因此带动了集中搜索。",
+    "title": "brewers - dodgers",
+    "titleZh": "酿酒商 - 道奇队",
+    "traffic": "10000+",
+    "started": "Fri, 14 Aug 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：道奇队 vs 酿酒人队预测：美国职业棒球大联盟赔率、选秀权、周四最佳投注。",
+    "explanation": "Google Trends 显示“酿酒商 - 道奇队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：道奇队 vs 酿酒人队预测：美国职业棒球大联盟赔率、选秀权、周四最佳投注。这些报道来自 New York Post 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Expect both sides to heavily rotate in Phase One finale",
-        "url": "https://www.sounderatheart.com/2026/08/sounders-chivas-preview/",
-        "source": "Sounder at Heart"
+        "title": "Dodgers vs. Brewers prediction: MLB odds, pick, best bet for Thursday",
+        "url": "https://nypost.com/2026/08/13/betting/dodgers-vs-brewers-prediction-mlb-odds-pick-best-bet-for-thursday/",
+        "source": "New York Post"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "club tijuana",
-    "titleZh": "蒂华纳俱乐部",
-    "traffic": "200+",
-    "started": "Thu, 13 Aug 2026 20:10:00 -0700",
-    "summary": "相关新闻主要集中在：拉斐尔·费尔南德斯相信 Xolos 能够将他们的出色发挥转化为对阵波特兰的成绩。",
-    "explanation": "Google Trends 显示“蒂华纳俱乐部”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：拉斐尔·费尔南德斯相信 Xolos 能够将他们的出色发挥转化为对阵波特兰的成绩。这些报道来自 BajaNews 等媒体，因此带动了集中搜索。",
+    "title": "earthquakes today",
+    "titleZh": "今天地震",
+    "traffic": "500+",
+    "started": "Fri, 14 Aug 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：地图：旧金山湾区发生 3.8 级地震。",
+    "explanation": "Google Trends 显示“今天地震”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：地图：旧金山湾区发生 3.8 级地震。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Rafael Fernández confía en que Xolos convierta su buen juego en resultados ante Portland",
-        "url": "https://bajanews.mx/Deportes/59047/Rafael-Fernandez-confia-en-que-Xolos-convierta-su-buen-juego-en-resultados-ante-Portland",
-        "source": "BajaNews"
+        "title": "Maps: 3.8-Magnitude Earthquake Shakes the San Francisco Bay Area",
+        "url": "https://www.nytimes.com/interactive/2026/08/13/us/quake-tracker-san-francisco-bay.html",
+        "source": "The New York Times"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "jordan watkins",
-    "titleZh": "乔丹·沃特金斯",
-    "traffic": "200+",
-    "started": "Thu, 13 Aug 2026 20:10:00 -0700",
-    "summary": "相关新闻主要集中在：被遗忘的 49 人队选秀权突然有了巨大的机会。",
-    "explanation": "Google Trends 显示“乔丹·沃特金斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：被遗忘的 49 人队选秀权突然有了巨大的机会。这些报道来自 Sports Illustrated 等媒体，因此带动了集中搜索。",
+    "title": "gunnar henderson",
+    "titleZh": "古纳尔·亨德森",
+    "traffic": "500+",
+    "started": "Fri, 14 Aug 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：金莺队在光芒队比赛前宣布冈纳·亨德森阵容变化。",
+    "explanation": "Google Trends 显示“古纳尔·亨德森”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：金莺队在光芒队比赛前宣布冈纳·亨德森阵容变化。这些报道来自 Heavy.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Forgotten 49ers Draft Pick Suddenly Has a Massive Opportunity",
-        "url": "https://www.si.com/nfl/49ers/onsi/forgotten-49ers-draft-pick-suddenly-has-massive-opportunity",
-        "source": "Sports Illustrated"
+        "title": "Orioles Announce Gunnar Henderson Lineup Change Before Rays Game",
+        "url": "https://heavy.com/sports/mlb/baltimore-orioles/announce-gunnar-henderson-lineup-change-before-rays-game/",
+        "source": "Heavy.com"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "leagues cup",
-    "titleZh": "联赛杯",
-    "traffic": "20000+",
-    "started": "Thu, 13 Aug 2026 20:00:00 -0700",
-    "summary": "相关新闻主要集中在：联赛杯竞争者美洲俱乐部与奥斯汀足球俱乐部争夺淘汰赛席位。",
-    "explanation": "Google Trends 显示“联赛杯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：联赛杯竞争者美洲俱乐部与奥斯汀足球俱乐部争夺淘汰赛席位。这些报道来自 MLSsoccer.com 等媒体，因此带动了集中搜索。",
+    "title": "chicago stars vs seattle reign fc",
+    "titleZh": "芝加哥星队 VS 西雅图统治队",
+    "traffic": "500+",
+    "started": "Fri, 14 Aug 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：西雅图君临队 vs 芝加哥明星队预测：NWSL 预览和选择。",
+    "explanation": "Google Trends 显示“芝加哥星队 VS 西雅图统治队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：西雅图君临队 vs 芝加哥明星队预测：NWSL 预览和选择。这些报道来自 OneFootball 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Leagues Cup contenders Club América, Austin FC battle for knockout spot",
-        "url": "https://www.mlssoccer.com/competitions/leagues-cup/news/leagues-cup-contenders-club-america-austin-fc-battle-for-knockout-spot",
-        "source": "MLSsoccer.com"
+        "title": "Seattle Reign FC vs Chicago Stars FC Prediction: NWSL Preview and Pick",
+        "url": "https://onefootball.com/en/news/seattle-reign-fc-vs-chicago-stars-fc-prediction-nwsl-preview-and-pick-43265034",
+        "source": "OneFootball"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "leagues cup 2026",
-    "titleZh": "2026 年联赛杯",
+    "title": "john paris medically induced coma",
+    "titleZh": "约翰·帕里斯因药物引起昏迷",
     "traffic": "500+",
-    "started": "Thu, 13 Aug 2026 20:00:00 -0700",
-    "summary": "相关新闻主要集中在：第 7 场回顾：皇家盐湖城队出击，老虎队在另一场枪战中幸存，最后的戏剧性事件震撼了四分之一决赛。",
-    "explanation": "Google Trends 显示“2026 年联赛杯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：第 7 场回顾：皇家盐湖城队出击，老虎队在另一场枪战中幸存，最后的戏剧性事件震撼了四分之一决赛。这些报道来自 Leagues Cup 等媒体，因此带动了集中搜索。",
+    "started": "Fri, 14 Aug 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：地球、风与火鼓手在医疗紧急情况后筹款。",
+    "explanation": "Google Trends 显示“约翰·帕里斯因药物引起昏迷”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：地球、风与火鼓手在医疗紧急情况后筹款。这些报道来自 KTVU 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "MATCHDAY 7 RECAP: Real Salt Lake Makes Its Move, Tigres Survives Another Shootout and Late Drama Shakes Up Quarterfinal Races",
-        "url": "https://www.leaguescup.com/news/matchday-7-recap-real-salt-lake-makes-its-move-tigres-survives-another-shootout-and-late-drama-shakes-up-quarterfinal-races",
-        "source": "Leagues Cup"
+        "title": "Earth, Wind & Fire drummer fundraises after medical emergency",
+        "url": "https://www.ktvu.com/news/earth-wind-fire-drummer-makes-plea-after-medical-emergency",
+        "source": "KTVU"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "stephen miller",
-    "titleZh": "斯蒂芬·米勒",
-    "traffic": "5000+",
-    "started": "Thu, 13 Aug 2026 20:00:00 -0700",
-    "summary": "相关新闻主要集中在：在特朗普在土耳其转机之前，中央情报局对伊朗威胁“信心不足”。",
-    "explanation": "Google Trends 显示“斯蒂芬·米勒”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：在特朗普在土耳其转机之前，中央情报局对伊朗威胁“信心不足”。这些报道来自 The Washington Post 等媒体，因此带动了集中搜索。",
+    "title": "sofia vergara",
+    "titleZh": "索菲亚·维加拉",
+    "traffic": "500+",
+    "started": "Fri, 14 Aug 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
+    "explanation": "Google Trends 显示“索菲亚·维加拉”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "CIA had ‘low confidence’ in Iranian threat before Trump switched planes in Turkey",
-        "url": "https://www.washingtonpost.com/national-security/2026/08/12/cia-had-low-confidence-iranian-threat-before-trump-switched-planes-turkey/",
-        "source": "The Washington Post"
+        "title": "Sofía Vergara turns heads in romantic figure-hugging dress for Beverly Hills night out",
+        "url": "https://www.yahoo.com/entertainment/celebrity/articles/sof-vergara-turns-heads-romantic-180039798.html",
+        "source": "Yahoo"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "christian yelich",
-    "titleZh": "克里斯蒂安·耶利奇",
-    "traffic": "500+",
-    "started": "Thu, 13 Aug 2026 20:00:00 -0700",
-    "summary": "相关新闻主要集中在：克里斯蒂安·耶利奇（Christian Yelich）排名跌至第七位。",
-    "explanation": "Google Trends 显示“克里斯蒂安·耶利奇”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：克里斯蒂安·耶利奇（Christian Yelich）排名跌至第七位。这些报道来自 NBC Sports 等媒体，因此带动了集中搜索。",
+    "title": "wnba standings",
+    "titleZh": "WNBA积分榜",
+    "traffic": "2000+",
+    "started": "Fri, 14 Aug 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：WNBA 热火检查：杰基·杨、纳菲萨·科利尔在季后赛即将到来之际表现出色。",
+    "explanation": "Google Trends 显示“WNBA积分榜”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：WNBA 热火检查：杰基·杨、纳菲萨·科利尔在季后赛即将到来之际表现出色。这些报道来自 NBC Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Christian Yelich dropped to seventh in order",
-        "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-08/christian-yelich-dropped-to-seventh-in-order",
+        "title": "WNBA Heat Check: Jackie Young, Napheesa Collier turning it up with playoffs on horizon",
+        "url": "https://www.nbcsports.com/wnba/news/wnba-heat-check-jackie-young-napheesa-collier-turning-it-up-with-playoffs-on-horizon",
         "source": "NBC Sports"
       }
     ]
