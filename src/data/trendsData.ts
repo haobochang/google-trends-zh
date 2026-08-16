@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "d23 livestream",
-    "titleZh": "d23 直播",
-    "traffic": "200+",
-    "started": "Fri, 14 Aug 2026 19:00:00 -0700",
-    "summary": "相关新闻主要集中在：《王国之心 4》粉丝在 D23 等待更新，迪士尼表示该 JRPG 系列现已成为价值 10 亿美元的系列。",
-    "explanation": "Google Trends 显示“d23 直播”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《王国之心 4》粉丝在 D23 等待更新，迪士尼表示该 JRPG 系列现已成为价值 10 亿美元的系列。这些报道来自 GamesRadar+ 等媒体，因此带动了集中搜索。",
+    "title": "megan hilty",
+    "titleZh": "梅根希尔蒂",
+    "traffic": "500+",
+    "started": "Sat, 15 Aug 2026 19:20:00 -0700",
+    "summary": "相关新闻主要集中在：文艺复兴剧院公司宣布梅根·希尔蒂 (Megan Hilty) 和谢伊·库莱 (Shea Couleé) 参加筹款晚会。",
+    "explanation": "Google Trends 显示“梅根希尔蒂”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：文艺复兴剧院公司宣布梅根·希尔蒂 (Megan Hilty) 和谢伊·库莱 (Shea Couleé) 参加筹款晚会。这些报道来自 Orlando Weekly 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "As Kingdom Hearts 4 fans await an update at D23, Disney says the JRPG series is now a $1 billion franchise",
-        "url": "https://www.gamesradar.com/games/kingdom-hearts/as-kingdom-hearts-4-fans-await-an-update-at-d23-disney-says-the-jrpg-series-is-now-a-usd1-billion-franchise/",
-        "source": "GamesRadar+"
+        "title": "Renaissance Theatre Co. announces Megan Hilty and Shea Couleé for fundraising gala",
+        "url": "https://www.orlandoweekly.com/arts/things-to-do/renaissance-theatre-co-announces-megan-hilty-and-shea-coulee-for-fundraising-gala/",
+        "source": "Orlando Weekly"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "nascar truck series",
-    "titleZh": "纳斯卡卡车系列",
-    "traffic": "200+",
-    "started": "Fri, 14 Aug 2026 19:00:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“纳斯卡卡车系列”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Jayski 等媒体，因此带动了集中搜索。",
+    "title": "dern vs robertson",
+    "titleZh": "邓恩 VS 罗伯逊",
+    "traffic": "1000+",
+    "started": "Sat, 15 Aug 2026 19:20:00 -0700",
+    "summary": "相关新闻主要集中在：Mackenzie Dern 已准备好巴西柔术的 A-Z。",
+    "explanation": "Google Trends 显示“邓恩 VS 罗伯逊”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Mackenzie Dern 已准备好巴西柔术的 A-Z。这些报道来自 UFC.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "This weekend at Richmond is pivotal to setting the CRAFTSMAN Truck Series Chase field",
-        "url": "https://www.jayski.com/2026/08/13/this-weekend-at-richmond-is-pivotal-to-setting-the-craftsman-truck-series-chase-field/",
-        "source": "Jayski"
+        "title": "Mackenzie Dern Has The A-Z Of BJJ At The Ready",
+        "url": "https://www.ufc.com/news/mackenzie-dern-has-a-to-z-bjj-at-the-ready-ufc-330",
+        "source": "UFC.com"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "johnny knoxville",
-    "titleZh": "约翰尼·诺克斯维尔",
-    "traffic": "200+",
-    "started": "Fri, 14 Aug 2026 19:00:00 -0700",
-    "summary": "相关新闻主要集中在：约翰尼·诺克斯维尔分享来自“Jackass”的痛苦的看不见的拳头 |独家的。",
-    "explanation": "Google Trends 显示“约翰尼·诺克斯维尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：约翰尼·诺克斯维尔分享来自“Jackass”的痛苦的看不见的拳头 |独家的。这些报道来自 USA Today 等媒体，因此带动了集中搜索。",
+    "title": "shannon bream",
+    "titleZh": "香农鲷鱼",
+    "traffic": "1000+",
+    "started": "Sat, 15 Aug 2026 19:20:00 -0700",
+    "summary": "相关新闻主要集中在：比尔·马赫 (Bill Maher) 形容路易吉·曼吉奥尼 (Luigi Mangione) 为“追星族”。",
+    "explanation": "Google Trends 显示“香农鲷鱼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：比尔·马赫 (Bill Maher) 形容路易吉·曼吉奥尼 (Luigi Mangione) 为“追星族”。这些报道来自 Deadline 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Johnny Knoxville shares painful unseen punch from 'Jackass' | Exclusive",
-        "url": "https://www.usatoday.com/story/entertainment/movies/2026/08/11/jackass-best-and-last-deleted-scene-liver-punch-exclusive/91245499007/",
-        "source": "USA Today"
+        "title": "Bill Maher Has A Word For Luigi Mangione “Groupies”",
+        "url": "https://deadline.com/2026/08/bill-maher-luigi-mangione-1237041560/",
+        "source": "Deadline"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "brewers - dodgers",
-    "titleZh": "酿酒商 - 道奇队",
-    "traffic": "10000+",
-    "started": "Fri, 14 Aug 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：道奇队 vs 酿酒人队预测：美国职业棒球大联盟赔率、选秀权、周四最佳投注。",
-    "explanation": "Google Trends 显示“酿酒商 - 道奇队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：道奇队 vs 酿酒人队预测：美国职业棒球大联盟赔率、选秀权、周四最佳投注。这些报道来自 New York Post 等媒体，因此带动了集中搜索。",
+    "title": "houston dynamo",
+    "titleZh": "休斯顿迪纳摩队",
+    "traffic": "1000+",
+    "started": "Sat, 15 Aug 2026 19:20:00 -0700",
+    "summary": "相关新闻主要集中在：休斯顿迪纳摩足球俱乐部庆祝其 2006 年美国职业足球大联盟杯冠军 20 周年。",
+    "explanation": "Google Trends 显示“休斯顿迪纳摩队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：休斯顿迪纳摩足球俱乐部庆祝其 2006 年美国职业足球大联盟杯冠军 20 周年。这些报道来自 Click2Houston 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Dodgers vs. Brewers prediction: MLB odds, pick, best bet for Thursday",
-        "url": "https://nypost.com/2026/08/13/betting/dodgers-vs-brewers-prediction-mlb-odds-pick-best-bet-for-thursday/",
-        "source": "New York Post"
+        "title": "Houston Dynamo FC celebrates 20 years of its 2006 MLS Cup Championship",
+        "url": "https://www.click2houston.com/video/houston-life/2026/08/13/houston-dynamo-fc-celebrates-20-years-of-its-2006-mls-cup-championship/",
+        "source": "Click2Houston"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "earthquakes today",
-    "titleZh": "今天地震",
-    "traffic": "500+",
-    "started": "Fri, 14 Aug 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：地图：旧金山湾区发生 3.8 级地震。",
-    "explanation": "Google Trends 显示“今天地震”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：地图：旧金山湾区发生 3.8 级地震。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
+    "title": "red sox - pirates",
+    "titleZh": "红袜队 - 海盗",
+    "traffic": "1000+",
+    "started": "Sat, 15 Aug 2026 19:20:00 -0700",
+    "summary": "相关新闻主要集中在：海盗队的红袜队：是时候重拾状态了。",
+    "explanation": "Google Trends 显示“红袜队 - 海盗”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：海盗队的红袜队：是时候重拾状态了。这些报道来自 Over the Monster 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Maps: 3.8-Magnitude Earthquake Shakes the San Francisco Bay Area",
-        "url": "https://www.nytimes.com/interactive/2026/08/13/us/quake-tracker-san-francisco-bay.html",
-        "source": "The New York Times"
+        "title": "Red Sox at Pirates: Time to regain the groove",
+        "url": "https://www.overthemonster.com/red-sox-discussion/106633/red-sox-at-pirates-time-to-regain-the-groove",
+        "source": "Over the Monster"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "gunnar henderson",
-    "titleZh": "古纳尔·亨德森",
+    "title": "andruw monasterio",
+    "titleZh": "安德鲁修道院",
     "traffic": "500+",
-    "started": "Fri, 14 Aug 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：金莺队在光芒队比赛前宣布冈纳·亨德森阵容变化。",
-    "explanation": "Google Trends 显示“古纳尔·亨德森”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：金莺队在光芒队比赛前宣布冈纳·亨德森阵容变化。这些报道来自 Heavy.com 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 15 Aug 2026 19:20:00 -0700",
+    "summary": "相关新闻主要集中在：查尔斯·麦卡杜 (Charles McAdoo) 上垒，取得领先。",
+    "explanation": "Google Trends 显示“安德鲁修道院”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：查尔斯·麦卡杜 (Charles McAdoo) 上垒，取得领先。这些报道来自 MLB.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Orioles Announce Gunnar Henderson Lineup Change Before Rays Game",
-        "url": "https://heavy.com/sports/mlb/baltimore-orioles/announce-gunnar-henderson-lineup-change-before-rays-game/",
-        "source": "Heavy.com"
+        "title": "Charles McAdoo on go-ahead double, approach at plate",
+        "url": "https://www.mlb.com/bluejays/video/charles-mcadoo-on-go-ahead-double-approach-at-plate",
+        "source": "MLB.com"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "chicago stars vs seattle reign fc",
-    "titleZh": "芝加哥星队 VS 西雅图统治队",
-    "traffic": "500+",
-    "started": "Fri, 14 Aug 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：西雅图君临队 vs 芝加哥明星队预测：NWSL 预览和选择。",
-    "explanation": "Google Trends 显示“芝加哥星队 VS 西雅图统治队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：西雅图君临队 vs 芝加哥明星队预测：NWSL 预览和选择。这些报道来自 OneFootball 等媒体，因此带动了集中搜索。",
+    "title": "ceedee lamb",
+    "titleZh": "西迪羊肉",
+    "traffic": "1000+",
+    "started": "Sat, 15 Aug 2026 19:20:00 -0700",
+    "summary": "相关新闻主要集中在：Fantasy Football：5 名外接手将在 2026 年看到他们的角色变化 - 但这会得到回报吗？。",
+    "explanation": "Google Trends 显示“西迪羊肉”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Fantasy Football：5 名外接手将在 2026 年看到他们的角色变化 - 但这会得到回报吗？。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Seattle Reign FC vs Chicago Stars FC Prediction: NWSL Preview and Pick",
-        "url": "https://onefootball.com/en/news/seattle-reign-fc-vs-chicago-stars-fc-prediction-nwsl-preview-and-pick-43265034",
-        "source": "OneFootball"
+        "title": "Fantasy Football: 5 wide receivers set to see their roles change in 2026 — but will it pay off?",
+        "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-5-wide-receivers-set-to-see-their-roles-change-in-2026--but-will-it-pay-off-140255845.html",
+        "source": "Yahoo Sports"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "john paris medically induced coma",
-    "titleZh": "约翰·帕里斯因药物引起昏迷",
+    "title": "neil patrick harris",
+    "titleZh": "尼尔·帕特里克·哈里斯",
     "traffic": "500+",
-    "started": "Fri, 14 Aug 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：地球、风与火鼓手在医疗紧急情况后筹款。",
-    "explanation": "Google Trends 显示“约翰·帕里斯因药物引起昏迷”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：地球、风与火鼓手在医疗紧急情况后筹款。这些报道来自 KTVU 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 15 Aug 2026 19:10:00 -0700",
+    "summary": "相关新闻主要集中在：尼尔·帕特里克·哈里斯表示迫在眉睫的“丑闻”威胁迫使他公开出柜。",
+    "explanation": "Google Trends 显示“尼尔·帕特里克·哈里斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：尼尔·帕特里克·哈里斯表示迫在眉睫的“丑闻”威胁迫使他公开出柜。这些报道来自 LGBTQ Nation 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Earth, Wind & Fire drummer fundraises after medical emergency",
-        "url": "https://www.ktvu.com/news/earth-wind-fire-drummer-makes-plea-after-medical-emergency",
-        "source": "KTVU"
+        "title": "Neil Patrick Harris says threat of a looming \"scandal\" forced him to publicly come out",
+        "url": "https://www.lgbtqnation.com/2026/08/neil-patrick-harris-says-threat-of-a-looming-forced-him-to-publicly-come-out/",
+        "source": "LGBTQ Nation"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "sofia vergara",
-    "titleZh": "索菲亚·维加拉",
+    "title": "kyle larson",
+    "titleZh": "凯尔·拉森",
     "traffic": "500+",
-    "started": "Fri, 14 Aug 2026 18:50:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“索菲亚·维加拉”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 15 Aug 2026 19:10:00 -0700",
+    "summary": "相关新闻主要集中在：凯尔·拉尔森承认亨德里克现在无法与丰田匹敌，但仍然相信冠军是可能的。",
+    "explanation": "Google Trends 显示“凯尔·拉森”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：凯尔·拉尔森承认亨德里克现在无法与丰田匹敌，但仍然相信冠军是可能的。这些报道来自 On3 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Sofía Vergara turns heads in romantic figure-hugging dress for Beverly Hills night out",
-        "url": "https://www.yahoo.com/entertainment/celebrity/articles/sof-vergara-turns-heads-romantic-180039798.html",
-        "source": "Yahoo"
+        "title": "Kyle Larson admits Hendrick can’t match Toyota right now, still believes championship is possible",
+        "url": "https://www.on3.com/nascar/news/kyle-larson-admits-hendrick-cant-match-toyota-right-now-still-believes-championship-is-possible/",
+        "source": "On3"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "wnba standings",
-    "titleZh": "WNBA积分榜",
-    "traffic": "2000+",
-    "started": "Fri, 14 Aug 2026 18:40:00 -0700",
-    "summary": "相关新闻主要集中在：WNBA 热火检查：杰基·杨、纳菲萨·科利尔在季后赛即将到来之际表现出色。",
-    "explanation": "Google Trends 显示“WNBA积分榜”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：WNBA 热火检查：杰基·杨、纳菲萨·科利尔在季后赛即将到来之际表现出色。这些报道来自 NBC Sports 等媒体，因此带动了集中搜索。",
+    "title": "sean brady",
+    "titleZh": "肖恩·布雷迪",
+    "traffic": "500+",
+    "started": "Sat, 15 Aug 2026 19:10:00 -0700",
+    "summary": "相关新闻主要集中在：UFC 宣布肖恩·布雷迪 (Sean Brady) 对阵加布里埃尔·邦芬 (Gabriel Bonfim)。",
+    "explanation": "Google Trends 显示“肖恩·布雷迪”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：UFC 宣布肖恩·布雷迪 (Sean Brady) 对阵加布里埃尔·邦芬 (Gabriel Bonfim)。这些报道来自 Heavy.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "WNBA Heat Check: Jackie Young, Napheesa Collier turning it up with playoffs on horizon",
-        "url": "https://www.nbcsports.com/wnba/news/wnba-heat-check-jackie-young-napheesa-collier-turning-it-up-with-playoffs-on-horizon",
-        "source": "NBC Sports"
+        "title": "Sean Brady vs. Gabriel Bonfim Announced By UFC",
+        "url": "https://heavy.com/sports/ufc/sean-brady-gabriel-bonfim-announced-ufc/",
+        "source": "Heavy.com"
       }
     ]
   }
