@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "megan hilty",
-    "titleZh": "梅根希尔蒂",
-    "traffic": "500+",
-    "started": "Sat, 15 Aug 2026 19:20:00 -0700",
-    "summary": "相关新闻主要集中在：文艺复兴剧院公司宣布梅根·希尔蒂 (Megan Hilty) 和谢伊·库莱 (Shea Couleé) 参加筹款晚会。",
-    "explanation": "Google Trends 显示“梅根希尔蒂”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：文艺复兴剧院公司宣布梅根·希尔蒂 (Megan Hilty) 和谢伊·库莱 (Shea Couleé) 参加筹款晚会。这些报道来自 Orlando Weekly 等媒体，因此带动了集中搜索。",
+    "title": "tijuana - cruz azul",
+    "titleZh": "蒂华纳-蓝十字",
+    "traffic": "2000+",
+    "started": "Sun, 16 Aug 2026 19:20:00 -0700",
+    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
+    "explanation": "Google Trends 显示“蒂华纳-蓝十字”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Bolavip México 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Renaissance Theatre Co. announces Megan Hilty and Shea Couleé for fundraising gala",
-        "url": "https://www.orlandoweekly.com/arts/things-to-do/renaissance-theatre-co-announces-megan-hilty-and-shea-coulee-for-fundraising-gala/",
-        "source": "Orlando Weekly"
+        "title": "¿Por qué no juega Rodolfo Rotondi en Xolos vs. Cruz Azul por el Apertura 2026?",
+        "url": "https://bolavip.com/mx/cruz-azul/por-que-no-juega-rodolfo-rotondi-en-xolos-vs-cruz-azul-por-el-apertura-2026",
+        "source": "Bolavip México"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "dern vs robertson",
-    "titleZh": "邓恩 VS 罗伯逊",
-    "traffic": "1000+",
-    "started": "Sat, 15 Aug 2026 19:20:00 -0700",
-    "summary": "相关新闻主要集中在：Mackenzie Dern 已准备好巴西柔术的 A-Z。",
-    "explanation": "Google Trends 显示“邓恩 VS 罗伯逊”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Mackenzie Dern 已准备好巴西柔术的 A-Z。这些报道来自 UFC.com 等媒体，因此带动了集中搜索。",
+    "title": "club tijuana vs cruz azul",
+    "titleZh": "蒂华纳俱乐部 vs 克鲁兹阿祖尔",
+    "traffic": "2000+",
+    "started": "Sun, 16 Aug 2026 19:20:00 -0700",
+    "summary": "相关新闻主要集中在：克鲁兹·阿祖尔再遭打击：冈萨洛·皮奥维受伤，在墨西哥足球甲级联赛回归前拉响警报——他会缺席多久？。",
+    "explanation": "Google Trends 显示“蒂华纳俱乐部 vs 克鲁兹阿祖尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：克鲁兹·阿祖尔再遭打击：冈萨洛·皮奥维受伤，在墨西哥足球甲级联赛回归前拉响警报——他会缺席多久？。这些报道来自 Soy Futbol 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Mackenzie Dern Has The A-Z Of BJJ At The Ready",
-        "url": "https://www.ufc.com/news/mackenzie-dern-has-a-to-z-bjj-at-the-ready-ufc-330",
-        "source": "UFC.com"
+        "title": "Cruz Azul Takes Another Hit: Gonzalo Piovi Injured and Raises Alarms Before Liga MX Return—How Long Will He Be Out?",
+        "url": "https://www.soyfutbol.com/en/news/cruz-azul-takes-another-hit-gonzalo-piovi-injured-and-raises-alarms-before-liga-mx-returnhow-long-will-he-be-out-20260814-0021.html",
+        "source": "Soy Futbol"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "shannon bream",
-    "titleZh": "香农鲷鱼",
-    "traffic": "1000+",
-    "started": "Sat, 15 Aug 2026 19:20:00 -0700",
-    "summary": "相关新闻主要集中在：比尔·马赫 (Bill Maher) 形容路易吉·曼吉奥尼 (Luigi Mangione) 为“追星族”。",
-    "explanation": "Google Trends 显示“香农鲷鱼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：比尔·马赫 (Bill Maher) 形容路易吉·曼吉奥尼 (Luigi Mangione) 为“追星族”。这些报道来自 Deadline 等媒体，因此带动了集中搜索。",
+    "title": "kelly macdonald",
+    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "traffic": "200+",
+    "started": "Sun, 16 Aug 2026 19:20:00 -0700",
+    "summary": "相关新闻主要集中在：犯罪剧迷们只剩下一个月的时间来狂欢“扣人心弦”和“恶毒”的苏格兰剧集。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：犯罪剧迷们只剩下一个月的时间来狂欢“扣人心弦”和“恶毒”的苏格兰剧集。这些报道来自 Daily Record 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Bill Maher Has A Word For Luigi Mangione “Groupies”",
-        "url": "https://deadline.com/2026/08/bill-maher-luigi-mangione-1237041560/",
-        "source": "Deadline"
+        "title": "Crime drama fans have just one month left to binge 'gripping' and 'vicious' Scottish series",
+        "url": "https://www.dailyrecord.co.uk/tv/crime-drama-fans-just-one-37552857",
+        "source": "Daily Record"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "houston dynamo",
-    "titleZh": "休斯顿迪纳摩队",
-    "traffic": "1000+",
-    "started": "Sat, 15 Aug 2026 19:20:00 -0700",
-    "summary": "相关新闻主要集中在：休斯顿迪纳摩足球俱乐部庆祝其 2006 年美国职业足球大联盟杯冠军 20 周年。",
-    "explanation": "Google Trends 显示“休斯顿迪纳摩队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：休斯顿迪纳摩足球俱乐部庆祝其 2006 年美国职业足球大联盟杯冠军 20 周年。这些报道来自 Click2Houston 等媒体，因此带动了集中搜索。",
+    "title": "elina svitolina",
+    "titleZh": "埃琳娜·斯维托丽娜",
+    "traffic": "5000+",
+    "started": "Sun, 16 Aug 2026 19:10:00 -0700",
+    "summary": "相关新闻主要集中在：特蕾莎·瓦伦托娃 (Tereza Valentova) 对阵埃琳娜·斯维托丽娜 (Elina Svitolina) 预测与选秀 - WTA 辛辛那提公开赛。",
+    "explanation": "Google Trends 显示“埃琳娜·斯维托丽娜”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：特蕾莎·瓦伦托娃 (Tereza Valentova) 对阵埃琳娜·斯维托丽娜 (Elina Svitolina) 预测与选秀 - WTA 辛辛那提公开赛。这些报道来自 SportyTrader 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Houston Dynamo FC celebrates 20 years of its 2006 MLS Cup Championship",
-        "url": "https://www.click2houston.com/video/houston-life/2026/08/13/houston-dynamo-fc-celebrates-20-years-of-its-2006-mls-cup-championship/",
-        "source": "Click2Houston"
+        "title": "Tereza Valentova vs Elina Svitolina Prediction & Picks - WTA Cincinnati Open",
+        "url": "https://www.sportytrader.com/us/picks/tereza-valentova-elina-svitolina-366154/",
+        "source": "SportyTrader"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "red sox - pirates",
-    "titleZh": "红袜队 - 海盗",
-    "traffic": "1000+",
-    "started": "Sat, 15 Aug 2026 19:20:00 -0700",
-    "summary": "相关新闻主要集中在：海盗队的红袜队：是时候重拾状态了。",
-    "explanation": "Google Trends 显示“红袜队 - 海盗”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：海盗队的红袜队：是时候重拾状态了。这些报道来自 Over the Monster 等媒体，因此带动了集中搜索。",
+    "title": "frances tiafoe",
+    "titleZh": "弗朗西斯·蒂亚福",
+    "traffic": "2000+",
+    "started": "Sun, 16 Aug 2026 19:10:00 -0700",
+    "summary": "相关新闻主要集中在：ATP 辛辛那提最佳投注包括尚俊成 VS 洛伦佐·索内戈。",
+    "explanation": "Google Trends 显示“弗朗西斯·蒂亚福”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：ATP 辛辛那提最佳投注包括尚俊成 VS 洛伦佐·索内戈。这些报道来自 Last Word On Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Red Sox at Pirates: Time to regain the groove",
-        "url": "https://www.overthemonster.com/red-sox-discussion/106633/red-sox-at-pirates-time-to-regain-the-groove",
-        "source": "Over the Monster"
+        "title": "ATP Cincinnati Best Bets Including Juncheng Shang Vs Lorenzo Sonego",
+        "url": "https://lastwordonsports.com/tennis/2026/08/14/atp-cincinnati-best-bets-shang-sonego/",
+        "source": "Last Word On Sports"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "andruw monasterio",
-    "titleZh": "安德鲁修道院",
-    "traffic": "500+",
-    "started": "Sat, 15 Aug 2026 19:20:00 -0700",
-    "summary": "相关新闻主要集中在：查尔斯·麦卡杜 (Charles McAdoo) 上垒，取得领先。",
-    "explanation": "Google Trends 显示“安德鲁修道院”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：查尔斯·麦卡杜 (Charles McAdoo) 上垒，取得领先。这些报道来自 MLB.com 等媒体，因此带动了集中搜索。",
+    "title": "jerry bruckheimer",
+    "titleZh": "杰里·布鲁克海默",
+    "traffic": "2000+",
+    "started": "Sun, 16 Aug 2026 19:10:00 -0700",
+    "summary": "相关新闻主要集中在：约翰尼·德普正在就第六部《加勒比海盗》电影在好莱坞的巨额回归进行谈判。",
+    "explanation": "Google Trends 显示“杰里·布鲁克海默”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：约翰尼·德普正在就第六部《加勒比海盗》电影在好莱坞的巨额回归进行谈判。这些报道来自 Page Six 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Charles McAdoo on go-ahead double, approach at plate",
-        "url": "https://www.mlb.com/bluejays/video/charles-mcadoo-on-go-ahead-double-approach-at-plate",
-        "source": "MLB.com"
+        "title": "Johnny Depp in talks for huge Hollywood return in sixth ‘Pirates of the Caribbean’ film",
+        "url": "https://pagesix.com/2026/08/16/celebrity-news/johnny-depp-in-talks-for-pirates-of-the-caribbean-6/",
+        "source": "Page Six"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "ceedee lamb",
-    "titleZh": "西迪羊肉",
-    "traffic": "1000+",
-    "started": "Sat, 15 Aug 2026 19:20:00 -0700",
-    "summary": "相关新闻主要集中在：Fantasy Football：5 名外接手将在 2026 年看到他们的角色变化 - 但这会得到回报吗？。",
-    "explanation": "Google Trends 显示“西迪羊肉”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Fantasy Football：5 名外接手将在 2026 年看到他们的角色变化 - 但这会得到回报吗？。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "title": "u.s. military base diego garcia",
+    "titleZh": "我们。迭戈加西亚军事基地",
+    "traffic": "5000+",
+    "started": "Sun, 16 Aug 2026 19:10:00 -0700",
+    "summary": "相关新闻主要集中在：特朗普关注伊朗和西半球，美国撤回亚洲最后一艘航母。",
+    "explanation": "Google Trends 显示“我们。迭戈加西亚军事基地”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：特朗普关注伊朗和西半球，美国撤回亚洲最后一艘航母。这些报道来自 AP News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Fantasy Football: 5 wide receivers set to see their roles change in 2026 — but will it pay off?",
-        "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-5-wide-receivers-set-to-see-their-roles-change-in-2026--but-will-it-pay-off-140255845.html",
-        "source": "Yahoo Sports"
+        "title": "US pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere",
+        "url": "https://apnews.com/article/aircraft-carriers-trump-china-pacific-iran-war-87cfb838de8c13464fa3cab1840ad87d",
+        "source": "AP News"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "neil patrick harris",
-    "titleZh": "尼尔·帕特里克·哈里斯",
+    "title": "alia shawkat",
+    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "traffic": "500+",
-    "started": "Sat, 15 Aug 2026 19:10:00 -0700",
-    "summary": "相关新闻主要集中在：尼尔·帕特里克·哈里斯表示迫在眉睫的“丑闻”威胁迫使他公开出柜。",
-    "explanation": "Google Trends 显示“尼尔·帕特里克·哈里斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：尼尔·帕特里克·哈里斯表示迫在眉睫的“丑闻”威胁迫使他公开出柜。这些报道来自 LGBTQ Nation 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 16 Aug 2026 19:10:00 -0700",
+    "summary": "相关新闻主要集中在：《错误的女孩》是今年夏天最光荣的愚蠢的瘾君子喜剧。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《错误的女孩》是今年夏天最光荣的愚蠢的瘾君子喜剧。这些报道来自 Los Angeles Times 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Neil Patrick Harris says threat of a looming \"scandal\" forced him to publicly come out",
-        "url": "https://www.lgbtqnation.com/2026/08/neil-patrick-harris-says-threat-of-a-looming-forced-him-to-publicly-come-out/",
-        "source": "LGBTQ Nation"
+        "title": "‘The Wrong Girls’ is the summer’s most gloriously stupid stoner comedy",
+        "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-08-13/wrong-girls-review-kristen-stewart-alia-shawkat-lakeith-stanfield-dylan-meyer",
+        "source": "Los Angeles Times"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "kyle larson",
-    "titleZh": "凯尔·拉森",
+    "title": "adoree jackson",
+    "titleZh": "崇拜杰克逊",
     "traffic": "500+",
-    "started": "Sat, 15 Aug 2026 19:10:00 -0700",
-    "summary": "相关新闻主要集中在：凯尔·拉尔森承认亨德里克现在无法与丰田匹敌，但仍然相信冠军是可能的。",
-    "explanation": "Google Trends 显示“凯尔·拉森”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：凯尔·拉尔森承认亨德里克现在无法与丰田匹敌，但仍然相信冠军是可能的。这些报道来自 On3 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 16 Aug 2026 19:10:00 -0700",
+    "summary": "相关新闻主要集中在：牛仔传闻：老鹰队前 CB Adoree Jackson 计划签约？。",
+    "explanation": "Google Trends 显示“崇拜杰克逊”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：牛仔传闻：老鹰队前 CB Adoree Jackson 计划签约？。这些报道来自 roundtable.io 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Kyle Larson admits Hendrick can’t match Toyota right now, still believes championship is possible",
-        "url": "https://www.on3.com/nascar/news/kyle-larson-admits-hendrick-cant-match-toyota-right-now-still-believes-championship-is-possible/",
-        "source": "On3"
+        "title": "Cowboys Rumor: Eagles Ex CB Adoree Jackson Signing Planned?",
+        "url": "https://roundtable.io/sports/nfl/cowboys/news/cowboys-rumor-eagles-ex-cb-adoree-jackson-signing-planned",
+        "source": "roundtable.io"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "sean brady",
-    "titleZh": "肖恩·布雷迪",
+    "title": "mariners standings",
+    "titleZh": "水手队积分榜",
     "traffic": "500+",
-    "started": "Sat, 15 Aug 2026 19:10:00 -0700",
-    "summary": "相关新闻主要集中在：UFC 宣布肖恩·布雷迪 (Sean Brady) 对阵加布里埃尔·邦芬 (Gabriel Bonfim)。",
-    "explanation": "Google Trends 显示“肖恩·布雷迪”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：UFC 宣布肖恩·布雷迪 (Sean Brady) 对阵加布里埃尔·邦芬 (Gabriel Bonfim)。这些报道来自 Heavy.com 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 16 Aug 2026 19:10:00 -0700",
+    "summary": "相关新闻主要集中在：MiLB FastCast：瑞恩·斯隆的九次三振 (8/15/26)。",
+    "explanation": "Google Trends 显示“水手队积分榜”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：MiLB FastCast：瑞恩·斯隆的九次三振 (8/15/26)。这些报道来自 MLB.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Sean Brady vs. Gabriel Bonfim Announced By UFC",
-        "url": "https://heavy.com/sports/ufc/sean-brady-gabriel-bonfim-announced-ufc/",
-        "source": "Heavy.com"
+        "title": "MiLB FastCast: Ryan Sloan's nine strikeouts (8/15/26)",
+        "url": "https://www.milb.com/rocket-city/video/milb-fastcast-ryan-sloan-s-nine-strikeouts-8-15-26",
+        "source": "MLB.com"
       }
     ]
   }
