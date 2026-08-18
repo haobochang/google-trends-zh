@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "tijuana - cruz azul",
-    "titleZh": "蒂华纳-蓝十字",
-    "traffic": "2000+",
-    "started": "Sun, 16 Aug 2026 19:20:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“蒂华纳-蓝十字”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Bolavip México 等媒体，因此带动了集中搜索。",
+    "title": "kostyuk",
+    "titleZh": "科斯秋克",
+    "traffic": "500+",
+    "started": "Mon, 17 Aug 2026 19:10:00 -0700",
+    "summary": "相关新闻主要集中在：玛塔·科斯特尤克 (Marta Kostyuk) 复出获胜后进入辛辛那提第三轮。",
+    "explanation": "Google Trends 显示“科斯秋克”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：玛塔·科斯特尤克 (Marta Kostyuk) 复出获胜后进入辛辛那提第三轮。这些报道来自 Межа. Новини України. 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "¿Por qué no juega Rodolfo Rotondi en Xolos vs. Cruz Azul por el Apertura 2026?",
-        "url": "https://bolavip.com/mx/cruz-azul/por-que-no-juega-rodolfo-rotondi-en-xolos-vs-cruz-azul-por-el-apertura-2026",
-        "source": "Bolavip México"
+        "title": "Marta Kostyuk Reaches Cincinnati Third Round After Comeback Win",
+        "url": "https://mezha.net/eng/bukvy/d4220212_marta_kostyuk_reaches/",
+        "source": "Межа. Новини України."
       }
     ]
   },
   {
     "rank": 2,
-    "title": "club tijuana vs cruz azul",
-    "titleZh": "蒂华纳俱乐部 vs 克鲁兹阿祖尔",
-    "traffic": "2000+",
-    "started": "Sun, 16 Aug 2026 19:20:00 -0700",
-    "summary": "相关新闻主要集中在：克鲁兹·阿祖尔再遭打击：冈萨洛·皮奥维受伤，在墨西哥足球甲级联赛回归前拉响警报——他会缺席多久？。",
-    "explanation": "Google Trends 显示“蒂华纳俱乐部 vs 克鲁兹阿祖尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：克鲁兹·阿祖尔再遭打击：冈萨洛·皮奥维受伤，在墨西哥足球甲级联赛回归前拉响警报——他会缺席多久？。这些报道来自 Soy Futbol 等媒体，因此带动了集中搜索。",
+    "title": "cristopher sanchez",
+    "titleZh": "克里斯托弗·桑切斯",
+    "traffic": "200+",
+    "started": "Mon, 17 Aug 2026 19:10:00 -0700",
+    "summary": "相关新闻主要集中在：连续四个。他们开始跑步了吗？费城人队 6、马林鱼队 5。",
+    "explanation": "Google Trends 显示“克里斯托弗·桑切斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：连续四个。他们开始跑步了吗？费城人队 6、马林鱼队 5。这些报道来自 The Good Phight 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Cruz Azul Takes Another Hit: Gonzalo Piovi Injured and Raises Alarms Before Liga MX Return—How Long Will He Be Out?",
-        "url": "https://www.soyfutbol.com/en/news/cruz-azul-takes-another-hit-gonzalo-piovi-injured-and-raises-alarms-before-liga-mx-returnhow-long-will-he-be-out-20260814-0021.html",
-        "source": "Soy Futbol"
+        "title": "Four in a Row. Are they Starting to go on a Run? Phillies 6, Marlins 5",
+        "url": "https://www.thegoodphight.com/philadelphia-phillies-game-information/86171/four-in-a-row-are-they-starting-to-go-on-a-run-phillies-6-marlins-5",
+        "source": "The Good Phight"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "kelly macdonald",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title": "wyatt olds",
+    "titleZh": "怀亚特·奥尔兹",
     "traffic": "200+",
-    "started": "Sun, 16 Aug 2026 19:20:00 -0700",
-    "summary": "相关新闻主要集中在：犯罪剧迷们只剩下一个月的时间来狂欢“扣人心弦”和“恶毒”的苏格兰剧集。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：犯罪剧迷们只剩下一个月的时间来狂欢“扣人心弦”和“恶毒”的苏格兰剧集。这些报道来自 Daily Record 等媒体，因此带动了集中搜索。",
+    "started": "Mon, 17 Aug 2026 19:10:00 -0700",
+    "summary": "相关新闻主要集中在：红袜队选择来自 3A 伍斯特的 RHP 怀亚特·奥尔兹。",
+    "explanation": "Google Trends 显示“怀亚特·奥尔兹”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：红袜队选择来自 3A 伍斯特的 RHP 怀亚特·奥尔兹。这些报道来自 MLB.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Crime drama fans have just one month left to binge 'gripping' and 'vicious' Scottish series",
-        "url": "https://www.dailyrecord.co.uk/tv/crime-drama-fans-just-one-37552857",
-        "source": "Daily Record"
+        "title": "Red Sox Select RHP Wyatt Olds from Triple-A Worcester",
+        "url": "https://www.mlb.com/press-release/red-sox-select-rhp-wyatt-olds-from-triple-a-worcester",
+        "source": "MLB.com"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "elina svitolina",
-    "titleZh": "埃琳娜·斯维托丽娜",
-    "traffic": "5000+",
-    "started": "Sun, 16 Aug 2026 19:10:00 -0700",
-    "summary": "相关新闻主要集中在：特蕾莎·瓦伦托娃 (Tereza Valentova) 对阵埃琳娜·斯维托丽娜 (Elina Svitolina) 预测与选秀 - WTA 辛辛那提公开赛。",
-    "explanation": "Google Trends 显示“埃琳娜·斯维托丽娜”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：特蕾莎·瓦伦托娃 (Tereza Valentova) 对阵埃琳娜·斯维托丽娜 (Elina Svitolina) 预测与选秀 - WTA 辛辛那提公开赛。这些报道来自 SportyTrader 等媒体，因此带动了集中搜索。",
+    "title": "oj simpson",
+    "titleZh": "哦辛普森一家",
+    "traffic": "200+",
+    "started": "Mon, 17 Aug 2026 19:00:00 -0700",
+    "summary": "相关新闻主要集中在：O.J.辛普森被遗忘的“精彩”恶作剧在令人不寒而栗的新系列纪录片中重温。",
+    "explanation": "Google Trends 显示“哦辛普森一家”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：O.J.辛普森被遗忘的“精彩”恶作剧在令人不寒而栗的新系列纪录片中重温。这些报道来自 24Hip-Hop 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Tereza Valentova vs Elina Svitolina Prediction & Picks - WTA Cincinnati Open",
-        "url": "https://www.sportytrader.com/us/picks/tereza-valentova-elina-svitolina-366154/",
-        "source": "SportyTrader"
+        "title": "O.J. Simpson’s Forgotten ‘Juiced’ Prank Show Revisited in Chilling New Docuseries",
+        "url": "https://24hip-hop.com/oj-simpson-juiced-prank-show-docuseries/",
+        "source": "24Hip-Hop"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "frances tiafoe",
-    "titleZh": "弗朗西斯·蒂亚福",
-    "traffic": "2000+",
-    "started": "Sun, 16 Aug 2026 19:10:00 -0700",
-    "summary": "相关新闻主要集中在：ATP 辛辛那提最佳投注包括尚俊成 VS 洛伦佐·索内戈。",
-    "explanation": "Google Trends 显示“弗朗西斯·蒂亚福”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：ATP 辛辛那提最佳投注包括尚俊成 VS 洛伦佐·索内戈。这些报道来自 Last Word On Sports 等媒体，因此带动了集中搜索。",
+    "title": "max muncy",
+    "titleZh": "马克斯·蒙西",
+    "traffic": "1000+",
+    "started": "Mon, 17 Aug 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：“罕见的成就”：马克斯·蒙西如何从被抛弃到任职时间最长的道奇队。",
+    "explanation": "Google Trends 显示“马克斯·蒙西”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：“罕见的成就”：马克斯·蒙西如何从被抛弃到任职时间最长的道奇队。这些报道来自 Los Angeles Times 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "ATP Cincinnati Best Bets Including Juncheng Shang Vs Lorenzo Sonego",
-        "url": "https://lastwordonsports.com/tennis/2026/08/14/atp-cincinnati-best-bets-shang-sonego/",
-        "source": "Last Word On Sports"
-      }
-    ]
-  },
-  {
-    "rank": 6,
-    "title": "jerry bruckheimer",
-    "titleZh": "杰里·布鲁克海默",
-    "traffic": "2000+",
-    "started": "Sun, 16 Aug 2026 19:10:00 -0700",
-    "summary": "相关新闻主要集中在：约翰尼·德普正在就第六部《加勒比海盗》电影在好莱坞的巨额回归进行谈判。",
-    "explanation": "Google Trends 显示“杰里·布鲁克海默”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：约翰尼·德普正在就第六部《加勒比海盗》电影在好莱坞的巨额回归进行谈判。这些报道来自 Page Six 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Johnny Depp in talks for huge Hollywood return in sixth ‘Pirates of the Caribbean’ film",
-        "url": "https://pagesix.com/2026/08/16/celebrity-news/johnny-depp-in-talks-for-pirates-of-the-caribbean-6/",
-        "source": "Page Six"
-      }
-    ]
-  },
-  {
-    "rank": 7,
-    "title": "u.s. military base diego garcia",
-    "titleZh": "我们。迭戈加西亚军事基地",
-    "traffic": "5000+",
-    "started": "Sun, 16 Aug 2026 19:10:00 -0700",
-    "summary": "相关新闻主要集中在：特朗普关注伊朗和西半球，美国撤回亚洲最后一艘航母。",
-    "explanation": "Google Trends 显示“我们。迭戈加西亚军事基地”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：特朗普关注伊朗和西半球，美国撤回亚洲最后一艘航母。这些报道来自 AP News 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "US pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere",
-        "url": "https://apnews.com/article/aircraft-carriers-trump-china-pacific-iran-war-87cfb838de8c13464fa3cab1840ad87d",
-        "source": "AP News"
-      }
-    ]
-  },
-  {
-    "rank": 8,
-    "title": "alia shawkat",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "500+",
-    "started": "Sun, 16 Aug 2026 19:10:00 -0700",
-    "summary": "相关新闻主要集中在：《错误的女孩》是今年夏天最光荣的愚蠢的瘾君子喜剧。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《错误的女孩》是今年夏天最光荣的愚蠢的瘾君子喜剧。这些报道来自 Los Angeles Times 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "‘The Wrong Girls’ is the summer’s most gloriously stupid stoner comedy",
-        "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-08-13/wrong-girls-review-kristen-stewart-alia-shawkat-lakeith-stanfield-dylan-meyer",
+        "title": "‘Rare accomplishment’: How Max Muncy went from being cast off to longest-tenured Dodger",
+        "url": "https://www.latimes.com/sports/dodgers/story/2026-08-17/dodgers-max-muncy-mlb-service-time",
         "source": "Los Angeles Times"
       }
     ]
   },
   {
-    "rank": 9,
-    "title": "adoree jackson",
-    "titleZh": "崇拜杰克逊",
+    "rank": 6,
+    "title": "sterling k brown",
+    "titleZh": "纯K棕色",
     "traffic": "500+",
-    "started": "Sun, 16 Aug 2026 19:10:00 -0700",
-    "summary": "相关新闻主要集中在：牛仔传闻：老鹰队前 CB Adoree Jackson 计划签约？。",
-    "explanation": "Google Trends 显示“崇拜杰克逊”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：牛仔传闻：老鹰队前 CB Adoree Jackson 计划签约？。这些报道来自 roundtable.io 等媒体，因此带动了集中搜索。",
+    "started": "Mon, 17 Aug 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：《天堂》创作者宣布第三季也是最后一季的苦乐参半的更新——粉丝们很失望。",
+    "explanation": "Google Trends 显示“纯K棕色”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《天堂》创作者宣布第三季也是最后一季的苦乐参半的更新——粉丝们很失望。这些报道来自 CraveYouTV TV Show Recaps, Reviews, Spoilers, Interviews - 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Cowboys Rumor: Eagles Ex CB Adoree Jackson Signing Planned?",
-        "url": "https://roundtable.io/sports/nfl/cowboys/news/cowboys-rumor-eagles-ex-cb-adoree-jackson-signing-planned",
-        "source": "roundtable.io"
+        "title": "'Paradise' Creator Announces Bittersweet Update on the Third and Final Season — And Fans Are Disappointed",
+        "url": "https://www.craveyoutv.com/paradise-creator-announces-major-update-on-the-third-and-final-season-wrap-production/",
+        "source": "CraveYouTV TV Show Recaps, Reviews, Spoilers, Interviews -"
+      }
+    ]
+  },
+  {
+    "rank": 7,
+    "title": "phillies standings",
+    "titleZh": "费城人队积分榜",
+    "traffic": "500+",
+    "started": "Mon, 17 Aug 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：菲尔斯队自六月以来首次横扫对手，画家在开局不利后获胜。",
+    "explanation": "Google Trends 显示“费城人队积分榜”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：菲尔斯队自六月以来首次横扫对手，画家在开局不利后获胜。这些报道来自 MLB.com 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Painter prevails after rocky start as Phils rally for first sweep since June",
+        "url": "https://www.mlb.com/news/phillies-overcome-five-run-deficit-to-sweep-twins",
+        "source": "MLB.com"
+      }
+    ]
+  },
+  {
+    "rank": 8,
+    "title": "daniel duarte",
+    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "traffic": "500+",
+    "started": "Mon, 17 Aug 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：丹尼尔·杜阿尔特 (Daniel Duarte) 第九次完美扑救。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：丹尼尔·杜阿尔特 (Daniel Duarte) 第九次完美扑救。这些报道来自 NBC Sports 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Daniel Duarte perfect in ninth for second save",
+        "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-17/daniel-duarte-perfect-in-ninth-for-second-save",
+        "source": "NBC Sports"
+      }
+    ]
+  },
+  {
+    "rank": 9,
+    "title": "tikey hayes",
+    "titleZh": "蒂基·海耶斯",
+    "traffic": "200+",
+    "started": "Mon, 17 Aug 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：跑卫蒂基·海耶斯不再参与哈斯克计划。",
+    "explanation": "Google Trends 显示“蒂基·海耶斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：跑卫蒂基·海耶斯不再参与哈斯克计划。这些报道来自 247Sports 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Running back Tikey Hayes no longer with Husker program",
+        "url": "https://247sports.com/college/nebraska/article/nebraska-huskers-football-running-back-tikey-hayes-leaves-football-program-289002829/",
+        "source": "247Sports"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "mariners standings",
-    "titleZh": "水手队积分榜",
-    "traffic": "500+",
-    "started": "Sun, 16 Aug 2026 19:10:00 -0700",
-    "summary": "相关新闻主要集中在：MiLB FastCast：瑞恩·斯隆的九次三振 (8/15/26)。",
-    "explanation": "Google Trends 显示“水手队积分榜”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：MiLB FastCast：瑞恩·斯隆的九次三振 (8/15/26)。这些报道来自 MLB.com 等媒体，因此带动了集中搜索。",
+    "title": "rey mysterio",
+    "titleZh": "神秘人雷",
+    "traffic": "5000+",
+    "started": "Mon, 17 Aug 2026 18:40:00 -0700",
+    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
+    "explanation": "Google Trends 显示“神秘人雷”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Fightful 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "MiLB FastCast: Ryan Sloan's nine strikeouts (8/15/26)",
-        "url": "https://www.milb.com/rocket-city/video/milb-fastcast-ryan-sloan-s-nine-strikeouts-8-15-26",
-        "source": "MLB.com"
+        "title": "WWE Raw Results (8/17/2026): Rey Fenix vs. Fiscal, Jey Uso Delivers Solo Sikoa to Roman Reigns, More",
+        "url": "https://www.fightful.com/wrestling/wwe-raw-results-8-17-2026-rey-fenix-vs-fiscal-jey-uso-delivers-solo-sikoa-to-roman-reigns-more/",
+        "source": "Fightful"
       }
     ]
   }
