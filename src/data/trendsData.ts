@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "wnba standings",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "2000+",
-    "started": "Thu, 20 Aug 2026 19:20:00 -0700",
-    "summary": "相关新闻主要集中在：2026 年 WNBA 实力排名：第 12 周。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：2026 年 WNBA 实力排名：第 12 周。这些报道来自 WNBA 等媒体，因此带动了集中搜索。",
+    "title": "steph curry",
+    "titleZh": "斯蒂芬·库里",
+    "traffic": "500+",
+    "started": "Fri, 21 Aug 2026 19:00:00 -0700",
+    "summary": "相关新闻主要集中在：今年早些时候，斯蒂芬·库里以 2910 万美元的价格悄悄出售了阿瑟顿庄园。",
+    "explanation": "Google Trends 显示“斯蒂芬·库里”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：今年早些时候，斯蒂芬·库里以 2910 万美元的价格悄悄出售了阿瑟顿庄园。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "2026 WNBA Power Rankings: Week 12",
-        "url": "https://www.wnba.com/news/2026-wnba-power-rankings-week-12",
-        "source": "WNBA"
+        "title": "Steph Curry silently sold Atherton estate for $29.1M earlier this year",
+        "url": "https://www.yahoo.com/lifestyle/articles/steph-curry-silently-sold-atherton-000246873.html",
+        "source": "Yahoo"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "mike mcdaniel",
-    "titleZh": "迈克·麦克丹尼尔",
-    "traffic": "500+",
-    "started": "Thu, 20 Aug 2026 19:20:00 -0700",
-    "summary": "相关新闻主要集中在：闪电队的麦克丹尼尔赞扬赫伯特在进攻方面的进步。",
-    "explanation": "Google Trends 显示“迈克·麦克丹尼尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：闪电队的麦克丹尼尔赞扬赫伯特在进攻方面的进步。这些报道来自 ESPN 等媒体，因此带动了集中搜索。",
+    "title": "jonah coleman",
+    "titleZh": "乔纳·科尔曼",
+    "traffic": "200+",
+    "started": "Fri, 21 Aug 2026 19:00:00 -0700",
+    "summary": "相关新闻主要集中在：进入 2026 赛季，比尔队是否拥有 NFL 中最好的跑卫阵容？。",
+    "explanation": "Google Trends 显示“乔纳·科尔曼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：进入 2026 赛季，比尔队是否拥有 NFL 中最好的跑卫阵容？。这些报道来自 Bills Wire 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Chargers' McDaniel lauds Herbert's progression in offense",
-        "url": "https://www.espn.com/nfl/story/_/id/49642371/chargers-mcdaniel-lauds-herbert-progression-offense",
-        "source": "ESPN"
+        "title": "Do Bills have best running back unit in NFL entering 2026 season?",
+        "url": "https://billswire.usatoday.com/story/sports/nfl/bills/2026/08/21/do-buffalo-bills-best-running-back-unit-nfl-james-cook/91396186007/",
+        "source": "Bills Wire"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "petanque",
-    "titleZh": "滚球",
-    "traffic": "500+",
-    "started": "Thu, 20 Aug 2026 19:20:00 -0700",
-    "summary": "相关新闻主要集中在：滚球大师赛上的多尔团队。",
-    "explanation": "Google Trends 显示“滚球”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：滚球大师赛上的多尔团队。这些报道来自 Moov.Mg 等媒体，因此带动了集中搜索。",
+    "title": "ty france",
+    "titleZh": "泰·法国",
+    "traffic": "200+",
+    "started": "Fri, 21 Aug 2026 19:00:00 -0700",
+    "summary": "相关新闻主要集中在：泰·弗朗斯谈他在教士队的角色以及季后赛的推进。",
+    "explanation": "Google Trends 显示“泰·法国”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：泰·弗朗斯谈他在教士队的角色以及季后赛的推进。这些报道来自 MLB.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "L’équipe Doerr au Masters de pétanque",
-        "url": "https://www.moov.mg/article/120026-masters-de-petanque-doerr-relance-la-course-au-final-four",
-        "source": "Moov.Mg"
+        "title": "Ty France on his role on the Padres, the playoff push",
+        "url": "https://www.mlb.com/mariners/video/ty-france-on-his-role-on-the-padres-the-playoff-push",
+        "source": "MLB.com"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "stribling",
-    "titleZh": "斯特里布林",
-    "traffic": "500+",
-    "started": "Thu, 20 Aug 2026 19:20:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“斯特里布林”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Niners Wire 等媒体，因此带动了集中搜索。",
+    "title": "guy fieri",
+    "titleZh": "盖·费里",
+    "traffic": "200+",
+    "started": "Fri, 21 Aug 2026 19:00:00 -0700",
+    "summary": "相关新闻主要集中在：Flavortown 市中心 9 月 10 日剪彩。",
+    "explanation": "Google Trends 显示“盖·费里”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Flavortown 市中心 9 月 10 日剪彩。这些报道来自 RePlay Magazine 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Ex-NFL WR says De'Zhaun Stribling can be what Brandon Aiyuk wasn't",
-        "url": "https://ninerswire.usatoday.com/story/sports/nfl/niners/2026/08/20/ex-nfl-wr-says-dezhaun-stribling-can-be-what-brandon-aiyuk-wasnt/91383186007/",
-        "source": "Niners Wire"
+        "title": "Downtown Flavortown Ribbon Cutting Sept. 10",
+        "url": "https://www.replaymag.com/downtown-flavortown-ribbon-cutting-sept-10/",
+        "source": "RePlay Magazine"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "stribling 49ers",
-    "titleZh": "斯特里布林49人队",
-    "traffic": "500+",
-    "started": "Thu, 20 Aug 2026 19:20:00 -0700",
-    "summary": "相关新闻主要集中在：49人队WR迈克·埃文斯因“紧张”提前离开联合训练。",
-    "explanation": "Google Trends 显示“斯特里布林49人队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：49人队WR迈克·埃文斯因“紧张”提前离开联合训练。这些报道来自 NBC Sports 等媒体，因此带动了集中搜索。",
+    "title": "coco gauff",
+    "titleZh": "可可·高芙",
+    "traffic": "5000+",
+    "started": "Fri, 21 Aug 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：网球 | 2026 年辛辛那提 |可可·高夫 (Coco Gauff) 与状态良好的玛塔·科斯秋克 (Marta Kostyuk) 争夺半决赛席位。",
+    "explanation": "Google Trends 显示“可可·高芙”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：网球 | 2026 年辛辛那提 |可可·高夫 (Coco Gauff) 与状态良好的玛塔·科斯秋克 (Marta Kostyuk) 争夺半决赛席位。这些报道来自 Britwatch Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "49ers WR Mike Evans left the joint practice early with \"tightness\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-wr-mike-evans-left-the-joint-practice-early-with-tightness",
-        "source": "NBC Sports"
+        "title": "Tennis | Cincinnati 2026 | Coco Gauff battles in-form Marta Kostyuk for semi-final berth",
+        "url": "https://britwatchsports.com/tennis-cincinnati-2026-coco-gauff-battles-in-form-marta-kostyuk-for-semi-final-berth/",
+        "source": "Britwatch Sports"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "wnba scores",
-    "titleZh": "WNBA分数",
-    "traffic": "2000+",
-    "started": "Thu, 20 Aug 2026 19:10:00 -0700",
-    "summary": "相关新闻主要集中在：凯特琳·克拉克 (Caitlin Clark)、索菲·坎宁安 (Sophie Cunningham) 的最终得分统计数据、狂热节拍的精彩片段。",
-    "explanation": "Google Trends 显示“WNBA分数”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：凯特琳·克拉克 (Caitlin Clark)、索菲·坎宁安 (Sophie Cunningham) 的最终得分统计数据、狂热节拍的精彩片段。这些报道来自 Bleacher Report 等媒体，因此带动了集中搜索。",
+    "title": "alec bohm",
+    "titleZh": "亚历克·博姆",
+    "traffic": "1000+",
+    "started": "Fri, 21 Aug 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：MLB 亮点：费城人队 7 场、红雀队 6 场 (10)。",
+    "explanation": "Google Trends 显示“亚历克·博姆”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：MLB 亮点：费城人队 7 场、红雀队 6 场 (10)。这些报道来自 Sportsnet.ca 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Caitlin Clark, Sophie Cunningham's Final Box Score Stats, Highlights as Fever Beat Tempo",
-        "url": "https://bleacherreport.com/articles/25474601-caitlin-clark-sophie-cunninghams-final-box-score-stats-highlights-fever-beat-tempo",
-        "source": "Bleacher Report"
+        "title": "MLB Highlights: Phillies 7, Cardinals 6 (10)",
+        "url": "https://www.sportsnet.ca/mlb/video/mlb-highlights-phillies-7-cardinals-6-10/",
+        "source": "Sportsnet.ca"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "deebo samuel",
-    "titleZh": "迪博塞缪尔",
+    "title": "aroldis chapman",
+    "titleZh": "阿罗迪斯·查普曼",
     "traffic": "500+",
-    "started": "Thu, 20 Aug 2026 19:10:00 -0700",
-    "summary": "相关新闻主要集中在：49 人队的特伦特·威廉姆斯将新秀与 15 次擒杀的前队友进行比较。",
-    "explanation": "Google Trends 显示“迪博塞缪尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：49 人队的特伦特·威廉姆斯将新秀与 15 次擒杀的前队友进行比较。这些报道来自 49ers Webzone 等媒体，因此带动了集中搜索。",
+    "started": "Fri, 21 Aug 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：Fantasy Baseball Saves Plus 保持排名和建议：第 21 周（2026 年）。",
+    "explanation": "Google Trends 显示“阿罗迪斯·查普曼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Fantasy Baseball Saves Plus 保持排名和建议：第 21 周（2026 年）。这些报道来自 FantasyPros 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "49ers’ Trent Williams compares rookie to 15-sack former teammate",
-        "url": "https://www.49erswebzone.com/news/202460-williams-compares-rookie-15-sack-teammate/",
-        "source": "49ers Webzone"
+        "title": "Fantasy Baseball Saves Plus Holds Rankings & Advice: Week 21 (2026)",
+        "url": "https://www.fantasypros.com/2026/08/fantasy-baseball-saves-plus-holds-rankings-advice-week-21-2026/",
+        "source": "FantasyPros"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "keylan rutledge",
-    "titleZh": "基兰拉特利奇",
+    "title": "phillies standings",
+    "titleZh": "费城人队积分榜",
     "traffic": "500+",
-    "started": "Thu, 20 Aug 2026 19:10:00 -0700",
-    "summary": "相关新闻主要集中在：德州人队队友和教练对新秀 OL Keylan Rutledge 的评价。",
-    "explanation": "Google Trends 显示“基兰拉特利奇”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：德州人队队友和教练对新秀 OL Keylan Rutledge 的评价。这些报道来自 Audacy 等媒体，因此带动了集中搜索。",
+    "started": "Fri, 21 Aug 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：费城人队已连续 11 场比赛胜率超过 0.500，并取得五连胜。",
+    "explanation": "Google Trends 显示“费城人队积分榜”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：费城人队已连续 11 场比赛胜率超过 0.500，并取得五连胜。这些报道来自 NBC Sports Philadelphia 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "What Texans Teammates & Coaches Are Saying About Rookie OL Keylan Rutledge",
-        "url": "https://www.audacy.com/957thefan/video/what-texans-teammates-coaches-are-saying-about-rookie-ol-keylan-rutledge-xayijde",
-        "source": "Audacy"
+        "title": "Phillies get back to 11 games over .500 with fifth straight win",
+        "url": "https://www.nbcsportsphiladelphia.com/mlb/philadelphia-phillies/zack-wheeler-marlins-alec-bohm-bryson-stott/747312/",
+        "source": "NBC Sports Philadelphia"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "justin herbert",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title": "brett bateman",
+    "titleZh": "布雷特·贝特曼",
     "traffic": "500+",
-    "started": "Thu, 20 Aug 2026 19:10:00 -0700",
-    "summary": "相关新闻主要集中在：哪些预计 NFL 突破的明星值得投资？。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：哪些预计 NFL 突破的明星值得投资？。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "started": "Fri, 21 Aug 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：布雷特·贝特曼的伤病恐慌表明了为什么蓝鸟队需要他。",
+    "explanation": "Google Trends 显示“布雷特·贝特曼”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：布雷特·贝特曼的伤病恐慌表明了为什么蓝鸟队需要他。这些报道来自 Sports Illustrated 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Which Projected NFL Breakout Stars Are Worth Investing In?",
-        "url": "https://sports.yahoo.com/articles/projected-nfl-breakout-stars-worth-154000393.html",
-        "source": "Yahoo Sports"
+        "title": "Brett Bateman Injury Scare Shows Why Blue Jays Need Him",
+        "url": "https://www.si.com/mlb/bluejays/onsi/brett-bateman-injury-scare-shows-why-blue-jays-need-him",
+        "source": "Sports Illustrated"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "kaelon black",
-    "titleZh": "凯隆黑",
-    "traffic": "500+",
-    "started": "Thu, 20 Aug 2026 19:10:00 -0700",
-    "summary": "相关新闻主要集中在：凯隆·布莱克 (Kaelon Black) 在 CMC 出局的情况下担任领先后卫。",
-    "explanation": "Google Trends 显示“凯隆黑”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：凯隆·布莱克 (Kaelon Black) 在 CMC 出局的情况下担任领先后卫。这些报道来自 NBC Sports 等媒体，因此带动了集中搜索。",
+    "title": "junior bergen",
+    "titleZh": "少年卑尔根",
+    "traffic": "200+",
+    "started": "Fri, 21 Aug 2026 18:50:00 -0700",
+    "summary": "相关新闻主要集中在：前蒙大拿州杰出球员朱尼尔·伯根与纽约喷气机队签约。",
+    "explanation": "Google Trends 显示“少年卑尔根”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：前蒙大拿州杰出球员朱尼尔·伯根与纽约喷气机队签约。这些报道来自 NBC Montana 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Kaelon Black runs as lead back with CMC out",
-        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-08-19/kaelon-black-runs-as-lead-back-with-cmc-out",
-        "source": "NBC Sports"
+        "title": "Former Montana standout Junior Bergen signs with New York Jets",
+        "url": "https://nbcmontana.com/sports/local-sports/former-montana-standout-junior-bergen-signs-with-new-york-jets",
+        "source": "NBC Montana"
       }
     ]
   }
