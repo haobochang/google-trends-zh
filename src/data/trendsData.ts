@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "julio rodríguez",
+    "title": "red sox standings",
     "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "200+",
-    "started": "Mon, 24 Aug 2026 19:10:00 -0700",
+    "traffic": "1000+",
+    "started": "Tue, 25 Aug 2026 19:20:00 -0700",
     "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 SportsLogos.Net News 等媒体，因此带动了集中搜索。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 MLB.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "What’s That Patch on MLB Caps This Weekend? Players’ Weekend is Back for 2026",
-        "url": "https://news.sportslogos.net/2026/08/21/whats-that-patch-on-mlb-caps-this-weekend-players-weekend-is-back-for-2026/baseball/",
-        "source": "SportsLogos.Net News"
+        "title": "Red Sox rip Giants' hearts out, then tear Abreu's jersey in walk-off celebration",
+        "url": "https://www.mlb.com/news/wilyer-abreu-red-sox-rally-in-ninth-to-walk-off-giants",
+        "source": "MLB.com"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "daylen lile",
+    "title": "bud clark injury",
     "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "200+",
-    "started": "Mon, 24 Aug 2026 19:10:00 -0700",
+    "traffic": "500+",
+    "started": "Tue, 25 Aug 2026 19:20:00 -0700",
     "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 NBC Sports 等媒体，因此带动了集中搜索。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Seattle Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Daylen Lile homers, tallies five RBI in blowout",
-        "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-24/daylen-lile-homers-tallies-five-rbi-in-blowout",
-        "source": "NBC Sports"
+        "title": "Seahawks place rookie Bud Clark, OL Mason Richman on IR; sign 3 players",
+        "url": "https://sports.mynorthwest.com/nfl/seattle-seahawks/seattle-seahawks-place-rookie-bud-clark-ol-mason-richman-on-ir",
+        "source": "Seattle Sports"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "clara tauson",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "200+",
-    "started": "Mon, 24 Aug 2026 19:10:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Dimers 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Clara Tauson vs. Renata Zarazua prediction, odds, picks for WTA Monterrey Open 2026",
-        "url": "https://www.dimers.com/tennis/news/clara-tauson-vs-renata-zarazua-tennis-prediction-wta-monterrey-open-2026-ac",
-        "source": "Dimers"
-      }
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "zack wheeler",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "1000+",
-    "started": "Mon, 24 Aug 2026 19:00:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 BaseballHQ.com 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Wheeler heads mound options on a low-ratings Tuesday",
-        "url": "https://www.baseballhq.com/articles/news/daily-matchups/wheeler-heads-mound-options-on-a-low-ratings-tuesday",
-        "source": "BaseballHQ.com"
-      }
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "merrill kelly",
+    "title": "al east standings",
     "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "traffic": "500+",
-    "started": "Mon, 24 Aug 2026 19:00:00 -0700",
+    "started": "Tue, 25 Aug 2026 19:20:00 -0700",
     "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
     "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Cubs Present Massive Playoff Threat to Diamondbacks This Week",
-        "url": "https://sports.yahoo.com/articles/cubs-present-massive-playoff-threat-203647872.html",
+        "title": "Tampa Bay Rays DISRESPECTED in Latest MLB Power Rankings?",
+        "url": "https://sports.yahoo.com/articles/tampa-bay-rays-disrespected-latest-051626408.html",
         "source": "Yahoo Sports"
       }
     ]
   },
   {
-    "rank": 6,
-    "title": "riley gaines",
+    "rank": 4,
+    "title": "mets",
     "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "500+",
-    "started": "Mon, 24 Aug 2026 19:00:00 -0700",
+    "traffic": "5000+",
+    "started": "Tue, 25 Aug 2026 19:10:00 -0700",
     "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Fox News 等媒体，因此带动了集中搜索。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Brew Crew Ball 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Sophie Cunningham calls for 'bold' commissioner amid women's sports debate",
-        "url": "https://www.foxnews.com/video/6403822584112",
-        "source": "Fox News"
+        "title": "Series Preview: Milwaukee Brewers @ New York Mets",
+        "url": "https://www.brewcrewball.com/milwaukee-brewers-game-information/88362/series-preview-milwaukee-brewers-new-york-mets",
+        "source": "Brew Crew Ball"
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "title": "mets score",
+    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "traffic": "500+",
+    "started": "Tue, 25 Aug 2026 19:10:00 -0700",
+    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Metsmerized 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "A Deep Dive into Mets New Look Bullpen",
+        "url": "https://metsmerizedonline.com/a-deep-dive-into-mets-new-look-bullpen/",
+        "source": "Metsmerized"
+      }
+    ]
+  },
+  {
+    "rank": 6,
+    "title": "tristan peters",
+    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "traffic": "500+",
+    "started": "Tue, 25 Aug 2026 19:10:00 -0700",
+    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 ESPN 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Rangers 11-2 White Sox (Aug 24, 2026) Game Recap",
+        "url": "https://www.espn.com/mlb/recap/_/gameId/401816658",
+        "source": "ESPN"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "olivia miles",
+    "title": "trevor megill",
     "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "2000+",
-    "started": "Mon, 24 Aug 2026 19:00:00 -0700",
+    "traffic": "200+",
+    "started": "Tue, 25 Aug 2026 19:10:00 -0700",
     "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 High Post Hoops 等媒体，因此带动了集中搜索。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Reviewing the Brew 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Cheryl Reeve's MVP take is the correct one — but time will tell if voters agree",
-        "url": "https://highposthoops.com/cheryl-reeves-mvp-take-is-the-correct-one-but-time-will-tell-if-voters-agree",
-        "source": "High Post Hoops"
+        "title": "Trevor Megill's incredible streak continues as Brewers cap series win over Mariners",
+        "url": "https://reviewingthebrew.com/trevor-megill-s-incredible-streak-continues-as-brewers-cap-series-win-over-mariners-01m0gjhhn6fb",
+        "source": "Reviewing the Brew"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "ben affleck dinner violet fin",
+    "title": "león - real salt lake",
     "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "1000+",
-    "started": "Mon, 24 Aug 2026 18:50:00 -0700",
+    "traffic": "2000+",
+    "started": "Tue, 25 Aug 2026 19:00:00 -0700",
     "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 HOLA 等媒体，因此带动了集中搜索。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Concacaf | Official Website 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Ben Affleck Steps Out for a Cozy Family Dinner With Violet and Fin",
-        "url": "https://www.hola.com/us/celebrities/20260824919768/ben-affleck-family-dinner-violet-fin/",
-        "source": "HOLA"
+        "title": "La Copa Centroamericana, Leagues Cup y el comienzo de eConcacaf destacan en Esta Semana",
+        "url": "https://es.concacaf.com/competitions/concacaf/news/la-copa-centroamericana-leagues-cup-y-el-comienzo-de-econcacaf-destacan-en-esta-semana",
+        "source": "Concacaf | Official Website"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "veronica burton",
+    "title": "león vs salt lake",
     "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "500+",
-    "started": "Mon, 24 Aug 2026 18:50:00 -0700",
+    "traffic": "2000+",
+    "started": "Tue, 25 Aug 2026 19:00:00 -0700",
     "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Star Tribune 等媒体，因此带动了集中搜索。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Transfermarkt 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Courtney Williams will miss Lynx's chance to clinch No. 1 seed with right foot injury",
-        "url": "https://www.startribune.com/minnesota-lynx-golden-state-valkyries-courtney-williams-foot-injury-wnba-schedule-standings-playoffs/601881752",
-        "source": "Star Tribune"
+        "title": "Club León - Real Salt Lake prediction & tips 26.08.2026",
+        "url": "https://www.transfermarkt.com/betting/tips/club-leon-vs-real-salt-lake-prediction-26-08-2026/",
+        "source": "Transfermarkt"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "gabby williams",
+    "title": "marlins",
     "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "traffic": "500+",
-    "started": "Mon, 24 Aug 2026 18:50:00 -0700",
+    "started": "Tue, 25 Aug 2026 19:00:00 -0700",
     "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 CT Insider 等媒体，因此带动了集中搜索。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 NBC Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "2 players with CT ties make France’s 2026 FIBA World Cup roster",
-        "url": "https://www.ctinsider.com/sports/uconn-womens-basketball/article/france-roster-2026-fiba-world-cup-gabby-williams-22401781.php",
-        "source": "CT Insider"
+        "title": "Marlins closer Pete Fairbanks (hand) goes on IL",
+        "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-08-25/marlins-closer-pete-fairbanks-hand-goes-on-il",
+        "source": "NBC Sports"
       }
     ]
   }
