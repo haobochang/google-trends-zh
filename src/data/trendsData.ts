@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "betmgm sportsbook",
-    "titleZh": "betmgm 体育博彩",
+    "title": "clarence thomas",
+    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "traffic": "200+",
-    "started": "Sat, 29 Aug 2026 00:40:00 -0700",
-    "summary": "相关新闻主要集中在：Bet365 进军加拿大，成为 CFL 官方合作伙伴。",
-    "explanation": "Google Trends 显示“betmgm 体育博彩”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Bet365 进军加拿大，成为 CFL 官方合作伙伴。这些报道来自 Bonus.com 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 29 Aug 2026 23:00:00 -0700",
+    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 National Catholic Register 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Bet365 enters Canada by becoming an official partner of the CFL",
-        "url": "https://www.bonus.com/ca/news/bet365-and-cfl/",
-        "source": "Bonus.com"
+        "title": "Virginia’s Dangerous Catch-22 for Military Chaplains",
+        "url": "https://www.ncregister.com/commentaries/virginia-catch-22-military-chaplains",
+        "source": "National Catholic Register"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "draftkings fantasy",
-    "titleZh": "绘图王幻想",
-    "traffic": "100+",
-    "started": "Sat, 29 Aug 2026 00:30:00 -0700",
-    "summary": "相关新闻主要集中在：梦幻足球：选秀中 4 名必备近端锋 (2026)。",
-    "explanation": "Google Trends 显示“绘图王幻想”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：梦幻足球：选秀中 4 名必备近端锋 (2026)。这些报道来自 FantasyPros 等媒体，因此带动了集中搜索。",
+    "title": "lee yong joo",
+    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "traffic": "2000+",
+    "started": "Sat, 29 Aug 2026 22:50:00 -0700",
+    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 WION 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Fantasy Football: 4 Must-Have Tight Ends to Draft (2026)",
-        "url": "https://www.fantasypros.com/2026/08/fantasy-football-4-must-have-tight-ends-to-draft-2026/",
-        "source": "FantasyPros"
+        "title": "Lee Yong Joo, best known for Princess Hours and Blue Tower, dies at 44, condolences pour in",
+        "url": "https://www.wionews.com/entertainment/lee-yong-joo-best-known-for-princess-hours-and-blue-tower-dies-at-44-condolences-pour-in-1788055799577",
+        "source": "WION"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "fanduel",
-    "titleZh": "凡杜尔",
-    "traffic": "200+",
-    "started": "Sat, 29 Aug 2026 00:30:00 -0700",
-    "summary": "相关新闻主要集中在：Horseshoe Casino 奖金代码 ROTOCASTOSS（2026 年 8 月）：1K 免费旋转。",
-    "explanation": "Google Trends 显示“凡杜尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Horseshoe Casino 奖金代码 ROTOCASTOSS（2026 年 8 月）：1K 免费旋转。这些报道来自 RotoWire 等媒体，因此带动了集中搜索。",
+    "title": "daisy chain",
+    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "traffic": "100+",
+    "started": "Sat, 29 Aug 2026 22:50:00 -0700",
+    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 The Hollywood Reporter 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Horseshoe Casino Bonus Code ROTOCASTOSS (August 2026): 1K Free Spins",
-        "url": "https://www.rotowire.com/news/horseshoe-casino-bonus-code-rotocastoss-horseshoe-welcome-bonus-today-130533",
-        "source": "RotoWire"
+        "title": "Melinda French Gates Doubles Olivia Rodrigo’s Daisy Chain Fields Donation Sum Bringing Total to $20 Million",
+        "url": "https://www.hollywoodreporter.com/music/music-news/olivia-rodrigo-daisy-chain-fields-20m-melinda-gates-1236685002/",
+        "source": "The Hollywood Reporter"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "gate",
-    "titleZh": "门",
-    "traffic": "100+",
-    "started": "Sat, 29 Aug 2026 00:30:00 -0700",
-    "summary": "相关新闻主要集中在：陆军退伍军人立法者纪念修道院门周年纪念日，向拜登-哈里斯发出强烈信息：“彻底失败”。",
-    "explanation": "Google Trends 显示“门”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：陆军退伍军人立法者纪念修道院门周年纪念日，向拜登-哈里斯发出强烈信息：“彻底失败”。这些报道来自 Fox News 等媒体，因此带动了集中搜索。",
+    "title": "los angeles",
+    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "traffic": "200+",
+    "started": "Sat, 29 Aug 2026 22:50:00 -0700",
+    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Los Angeles Downtown News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Army vet lawmaker marks Abbey Gate anniversary with blistering message for Biden-Harris: 'Abject failure'",
-        "url": "https://www.foxnews.com/politics/army-vet-lawmaker-marks-abbey-gate-anniversary-blistering-message-biden-harris-abject-failure",
-        "source": "Fox News"
+        "title": "City of No: Bureaucracy and waste stall civic progress",
+        "url": "https://www.ladowntownnews.com/opinion/city-of-no-bureaucracy-and-waste-stall-civic-progress/article_baaf2f64-e758-436b-8869-2f021603c087.html",
+        "source": "Los Angeles Downtown News"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "draftkings sportsbook",
-    "titleZh": "选秀之王体育博彩",
-    "traffic": "100+",
-    "started": "Sat, 29 Aug 2026 00:30:00 -0700",
-    "summary": "相关新闻主要集中在：今日最佳 WNBA 球员道具：8 月 28 日星期五的精选与预测。",
-    "explanation": "Google Trends 显示“选秀之王体育博彩”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：今日最佳 WNBA 球员道具：8 月 28 日星期五的精选与预测。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "title": "ted",
+    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "traffic": "500+",
+    "started": "Sat, 29 Aug 2026 22:30:00 -0700",
+    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Best WNBA Player Props Today: Picks & Predictions for Friday, August 28",
-        "url": "https://sports.yahoo.com/articles/best-wnba-player-props-today-220000421.html",
-        "source": "Yahoo Sports"
+        "title": "‘Ted Lasso’ Stars Juno Temple & Hannah Waddingham Detail Firework Scene They Were “Chomping At The Bit “ To Do In Season 4",
+        "url": "https://www.yahoo.com/entertainment/tv/articles/ted-lasso-stars-juno-temple-070100148.html",
+        "source": "Yahoo"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "fool",
-    "titleZh": "傻子",
+    "title": "frankie muniz",
+    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "traffic": "200+",
-    "started": "Sat, 29 Aug 2026 00:20:00 -0700",
-    "summary": "相关新闻主要集中在：Motley Fool Stock Advisor 到 2026 年中期回报率高达 936%，击败标准普尔 500 指数。",
-    "explanation": "Google Trends 显示“傻子”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Motley Fool Stock Advisor 到 2026 年中期回报率高达 936%，击败标准普尔 500 指数。这些报道来自 eciks.org 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 29 Aug 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Motorsport.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Motley Fool Stock Advisor beats S&P 500 with 936% returns through mid-2026",
-        "url": "https://eciks.org/23675-motley-fool-stock-advisor-returns-beat-sp500",
-        "source": "eciks.org"
+        "title": "Frankie Muniz earns emotional win in GT4 America race with co-driver Tyler Stone",
+        "url": "https://www.motorsport.com/gt/news/frankie-muniz-wins-for-the-first-time-in-gt4-america-with-co-driver-tyler-stone/10850283/",
+        "source": "Motorsport.com"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "fanduel promo code",
-    "titleZh": "fanduel 促销代码",
+    "title": "amanda seyfried",
+    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "traffic": "200+",
-    "started": "Sat, 29 Aug 2026 00:20:00 -0700",
-    "summary": "相关新闻主要集中在：FanDuel 促销代码：观看太空人队 - 洋基队、MLB、NFL 季前赛可获得 350 美元奖金。",
-    "explanation": "Google Trends 显示“fanduel 促销代码”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：FanDuel 促销代码：观看太空人队 - 洋基队、MLB、NFL 季前赛可获得 350 美元奖金。这些报道来自 WTOP News 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 29 Aug 2026 22:10:00 -0700",
+    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "FanDuel Promo Code: Get $350 Bonus for Astros-Yankees, MLB, NFL Preseason Games",
-        "url": "https://wtop.com/news/2026/08/fanduel-promo-code-get-350-bonus-for-astros-yankees-mlb-nfl-preseason-games/",
-        "source": "WTOP News"
+        "title": "Amanda Seyfried Lists $3.2 Million LA Home She Purchased From ‘Jennifer’s Body’ Costar Adam Brody",
+        "url": "https://www.yahoo.com/entertainment/celebrity/articles/amanda-seyfried-lists-3-2-204609978.html",
+        "source": "Yahoo"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "the motley fool",
-    "titleZh": "杂七杂八的傻瓜",
-    "traffic": "100+",
-    "started": "Sat, 29 Aug 2026 00:20:00 -0700",
-    "summary": "相关新闻主要集中在：井喷式盈利提振人工智能信心后，Nvidia 市值增加超过 4000 亿美元。",
-    "explanation": "Google Trends 显示“杂七杂八的傻瓜”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：井喷式盈利提振人工智能信心后，Nvidia 市值增加超过 4000 亿美元。这些报道来自 CNBC 等媒体，因此带动了集中搜索。",
+    "title": "lindsay clancy final results",
+    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "traffic": "5000+",
+    "started": "Sat, 29 Aug 2026 21:50:00 -0700",
+    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 The Boston Globe 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Nvidia adds more than $400 billion in value after blowout earnings boost AI confidence",
-        "url": "https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html",
-        "source": "CNBC"
+        "title": "Lindsay Clancy trial spotlights need for postpartum awareness, resources",
+        "url": "https://www.bostonglobe.com/2026/08/29/metro/clancy-postpartum-mental-illness-anxiety/",
+        "source": "The Boston Globe"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "fool.com",
-    "titleZh": "愚人网",
-    "traffic": "100+",
-    "started": "Sat, 29 Aug 2026 00:20:00 -0700",
-    "summary": "相关新闻主要集中在：英伟达的下一个数十亿美元市场：将人工智能工厂从数据中心中分离出来。",
-    "explanation": "Google Trends 显示“愚人网”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：英伟达的下一个数十亿美元市场：将人工智能工厂从数据中心中分离出来。这些报道来自 SiliconANGLE 等媒体，因此带动了集中搜索。",
+    "title": "tyler perry",
+    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "traffic": "500+",
+    "started": "Sat, 29 Aug 2026 21:40:00 -0700",
+    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 TVLine 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Nvidia’s next multibillion-dollar market: Breaking the AI factory out of the data center",
-        "url": "https://siliconangle.com/2026/08/26/nvidias-next-billion-dollar-market-breaking-ai-factory-out-data-center/",
-        "source": "SiliconANGLE"
+        "title": "Beauty In Black Ends Season 3 With Several Potential Deaths — Who Won't Live To See Season 4?",
+        "url": "https://www.tvline.com/2246867/beauty-in-black-season-3-ending-explained-finale-deaths/",
+        "source": "TVLine"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "bet 365",
-    "titleZh": "投注 365",
+    "title": "hirving lozano",
+    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "traffic": "200+",
-    "started": "Sat, 29 Aug 2026 00:00:00 -0700",
-    "summary": "相关新闻主要集中在：BetMGM 俄亥俄州促销代码 ALARM 为爱国者队对阵布朗队赢得 1,500 美元奖金。",
-    "explanation": "Google Trends 显示“投注 365”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：BetMGM 俄亥俄州促销代码 ALARM 为爱国者队对阵布朗队赢得 1,500 美元奖金。这些报道来自 Fantasy Alarm 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 29 Aug 2026 21:40:00 -0700",
+    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 El Sol de México 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "BetMGM Ohio Promo Code ALARM Scores $1,500 Bonus For Patriots vs. Browns",
-        "url": "https://www.fantasyalarm.com/articles/promotions/betmgm-ohio-promo-code-alarm-1500-bonus-patriots-vs-browns/194406",
-        "source": "Fantasy Alarm"
+        "title": "San Diego FC le ganó al Galaxy y liga 5 victorias en casa",
+        "url": "https://oem.com.mx/elsoldetijuana/deportes/san-diego-fc-le-gano-al-galaxy-y-liga-5-victorias-en-casa-31808162",
+        "source": "El Sol de México"
       }
     ]
   }
