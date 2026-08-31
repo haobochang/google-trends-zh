@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "clarence thomas",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "200+",
-    "started": "Sat, 29 Aug 2026 23:00:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 National Catholic Register 等媒体，因此带动了集中搜索。",
+    "title": "car insurance",
+    "titleZh": "汽车保险",
+    "traffic": "5000+",
+    "started": "Sun, 30 Aug 2026 23:40:00 -0700",
+    "summary": "相关新闻主要集中在：雅培禁止德克萨斯州机构资助 Flock 相机。",
+    "explanation": "Google Trends 显示“汽车保险”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：雅培禁止德克萨斯州机构资助 Flock 相机。这些报道来自 The Hill 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Virginia’s Dangerous Catch-22 for Military Chaplains",
-        "url": "https://www.ncregister.com/commentaries/virginia-catch-22-military-chaplains",
-        "source": "National Catholic Register"
+        "title": "Abbott bars Texas agencies from funding Flock cameras",
+        "url": "https://thehill.com/homenews/state-watch/6058974-abbott-halts-texas-flock-agencies-funding/",
+        "source": "The Hill"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "lee yong joo",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title": "jiayi zheng nurse",
+    "titleZh": "jiayi zheng nurse",
     "traffic": "2000+",
-    "started": "Sat, 29 Aug 2026 22:50:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 WION 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 30 Aug 2026 23:10:00 -0700",
+    "summary": "相关新闻主要集中在：纽约护士仍穿着手术服，在肇事逃逸事故中丧生。",
+    "explanation": "Google Trends 显示“jiayi zheng nurse”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：纽约护士仍穿着手术服，在肇事逃逸事故中丧生。这些报道来自 New York Post 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Lee Yong Joo, best known for Princess Hours and Blue Tower, dies at 44, condolences pour in",
-        "url": "https://www.wionews.com/entertainment/lee-yong-joo-best-known-for-princess-hours-and-blue-tower-dies-at-44-condolences-pour-in-1788055799577",
-        "source": "WION"
+        "title": "NYC nurse still wearing scrubs killed in caught-on-camera hit-and-run crash",
+        "url": "https://nypost.com/2026/08/30/us-news/nyc-nurse-killed-in-caught-on-camera-hit-and-run-crash/",
+        "source": "New York Post"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "daisy chain",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title": "las vegas weather",
+    "titleZh": "拉斯维加斯 天气",
     "traffic": "100+",
-    "started": "Sat, 29 Aug 2026 22:50:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 The Hollywood Reporter 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 30 Aug 2026 23:10:00 -0700",
+    "summary": "相关新闻主要集中在：极端热浪离开拉斯维加斯，降温即将到来。",
+    "explanation": "Google Trends 显示“拉斯维加斯 天气”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：极端热浪离开拉斯维加斯，降温即将到来。这些报道来自 Las Vegas Review-Journal 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Melinda French Gates Doubles Olivia Rodrigo’s Daisy Chain Fields Donation Sum Bringing Total to $20 Million",
-        "url": "https://www.hollywoodreporter.com/music/music-news/olivia-rodrigo-daisy-chain-fields-20m-melinda-gates-1236685002/",
-        "source": "The Hollywood Reporter"
+        "title": "Extreme heat wave leaving Las Vegas, cooldown on the horizon",
+        "url": "https://www.reviewjournal.com/local/weather/extreme-heat-wave-leaving-las-vegas-cooldown-on-the-horizon-3870888/",
+        "source": "Las Vegas Review-Journal"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "los angeles",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "200+",
-    "started": "Sat, 29 Aug 2026 22:50:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Los Angeles Downtown News 等媒体，因此带动了集中搜索。",
+    "title": "el nino news",
+    "titleZh": "厄尔尼诺新闻",
+    "traffic": "20000+",
+    "started": "Sun, 30 Aug 2026 22:50:00 -0700",
+    "summary": "相关新闻主要集中在：随着超级厄尔尼诺现象加强，研究表明气候变化正在加剧厄尔尼诺现象。",
+    "explanation": "Google Trends 显示“厄尔尼诺新闻”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：随着超级厄尔尼诺现象加强，研究表明气候变化正在加剧厄尔尼诺现象。这些报道来自 Phys.org 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "City of No: Bureaucracy and waste stall civic progress",
-        "url": "https://www.ladowntownnews.com/opinion/city-of-no-bureaucracy-and-waste-stall-civic-progress/article_baaf2f64-e758-436b-8869-2f021603c087.html",
-        "source": "Los Angeles Downtown News"
+        "title": "As super El Nino strengthens, study suggests that climate change is intensifying El Ninos",
+        "url": "https://phys.org/news/2026-08-super-el-nino-climate-ninos.html",
+        "source": "Phys.org"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "ted",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title": "jack osbourne",
+    "titleZh": "杰克·奥斯本",
     "traffic": "500+",
-    "started": "Sat, 29 Aug 2026 22:30:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 30 Aug 2026 22:30:00 -0700",
+    "summary": "相关新闻主要集中在：席德·威尔逊之后凯莉·奥斯本的生活看起来截然不同。",
+    "explanation": "Google Trends 显示“杰克·奥斯本”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：席德·威尔逊之后凯莉·奥斯本的生活看起来截然不同。这些报道来自 PopCrush 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "‘Ted Lasso’ Stars Juno Temple & Hannah Waddingham Detail Firework Scene They Were “Chomping At The Bit “ To Do In Season 4",
-        "url": "https://www.yahoo.com/entertainment/tv/articles/ted-lasso-stars-juno-temple-070100148.html",
-        "source": "Yahoo"
+        "title": "Kelly Osbourne's Life After Sid Wilson Looks Very Different",
+        "url": "https://popcrush.com/kelly-osbourne-sid-wilson-split-jack-osbourne-update/",
+        "source": "PopCrush"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "frankie muniz",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "200+",
-    "started": "Sat, 29 Aug 2026 22:20:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Motorsport.com 等媒体，因此带动了集中搜索。",
+    "title": "social security september 2026 dates",
+    "titleZh": "社会保障2026年9月日期",
+    "traffic": "2000+",
+    "started": "Sun, 30 Aug 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：社会保障更新，本周将收到高达 5,181 美元的付款。",
+    "explanation": "Google Trends 显示“社会保障2026年9月日期”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：社会保障更新，本周将收到高达 5,181 美元的付款。这些报道来自 Newsweek 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Frankie Muniz earns emotional win in GT4 America race with co-driver Tyler Stone",
-        "url": "https://www.motorsport.com/gt/news/frankie-muniz-wins-for-the-first-time-in-gt4-america-with-co-driver-tyler-stone/10850283/",
-        "source": "Motorsport.com"
+        "title": "Social Security Update As Payments of Up to $5,181 Arriving This Week",
+        "url": "https://www.newsweek.com/social-security-update-payments-5181-arriving-this-week-12358335",
+        "source": "Newsweek"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "amanda seyfried",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title": "furious tv show",
+    "titleZh": "愤怒的电视节目",
     "traffic": "200+",
-    "started": "Sat, 29 Aug 2026 22:10:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 30 Aug 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：看完“惊悚”犯罪剧《速度与激情》后，想知道在 Hulu 和 Disney+ 上看什么？只是不要问斯科特·麦克纳里。",
+    "explanation": "Google Trends 显示“愤怒的电视节目”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：看完“惊悚”犯罪剧《速度与激情》后，想知道在 Hulu 和 Disney+ 上看什么？只是不要问斯科特·麦克纳里。这些报道来自 TechRadar 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Amanda Seyfried Lists $3.2 Million LA Home She Purchased From ‘Jennifer’s Body’ Costar Adam Brody",
-        "url": "https://www.yahoo.com/entertainment/celebrity/articles/amanda-seyfried-lists-3-2-204609978.html",
-        "source": "Yahoo"
+        "title": "Wondering what to watch on Hulu and Disney+ after binging 'thrilling' crime drama Furious? Just don't ask Scoot McNairy",
+        "url": "https://www.techradar.com/streaming/hulu/i-asked-furious-star-scoot-mcnairy-what-tv-show-fans-should-stream-after-binging-intense-new-hulu-and-disney-crime-drama-and-his-answer-was-so-profound-that-i-cant-stop-thinking-about-it",
+        "source": "TechRadar"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "lindsay clancy final results",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "5000+",
-    "started": "Sat, 29 Aug 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 The Boston Globe 等媒体，因此带动了集中搜索。",
+    "title": "furious season 2",
+    "titleZh": "愤怒第二季",
+    "traffic": "2000+",
+    "started": "Sun, 30 Aug 2026 22:00:00 -0700",
+    "summary": "相关新闻主要集中在：《速度与激情》明星艾美·罗森谈论“躲避掠食者”和第二季的早期计划。",
+    "explanation": "Google Trends 显示“愤怒第二季”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《速度与激情》明星艾美·罗森谈论“躲避掠食者”和第二季的早期计划。这些报道来自 Gold Derby 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Lindsay Clancy trial spotlights need for postpartum awareness, resources",
-        "url": "https://www.bostonglobe.com/2026/08/29/metro/clancy-postpartum-mental-illness-anxiety/",
-        "source": "The Boston Globe"
+        "title": "‘Furious’ star Emmy Rossum talks ‘dodging predators’ and early plans for Season 2",
+        "url": "https://www.goldderby.com/tv/2026/furious-emmy-rossum-season-1-recap-season-2-plans/",
+        "source": "Gold Derby"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "tyler perry",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "500+",
-    "started": "Sat, 29 Aug 2026 21:40:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 TVLine 等媒体，因此带动了集中搜索。",
+    "title": "olivia rodrigo",
+    "titleZh": "奥利维亚·罗德里戈",
+    "traffic": "2000+",
+    "started": "Sun, 30 Aug 2026 21:40:00 -0700",
+    "summary": "相关新闻主要集中在：Daisy Chain Fields 将音乐、社区和创造力汇聚在一起，共同致力于一项事业。",
+    "explanation": "Google Trends 显示“奥利维亚·罗德里戈”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Daisy Chain Fields 将音乐、社区和创造力汇聚在一起，共同致力于一项事业。这些报道来自 Orange County Register 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Beauty In Black Ends Season 3 With Several Potential Deaths — Who Won't Live To See Season 4?",
-        "url": "https://www.tvline.com/2246867/beauty-in-black-season-3-ending-explained-finale-deaths/",
-        "source": "TVLine"
+        "title": "Daisy Chain Fields brings together music, community and creativity for a cause",
+        "url": "https://www.ocregister.com/2026/08/29/daisy-chain-fields-brings-together-music-community-and-creativity-for-a-cause/",
+        "source": "Orange County Register"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "hirving lozano",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "200+",
-    "started": "Sat, 29 Aug 2026 21:40:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 El Sol de México 等媒体，因此带动了集中搜索。",
+    "title": "pokemon wild card",
+    "titleZh": "口袋妖怪外卡",
+    "traffic": "1000+",
+    "started": "Sun, 30 Aug 2026 21:30:00 -0700",
+    "summary": "相关新闻主要集中在：《精灵宝可梦：百搭卡》电影宣布将于 2027 年上映；预告片发布。",
+    "explanation": "Google Trends 显示“口袋妖怪外卡”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《精灵宝可梦：百搭卡》电影宣布将于 2027 年上映；预告片发布。这些报道来自 The Hollywood Reporter 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "San Diego FC le ganó al Galaxy y liga 5 victorias en casa",
-        "url": "https://oem.com.mx/elsoldetijuana/deportes/san-diego-fc-le-gano-al-galaxy-y-liga-5-victorias-en-casa-31808162",
-        "source": "El Sol de México"
+        "title": "‘Pokémon: Wild Card’ Movie Announced for 2027; Teaser Released",
+        "url": "https://www.hollywoodreporter.com/movies/movie-news/pokemon-wild-card-movie-announced-2027-watch-teaser-1236685585/",
+        "source": "The Hollywood Reporter"
       }
     ]
   }
