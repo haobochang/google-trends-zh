@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "car insurance",
-    "titleZh": "汽车保险",
-    "traffic": "5000+",
-    "started": "Sun, 30 Aug 2026 23:40:00 -0700",
-    "summary": "相关新闻主要集中在：雅培禁止德克萨斯州机构资助 Flock 相机。",
-    "explanation": "Google Trends 显示“汽车保险”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：雅培禁止德克萨斯州机构资助 Flock 相机。这些报道来自 The Hill 等媒体，因此带动了集中搜索。",
+    "title": "tyler perry",
+    "titleZh": "泰勒·佩里",
+    "traffic": "200+",
+    "started": "Mon, 31 Aug 2026 23:00:00 -0700",
+    "summary": "相关新闻主要集中在：视频：“泰勒·佩里的生活”- 官方预告片 - Netflix。",
+    "explanation": "Google Trends 显示“泰勒·佩里”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：视频：“泰勒·佩里的生活”- 官方预告片 - Netflix。这些报道来自 The Futon Critic 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Abbott bars Texas agencies from funding Flock cameras",
-        "url": "https://thehill.com/homenews/state-watch/6058974-abbott-halts-texas-flock-agencies-funding/",
-        "source": "The Hill"
+        "title": "Video: \"Tyler Perry's Doing Life\" - Official Trailer - Netflix",
+        "url": "http://www.thefutoncritic.com/video/2026/08/31/video-tyler-perrys-doing-life-official-trailer-netflix-429011/20260831netflix01/",
+        "source": "The Futon Critic"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "jiayi zheng nurse",
-    "titleZh": "jiayi zheng nurse",
-    "traffic": "2000+",
-    "started": "Sun, 30 Aug 2026 23:10:00 -0700",
-    "summary": "相关新闻主要集中在：纽约护士仍穿着手术服，在肇事逃逸事故中丧生。",
-    "explanation": "Google Trends 显示“jiayi zheng nurse”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：纽约护士仍穿着手术服，在肇事逃逸事故中丧生。这些报道来自 New York Post 等媒体，因此带动了集中搜索。",
+    "title": "sce",
+    "titleZh": "场景",
+    "traffic": "500+",
+    "started": "Mon, 31 Aug 2026 23:00:00 -0700",
+    "summary": "相关新闻主要集中在：纽瑟姆将他在野火中的失败归咎于“外部团体”。",
+    "explanation": "Google Trends 显示“场景”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：纽瑟姆将他在野火中的失败归咎于“外部团体”。这些报道来自 Politico 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "NYC nurse still wearing scrubs killed in caught-on-camera hit-and-run crash",
-        "url": "https://nypost.com/2026/08/30/us-news/nyc-nurse-killed-in-caught-on-camera-hit-and-run-crash/",
-        "source": "New York Post"
+        "title": "Newsom blames ‘outside groups’ for his defeat on wildfires",
+        "url": "https://www.politico.com/news/2026/08/31/newsom-outside-groups-defeat-wildfires-01058689",
+        "source": "Politico"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "las vegas weather",
-    "titleZh": "拉斯维加斯 天气",
-    "traffic": "100+",
-    "started": "Sun, 30 Aug 2026 23:10:00 -0700",
-    "summary": "相关新闻主要集中在：极端热浪离开拉斯维加斯，降温即将到来。",
-    "explanation": "Google Trends 显示“拉斯维加斯 天气”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：极端热浪离开拉斯维加斯，降温即将到来。这些报道来自 Las Vegas Review-Journal 等媒体，因此带动了集中搜索。",
+    "title": "colton cowser",
+    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "traffic": "200+",
+    "started": "Mon, 31 Aug 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：科尔顿·考瑟 (Colton Cowser) 以令人难以置信的接球拯救了金莺队 (Orioles)，以 2-1 战胜落基山脉队 (Rockies)。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：科尔顿·考瑟 (Colton Cowser) 以令人难以置信的接球拯救了金莺队 (Orioles)，以 2-1 战胜落基山脉队 (Rockies)。这些报道来自 WRAL 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Extreme heat wave leaving Las Vegas, cooldown on the horizon",
-        "url": "https://www.reviewjournal.com/local/weather/extreme-heat-wave-leaving-las-vegas-cooldown-on-the-horizon-3870888/",
-        "source": "Las Vegas Review-Journal"
+        "title": "Colton Cowser saves Orioles with incredible catch to preserve 2-1 victory over Rockies",
+        "url": "https://www.wral.com/news/ap/61eae-colton-cowser-saves-orioles-with-incredible-catch-to-preserve-2-1-victory-over-rockies/",
+        "source": "WRAL"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "el nino news",
-    "titleZh": "厄尔尼诺新闻",
-    "traffic": "20000+",
-    "started": "Sun, 30 Aug 2026 22:50:00 -0700",
-    "summary": "相关新闻主要集中在：随着超级厄尔尼诺现象加强，研究表明气候变化正在加剧厄尔尼诺现象。",
-    "explanation": "Google Trends 显示“厄尔尼诺新闻”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：随着超级厄尔尼诺现象加强，研究表明气候变化正在加剧厄尔尼诺现象。这些报道来自 Phys.org 等媒体，因此带动了集中搜索。",
+    "title": "elias ymer",
+    "titleZh": "埃利亚斯·伊梅尔",
+    "traffic": "200+",
+    "started": "Mon, 31 Aug 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
+    "explanation": "Google Trends 显示“埃利亚斯·伊梅尔”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Robinhood 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "As super El Nino strengthens, study suggests that climate change is intensifying El Ninos",
-        "url": "https://phys.org/news/2026-08-super-el-nino-climate-ninos.html",
-        "source": "Phys.org"
+        "title": "August 31, 2026: Varillas vs Kumstat Tennis Prediction Market",
+        "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/varillas-vs-kumstat-sep-01-2026/",
+        "source": "Robinhood"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "jack osbourne",
-    "titleZh": "杰克·奥斯本",
-    "traffic": "500+",
-    "started": "Sun, 30 Aug 2026 22:30:00 -0700",
-    "summary": "相关新闻主要集中在：席德·威尔逊之后凯莉·奥斯本的生活看起来截然不同。",
-    "explanation": "Google Trends 显示“杰克·奥斯本”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：席德·威尔逊之后凯莉·奥斯本的生活看起来截然不同。这些报道来自 PopCrush 等媒体，因此带动了集中搜索。",
+    "title": "emily blunt",
+    "titleZh": "艾米莉·布朗特",
+    "traffic": "200+",
+    "started": "Mon, 31 Aug 2026 22:10:00 -0700",
+    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
+    "explanation": "Google Trends 显示“艾米莉·布朗特”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Sortir à Paris 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Kelly Osbourne's Life After Sid Wilson Looks Very Different",
-        "url": "https://popcrush.com/kelly-osbourne-sid-wilson-split-jack-osbourne-update/",
-        "source": "PopCrush"
+        "title": "Dwayne Johnson and Emily Blunt reunite in Smashing Machine, in cinemas October 29",
+        "url": "https://www.sortiraparis.com/en/what-to-do-in-paris/cinema-series/articles/331662-smashing-machine-on-dwayne-johnson-s-channel-becomes-the-fighter-mark-kerr",
+        "source": "Sortir à Paris"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "social security september 2026 dates",
-    "titleZh": "社会保障2026年9月日期",
-    "traffic": "2000+",
-    "started": "Sun, 30 Aug 2026 22:20:00 -0700",
-    "summary": "相关新闻主要集中在：社会保障更新，本周将收到高达 5,181 美元的付款。",
-    "explanation": "Google Trends 显示“社会保障2026年9月日期”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：社会保障更新，本周将收到高达 5,181 美元的付款。这些报道来自 Newsweek 等媒体，因此带动了集中搜索。",
+    "title": "mlb playoff picture",
+    "titleZh": "MLB季后赛图片",
+    "traffic": "200+",
+    "started": "Mon, 31 Aug 2026 22:10:00 -0700",
+    "summary": "相关新闻主要集中在：棒球进入疯狂的最后一个月，道奇队、渣滓以及更多值得讨论的话题。",
+    "explanation": "Google Trends 显示“MLB季后赛图片”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：棒球进入疯狂的最后一个月，道奇队、渣滓以及更多值得讨论的话题。这些报道来自 The Boston Globe 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Social Security Update As Payments of Up to $5,181 Arriving This Week",
-        "url": "https://www.newsweek.com/social-security-update-payments-5181-arriving-this-week-12358335",
-        "source": "Newsweek"
+        "title": "The Dodgers, the dregs, and plenty more to discuss as baseball heads into a frenetic final month",
+        "url": "https://www.bostonglobe.com/2026/08/29/sports/sunday-baseball-notes-september-baseball/",
+        "source": "The Boston Globe"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "furious tv show",
-    "titleZh": "愤怒的电视节目",
-    "traffic": "200+",
-    "started": "Sun, 30 Aug 2026 22:20:00 -0700",
-    "summary": "相关新闻主要集中在：看完“惊悚”犯罪剧《速度与激情》后，想知道在 Hulu 和 Disney+ 上看什么？只是不要问斯科特·麦克纳里。",
-    "explanation": "Google Trends 显示“愤怒的电视节目”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：看完“惊悚”犯罪剧《速度与激情》后，想知道在 Hulu 和 Disney+ 上看什么？只是不要问斯科特·麦克纳里。这些报道来自 TechRadar 等媒体，因此带动了集中搜索。",
+    "title": "jacob fields",
+    "titleZh": "雅各布·菲尔德",
+    "traffic": "1000+",
+    "started": "Mon, 31 Aug 2026 22:00:00 -0700",
+    "summary": "相关新闻主要集中在：TCU更衣室袭击导致前球员被捕。",
+    "explanation": "Google Trends 显示“雅各布·菲尔德”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：TCU更衣室袭击导致前球员被捕。这些报道来自 FOX 4 News Dallas-Fort Worth 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Wondering what to watch on Hulu and Disney+ after binging 'thrilling' crime drama Furious? Just don't ask Scoot McNairy",
-        "url": "https://www.techradar.com/streaming/hulu/i-asked-furious-star-scoot-mcnairy-what-tv-show-fans-should-stream-after-binging-intense-new-hulu-and-disney-crime-drama-and-his-answer-was-so-profound-that-i-cant-stop-thinking-about-it",
-        "source": "TechRadar"
+        "title": "TCU locker room assault leads to former player's arrest",
+        "url": "https://www.fox4news.com/sports/former-tcu-safety-linked-locker-room-assault-turns-himself-police",
+        "source": "FOX 4 News Dallas-Fort Worth"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "furious season 2",
-    "titleZh": "愤怒第二季",
-    "traffic": "2000+",
-    "started": "Sun, 30 Aug 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：《速度与激情》明星艾美·罗森谈论“躲避掠食者”和第二季的早期计划。",
-    "explanation": "Google Trends 显示“愤怒第二季”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《速度与激情》明星艾美·罗森谈论“躲避掠食者”和第二季的早期计划。这些报道来自 Gold Derby 等媒体，因此带动了集中搜索。",
+    "title": "hurricane california",
+    "titleZh": "加利福尼亚州飓风",
+    "traffic": "200+",
+    "started": "Mon, 31 Aug 2026 21:50:00 -0700",
+    "summary": "相关新闻主要集中在：飓风正向加利福尼亚州移动吗？这是最新的预测。",
+    "explanation": "Google Trends 显示“加利福尼亚州飓风”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：飓风正向加利福尼亚州移动吗？这是最新的预测。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "‘Furious’ star Emmy Rossum talks ‘dodging predators’ and early plans for Season 2",
-        "url": "https://www.goldderby.com/tv/2026/furious-emmy-rossum-season-1-recap-season-2-plans/",
-        "source": "Gold Derby"
+        "title": "Is a hurricane headed for California? Here's the latest forecast",
+        "url": "https://www.yahoo.com/news/weather-news/articles/hurricane-headed-california-heres-latest-222509490.html",
+        "source": "Yahoo"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "olivia rodrigo",
-    "titleZh": "奥利维亚·罗德里戈",
-    "traffic": "2000+",
-    "started": "Sun, 30 Aug 2026 21:40:00 -0700",
-    "summary": "相关新闻主要集中在：Daisy Chain Fields 将音乐、社区和创造力汇聚在一起，共同致力于一项事业。",
-    "explanation": "Google Trends 显示“奥利维亚·罗德里戈”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Daisy Chain Fields 将音乐、社区和创造力汇聚在一起，共同致力于一项事业。这些报道来自 Orange County Register 等媒体，因此带动了集中搜索。",
+    "title": "singapore airlines",
+    "titleZh": "新加坡航空",
+    "traffic": "200+",
+    "started": "Mon, 31 Aug 2026 21:50:00 -0700",
+    "summary": "相关新闻主要集中在：达美航空首席执行官向客户致辞。",
+    "explanation": "Google Trends 显示“新加坡航空”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：达美航空首席执行官向客户致辞。这些报道来自 Men's Journal 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Daisy Chain Fields brings together music, community and creativity for a cause",
-        "url": "https://www.ocregister.com/2026/08/29/daisy-chain-fields-brings-together-music-community-and-creativity-for-a-cause/",
-        "source": "Orange County Register"
+        "title": "Delta Air Lines CEO Sends a Message to Customers",
+        "url": "https://www.mensjournal.com/news/delta-air-lines-ceo-sends-a-message-to-customers",
+        "source": "Men's Journal"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "pokemon wild card",
-    "titleZh": "口袋妖怪外卡",
-    "traffic": "1000+",
-    "started": "Sun, 30 Aug 2026 21:30:00 -0700",
-    "summary": "相关新闻主要集中在：《精灵宝可梦：百搭卡》电影宣布将于 2027 年上映；预告片发布。",
-    "explanation": "Google Trends 显示“口袋妖怪外卡”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《精灵宝可梦：百搭卡》电影宣布将于 2027 年上映；预告片发布。这些报道来自 The Hollywood Reporter 等媒体，因此带动了集中搜索。",
+    "title": "7oh",
+    "titleZh": "7哦",
+    "traffic": "100+",
+    "started": "Mon, 31 Aug 2026 21:50:00 -0700",
+    "summary": "相关新闻主要集中在：7-OH 和卡痛叶的可用性和成瘾治疗的最新情况是什么？。",
+    "explanation": "Google Trends 显示“7哦”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：7-OH 和卡痛叶的可用性和成瘾治疗的最新情况是什么？。这些报道来自 EurekAlert! 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "‘Pokémon: Wild Card’ Movie Announced for 2027; Teaser Released",
-        "url": "https://www.hollywoodreporter.com/movies/movie-news/pokemon-wild-card-movie-announced-2027-watch-teaser-1236685585/",
-        "source": "The Hollywood Reporter"
+        "title": "What’s the latest on 7-OH and kratom availability and addiction care?",
+        "url": "https://www.eurekalert.org/news-releases/1141601",
+        "source": "EurekAlert!"
       }
     ]
   }
