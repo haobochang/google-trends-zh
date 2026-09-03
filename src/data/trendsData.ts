@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "dodgers game today",
-    "titleZh": "今天的道奇队比赛",
-    "traffic": "1000+",
-    "started": "Tue, 1 Sep 2026 22:20:00 -0700",
-    "summary": "相关新闻主要集中在：棒球进入疯狂的最后一个月，道奇队、渣滓以及更多值得讨论的话题。",
-    "explanation": "Google Trends 显示“今天的道奇队比赛”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：棒球进入疯狂的最后一个月，道奇队、渣滓以及更多值得讨论的话题。这些报道来自 The Boston Globe 等媒体，因此带动了集中搜索。",
+    "title": "robert pattinson",
+    "titleZh": "罗伯特·帕丁森",
+    "traffic": "500+",
+    "started": "Wed, 2 Sep 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：罗伯特·帕丁森认为《蝙蝠侠第二部》将会“非常棒”。",
+    "explanation": "Google Trends 显示“罗伯特·帕丁森”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：罗伯特·帕丁森认为《蝙蝠侠第二部》将会“非常棒”。这些报道来自 batman on film 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "The Dodgers, the dregs, and plenty more to discuss as baseball heads into a frenetic final month",
-        "url": "https://www.bostonglobe.com/2026/08/29/sports/sunday-baseball-notes-september-baseball/",
-        "source": "The Boston Globe"
+        "title": "Robert Pattinson Thinks THE BATMAN PART II Will Be “Pretty Great”",
+        "url": "https://batman-on-film.com/25550/robert-pattinson-thinks-the-batman-part-ii-will-be-pretty-great/",
+        "source": "batman on film"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "el niño weather",
-    "titleZh": "天气男孩",
-    "traffic": "5000+",
-    "started": "Tue, 1 Sep 2026 22:10:00 -0700",
-    "summary": "相关新闻主要集中在：这次厄尔尼诺现象将不同于过去八年的任何一次。",
-    "explanation": "Google Trends 显示“天气男孩”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：这次厄尔尼诺现象将不同于过去八年的任何一次。这些报道来自 The Atlantic 等媒体，因此带动了集中搜索。",
+    "title": "joshua báez",
+    "titleZh": "约书亚·贝兹",
+    "traffic": "200+",
+    "started": "Wed, 2 Sep 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：CHARLIE TELJEUR：最不可能的一天。",
+    "explanation": "Google Trends 显示“约书亚·贝兹”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：CHARLIE TELJEUR：最不可能的一天。这些报道来自 pictouadvocate.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "This El Niño Will Be Unlike Any in the Past Eight Decades",
-        "url": "https://www.theatlantic.com/science/2026/08/el-nino-effects/688429/",
-        "source": "The Atlantic"
+        "title": "CHARLIE TELJEUR: A most improbable day",
+        "url": "https://www.pictouadvocate.com/opinion/charlie-teljeur-a-most-improbable-day/article_7c66eb16-324d-4e57-a539-db3936dfc37c.html",
+        "source": "pictouadvocate.com"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "enrique hernandez",
-    "titleZh": "恩里克·埃尔南德斯",
+    "title": "lucas ocampos",
+    "titleZh": "卢卡斯·奥坎波斯",
     "traffic": "200+",
-    "started": "Tue, 1 Sep 2026 22:10:00 -0700",
-    "summary": "相关新闻主要集中在：基克·埃尔南德斯 (Kiké Hernández) 表示，他不记得除了道奇队之外还为其他球队效力过！。",
-    "explanation": "Google Trends 显示“恩里克·埃尔南德斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：基克·埃尔南德斯 (Kiké Hernández) 表示，他不记得除了道奇队之外还为其他球队效力过！。这些报道来自 Dodgers Nation 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 2 Sep 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：卢卡斯·奥坎波斯表示，蒙特雷的主要目标是进入联赛杯决赛。",
+    "explanation": "Google Trends 显示“卢卡斯·奥坎波斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：卢卡斯·奥坎波斯表示，蒙特雷的主要目标是进入联赛杯决赛。这些报道来自 De10 Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Kiké Hernández says he doesn’t remember playing for teams other than the Dodgers!",
-        "url": "https://dodgersnation.com/ezfeed-video/video-531/",
-        "source": "Dodgers Nation"
+        "title": "Monterrey tiene como objetivo principal llegar a la final de la Leagues Cup, según Lucas Ocampos",
+        "url": "https://www.de10.com.mx/liga-mx/monterrey-tiene-como-objetivo-principal-llegar-a-la-final-de-la-leagues-cup-segun-lucas-ocampos/",
+        "source": "De10 Sports"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "mortgage rates today",
-    "titleZh": "今天的抵押贷款利率",
+    "title": "anthropic",
+    "titleZh": "人择的",
     "traffic": "500+",
-    "started": "Tue, 1 Sep 2026 22:10:00 -0700",
-    "summary": "相关新闻主要集中在：如果债券市场继续窒息，抵押贷款利率将进一步上升专家意见。",
-    "explanation": "Google Trends 显示“今天的抵押贷款利率”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：如果债券市场继续窒息，抵押贷款利率将进一步上升专家意见。这些报道来自 Inquirer.com 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 2 Sep 2026 22:10:00 -0700",
+    "summary": "相关新闻主要集中在：法官裁定，特朗普政府将人类列入黑名单是非法的。",
+    "explanation": "Google Trends 显示“人择的”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：法官裁定，特朗普政府将人类列入黑名单是非法的。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Mortgage rates will rise even higher if bond market continues to choke | Expert Opinion",
-        "url": "https://www.inquirer.com/economy/bond-market-mortgage-rates-federal-reserve-treasury-20260830.html",
-        "source": "Inquirer.com"
+        "title": "Trump Administration’s Blacklisting of Anthropic Was Illegal, Judge Rules",
+        "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+        "source": "The New York Times"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "yahoo news",
-    "titleZh": "雅虎新闻",
+    "title": "bts concert la",
+    "titleZh": "防弹少年团演唱会拉",
     "traffic": "200+",
-    "started": "Tue, 1 Sep 2026 22:10:00 -0700",
-    "summary": "相关新闻主要集中在：澳大利亚海滩14年来未见的惊人景象：“瘟疫比例”。",
-    "explanation": "Google Trends 显示“雅虎新闻”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：澳大利亚海滩14年来未见的惊人景象：“瘟疫比例”。这些报道来自 Yahoo News Australia 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 2 Sep 2026 22:10:00 -0700",
+    "summary": "相关新闻主要集中在：BTS V：美国歌迷通过大型广告活动热情支持洛杉矶演唱会。",
+    "explanation": "Google Trends 显示“防弹少年团演唱会拉”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：BTS V：美国歌迷通过大型广告活动热情支持洛杉矶演唱会。这些报道来自 스타뉴스 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Amazing sight along Aussie beach not seen in 14 years: 'Plague proportions'",
-        "url": "https://au.news.yahoo.com/amazing-sight-along-aussie-beach-not-seen-in-14-years-plague-proportions-042328932.html",
-        "source": "Yahoo News Australia"
+        "title": "BTS V: U.S. Fans Enthusiastically Support LA Concert with Major Advertising Campaign",
+        "url": "https://www.starnewskorea.com/en/music/2026/09/01/2026090108424266558",
+        "source": "스타뉴스"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "resident evil 2026",
-    "titleZh": "生化危机 2026",
-    "traffic": "200+",
-    "started": "Tue, 1 Sep 2026 22:10:00 -0700",
-    "summary": "相关新闻主要集中在：生化危机电影爆米花桶虽然恶心但很合适。",
-    "explanation": "Google Trends 显示“生化危机 2026”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：生化危机电影爆米花桶虽然恶心但很合适。这些报道来自 GameSpot 等媒体，因此带动了集中搜索。",
+    "title": "dodgers score",
+    "titleZh": "道奇队得分",
+    "traffic": "1000+",
+    "started": "Wed, 2 Sep 2026 22:00:00 -0700",
+    "summary": "相关新闻主要集中在：道奇队将埃里克·劳尔列入伤病名单。",
+    "explanation": "Google Trends 显示“道奇队得分”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：道奇队将埃里克·劳尔列入伤病名单。这些报道来自 MLB Trade Rumors 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Resident Evil Movie Popcorn Bucket Is Gross But Fitting",
-        "url": "https://www.gamespot.com/articles/resident-evil-movie-popcorn-bucket-is-gross-but-fitting/",
-        "source": "GameSpot"
+        "title": "Dodgers Place Eric Lauer On Injured List",
+        "url": "https://www.mlbtraderumors.com/2026/09/dodgers-place-eric-lauer-on-injured-list.html",
+        "source": "MLB Trade Rumors"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "when does mw4 beta end",
-    "titleZh": "MW4 beta什么时候结束",
-    "traffic": "500+",
-    "started": "Tue, 1 Sep 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：尽管《战区》已经到来并推出了变革性补丁，但《使命召唤：现代战争 4》Beta 版 Steam 数量在第二个周末没有变化。",
-    "explanation": "Google Trends 显示“MW4 beta什么时候结束”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：尽管《战区》已经到来并推出了变革性补丁，但《使命召唤：现代战争 4》Beta 版 Steam 数量在第二个周末没有变化。这些报道来自 Eurogamer.net 等媒体，因此带动了集中搜索。",
+    "title": "ramón juárez",
+    "titleZh": "拉蒙胡亚雷斯",
+    "traffic": "200+",
+    "started": "Wed, 2 Sep 2026 22:00:00 -0700",
+    "summary": "相关新闻主要集中在：拉蒙·华雷斯 (Ramón Juárez) 的时机已经到来：他要么与阿尔马达合并，要么在美国取代卡塞雷斯。",
+    "explanation": "Google Trends 显示“拉蒙胡亚雷斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：拉蒙·华雷斯 (Ramón Juárez) 的时机已经到来：他要么与阿尔马达合并，要么在美国取代卡塞雷斯。这些报道来自 MARCA 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Call of Duty: Modern Warfare 4 beta Steam numbers haven't budged in the second weekend, despite Warzone's arrival and transformative patch",
-        "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-beta-second-weekend-major-patch-steam-numbers",
-        "source": "Eurogamer.net"
+        "title": "Llega la hora para Ramón Juárez: se consolida con Almada o en América va por el reemplazo de Cáceres",
+        "url": "https://www.marca.com/mx/futbol/liga-mx/2026/09/01/llega-hora-ara-ramon-juarez-consolida-almada-america-reemplazo-caceres.html",
+        "source": "MARCA"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "draftkings sportsbook",
-    "titleZh": "选秀之王体育博彩",
+    "title": "hurricane hawaii",
+    "titleZh": "夏威夷飓风",
     "traffic": "200+",
-    "started": "Tue, 1 Sep 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：阿尔伯塔斯坦利杯投注：如何投注埃德蒙顿油人队和卡尔加里火焰队。",
-    "explanation": "Google Trends 显示“选秀之王体育博彩”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：阿尔伯塔斯坦利杯投注：如何投注埃德蒙顿油人队和卡尔加里火焰队。这些报道来自 Bookies.com 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 2 Sep 2026 22:00:00 -0700",
+    "summary": "相关新闻主要集中在：洛厄尔迅速增强至 5 类；预计强飓风将持续数天。",
+    "explanation": "Google Trends 显示“夏威夷飓风”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：洛厄尔迅速增强至 5 类；预计强飓风将持续数天。这些报道来自 Maui Now 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Alberta Stanley Cup Betting: How to Bet on Edmonton Oilers and Calgary Flames",
-        "url": "https://bookies.com/ca/news/alberta-stanley-cup-betting-how-to-bet-on-oilers-flames-31-august-2026",
-        "source": "Bookies.com"
+        "title": "Lowell rapidly intensifies to Category 5; forecast to remain major hurricane for several days",
+        "url": "https://mauinow.com/2026/09/02/lowell-rapidly-intensifies-to-category-5-forecast-to-remain-major-hurricane-for-several-days/",
+        "source": "Maui Now"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "tennis",
-    "titleZh": "网球",
-    "traffic": "100+",
-    "started": "Tue, 1 Sep 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：亚历克斯·埃拉（Alex Eala）的粉丝们注意了！世界排名第 18 名的亚历克斯·伊拉 (Alex Eala) 即将隆重回国，带着她的国际网球之旅回到菲律宾，与菲律宾球迷一起参加一场特别的返校活动。完整故事请参阅评论部分。。",
-    "explanation": "Google Trends 显示“网球”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：亚历克斯·埃拉（Alex Eala）的粉丝们注意了！世界排名第 18 名的亚历克斯·伊拉 (Alex Eala) 即将隆重回国，带着她的国际网球之旅回到菲律宾，与菲律宾球迷一起参加一场特别的返校活动。完整故事请参阅评论部分。。这些报道来自 Facebook 等媒体，因此带动了集中搜索。",
+    "title": "dodgers",
+    "titleZh": "道奇队",
+    "traffic": "20000+",
+    "started": "Wed, 2 Sep 2026 21:50:00 -0700",
+    "summary": "相关新闻主要集中在：山本嘉信希望对阵红雀队的进攻能表现出色。",
+    "explanation": "Google Trends 显示“道奇队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：山本嘉信希望对阵红雀队的进攻能表现出色。这些报道来自 True Blue LA 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Heads up, Alex Eala fans! World No. 18 Alex Eala is making a grand return home, bringing her international tennis journey back to the Philippines for a special homecoming event with Filipino fans. See comments section for the full story.",
-        "url": "https://www.facebook.com/abscbnNEWS/posts/heads-up-alex-eala-fans-world-no-18-alex-eala-is-making-a-grand-return-home-brin/1655432896631960/",
-        "source": "Facebook"
+        "title": "Yoshinobu Yamamoto hoping offense shows against Cardinals",
+        "url": "https://www.truebluela.com/dodgers-scores-standings/123394/yamamoto-offense-shows-cardinals",
+        "source": "True Blue LA"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "the uprising",
-    "titleZh": "起义",
-    "traffic": "200+",
-    "started": "Tue, 1 Sep 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：《起义》将于 9 月 10 日上映。",
-    "explanation": "Google Trends 显示“起义”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《起义》将于 9 月 10 日上映。这些报道来自 KCTV 等媒体，因此带动了集中搜索。",
+    "title": "yankees",
+    "titleZh": "洋基队",
+    "traffic": "5000+",
+    "started": "Wed, 2 Sep 2026 21:50:00 -0700",
+    "summary": "相关新闻主要集中在：投手对决以天使队在丑陋的第 10 局丢掉 5 分结束。",
+    "explanation": "Google Trends 显示“洋基队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：投手对决以天使队在丑陋的第 10 局丢掉 5 分结束。这些报道来自 Orange County Register 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "“The Uprising” is in theaters September 10",
-        "url": "https://www.kctv5.com/2026/08/31/uprising-is-theaters-september-10/",
-        "source": "KCTV"
+        "title": "Pitchers’ duel ends with Angels giving up 5 runs in ugly 10th inning",
+        "url": "https://www.ocregister.com/2026/09/02/pitchers-duel-ends-with-angels-giving-up-5-runs-in-ugly-10th-inning/",
+        "source": "Orange County Register"
       }
     ]
   }
