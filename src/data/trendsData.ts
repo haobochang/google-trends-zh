@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "robert pattinson",
-    "titleZh": "罗伯特·帕丁森",
+    "title": "tarik skubal",
+    "titleZh": "拉 skubal",
     "traffic": "500+",
-    "started": "Wed, 2 Sep 2026 22:20:00 -0700",
-    "summary": "相关新闻主要集中在：罗伯特·帕丁森认为《蝙蝠侠第二部》将会“非常棒”。",
-    "explanation": "Google Trends 显示“罗伯特·帕丁森”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：罗伯特·帕丁森认为《蝙蝠侠第二部》将会“非常棒”。这些报道来自 batman on film 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 3 Sep 2026 22:40:00 -0700",
+    "summary": "相关新闻主要集中在：关于天使销售您需要了解的一切。",
+    "explanation": "Google Trends 显示“拉 skubal”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：关于天使销售您需要了解的一切。这些报道来自 MLB.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Robert Pattinson Thinks THE BATMAN PART II Will Be “Pretty Great”",
-        "url": "https://batman-on-film.com/25550/robert-pattinson-thinks-the-batman-part-ii-will-be-pretty-great/",
-        "source": "batman on film"
+        "title": "Everything you need to know about Angels' sale",
+        "url": "https://www.mlb.com/news/angels-team-sale-ownership-change-faq",
+        "source": "MLB.com"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "joshua báez",
-    "titleZh": "约书亚·贝兹",
-    "traffic": "200+",
-    "started": "Wed, 2 Sep 2026 22:20:00 -0700",
-    "summary": "相关新闻主要集中在：CHARLIE TELJEUR：最不可能的一天。",
-    "explanation": "Google Trends 显示“约书亚·贝兹”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：CHARLIE TELJEUR：最不可能的一天。这些报道来自 pictouadvocate.com 等媒体，因此带动了集中搜索。",
+    "title": "music",
+    "titleZh": "音乐",
+    "traffic": "1000+",
+    "started": "Thu, 3 Sep 2026 22:30:00 -0700",
+    "summary": "相关新闻主要集中在：祝你好运！ 《黑皇帝》、《Nevermore》、《俄罗斯圈》等预定参加 2027 年“山火”音乐节。",
+    "explanation": "Google Trends 显示“音乐”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：祝你好运！ 《黑皇帝》、《Nevermore》、《俄罗斯圈》等预定参加 2027 年“山火”音乐节。这些报道来自 Theprp.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "CHARLIE TELJEUR: A most improbable day",
-        "url": "https://www.pictouadvocate.com/opinion/charlie-teljeur-a-most-improbable-day/article_7c66eb16-324d-4e57-a539-db3936dfc37c.html",
-        "source": "pictouadvocate.com"
+        "title": "Godspeed You! Black Emperor, Nevermore, Russian Circles, Etc. Booked For 2027 'Fire In The Mountains' Festival",
+        "url": "https://www.theprp.com/2026/09/03/news/godspeed-you-black-emperor-nevermore-russian-circles-etc-booked-for-2027-fire-in-the-mountains-festival/",
+        "source": "Theprp.com"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "lucas ocampos",
-    "titleZh": "卢卡斯·奥坎波斯",
-    "traffic": "200+",
-    "started": "Wed, 2 Sep 2026 22:20:00 -0700",
-    "summary": "相关新闻主要集中在：卢卡斯·奥坎波斯表示，蒙特雷的主要目标是进入联赛杯决赛。",
-    "explanation": "Google Trends 显示“卢卡斯·奥坎波斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：卢卡斯·奥坎波斯表示，蒙特雷的主要目标是进入联赛杯决赛。这些报道来自 De10 Sports 等媒体，因此带动了集中搜索。",
+    "title": "latest news",
+    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "traffic": "10000+",
+    "started": "Thu, 3 Sep 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：特朗普政府警告各机构可能停止帮助史密森尼。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：特朗普政府警告各机构可能停止帮助史密森尼。这些报道来自 The Hill 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Monterrey tiene como objetivo principal llegar a la final de la Leagues Cup, según Lucas Ocampos",
-        "url": "https://www.de10.com.mx/liga-mx/monterrey-tiene-como-objetivo-principal-llegar-a-la-final-de-la-leagues-cup-segun-lucas-ocampos/",
-        "source": "De10 Sports"
+        "title": "Trump administration warns agencies could stop helping Smithsonian",
+        "url": "https://thehill.com/homenews/administration/6070543-trump-administration-warns-agencies-could-stop-helping-smithsonian/",
+        "source": "The Hill"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "anthropic",
-    "titleZh": "人择的",
-    "traffic": "500+",
-    "started": "Wed, 2 Sep 2026 22:10:00 -0700",
-    "summary": "相关新闻主要集中在：法官裁定，特朗普政府将人类列入黑名单是非法的。",
-    "explanation": "Google Trends 显示“人择的”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：法官裁定，特朗普政府将人类列入黑名单是非法的。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
+    "title": "brendan fraser",
+    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "traffic": "200+",
+    "started": "Thu, 3 Sep 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 ComicBook.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Trump Administration’s Blacklisting of Anthropic Was Illegal, Judge Rules",
-        "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
-        "source": "The New York Times"
+        "title": "Brendan Fraser Reveals Mummy Ready Makeover: “Rick O’Connell Energy Is Fully Back”",
+        "url": "https://comicbook.com/movies/news/brendan-fraser-reveals-mummy-ready-makeover-rick-oconnell-energy-is-fully-back/",
+        "source": "ComicBook.com"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "bts concert la",
-    "titleZh": "防弹少年团演唱会拉",
+    "title": "kyle tucker",
+    "titleZh": "凯尔·塔克",
     "traffic": "200+",
-    "started": "Wed, 2 Sep 2026 22:10:00 -0700",
-    "summary": "相关新闻主要集中在：BTS V：美国歌迷通过大型广告活动热情支持洛杉矶演唱会。",
-    "explanation": "Google Trends 显示“防弹少年团演唱会拉”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：BTS V：美国歌迷通过大型广告活动热情支持洛杉矶演唱会。这些报道来自 스타뉴스 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 3 Sep 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：凯尔·塔克和埃德温·迪亚兹的问题可能不会很快消失。",
+    "explanation": "Google Trends 显示“凯尔·塔克”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：凯尔·塔克和埃德温·迪亚兹的问题可能不会很快消失。这些报道来自 Sports Illustrated 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "BTS V: U.S. Fans Enthusiastically Support LA Concert with Major Advertising Campaign",
-        "url": "https://www.starnewskorea.com/en/music/2026/09/01/2026090108424266558",
-        "source": "스타뉴스"
+        "title": "Kyle Tucker and Edwin Díaz’s Issues Probably Aren’t Disappearing Soon",
+        "url": "https://www.si.com/mlb/dodgers/kyle-tucker-edwin-diaz-issues-probably-not-disappearing-soon-verduccis-view",
+        "source": "Sports Illustrated"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "dodgers score",
-    "titleZh": "道奇队得分",
-    "traffic": "1000+",
-    "started": "Wed, 2 Sep 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：道奇队将埃里克·劳尔列入伤病名单。",
-    "explanation": "Google Trends 显示“道奇队得分”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：道奇队将埃里克·劳尔列入伤病名单。这些报道来自 MLB Trade Rumors 等媒体，因此带动了集中搜索。",
+    "title": "mariners",
+    "titleZh": "水手",
+    "traffic": "5000+",
+    "started": "Thu, 3 Sep 2026 22:10:00 -0700",
+    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
+    "explanation": "Google Trends 显示“水手”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 MLB 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Dodgers Place Eric Lauer On Injured List",
-        "url": "https://www.mlbtraderumors.com/2026/09/dodgers-place-eric-lauer-on-injured-list.html",
-        "source": "MLB Trade Rumors"
+        "title": "Athletics at Seattle Mariners Preview - 09/03/2026",
+        "url": "https://www.mlb.com/stories/game-preview/823095",
+        "source": "MLB"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "ramón juárez",
-    "titleZh": "拉蒙胡亚雷斯",
+    "title": "riley o'brien",
+    "titleZh": "莱利·奥布莱恩",
     "traffic": "200+",
-    "started": "Wed, 2 Sep 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：拉蒙·华雷斯 (Ramón Juárez) 的时机已经到来：他要么与阿尔马达合并，要么在美国取代卡塞雷斯。",
-    "explanation": "Google Trends 显示“拉蒙胡亚雷斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：拉蒙·华雷斯 (Ramón Juárez) 的时机已经到来：他要么与阿尔马达合并，要么在美国取代卡塞雷斯。这些报道来自 MARCA 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 3 Sep 2026 22:10:00 -0700",
+    "summary": "相关新闻主要集中在：莱利·奥布莱恩（Riley O’Brien）在第十名中保持三分领先优势。",
+    "explanation": "Google Trends 显示“莱利·奥布莱恩”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：莱利·奥布莱恩（Riley O’Brien）在第十名中保持三分领先优势。这些报道来自 NBC Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Llega la hora para Ramón Juárez: se consolida con Almada o en América va por el reemplazo de Cáceres",
-        "url": "https://www.marca.com/mx/futbol/liga-mx/2026/09/01/llega-hora-ara-ramon-juarez-consolida-almada-america-reemplazo-caceres.html",
-        "source": "MARCA"
+        "title": "Riley O’Brien protects three-run lead in 10th",
+        "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-03/riley-obrien-protects-three-run-lead-in-10th",
+        "source": "NBC Sports"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "hurricane hawaii",
-    "titleZh": "夏威夷飓风",
-    "traffic": "200+",
-    "started": "Wed, 2 Sep 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：洛厄尔迅速增强至 5 类；预计强飓风将持续数天。",
-    "explanation": "Google Trends 显示“夏威夷飓风”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：洛厄尔迅速增强至 5 类；预计强飓风将持续数天。这些报道来自 Maui Now 等媒体，因此带动了集中搜索。",
+    "title": "technology news",
+    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "traffic": "5000+",
+    "started": "Thu, 3 Sep 2026 22:00:00 -0700",
+    "summary": "相关新闻主要集中在：Adobe 宣布新任首席执行官。股票下跌。。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Adobe 宣布新任首席执行官。股票下跌。。这些报道来自 Barron's 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Lowell rapidly intensifies to Category 5; forecast to remain major hurricane for several days",
-        "url": "https://mauinow.com/2026/09/02/lowell-rapidly-intensifies-to-category-5-forecast-to-remain-major-hurricane-for-several-days/",
-        "source": "Maui Now"
+        "title": "Adobe Announces New CEO. The Stock Slips.",
+        "url": "https://www.barrons.com/articles/adobe-new-ceo-stock-a16b9aad",
+        "source": "Barron's"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "dodgers",
-    "titleZh": "道奇队",
-    "traffic": "20000+",
-    "started": "Wed, 2 Sep 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：山本嘉信希望对阵红雀队的进攻能表现出色。",
-    "explanation": "Google Trends 显示“道奇队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：山本嘉信希望对阵红雀队的进攻能表现出色。这些报道来自 True Blue LA 等媒体，因此带动了集中搜索。",
+    "title": "olivia wilde",
+    "titleZh": "奥利维亚·王尔德",
+    "traffic": "500+",
+    "started": "Thu, 3 Sep 2026 22:00:00 -0700",
+    "summary": "相关新闻主要集中在：《邀请》明星奥利维亚·王尔德在权衡好莱坞的肉毒杆菌文化后引发激烈争论。",
+    "explanation": "Google Trends 显示“奥利维亚·王尔德”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《邀请》明星奥利维亚·王尔德在权衡好莱坞的肉毒杆菌文化后引发激烈争论。这些报道来自 IMDb 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Yoshinobu Yamamoto hoping offense shows against Cardinals",
-        "url": "https://www.truebluela.com/dodgers-scores-standings/123394/yamamoto-offense-shows-cardinals",
-        "source": "True Blue LA"
+        "title": "‘The Invite’ Star Olivia Wilde Sparks Fierce Debate After Weighing in on Hollywood’s Botox Culture",
+        "url": "https://www.imdb.com/news/ni65999907/?ref_=ttnw_art_perm",
+        "source": "IMDb"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "yankees",
-    "titleZh": "洋基队",
-    "traffic": "5000+",
-    "started": "Wed, 2 Sep 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：投手对决以天使队在丑陋的第 10 局丢掉 5 分结束。",
-    "explanation": "Google Trends 显示“洋基队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：投手对决以天使队在丑陋的第 10 局丢掉 5 分结束。这些报道来自 Orange County Register 等媒体，因此带动了集中搜索。",
+    "title": "dodgers vs cardinals",
+    "titleZh": "道奇队 vs 红雀队",
+    "traffic": "500+",
+    "started": "Thu, 3 Sep 2026 22:00:00 -0700",
+    "summary": "相关新闻主要集中在：MLB 比赛日：金莺 4、田径 3 最终比分 (08/28/2026)。",
+    "explanation": "Google Trends 显示“道奇队 vs 红雀队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：MLB 比赛日：金莺 4、田径 3 最终比分 (08/28/2026)。这些报道来自 MLB.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Pitchers’ duel ends with Angels giving up 5 runs in ugly 10th inning",
-        "url": "https://www.ocregister.com/2026/09/02/pitchers-duel-ends-with-angels-giving-up-5-runs-in-ugly-10th-inning/",
-        "source": "Orange County Register"
+        "title": "MLB Gameday: Orioles 4, Athletics 3 Final Score (08/28/2026)",
+        "url": "https://www.mlb.com/gameday/orioles-vs-athletics/2026/08/28/824960/final/video",
+        "source": "MLB.com"
       }
     ]
   }
