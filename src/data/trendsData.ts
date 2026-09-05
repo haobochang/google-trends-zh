@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "tarik skubal",
-    "titleZh": "拉 skubal",
-    "traffic": "500+",
-    "started": "Thu, 3 Sep 2026 22:40:00 -0700",
-    "summary": "相关新闻主要集中在：关于天使销售您需要了解的一切。",
-    "explanation": "Google Trends 显示“拉 skubal”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：关于天使销售您需要了解的一切。这些报道来自 MLB.com 等媒体，因此带动了集中搜索。",
+    "title": "solar storm",
+    "titleZh": "太阳风暴",
+    "traffic": "200+",
+    "started": "Fri, 4 Sep 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：美国境内 GPS 故障高达 33 英尺。科学家以前从未见过这种情况。。",
+    "explanation": "Google Trends 显示“太阳风暴”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：美国境内 GPS 故障高达 33 英尺。科学家以前从未见过这种情况。。这些报道来自 ScienceAlert 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Everything you need to know about Angels' sale",
-        "url": "https://www.mlb.com/news/angels-team-sale-ownership-change-faq",
-        "source": "MLB.com"
+        "title": "GPS Glitched Across The US by as Much as 33 Feet. Scientists Have Never Seen This Before.",
+        "url": "https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before",
+        "source": "ScienceAlert"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "music",
-    "titleZh": "音乐",
-    "traffic": "1000+",
-    "started": "Thu, 3 Sep 2026 22:30:00 -0700",
-    "summary": "相关新闻主要集中在：祝你好运！ 《黑皇帝》、《Nevermore》、《俄罗斯圈》等预定参加 2027 年“山火”音乐节。",
-    "explanation": "Google Trends 显示“音乐”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：祝你好运！ 《黑皇帝》、《Nevermore》、《俄罗斯圈》等预定参加 2027 年“山火”音乐节。这些报道来自 Theprp.com 等媒体，因此带动了集中搜索。",
+    "title": "unruly aircraft passenger",
+    "titleZh": "不守规矩的飞机乘客",
+    "traffic": "500+",
+    "started": "Fri, 4 Sep 2026 22:10:00 -0700",
+    "summary": "相关新闻主要集中在：不守规矩的乘客在飞行过程中被胶带束缚后被捕。",
+    "explanation": "Google Trends 显示“不守规矩的飞机乘客”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：不守规矩的乘客在飞行过程中被胶带束缚后被捕。这些报道来自 ABC News - Breaking News, Latest News and Videos 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Godspeed You! Black Emperor, Nevermore, Russian Circles, Etc. Booked For 2027 'Fire In The Mountains' Festival",
-        "url": "https://www.theprp.com/2026/09/03/news/godspeed-you-black-emperor-nevermore-russian-circles-etc-booked-for-2027-fire-in-the-mountains-festival/",
-        "source": "Theprp.com"
+        "title": "Unruly passenger arrested after being restrained with duct tape during flight",
+        "url": "https://abcnews.com/US/unruly-passenger-arrested-after-restrained-duct-tape-flight/story?id=136214947",
+        "source": "ABC News - Breaking News, Latest News and Videos"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "latest news",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "10000+",
-    "started": "Thu, 3 Sep 2026 22:20:00 -0700",
-    "summary": "相关新闻主要集中在：特朗普政府警告各机构可能停止帮助史密森尼。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：特朗普政府警告各机构可能停止帮助史密森尼。这些报道来自 The Hill 等媒体，因此带动了集中搜索。",
+    "title": "marvin harrison",
+    "titleZh": "马文·哈里森",
+    "traffic": "500+",
+    "started": "Fri, 4 Sep 2026 21:50:00 -0700",
+    "summary": "相关新闻主要集中在：俄亥俄州立大学七叶树队承诺杰特·哈里森亮点引发炒作。",
+    "explanation": "Google Trends 显示“马文·哈里森”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：俄亥俄州立大学七叶树队承诺杰特·哈里森亮点引发炒作。这些报道来自 Heavy.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Trump administration warns agencies could stop helping Smithsonian",
-        "url": "https://thehill.com/homenews/administration/6070543-trump-administration-warns-agencies-could-stop-helping-smithsonian/",
-        "source": "The Hill"
+        "title": "Ohio State Buckeyes Commit Jett Harrison Highlight Generates Hype",
+        "url": "https://heavy.com/sports/college-football/ohio-state-buckeyes/ohio-state-buckeyes-jett-harrison-highlight/",
+        "source": "Heavy.com"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "brendan fraser",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "200+",
-    "started": "Thu, 3 Sep 2026 22:20:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 ComicBook.com 等媒体，因此带动了集中搜索。",
+    "title": "burning man news",
+    "titleZh": "燃烧人新闻",
+    "traffic": "2000+",
+    "started": "Fri, 4 Sep 2026 21:50:00 -0700",
+    "summary": "相关新闻主要集中在：火人节最新天气失败的内幕。",
+    "explanation": "Google Trends 显示“燃烧人新闻”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：火人节最新天气失败的内幕。这些报道来自 SFGATE 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Brendan Fraser Reveals Mummy Ready Makeover: “Rick O’Connell Energy Is Fully Back”",
-        "url": "https://comicbook.com/movies/news/brendan-fraser-reveals-mummy-ready-makeover-rick-oconnell-energy-is-fully-back/",
-        "source": "ComicBook.com"
+        "title": "Inside Burning Man's latest weather fail",
+        "url": "https://www.sfgate.com/travel/burningman/article/burning-man-rain-mud-22418072.php",
+        "source": "SFGATE"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "kyle tucker",
-    "titleZh": "凯尔·塔克",
-    "traffic": "200+",
-    "started": "Thu, 3 Sep 2026 22:20:00 -0700",
-    "summary": "相关新闻主要集中在：凯尔·塔克和埃德温·迪亚兹的问题可能不会很快消失。",
-    "explanation": "Google Trends 显示“凯尔·塔克”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：凯尔·塔克和埃德温·迪亚兹的问题可能不会很快消失。这些报道来自 Sports Illustrated 等媒体，因此带动了集中搜索。",
+    "title": "liga mx femenil",
+    "titleZh": "女子MX联赛",
+    "traffic": "500+",
+    "started": "Fri, 4 Sep 2026 21:40:00 -0700",
+    "summary": "相关新闻主要集中在：拉斯阿吉拉斯，专注于改进。",
+    "explanation": "Google Trends 显示“女子MX联赛”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：拉斯阿吉拉斯，专注于改进。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Kyle Tucker and Edwin Díaz’s Issues Probably Aren’t Disappearing Soon",
-        "url": "https://www.si.com/mlb/dodgers/kyle-tucker-edwin-diaz-issues-probably-not-disappearing-soon-verduccis-view",
-        "source": "Sports Illustrated"
+        "title": "Las Águilas, enfocadas en mejorar",
+        "url": "https://es-us.noticias.yahoo.com/%C3%A1guilas-enfocadas-mejorar-060000822.html",
+        "source": "Yahoo"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "mariners",
-    "titleZh": "水手",
-    "traffic": "5000+",
-    "started": "Thu, 3 Sep 2026 22:10:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“水手”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 MLB 等媒体，因此带动了集中搜索。",
+    "title": "edgardo henriquez",
+    "titleZh": "埃德加多·恩里克斯",
+    "traffic": "200+",
+    "started": "Fri, 4 Sep 2026 21:40:00 -0700",
+    "summary": "相关新闻主要集中在：道奇队的埃德加多·恩里克斯在对阵老虎队的比赛中投出了球队历史上最快的三振球。",
+    "explanation": "Google Trends 显示“埃德加多·恩里克斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：道奇队的埃德加多·恩里克斯在对阵老虎队的比赛中投出了球队历史上最快的三振球。这些报道来自 930 WFMD Free Talk 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Athletics at Seattle Mariners Preview - 09/03/2026",
-        "url": "https://www.mlb.com/stories/game-preview/823095",
-        "source": "MLB"
+        "title": "Dodgers’ Edgardo Henriquez throws fastest strikeout pitch in team history against Tigers",
+        "url": "https://www.wfmd.com/2026/08/30/dodgers-edgardo-henriquez-throws-fastest-strikeout-pitch-in-team-history-against-tigers/",
+        "source": "930 WFMD Free Talk"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "riley o'brien",
-    "titleZh": "莱利·奥布莱恩",
+    "title": "paul blackburn",
+    "titleZh": "保罗·布莱克本",
     "traffic": "200+",
-    "started": "Thu, 3 Sep 2026 22:10:00 -0700",
-    "summary": "相关新闻主要集中在：莱利·奥布莱恩（Riley O’Brien）在第十名中保持三分领先优势。",
-    "explanation": "Google Trends 显示“莱利·奥布莱恩”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：莱利·奥布莱恩（Riley O’Brien）在第十名中保持三分领先优势。这些报道来自 NBC Sports 等媒体，因此带动了集中搜索。",
+    "started": "Fri, 4 Sep 2026 21:30:00 -0700",
+    "summary": "相关新闻主要集中在：保罗·布莱克本如何成为洋基队牛棚的“关键人物”。",
+    "explanation": "Google Trends 显示“保罗·布莱克本”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：保罗·布莱克本如何成为洋基队牛棚的“关键人物”。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Riley O’Brien protects three-run lead in 10th",
-        "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-03/riley-obrien-protects-three-run-lead-in-10th",
-        "source": "NBC Sports"
+        "title": "How Paul Blackburn has become Yankees' 'go-to-guy' in bullpen",
+        "url": "https://sports.yahoo.com/articles/paul-blackburn-become-yankees-guy-155301241.html",
+        "source": "Yahoo Sports"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "technology news",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "5000+",
-    "started": "Thu, 3 Sep 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：Adobe 宣布新任首席执行官。股票下跌。。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Adobe 宣布新任首席执行官。股票下跌。。这些报道来自 Barron's 等媒体，因此带动了集中搜索。",
+    "title": "chase stokes",
+    "titleZh": "蔡斯·斯托克斯",
+    "traffic": "500+",
+    "started": "Fri, 4 Sep 2026 21:20:00 -0700",
+    "summary": "相关新闻主要集中在：外滩明星澄清整形手术谣言。",
+    "explanation": "Google Trends 显示“蔡斯·斯托克斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：外滩明星澄清整形手术谣言。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Adobe Announces New CEO. The Stock Slips.",
-        "url": "https://www.barrons.com/articles/adobe-new-ceo-stock-a16b9aad",
-        "source": "Barron's"
+        "title": "Outer Banks Star Sets the Record Straight on Plastic Surgery Rumors",
+        "url": "https://www.aol.com/articles/outer-banks-star-sets-record-151706000.html",
+        "source": "AOL.com"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "olivia wilde",
-    "titleZh": "奥利维亚·王尔德",
-    "traffic": "500+",
-    "started": "Thu, 3 Sep 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：《邀请》明星奥利维亚·王尔德在权衡好莱坞的肉毒杆菌文化后引发激烈争论。",
-    "explanation": "Google Trends 显示“奥利维亚·王尔德”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：《邀请》明星奥利维亚·王尔德在权衡好莱坞的肉毒杆菌文化后引发激烈争论。这些报道来自 IMDb 等媒体，因此带动了集中搜索。",
+    "title": "where is simon cowell on agt",
+    "titleZh": "西蒙·考威尔在 agt 上在哪里",
+    "traffic": "20000+",
+    "started": "Fri, 4 Sep 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：基南·汤普森将接替西蒙·考威尔担任《美国达人秀》客座评委。",
+    "explanation": "Google Trends 显示“西蒙·考威尔在 agt 上在哪里”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：基南·汤普森将接替西蒙·考威尔担任《美国达人秀》客座评委。这些报道来自 Deadline 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "‘The Invite’ Star Olivia Wilde Sparks Fierce Debate After Weighing in on Hollywood’s Botox Culture",
-        "url": "https://www.imdb.com/news/ni65999907/?ref_=ttnw_art_perm",
-        "source": "IMDb"
+        "title": "Kenan Thompson To Fill In For Simon Cowell As Guest Judge On ‘America’s Got Talent’",
+        "url": "https://deadline.com/2026/08/kenan-thompson-replacement-simon-cowell-guest-judge-agt-1237062322/",
+        "source": "Deadline"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "dodgers vs cardinals",
-    "titleZh": "道奇队 vs 红雀队",
+    "title": "padres game today",
+    "titleZh": "今天教士队比赛",
     "traffic": "500+",
-    "started": "Thu, 3 Sep 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：MLB 比赛日：金莺 4、田径 3 最终比分 (08/28/2026)。",
-    "explanation": "Google Trends 显示“道奇队 vs 红雀队”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：MLB 比赛日：金莺 4、田径 3 最终比分 (08/28/2026)。这些报道来自 MLB.com 等媒体，因此带动了集中搜索。",
+    "started": "Fri, 4 Sep 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：教士队新秀伊桑·萨拉斯职业生涯首次首发，达到了名人堂成员伊万·罗德里格斯最后一次达到的里程碑。",
+    "explanation": "Google Trends 显示“今天教士队比赛”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：教士队新秀伊桑·萨拉斯职业生涯首次首发，达到了名人堂成员伊万·罗德里格斯最后一次达到的里程碑。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "MLB Gameday: Orioles 4, Athletics 3 Final Score (08/28/2026)",
-        "url": "https://www.mlb.com/gameday/orioles-vs-athletics/2026/08/28/824960/final/video",
-        "source": "MLB.com"
+        "title": "Padres rookie Ethan Salas hits milestone last met by Hall of Famer Iván Rodríguez with first career start",
+        "url": "https://sports.yahoo.com/mlb/article/padres-rookie-ethan-salas-hits-milestone-last-met-by-hall-of-famer-ivan-rodriguez-with-first-career-start-141646327.html",
+        "source": "Yahoo Sports"
       }
     ]
   }
