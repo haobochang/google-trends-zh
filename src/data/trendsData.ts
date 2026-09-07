@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "passenger duct taped plane",
+    "title": "alex call",
     "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "20000+",
-    "started": "Sat, 5 Sep 2026 22:00:00 -0700",
+    "traffic": "200+",
+    "started": "Sun, 6 Sep 2026 22:20:00 -0700",
     "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 ABC News - Breaking News, Latest News and Videos 等媒体，因此带动了集中搜索。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 DodgerBlue.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Unruly passenger arrested after being restrained with duct tape during flight",
-        "url": "https://abcnews.com/US/unruly-passenger-arrested-after-restrained-duct-tape-flight/story?id=136214947",
-        "source": "ABC News - Breaking News, Latest News and Videos"
+        "title": "Dave Roberts: Dodgers’ Depth ‘Important’ To Success",
+        "url": "https://dodgerblue.com/dave-roberts-dodgers-depth-important-to-success/2026/09/06/",
+        "source": "DodgerBlue.com"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "arsenal vs chelsea",
+    "title": "nintendo switch banned",
     "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "2000+",
-    "started": "Sat, 5 Sep 2026 22:00:00 -0700",
+    "traffic": "1000+",
+    "started": "Sun, 6 Sep 2026 22:10:00 -0700",
     "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Sports Illustrated 等媒体，因此带动了集中搜索。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Notebookcheck 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Arsenal vs. Chelsea Combined XI: Blues Dominate Key Department",
-        "url": "https://www.si.com/soccer/arsenal-vs-chelsea-combined-xi-blues-dominate-key-department-9-6-26",
-        "source": "Sports Illustrated"
+        "title": "Update | Nintendo bans Switch 2 consoles despite owners avoiding pirated games",
+        "url": "https://www.notebookcheck.net/Nintendo-bans-Switch-2-consoles-despite-owners-avoiding-pirated-games.1390924.0.html",
+        "source": "Notebookcheck"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "asu hockey",
+    "title": "melania trump",
     "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "500+",
-    "started": "Sat, 5 Sep 2026 22:00:00 -0700",
+    "traffic": "200+",
+    "started": "Sun, 6 Sep 2026 22:10:00 -0700",
     "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Arizona Sports 等媒体，因此带动了集中搜索。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 The Daily Beast 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "ASU hockey player Matthew Mayich has no chance of recovery after heatstroke, attorney says",
-        "url": "https://arizonasports.com/ncaa/arizona-state/asu-hockey-player-matthew-mayich-has-no-chance-of-recovery-heatstroke",
-        "source": "Arizona Sports"
+        "title": "Natalie Harp Peacocks in Oval Office as Melania Snubs Trump",
+        "url": "https://www.thedailybeast.com/natalie-harp-peacocks-in-oval-office-as-melania-snubs-trump/",
+        "source": "The Daily Beast"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "hurricane marie",
+    "title": "dodgers schedule",
     "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "traffic": "500+",
-    "started": "Sat, 5 Sep 2026 21:20:00 -0700",
+    "started": "Sun, 6 Sep 2026 22:00:00 -0700",
     "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 KBAK 等媒体，因此带动了集中搜索。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 SportsGrid 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Labor Day Weekend Forecast: “Weather aware” as Hurricane Marie moisture may impact",
-        "url": "https://bakersfieldnow.com/news/local/labor-day-weekend-forecast-weather-aware-as-hurricane-marie-moisture-may-impact",
-        "source": "KBAK"
+        "title": "MLB Playoff Push: Dodgers vs. Reds & Giants vs. Cardinals Picks",
+        "url": "https://www.sportsgrid.com/mlb/video/mlb-playoff-push-dodgers-reds-and-cardinals-showdown",
+        "source": "SportsGrid"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "estados unidos",
+    "title": "edgardo henriquez",
     "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "1000+",
-    "started": "Sat, 5 Sep 2026 21:20:00 -0700",
+    "traffic": "500+",
+    "started": "Sun, 6 Sep 2026 22:00:00 -0700",
     "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 El Nuevo Herald 等媒体，因此带动了集中搜索。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 CBS Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Guyana anuncia que recibirá a migrantes deportados por Estados Unidos",
-        "url": "https://www.elnuevoherald.com/noticias/estados-unidos/article317143203.html",
-        "source": "El Nuevo Herald"
+        "title": "Dodgers' Edgardo Henriquez: Notches second save",
+        "url": "https://www.cbssports.com/fantasy/baseball/news/dodgers-edgardo-henriquez-notches-second-save/",
+        "source": "CBS Sports"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "michael keaton",
+    "title": "tommy edman",
     "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "1000+",
-    "started": "Sat, 5 Sep 2026 21:10:00 -0700",
+    "traffic": "500+",
+    "started": "Sun, 6 Sep 2026 22:00:00 -0700",
     "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 CultBox 等媒体，因此带动了集中搜索。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 New York Post 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Rode To Ruin sets cast",
-        "url": "https://cultbox.co.uk/news/rode-to-ruin-sets-cast",
-        "source": "CultBox"
+        "title": "Dodgers finally regaining momentum after comeback win over Nationals",
+        "url": "https://nypost.com/2026/09/06/sports/dodgers-comeback-to-beat-nationals-build-needed-momentum/",
+        "source": "New York Post"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "dodgers score",
+    "title": "agreement",
     "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "1000+",
-    "started": "Sat, 5 Sep 2026 21:10:00 -0700",
+    "traffic": "500+",
+    "started": "Sun, 6 Sep 2026 21:50:00 -0700",
     "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 MLB Trade Rumors 等媒体，因此带动了集中搜索。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Politico 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Dodgers Notes: Ohtani, Rushing, Hernandez, Wrobleski",
-        "url": "https://www.mlbtraderumors.com/2026/09/dodgers-notes-ohtani-rushing-hernandez-wrobleski.html",
-        "source": "MLB Trade Rumors"
+        "title": "Chris Wright says US is in a ‘conflict’ with Iran",
+        "url": "https://www.politico.com/news/2026/09/06/chris-wright-conflict-iran-war",
+        "source": "Politico"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "bob chesney",
+    "title": "administration",
     "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "2000+",
-    "started": "Sat, 5 Sep 2026 20:50:00 -0700",
+    "traffic": "5000+",
+    "started": "Sun, 6 Sep 2026 21:20:00 -0700",
     "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Los Angeles Daily News 等媒体，因此带动了集中搜索。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Politico 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "UCLA football preview: Offense will lean on Nico Iamaleava and creativity",
-        "url": "https://www.dailynews.com/2026/09/02/ucla-football-preview-offense-will-lean-on-nico-iamaleava-and-creativity/",
-        "source": "Los Angeles Daily News"
+        "title": "Trump again turns to SCOTUS to revive mail-in ballot restrictions",
+        "url": "https://www.politico.com/news/2026/09/06/trump-supreme-court-mail-in-voting-01066759",
+        "source": "Politico"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "내일 날씨",
+    "title": "history of labor day",
     "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "1000+",
-    "started": "Sat, 5 Sep 2026 20:50:00 -0700",
+    "traffic": "2000+",
+    "started": "Sun, 6 Sep 2026 21:10:00 -0700",
     "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 서울경제 等媒体，因此带动了集中搜索。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Las Vegas Review-Journal 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "성큼 다가온 가을아침…일요일 최저기온 20도 아래로 ‘선선’",
-        "url": "https://www.sedaily.com/article/20087533",
-        "source": "서울경제"
+        "title": "EDITORIAL: In celebration of a hard-day’s work",
+        "url": "https://www.reviewjournal.com/opinion/editorials/editorial-in-celebration-of-a-hard-days-work-3883177/",
+        "source": "Las Vegas Review-Journal"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "portland timbers",
+    "title": "tom cruise",
     "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "traffic": "2000+",
-    "started": "Sat, 5 Sep 2026 20:30:00 -0700",
+    "started": "Sun, 6 Sep 2026 21:10:00 -0700",
     "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 baonghean.vn 等媒体，因此带动了集中搜索。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 News.com.au 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Portland Timbers vs Minnesota United FC Live: Minnesota United FC narrows the gap to 3-2",
-        "url": "https://baonghean.vn/en/truc-tiep-portland-timbers-vs-minnesota-united-fc-minnesota-united-fc-rut-ngan-cach-biet-3-2-10350630.html",
-        "source": "baonghean.vn"
+        "title": "Big star names Tom Cruise his ‘nemesis’",
+        "url": "https://www.news.com.au/entertainment/celebrity-life/big-star-names-tom-cruise-his-nemesis-who-beat-him-out-for-iconic-movie-roles-in-80s-90s/news-story/67aa1fcba4cf3f249b22a515dfe412d3",
+        "source": "News.com.au"
       }
     ]
   }
