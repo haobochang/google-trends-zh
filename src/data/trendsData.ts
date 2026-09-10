@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "nicole linton",
-    "titleZh": "妮可·林顿",
+    "title": "blake lively",
+    "titleZh": "布莱克·莱弗",
     "traffic": "200+",
-    "started": "Tue, 8 Sep 2026 22:40:00 -0700",
-    "summary": "相关新闻主要集中在：南洛杉矶一场车祸造成六人死亡，护士被控的审判开始。",
-    "explanation": "Google Trends 显示“妮可·林顿”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：南洛杉矶一场车祸造成六人死亡，护士被控的审判开始。这些报道来自 Los Angeles Times 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 9 Sep 2026 22:40:00 -0700",
+    "summary": "相关新闻主要集中在：继布莱克·莱弗利之后，泰勒·斯威夫特因令人震惊的原因与另一位老朋友断绝关系。",
+    "explanation": "Google Trends 显示“布莱克·莱弗”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：继布莱克·莱弗利之后，泰勒·斯威夫特因令人震惊的原因与另一位老朋友断绝关系。这些报道来自 Jang 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Trial begins for nurse accused in fiery South L.A. car crash that left six dead",
-        "url": "https://www.latimes.com/california/story/2026-09-08/nurse-accused-south-la-car-crash-trial",
-        "source": "Los Angeles Times"
+        "title": "Taylor Swift cuts off another longtime friend after Blake Lively over shocking reason",
+        "url": "https://jang.com.pk/en/72717-taylor-swift-cuts-off-another-longtime-friend-after-blake-lively-over-shocking-reason-news",
+        "source": "Jang"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "tennis streams",
-    "titleZh": "网球流",
+    "title": "cynthia klitbo",
+    "titleZh": "辛西娅·克里博",
     "traffic": "200+",
-    "started": "Tue, 8 Sep 2026 22:40:00 -0700",
-    "summary": "相关新闻主要集中在：弗朗西斯·蒂亚福、杰西卡·佩古拉、阿琳娜·萨巴伦卡如何在美国公开赛四分之一决赛中晋级 - The Athletic。",
-    "explanation": "Google Trends 显示“网球流”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：弗朗西斯·蒂亚福、杰西卡·佩古拉、阿琳娜·萨巴伦卡如何在美国公开赛四分之一决赛中晋级 - The Athletic。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 9 Sep 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：加拉·蒙特斯为何离开“墨西哥法莫索之家”？这可能是他离开的原因。",
+    "explanation": "Google Trends 显示“辛西娅·克里博”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：加拉·蒙特斯为何离开“墨西哥法莫索之家”？这可能是他离开的原因。这些报道来自 Mediotiempo 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "How Frances Tiafoe, Jessica Pegula, Aryna Sabalenka advanced in U.S. Open quarterfinals - The Athletic",
-        "url": "https://www.nytimes.com/athletic/live-blogs/us-open-2026-live-updates-quarterfinals-scores-results/UMKFD3sdJ6cm/",
-        "source": "The New York Times"
+        "title": "¿Por qué Gala Montes abandonó 'La Casa de los Famosos México'? Esta habría sido la razón de su salida",
+        "url": "https://www.mediotiempo.com/actualidad/virales/por-que-salio-gala-montes-de-la-casa-de-los-famosos-mexico-esta-habria-sido-la-razon",
+        "source": "Mediotiempo"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "ernesto laguardia",
-    "titleZh": "埃内斯托·拉瓜迪亚",
+    "title": "tommy mcmillen",
+    "titleZh": "汤米·麦克米伦",
     "traffic": "200+",
-    "started": "Tue, 8 Sep 2026 22:40:00 -0700",
-    "summary": "相关新闻主要集中在：芹菜想把所有人都扔到我身上！玛丽安娜和辛西娅谈论淘汰赛上发生的事情。。",
-    "explanation": "Google Trends 显示“埃内斯托·拉瓜迪亚”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：芹菜想把所有人都扔到我身上！玛丽安娜和辛西娅谈论淘汰赛上发生的事情。。这些报道来自 https://www.lacasadelosfamososmexico.tv/ 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 9 Sep 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：Rahiki vs McMillen 预测：McMillen -165（9 月 12 日）。",
+    "explanation": "Google Trends 显示“汤米·麦克米伦”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Rahiki vs McMillen 预测：McMillen -165（9 月 12 日）。这些报道来自 Kingpin Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "¡APIO ME QUIERE ECHAR TODOS ENCIMA! Mariana y Cynthia hablan sobre lo que ocurrió en la gala de eliminación.",
-        "url": "https://www.lacasadelosfamososmexico.tv/apio-me-quiere-echar-todos-encima-mariana-y-cynthia-hablan-sobre-lo-que-ocurrio-en-la-gala-de-eliminacion-video",
-        "source": "https://www.lacasadelosfamososmexico.tv/"
+        "title": "Rahiki vs McMillen Prediction: McMillen -165 (Sep 12)",
+        "url": "https://kingpin.pro/mma/articles/marwan-rahiki-vs-tommy-mcmillen-2026-09-12-best-bets-predictions",
+        "source": "Kingpin Sports"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "sam nordquist",
-    "titleZh": "萨姆·诺德奎斯特",
+    "title": "eliezer alfonzo",
+    "titleZh": "埃利泽阿方索",
     "traffic": "200+",
-    "started": "Tue, 8 Sep 2026 22:20:00 -0700",
-    "summary": "相关新闻主要集中在：帮助折磨并杀害变性男友的女子被判终身监禁。",
-    "explanation": "Google Trends 显示“萨姆·诺德奎斯特”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：帮助折磨并杀害变性男友的女子被判终身监禁。这些报道来自 NBC News 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 9 Sep 2026 21:50:00 -0700",
+    "summary": "相关新闻主要集中在：道奇队在国民赛前突然宣布马克斯·蒙西的消息。",
+    "explanation": "Google Trends 显示“埃利泽阿方索”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：道奇队在国民赛前突然宣布马克斯·蒙西的消息。这些报道来自 Heavy.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Woman who helped torture and kill transgender boyfriend sentenced to life in prison",
-        "url": "https://www.nbcnews.com/news/us-news/precious-arzuaga-sentencing-sam-nordquist-rcna596253",
-        "source": "NBC News"
+        "title": "Dodgers Announce Sudden Max Muncy News Before Nationals Game",
+        "url": "https://heavy.com/sports/mlb/los-angeles-dodgers/max-muncy-scratched-before-nationals-game/",
+        "source": "Heavy.com"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "tanner scott",
-    "titleZh": "坦纳·斯科特",
+    "title": "jose trevino",
+    "titleZh": "何塞·特雷维诺",
     "traffic": "200+",
-    "started": "Tue, 8 Sep 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：辛辛那提红人队 vs 洛杉矶道奇队：比赛亮点。",
-    "explanation": "Google Trends 显示“坦纳·斯科特”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：辛辛那提红人队 vs 洛杉矶道奇队：比赛亮点。这些报道来自 ESPN 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 9 Sep 2026 21:50:00 -0700",
+    "summary": "相关新闻主要集中在：红军巨星在史诗般的接力赛中打出了美国职业棒球大联盟历史上最快的传球之一，在主场锁定了跑者。",
+    "explanation": "Google Trends 显示“何塞·特雷维诺”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：红军巨星在史诗般的接力赛中打出了美国职业棒球大联盟历史上最快的传球之一，在主场锁定了跑者。这些报道来自 Fox News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Cincinnati Reds vs. Los Angeles Dodgers: Game Highlights",
-        "url": "https://www.espn.com/video/clip/_/id/49876204/game-highlights",
-        "source": "ESPN"
+        "title": "Reds superstar uncorks one of the fastest throws in MLB history to nail runner at home in epic relay",
+        "url": "https://www.foxnews.com/outkick-sports/reds-superstar-uncorks-one-fastest-throws-mlb-history-nail-runner-home-epic-relay",
+        "source": "Fox News"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "steam leak",
-    "titleZh": "蒸汽泄漏",
-    "traffic": "500+",
-    "started": "Tue, 8 Sep 2026 21:40:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“蒸汽泄漏”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 GoNintendo 等媒体，因此带动了集中搜索。",
+    "title": "farmers almanac first snowfall map",
+    "titleZh": "农民年鉴第一场降雪地图",
+    "traffic": "1000+",
+    "started": "Wed, 9 Sep 2026 21:20:00 -0700",
+    "summary": "相关新闻主要集中在：地图显示您所在地区何时会迎来今年的第一场降雪。",
+    "explanation": "Google Trends 显示“农民年鉴第一场降雪地图”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：地图显示您所在地区何时会迎来今年的第一场降雪。这些报道来自 SnowBrains 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Kingdom Hearts IV Steam Achievements list leaks, revealing new worlds and more",
-        "url": "https://gonintendo.com/contents/64711-kingdom-hearts-iv-steam-achievements-list-leaks-revealing-new-worlds-and-more",
-        "source": "GoNintendo"
+        "title": "Map Reveals When Your Area Sees Its First Snowfall of the Year",
+        "url": "https://snowbrains.com/first-snowfall-of-the-year-map/",
+        "source": "SnowBrains"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "xylitol",
-    "titleZh": "木糖醇",
+    "title": "josue de paula",
+    "titleZh": "若苏埃·德保拉",
     "traffic": "2000+",
-    "started": "Tue, 8 Sep 2026 21:30:00 -0700",
-    "summary": "相关新闻主要集中在：木糖醇与长期心血管风险增加有关。",
-    "explanation": "Google Trends 显示“木糖醇”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：木糖醇与长期心血管风险增加有关。这些报道来自 Medscape 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 9 Sep 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：道奇队将晋升若苏埃·德保拉。",
+    "explanation": "Google Trends 显示“若苏埃·德保拉”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：道奇队将晋升若苏埃·德保拉。这些报道来自 MLB Trade Rumors 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Xylitol Linked to Increased Long-Term Cardiovascular Risk",
-        "url": "https://www.medscape.com/viewarticle/xylitol-linked-increased-long-term-cardiovascular-risk-2026a1000x7i",
-        "source": "Medscape"
+        "title": "Dodgers To Promote Josue De Paula",
+        "url": "https://www.mlbtraderumors.com/2026/09/dodgers-to-promote-josue-de-paula.html",
+        "source": "MLB Trade Rumors"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "where to watch us open tennis",
-    "titleZh": "哪里可以观看我们的公开赛",
-    "traffic": "500+",
-    "started": "Tue, 8 Sep 2026 21:20:00 -0700",
-    "summary": "相关新闻主要集中在：美国公开赛。",
-    "explanation": "Google Trends 显示“哪里可以观看我们的公开赛”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：美国公开赛。这些报道来自 The Lufkin Daily News 等媒体，因此带动了集中搜索。",
+    "title": "kaia gerber",
+    "titleZh": "凯亚·格伯",
+    "traffic": "2000+",
+    "started": "Wed, 9 Sep 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：以下是观看《碎片》大结局的方法：第 9 集开始时间，流媒体。",
+    "explanation": "Google Trends 显示“凯亚·格伯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：以下是观看《碎片》大结局的方法：第 9 集开始时间，流媒体。这些报道来自 Page Six 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "U.S. Open",
-        "url": "https://lufkindailynews.com/news_reuters/sports/u-s-open/image_d8e27ab0-fec0-50d6-ba57-1fcb657ecd52.html",
-        "source": "The Lufkin Daily News"
+        "title": "Here’s how to watch ‘The Shards’ finale: Episode 9 start time, streaming",
+        "url": "https://pagesix.com/2026/09/08/entertainment/how-to-watch-the-shards-finale-episode-9-time-streaming/",
+        "source": "Page Six"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "volcano eruption indonesia",
-    "titleZh": "印度尼西亚火山喷发",
-    "traffic": "1000+",
-    "started": "Tue, 8 Sep 2026 21:20:00 -0700",
-    "summary": "相关新闻主要集中在：随着喀拉喀托火山灰清除，印度尼西亚重新开放所有机场。",
-    "explanation": "Google Trends 显示“印度尼西亚火山喷发”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：随着喀拉喀托火山灰清除，印度尼西亚重新开放所有机场。这些报道来自 Reuters 等媒体，因此带动了集中搜索。",
+    "title": "max muncy",
+    "titleZh": "马克斯·蒙西",
+    "traffic": "500+",
+    "started": "Wed, 9 Sep 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：马克斯·蒙西 (Max Muncy) 大声说出关于 2026 年道奇队的安静部分。",
+    "explanation": "Google Trends 显示“马克斯·蒙西”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：马克斯·蒙西 (Max Muncy) 大声说出关于 2026 年道奇队的安静部分。这些报道来自 ClutchPoints 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Indonesia reopens all airports as Anak Krakatau ash clears",
-        "url": "https://www.reuters.com/business/environment/indonesia-reopens-jakarta-airport-four-others-after-anak-krakatau-ash-clears-2026-09-08/",
-        "source": "Reuters"
+        "title": "Max Muncy says quiet part out loud about 2026 Dodgers",
+        "url": "https://clutchpoints.com/mlb/los-angeles-dodgers/dodgers-news-max-muncy-quiet-part-out-loud-2026-season",
+        "source": "ClutchPoints"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "red dead redemption 2",
-    "titleZh": "赤死救赎2",
+    "title": "49ers depth chart",
+    "titleZh": "49人队深度图",
     "traffic": "500+",
-    "started": "Tue, 8 Sep 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：七年后，RDR2 终于获得了下一代外观——但不是来自 Rockstar。",
-    "explanation": "Google Trends 显示“赤死救赎2”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：七年后，RDR2 终于获得了下一代外观——但不是来自 Rockstar。这些报道来自 eGamers.io 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 9 Sep 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：NFL 新闻综述：布兰登·格雷厄姆再次退役； 49人队防守截锋阿尔弗雷德·柯林斯因髌腱撕裂缺席本赛季。",
+    "explanation": "Google Trends 显示“49人队深度图”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：NFL 新闻综述：布兰登·格雷厄姆再次退役； 49人队防守截锋阿尔弗雷德·柯林斯因髌腱撕裂缺席本赛季。这些报道来自 NFL.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Seven Years Later, RDR2 Finally Gets a Next-Gen Look — Just Not From Rockstar",
-        "url": "https://egamers.io/seven-years-later-rdr2-finally-gets-a-next-gen-look-just-not-from-rockstar/",
-        "source": "eGamers.io"
+        "title": "NFL news roundup: Brandon Graham retires again; 49ers DT Alfred Collins out for season with torn patellar tendon",
+        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-tuesday-sept-8",
+        "source": "NFL.com"
       }
     ]
   }
