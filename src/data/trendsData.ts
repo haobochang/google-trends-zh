@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "blake lively",
-    "titleZh": "布莱克·莱弗",
+    "title": "josh hartnett",
+    "titleZh": "乔什·哈内特",
     "traffic": "200+",
-    "started": "Wed, 9 Sep 2026 22:40:00 -0700",
-    "summary": "相关新闻主要集中在：继布莱克·莱弗利之后，泰勒·斯威夫特因令人震惊的原因与另一位老朋友断绝关系。",
-    "explanation": "Google Trends 显示“布莱克·莱弗”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：继布莱克·莱弗利之后，泰勒·斯威夫特因令人震惊的原因与另一位老朋友断绝关系。这些报道来自 Jang 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 10 Sep 2026 22:10:00 -0700",
+    "summary": "相关新闻主要集中在：TIFF 2026 开幕之夜关键时刻：娜奥米·沃茨 (Naomi Watts)、市长周奥利维亚 (Olivia Chow) 点亮红毯；贾斯汀·特鲁多将成立制作公司。",
+    "explanation": "Google Trends 显示“乔什·哈内特”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：TIFF 2026 开幕之夜关键时刻：娜奥米·沃茨 (Naomi Watts)、市长周奥利维亚 (Olivia Chow) 点亮红毯；贾斯汀·特鲁多将成立制作公司。这些报道来自 Toronto Star 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Taylor Swift cuts off another longtime friend after Blake Lively over shocking reason",
-        "url": "https://jang.com.pk/en/72717-taylor-swift-cuts-off-another-longtime-friend-after-blake-lively-over-shocking-reason-news",
-        "source": "Jang"
+        "title": "TIFF 2026 opening night key moments: Naomi Watts, Mayor Olivia Chow light up red carpet; Justin Trudeau to launch production company",
+        "url": "https://www.thestar.com/entertainment/tiff/toronto-film-festival-live-coverage/article_50c9505e-4f84-4439-b574-3273ee69ed30.html",
+        "source": "Toronto Star"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "cynthia klitbo",
-    "titleZh": "辛西娅·克里博",
+    "title": "ted cruz",
+    "titleZh": "特德·克鲁兹",
     "traffic": "200+",
-    "started": "Wed, 9 Sep 2026 22:20:00 -0700",
-    "summary": "相关新闻主要集中在：加拉·蒙特斯为何离开“墨西哥法莫索之家”？这可能是他离开的原因。",
-    "explanation": "Google Trends 显示“辛西娅·克里博”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：加拉·蒙特斯为何离开“墨西哥法莫索之家”？这可能是他离开的原因。这些报道来自 Mediotiempo 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 10 Sep 2026 22:00:00 -0700",
+    "summary": "相关新闻主要集中在：当特德·克鲁兹在特朗普大会上指责埃尔·赛义德和塔拉里科时，质问者大喊“他应该被枪杀”。",
+    "explanation": "Google Trends 显示“特德·克鲁兹”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：当特德·克鲁兹在特朗普大会上指责埃尔·赛义德和塔拉里科时，质问者大喊“他应该被枪杀”。这些报道来自 The Independent 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "¿Por qué Gala Montes abandonó 'La Casa de los Famosos México'? Esta habría sido la razón de su salida",
-        "url": "https://www.mediotiempo.com/actualidad/virales/por-que-salio-gala-montes-de-la-casa-de-los-famosos-mexico-esta-habria-sido-la-razon",
-        "source": "Mediotiempo"
+        "title": "Hecklers shout ‘He should be shot’ as Ted Cruz calls out El-Sayed and Talarico at Trump convention",
+        "url": "https://www.the-independent.com/news/world/americas/us-politics/ted-cruz-convention-talarico-el-sayed-b3048304.html",
+        "source": "The Independent"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "tommy mcmillen",
-    "titleZh": "汤米·麦克米伦",
-    "traffic": "200+",
-    "started": "Wed, 9 Sep 2026 22:20:00 -0700",
-    "summary": "相关新闻主要集中在：Rahiki vs McMillen 预测：McMillen -165（9 月 12 日）。",
-    "explanation": "Google Trends 显示“汤米·麦克米伦”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Rahiki vs McMillen 预测：McMillen -165（9 月 12 日）。这些报道来自 Kingpin Sports 等媒体，因此带动了集中搜索。",
+    "title": "downdetector",
+    "titleZh": "下探测器",
+    "traffic": "5000+",
+    "started": "Thu, 10 Sep 2026 21:30:00 -0700",
+    "summary": "相关新闻主要集中在：Fidium 光纤中断影响了缅因州和新英格兰地区的客户。",
+    "explanation": "Google Trends 显示“下探测器”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Fidium 光纤中断影响了缅因州和新英格兰地区的客户。这些报道来自 WMTW 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Rahiki vs McMillen Prediction: McMillen -165 (Sep 12)",
-        "url": "https://kingpin.pro/mma/articles/marwan-rahiki-vs-tommy-mcmillen-2026-09-12-best-bets-predictions",
-        "source": "Kingpin Sports"
+        "title": "Fidium Fiber outage affects customers in Maine and across New England",
+        "url": "https://www.wmtw.com/article/fidium-fiber-outage-maine-new-england/73674029",
+        "source": "WMTW"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "eliezer alfonzo",
-    "titleZh": "埃利泽阿方索",
-    "traffic": "200+",
-    "started": "Wed, 9 Sep 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：道奇队在国民赛前突然宣布马克斯·蒙西的消息。",
-    "explanation": "Google Trends 显示“埃利泽阿方索”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：道奇队在国民赛前突然宣布马克斯·蒙西的消息。这些报道来自 Heavy.com 等媒体，因此带动了集中搜索。",
+    "title": "vaccinations",
+    "titleZh": "疫苗接种",
+    "traffic": "2000+",
+    "started": "Thu, 10 Sep 2026 21:20:00 -0700",
+    "summary": "相关新闻主要集中在：Pages - 马里兰州发布 2026-2027 年儿童和成人疫苗指南。",
+    "explanation": "Google Trends 显示“疫苗接种”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Pages - 马里兰州发布 2026-2027 年儿童和成人疫苗指南。这些报道来自 Maryland.gov 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Dodgers Announce Sudden Max Muncy News Before Nationals Game",
-        "url": "https://heavy.com/sports/mlb/los-angeles-dodgers/max-muncy-scratched-before-nationals-game/",
-        "source": "Heavy.com"
+        "title": "Pages - Maryland releases 2026-2027 vaccine guidelines for children and adults",
+        "url": "https://health.maryland.gov/newsroom/Pages/Maryland%20releases%202026-2027%20vaccine%20guidelines%20for%20children%20and%20adults.aspx",
+        "source": "Maryland.gov"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "jose trevino",
-    "titleZh": "何塞·特雷维诺",
-    "traffic": "200+",
-    "started": "Wed, 9 Sep 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：红军巨星在史诗般的接力赛中打出了美国职业棒球大联盟历史上最快的传球之一，在主场锁定了跑者。",
-    "explanation": "Google Trends 显示“何塞·特雷维诺”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：红军巨星在史诗般的接力赛中打出了美国职业棒球大联盟历史上最快的传球之一，在主场锁定了跑者。这些报道来自 Fox News 等媒体，因此带动了集中搜索。",
+    "title": "flu shots",
+    "titleZh": "流感疫苗",
+    "traffic": "1000+",
+    "started": "Thu, 10 Sep 2026 21:20:00 -0700",
+    "summary": "相关新闻主要集中在：顶级医疗团体重申在流感、新冠病毒季节期间接种疫苗。",
+    "explanation": "Google Trends 显示“流感疫苗”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：顶级医疗团体重申在流感、新冠病毒季节期间接种疫苗。这些报道来自 Healthline 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Reds superstar uncorks one of the fastest throws in MLB history to nail runner at home in epic relay",
-        "url": "https://www.foxnews.com/outkick-sports/reds-superstar-uncorks-one-fastest-throws-mlb-history-nail-runner-home-epic-relay",
-        "source": "Fox News"
+        "title": "Top Medical Groups Reaffirm Vaccination During Flu, COVID Season",
+        "url": "https://www.healthline.com/health-news/medical-groups-issue-independent-flu-covid-rsv-vaccine-guidance",
+        "source": "Healthline"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "farmers almanac first snowfall map",
-    "titleZh": "农民年鉴第一场降雪地图",
-    "traffic": "1000+",
-    "started": "Wed, 9 Sep 2026 21:20:00 -0700",
-    "summary": "相关新闻主要集中在：地图显示您所在地区何时会迎来今年的第一场降雪。",
-    "explanation": "Google Trends 显示“农民年鉴第一场降雪地图”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：地图显示您所在地区何时会迎来今年的第一场降雪。这些报道来自 SnowBrains 等媒体，因此带动了集中搜索。",
+    "title": "cable tv",
+    "titleZh": "有线电视",
+    "traffic": "200+",
+    "started": "Thu, 10 Sep 2026 21:20:00 -0700",
+    "summary": "相关新闻主要集中在：2026 年 7 月有线电视收视率跌至历史新低。",
+    "explanation": "Google Trends 显示“有线电视”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：2026 年 7 月有线电视收视率跌至历史新低。这些报道来自 | Cord Cutters News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Map Reveals When Your Area Sees Its First Snowfall of the Year",
-        "url": "https://snowbrains.com/first-snowfall-of-the-year-map/",
-        "source": "SnowBrains"
+        "title": "Cable TV Viewership Drops to a Record-Setting All-Time Low in July 2026",
+        "url": "https://cordcuttersnews.com/cable-tv-viewership-drops-to-a-record-setting-all-time-low-in-july-2026/",
+        "source": "| Cord Cutters News"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "josue de paula",
-    "titleZh": "若苏埃·德保拉",
-    "traffic": "2000+",
-    "started": "Wed, 9 Sep 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：道奇队将晋升若苏埃·德保拉。",
-    "explanation": "Google Trends 显示“若苏埃·德保拉”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：道奇队将晋升若苏埃·德保拉。这些报道来自 MLB Trade Rumors 等媒体，因此带动了集中搜索。",
+    "title": "mobland season 2",
+    "titleZh": "莫布兰第二季",
+    "traffic": "200+",
+    "started": "Thu, 10 Sep 2026 21:20:00 -0700",
+    "summary": "相关新闻主要集中在：海伦·米伦 (Helen Mirren) 在 MobLand 第二季中调侃新“力量”，并终结了汤姆·哈迪 (Tom Hardy) 的戏剧（独家）。",
+    "explanation": "Google Trends 显示“莫布兰第二季”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：海伦·米伦 (Helen Mirren) 在 MobLand 第二季中调侃新“力量”，并终结了汤姆·哈迪 (Tom Hardy) 的戏剧（独家）。这些报道来自 Entertainment Weekly 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Dodgers To Promote Josue De Paula",
-        "url": "https://www.mlbtraderumors.com/2026/09/dodgers-to-promote-josue-de-paula.html",
-        "source": "MLB Trade Rumors"
+        "title": "Helen Mirren teases new ‘forces’ in MobLand season 2 and puts the Tom Hardy drama to bed (exclusive)",
+        "url": "https://ew.com/helen-mirren-mobland-season-2-tom-hardy-exclusive-photos-12066815",
+        "source": "Entertainment Weekly"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "kaia gerber",
-    "titleZh": "凯亚·格伯",
-    "traffic": "2000+",
-    "started": "Wed, 9 Sep 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：以下是观看《碎片》大结局的方法：第 9 集开始时间，流媒体。",
-    "explanation": "Google Trends 显示“凯亚·格伯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：以下是观看《碎片》大结局的方法：第 9 集开始时间，流媒体。这些报道来自 Page Six 等媒体，因此带动了集中搜索。",
+    "title": "내일 날씨",
+    "titleZh": "明天的天气",
+    "traffic": "500+",
+    "started": "Thu, 10 Sep 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：[天气]秋高气爽……带上“薄外套”。",
+    "explanation": "Google Trends 显示“明天的天气”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：[天气]秋高气爽……带上“薄外套”。这些报道来自 SBS 뉴스 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Here’s how to watch ‘The Shards’ finale: Episode 9 start time, streaming",
-        "url": "https://pagesix.com/2026/09/08/entertainment/how-to-watch-the-shards-finale-episode-9-time-streaming/",
-        "source": "Page Six"
+        "title": "[날씨] 청명한 가을 하늘…'가벼운 외투' 챙기세요",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008748685",
+        "source": "SBS 뉴스"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "max muncy",
-    "titleZh": "马克斯·蒙西",
-    "traffic": "500+",
-    "started": "Wed, 9 Sep 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：马克斯·蒙西 (Max Muncy) 大声说出关于 2026 年道奇队的安静部分。",
-    "explanation": "Google Trends 显示“马克斯·蒙西”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：马克斯·蒙西 (Max Muncy) 大声说出关于 2026 年道奇队的安静部分。这些报道来自 ClutchPoints 等媒体，因此带动了集中搜索。",
+    "title": "aster",
+    "titleZh": "翠菊",
+    "traffic": "10000+",
+    "started": "Thu, 10 Sep 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：Skip Mums：漂亮的紫色植物，在整个秋天都会绽放花朵。",
+    "explanation": "Google Trends 显示“翠菊”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Skip Mums：漂亮的紫色植物，在整个秋天都会绽放花朵。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Max Muncy says quiet part out loud about 2026 Dodgers",
-        "url": "https://clutchpoints.com/mlb/los-angeles-dodgers/dodgers-news-max-muncy-quiet-part-out-loud-2026-season",
-        "source": "ClutchPoints"
+        "title": "Skip Mums: The Pretty Purple Plant That Rewards You With Blooms Through Fall",
+        "url": "https://shopping.yahoo.com/home-garden/gardening/articles/skip-mums-pretty-purple-plant-180000181.html",
+        "source": "Yahoo"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "49ers depth chart",
-    "titleZh": "49人队深度图",
-    "traffic": "500+",
-    "started": "Wed, 9 Sep 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：NFL 新闻综述：布兰登·格雷厄姆再次退役； 49人队防守截锋阿尔弗雷德·柯林斯因髌腱撕裂缺席本赛季。",
-    "explanation": "Google Trends 显示“49人队深度图”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：NFL 新闻综述：布兰登·格雷厄姆再次退役； 49人队防守截锋阿尔弗雷德·柯林斯因髌腱撕裂缺席本赛季。这些报道来自 NFL.com 等媒体，因此带动了集中搜索。",
+    "title": "carin leon las vegas",
+    "titleZh": "卡琳·莱昂 拉斯维加斯",
+    "traffic": "2000+",
+    "started": "Thu, 10 Sep 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：Carín León 继续征服拉斯维加斯，宣布将于 2027 年重返 Sphere。",
+    "explanation": "Google Trends 显示“卡琳·莱昂 拉斯维加斯”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Carín León 继续征服拉斯维加斯，宣布将于 2027 年重返 Sphere。这些报道来自 News Channel 3-12 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "NFL news roundup: Brandon Graham retires again; 49ers DT Alfred Collins out for season with torn patellar tendon",
-        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-tuesday-sept-8",
-        "source": "NFL.com"
+        "title": "Carín León sigue conquistando Las Vegas, anuncia su regreso a la Sphere en 2027",
+        "url": "https://keyt.com/latino/cnn-spanish/2026/09/10/carin-leon-sigue-conquistando-las-vegas-anuncia-su-regreso-a-la-sphere-en-2027/",
+        "source": "News Channel 3-12"
       }
     ]
   }
