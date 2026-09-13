@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "eduard bazardo",
+    "title": "leslie jones",
     "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "traffic": "200+",
-    "started": "Fri, 11 Sep 2026 22:30:00 -0700",
+    "started": "Sat, 12 Sep 2026 22:50:00 -0700",
     "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 The Seattle Times 等媒体，因此带动了集中搜索。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Essence 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Eduard Bazardo gives up walkoff homer in 10th to ex-Mariner, A’s rally for win",
-        "url": "https://www.seattletimes.com/sports/mariners/eduard-bazardo-gives-up-walkoff-homer-in-10th-to-ex-mariner-as-rally-for-win/",
-        "source": "The Seattle Times"
+        "title": "Leslie Jones Is The HGTV Star You Didn't Know You Needed",
+        "url": "https://www.essence.com/lifestyle/home/leslie-jones-hgtv/",
+        "source": "Essence"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "osaa football",
+    "title": "óscar perea",
     "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "500+",
-    "started": "Fri, 11 Sep 2026 22:20:00 -0700",
+    "traffic": "200+",
+    "started": "Sat, 12 Sep 2026 22:40:00 -0700",
     "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Sports Illustrated 等媒体，因此带动了集中搜索。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Récord 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Oregon High School Football Scores, Results, Live Updates - September 11",
-        "url": "https://www.si.com/high-school/oregon/oregon-high-school-football-scores-results-live-updates-september-11-01m26afsvxfh",
-        "source": "Sports Illustrated"
+        "title": "Golazo de Brian Rodríguez que prendió la esperanza de América en el Clásico Joven",
+        "url": "https://www.record.com.mx/historia/golazo-de-brian-rodriguez-que-prendio-la-esperanza-de-america-en-el-clasico-joven-2026091305443869605",
+        "source": "Récord"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "mason miller",
+    "title": "tyler perry",
     "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "200+",
-    "started": "Fri, 11 Sep 2026 22:20:00 -0700",
+    "traffic": "500+",
+    "started": "Sat, 12 Sep 2026 22:10:00 -0700",
     "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 roundtable.io 等媒体，因此带动了集中搜索。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Techloy 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Padres Are Facing Major Issues With Mason Miller’s Workload",
-        "url": "https://roundtable.io/sports/mlb/padres/news/padres-are-facing-major-issues-with-mason-miller-s-workload",
-        "source": "roundtable.io"
+        "title": "Beauty in Black Season 4 Release Date, Cast and More",
+        "url": "https://www.techloy.com/beauty-in-black-season-4-release-date-cast/",
+        "source": "Techloy"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "bryce eldridge",
+    "title": "miguel borja",
     "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "200+",
-    "started": "Fri, 11 Sep 2026 22:20:00 -0700",
+    "traffic": "500+",
+    "started": "Sat, 12 Sep 2026 22:00:00 -0700",
     "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 RotoWire 等媒体，因此带动了集中搜索。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Soy Futbol 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Bryce Eldridge News: Extends on-base streak to 11 games",
-        "url": "https://www.rotowire.com/baseball/headlines/bryce-eldridge-news-extends-on-base-streak-to-11-games-1023598",
-        "source": "RotoWire"
+        "title": "Miguel Borja Fires Up the Clásico Joven with a Cheeky Jab at Cruz Azul",
+        "url": "https://www.soyfutbol.com/en/news/miguel-borja-fires-up-the-clasico-joven-with-a-cheeky-jab-at-cruz-azul-20260912-0006.html",
+        "source": "Soy Futbol"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "padres",
+    "title": "cole young",
     "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "2000+",
-    "started": "Fri, 11 Sep 2026 22:10:00 -0700",
+    "traffic": "200+",
+    "started": "Sat, 12 Sep 2026 21:40:00 -0700",
     "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 MLB.com 等媒体，因此带动了集中搜索。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Seattle Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Padres go BACK-TO-BACK-TO-BACK!",
-        "url": "https://www.mlb.com/video/padres-go-back-to-back-to-back",
-        "source": "MLB.com"
+        "title": "Mariners rookie Michael Arroyo blasts first career HR",
+        "url": "https://sports.mynorthwest.com/mlb/seattle-mariners/seattle-mariners-rookie-michael-arroyo-blasts-first-career-hr",
+        "source": "Seattle Sports"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "mets yankees game",
+    "title": "wendy williams",
     "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "20000+",
-    "started": "Fri, 11 Sep 2026 22:10:00 -0700",
+    "traffic": "500+",
+    "started": "Sat, 12 Sep 2026 21:30:00 -0700",
     "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 USA Today 等媒体，因此带动了集中搜索。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 theJasmineBRAND 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Yankees vs Mets on 9/11 anniversary: Emotional ceremonies and first pitch",
-        "url": "https://www.usatoday.com/story/sports/mlb/2026/09/11/yankees-vs-mets-9-11-first-pitch-subway-series/91709507007/",
-        "source": "USA Today"
+        "title": "‘Wendy Williams Show’ Producer Norman Baker Says He Refused To Participate In Documentaries About Wendy Williams: ‘I Don’t Wanna Be Involved In Trashing Her’",
+        "url": "https://thejasminebrand.com/2026/09/07/wendy-williams-show-producer-norman-baker-says-he-refused-to-participate-in-documentaries-about-wendy-williams-i-dont-wanna-be-involved-in-trashing-her/",
+        "source": "theJasmineBRAND"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "cillian murphy",
+    "title": "henry cavill",
     "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "200+",
-    "started": "Fri, 11 Sep 2026 22:10:00 -0700",
+    "traffic": "1000+",
+    "started": "Sat, 12 Sep 2026 21:30:00 -0700",
     "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 ScreenRant 等媒体，因此带动了集中搜索。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Montclair Local News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Slow Horses Meets Peaky Blinders In The 25-Episode Crime Series Renewed For Season 4",
-        "url": "https://screenrant.com/gangs-of-london-slow-horses-meets-peaky-blinders/",
-        "source": "ScreenRant"
+        "title": "Kevin Hart, Henry Cavill Spy Movie Films in Glen Ridge",
+        "url": "https://montclairlocal.news/2026/09/kevin-hart-henry-cavill-spy-movie-films-in-glen-ridge/",
+        "source": "Montclair Local News"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "lck",
+    "title": "mariners - athletics",
     "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "200+",
-    "started": "Fri, 11 Sep 2026 22:10:00 -0700",
+    "traffic": "2000+",
+    "started": "Sat, 12 Sep 2026 21:30:00 -0700",
     "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 The Korea Herald 等媒体，因此带动了集中搜索。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 MLB.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Gumayusi vs Keria: T1 legends clash on Korean LoL's biggest weekend",
-        "url": "https://www.koreaherald.com/article/10868127",
-        "source": "The Korea Herald"
+        "title": "MLB Gameday: Cardinals 8, Dodgers 6 Final Score (09/02/2026)",
+        "url": "https://www.mlb.com/gameday/cardinals-vs-dodgers/2026/09/02/823906/final/box",
+        "source": "MLB.com"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "laguna beach",
+    "title": "trent mosley",
     "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "200+",
-    "started": "Fri, 11 Sep 2026 22:10:00 -0700",
+    "traffic": "1000+",
+    "started": "Sat, 12 Sep 2026 21:20:00 -0700",
     "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 ABC7 Los Angeles 等媒体，因此带动了集中搜索。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Annenberg Media 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Effort underway to stop beach erosion after high surf from Hurricane Marie damages SoCal homes",
-        "url": "https://abc7.com/post/effort-underway-to-stop-beach-erosion-after-high-surf-from-hurricane-marie-damages-socal-homes/19817365/",
-        "source": "ABC7 Los Angeles"
+        "title": "Mosley, Dixon-Wyatt continue thrilling starts to their freshman seasons amidst Tanook Hines’ return to action",
+        "url": "https://www.uscannenbergmedia.com/2026/09/07/mosley-dixon-wyatt-continue-thrilling-starts-to-their-freshman-seasons-amidst-tanook-hines-return-to-action/",
+        "source": "Annenberg Media"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "san diego padres",
+    "title": "kristi noem",
     "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "1000+",
-    "started": "Fri, 11 Sep 2026 21:50:00 -0700",
+    "traffic": "500+",
+    "started": "Sat, 12 Sep 2026 21:20:00 -0700",
     "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 NBC Sports 等媒体，因此带动了集中搜索。",
+    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 MS NOW 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Padres place Ty France on paternity list on friday",
-        "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-11/padres-place-ty-france-on-paternity-list-on-friday",
-        "source": "NBC Sports"
+        "title": "WSJ: DHS IG investigating Corey Lewandowski of improperly awarding contracts, personal enrichment",
+        "url": "https://www.ms.now/katy-tur/watch/wsj-dhs-ig-investigating-corey-lewandowski-for-improperly-awarding-contracts-personal-enrichment-2513459267844",
+        "source": "MS NOW"
       }
     ]
   }
