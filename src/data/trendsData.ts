@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "leslie jones",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "200+",
-    "started": "Sat, 12 Sep 2026 22:50:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Essence 等媒体，因此带动了集中搜索。",
+    "title": "measles outbreak pennsylvania",
+    "titleZh": "measles outbreak pennsylvania",
+    "traffic": "5000+",
+    "started": "Sun, 13 Sep 2026 23:00:00 -0700",
+    "summary": "相关新闻主要集中在：Pennsylvania woman dies from measles complications, state’s third death this year。",
+    "explanation": "Google Trends 显示“measles outbreak pennsylvania”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Pennsylvania woman dies from measles complications, state’s third death this year。这些报道来自 NBC News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Leslie Jones Is The HGTV Star You Didn't Know You Needed",
-        "url": "https://www.essence.com/lifestyle/home/leslie-jones-hgtv/",
-        "source": "Essence"
+        "title": "Pennsylvania woman dies from measles complications, state’s third death this year",
+        "url": "https://www.nbcnews.com/health/health-news/pennsylvania-woman-dies-measles-rcna597490",
+        "source": "NBC News"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "óscar perea",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "200+",
-    "started": "Sat, 12 Sep 2026 22:40:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Récord 等媒体，因此带动了集中搜索。",
+    "title": "stephen root",
+    "titleZh": "stephen root",
+    "traffic": "500+",
+    "started": "Sun, 13 Sep 2026 22:00:00 -0700",
+    "summary": "相关新闻主要集中在：Stephen Root Confirms His GTA 6 Role as Brian Heder: “You’re Gonna See Me in There”。",
+    "explanation": "Google Trends 显示“stephen root”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Stephen Root Confirms His GTA 6 Role as Brian Heder: “You’re Gonna See Me in There”。这些报道来自 Beebom 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Golazo de Brian Rodríguez que prendió la esperanza de América en el Clásico Joven",
-        "url": "https://www.record.com.mx/historia/golazo-de-brian-rodriguez-que-prendio-la-esperanza-de-america-en-el-clasico-joven-2026091305443869605",
-        "source": "Récord"
+        "title": "Stephen Root Confirms His GTA 6 Role as Brian Heder: “You’re Gonna See Me in There”",
+        "url": "https://beebom.com/stephen-root-confirms-his-gta-6-role-as-brian-heder/",
+        "source": "Beebom"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "tyler perry",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "500+",
-    "started": "Sat, 12 Sep 2026 22:10:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Techloy 等媒体，因此带动了集中搜索。",
+    "title": "when does ios 27 come out",
+    "titleZh": "when does ios 27 come out",
+    "traffic": "2000+",
+    "started": "Sun, 13 Sep 2026 21:20:00 -0700",
+    "summary": "相关新闻主要集中在：iOS 27 Available Tomorrow With These 8 New Features。",
+    "explanation": "Google Trends 显示“when does ios 27 come out”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：iOS 27 Available Tomorrow With These 8 New Features。这些报道来自 MacRumors 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Beauty in Black Season 4 Release Date, Cast and More",
-        "url": "https://www.techloy.com/beauty-in-black-season-4-release-date-cast/",
-        "source": "Techloy"
+        "title": "iOS 27 Available Tomorrow With These 8 New Features",
+        "url": "https://www.macrumors.com/2026/09/13/ios-27-features-available-tomorrow/",
+        "source": "MacRumors"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "miguel borja",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "500+",
-    "started": "Sat, 12 Sep 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Soy Futbol 等媒体，因此带动了集中搜索。",
+    "title": "jk dobbins",
+    "titleZh": "jk dobbins",
+    "traffic": "200+",
+    "started": "Sun, 13 Sep 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：JK Dobbins can steal Kenneth Walker's thunder and prove Broncos right。",
+    "explanation": "Google Trends 显示“jk dobbins”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：JK Dobbins can steal Kenneth Walker's thunder and prove Broncos right。这些报道来自 Predominantly Orange 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Miguel Borja Fires Up the Clásico Joven with a Cheeky Jab at Cruz Azul",
-        "url": "https://www.soyfutbol.com/en/news/miguel-borja-fires-up-the-clasico-joven-with-a-cheeky-jab-at-cruz-azul-20260912-0006.html",
-        "source": "Soy Futbol"
+        "title": "JK Dobbins can steal Kenneth Walker's thunder and prove Broncos right",
+        "url": "https://predominantlyorange.com/jk-dobbins-can-steal-kenneth-walker-thunder-and-prove-broncos-right-01m28wn8acty",
+        "source": "Predominantly Orange"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "cole young",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "200+",
-    "started": "Sat, 12 Sep 2026 21:40:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Seattle Sports 等媒体，因此带动了集中搜索。",
+    "title": "patrick mahomes",
+    "titleZh": "patrick mahomes",
+    "traffic": "1000+",
+    "started": "Sun, 13 Sep 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：Patrick Mahomes expected to start Chiefs' opener vs. Broncos on MNF。",
+    "explanation": "Google Trends 显示“patrick mahomes”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Patrick Mahomes expected to start Chiefs' opener vs. Broncos on MNF。这些报道来自 ESPN 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Mariners rookie Michael Arroyo blasts first career HR",
-        "url": "https://sports.mynorthwest.com/mlb/seattle-mariners/seattle-mariners-rookie-michael-arroyo-blasts-first-career-hr",
-        "source": "Seattle Sports"
+        "title": "Patrick Mahomes expected to start Chiefs' opener vs. Broncos on MNF",
+        "url": "https://www.espn.com/nfl/story/_/id/49870606/patrick-mahomes-expected-start-chiefs-opener-vs-broncos-mnf",
+        "source": "ESPN"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "wendy williams",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title": "rashee rice",
+    "titleZh": "rashee rice",
     "traffic": "500+",
-    "started": "Sat, 12 Sep 2026 21:30:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 theJasmineBRAND 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 13 Sep 2026 20:40:00 -0700",
+    "summary": "相关新闻主要集中在：Rashee Rice Week 1 Outlook for Fantasy Football (2026)。",
+    "explanation": "Google Trends 显示“rashee rice”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Rashee Rice Week 1 Outlook for Fantasy Football (2026)。这些报道来自 RotoBaller 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "‘Wendy Williams Show’ Producer Norman Baker Says He Refused To Participate In Documentaries About Wendy Williams: ‘I Don’t Wanna Be Involved In Trashing Her’",
-        "url": "https://thejasminebrand.com/2026/09/07/wendy-williams-show-producer-norman-baker-says-he-refused-to-participate-in-documentaries-about-wendy-williams-i-dont-wanna-be-involved-in-trashing-her/",
-        "source": "theJasmineBRAND"
+        "title": "Rashee Rice Week 1 Outlook for Fantasy Football (2026)",
+        "url": "https://www.rotoballer.com/player-news/rashee-rice-off-injury-report-ready-to-roll-against-denver/1929817",
+        "source": "RotoBaller"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "henry cavill",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title": "chevrolet silverado",
+    "titleZh": "chevrolet silverado",
     "traffic": "1000+",
-    "started": "Sat, 12 Sep 2026 21:30:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Montclair Local News 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 13 Sep 2026 20:30:00 -0700",
+    "summary": "相关新闻主要集中在：Full size trucks and SUVs given thicker oil instead of a new 6.2 liter V8 under a recall are still turning up with failed engine bearings, and federal regulators have logged hundreds of post repair complaints。",
+    "explanation": "Google Trends 显示“chevrolet silverado”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Full size trucks and SUVs given thicker oil instead of a new 6.2 liter V8 under a recall are still turning up with failed engine bearings, and federal regulators have logged hundreds of post repair complaints。这些报道来自 EcoPortal.net 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Kevin Hart, Henry Cavill Spy Movie Films in Glen Ridge",
-        "url": "https://montclairlocal.news/2026/09/kevin-hart-henry-cavill-spy-movie-films-in-glen-ridge/",
-        "source": "Montclair Local News"
+        "title": "Full size trucks and SUVs given thicker oil instead of a new 6.2 liter V8 under a recall are still turning up with failed engine bearings, and federal regulators have logged hundreds of post repair complaints",
+        "url": "https://www.ecoportal.net/en/full-size-trucks-suvs-given-thicker/36969/",
+        "source": "EcoPortal.net"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "mariners - athletics",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "traffic": "2000+",
-    "started": "Sat, 12 Sep 2026 21:30:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 MLB.com 等媒体，因此带动了集中搜索。",
+    "title": "stephen a smith",
+    "titleZh": "stephen a smith",
+    "traffic": "1000+",
+    "started": "Sun, 13 Sep 2026 20:30:00 -0700",
+    "summary": "相关新闻主要集中在：Stephen A. Smith Announces Skip Bayless' Return to 'First Take' in Part-Time Role。",
+    "explanation": "Google Trends 显示“stephen a smith”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Stephen A. Smith Announces Skip Bayless' Return to 'First Take' in Part-Time Role。这些报道来自 Bleacher Report 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "MLB Gameday: Cardinals 8, Dodgers 6 Final Score (09/02/2026)",
-        "url": "https://www.mlb.com/gameday/cardinals-vs-dodgers/2026/09/02/823906/final/box",
-        "source": "MLB.com"
+        "title": "Stephen A. Smith Announces Skip Bayless' Return to 'First Take' in Part-Time Role",
+        "url": "https://bleacherreport.com/articles/25498376-stephen-smith-announces-skip-bayless-return-first-take-part-time-role",
+        "source": "Bleacher Report"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "trent mosley",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title": "santos laguna vs fc juárez standings",
+    "titleZh": "santos laguna vs fc juárez standings",
     "traffic": "1000+",
-    "started": "Sat, 12 Sep 2026 21:20:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 Annenberg Media 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 13 Sep 2026 20:20:00 -0700",
+    "summary": "相关新闻主要集中在：SANTOS LAGUNA LAUNCHES SPECIAL PROMOTION FOR ITS ANNIVERSARY AGAINST FC JUÁREZ。",
+    "explanation": "Google Trends 显示“santos laguna vs fc juárez standings”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：SANTOS LAGUNA LAUNCHES SPECIAL PROMOTION FOR ITS ANNIVERSARY AGAINST FC JUÁREZ。这些报道来自 Santos Laguna 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Mosley, Dixon-Wyatt continue thrilling starts to their freshman seasons amidst Tanook Hines’ return to action",
-        "url": "https://www.uscannenbergmedia.com/2026/09/07/mosley-dixon-wyatt-continue-thrilling-starts-to-their-freshman-seasons-amidst-tanook-hines-return-to-action/",
-        "source": "Annenberg Media"
+        "title": "SANTOS LAGUNA LAUNCHES SPECIAL PROMOTION FOR ITS ANNIVERSARY AGAINST FC JUÁREZ",
+        "url": "https://www.clubsantos.mx/en/news/santos-laguna-lanza-promocion-especial-por-su-aniversario-ante-fc-juarez",
+        "source": "Santos Laguna"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "kristi noem",
-    "titleZh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title": "chivas vs america",
+    "titleZh": "chivas vs america",
     "traffic": "500+",
-    "started": "Sat, 12 Sep 2026 21:20:00 -0700",
-    "summary": "相关新闻主要集中在：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。",
-    "explanation": "Google Trends 显示“Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.。这些报道来自 MS NOW 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 13 Sep 2026 20:20:00 -0700",
+    "summary": "相关新闻主要集中在：Gabriel Milito resta presión al Clásico ante América: “Respetamos a todos por igual; nuestro compromiso es con nosotros mismos”。",
+    "explanation": "Google Trends 显示“chivas vs america”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Gabriel Milito resta presión al Clásico ante América: “Respetamos a todos por igual; nuestro compromiso es con nosotros mismos”。这些报道来自 MARCA 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "WSJ: DHS IG investigating Corey Lewandowski of improperly awarding contracts, personal enrichment",
-        "url": "https://www.ms.now/katy-tur/watch/wsj-dhs-ig-investigating-corey-lewandowski-for-improperly-awarding-contracts-personal-enrichment-2513459267844",
-        "source": "MS NOW"
+        "title": "Gabriel Milito resta presión al Clásico ante América: “Respetamos a todos por igual; nuestro compromiso es con nosotros mismos”",
+        "url": "https://www.marca.com/mx/futbol/2026/09/14/gabriel-milito-resta-presion-clasico-america-respetamos-todos-igual-nuestro-compromiso-nosotros-video.html",
+        "source": "MARCA"
       }
     ]
   }
