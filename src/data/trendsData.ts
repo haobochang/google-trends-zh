@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "kurt warner",
-    "titleZh": "kurt warner",
+    "title": "robert downey jr",
+    "titleZh": "robert downey jr",
     "traffic": "200+",
-    "started": "Mon, 14 Sep 2026 22:20:00 -0700",
-    "summary": "相关新闻主要集中在：David Blough picked worst time to get cute with Commanders offense。",
-    "explanation": "Google Trends 显示“kurt warner”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：David Blough picked worst time to get cute with Commanders offense。这些报道来自 Yardbarker 等媒体，因此带动了集中搜索。",
+    "started": "Tue, 15 Sep 2026 22:30:00 -0700",
+    "summary": "相关新闻主要集中在：'The Investigation Went on for Months': How Did David Harbour Keep Working With Millie Bobby Brown?。",
+    "explanation": "Google Trends 显示“robert downey jr”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：'The Investigation Went on for Months': How Did David Harbour Keep Working With Millie Bobby Brown?。这些报道来自 International Business Times UK 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "David Blough picked worst time to get cute with Commanders offense",
-        "url": "https://www.yardbarker.com/nfl/articles/david_blough_picked_worst_time_to_get_cute_with_commanders_offense/s1_13132_44300468",
-        "source": "Yardbarker"
+        "title": "'The Investigation Went on for Months': How Did David Harbour Keep Working With Millie Bobby Brown?",
+        "url": "https://www.ibtimes.co.uk/david-harbour-millie-bobby-brown-reunite-controversies-1818738",
+        "source": "International Business Times UK"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "tennis scores today",
-    "titleZh": "tennis scores today",
-    "traffic": "1000+",
-    "started": "Mon, 14 Sep 2026 22:10:00 -0700",
-    "summary": "相关新闻主要集中在：All the celebrities at the US Open finals: Brad Pitt, Martha Stewart, Courteney Cox and more。",
-    "explanation": "Google Trends 显示“tennis scores today”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：All the celebrities at the US Open finals: Brad Pitt, Martha Stewart, Courteney Cox and more。这些报道来自 Page Six 等媒体，因此带动了集中搜索。",
+    "title": "mike rogers",
+    "titleZh": "mike rogers",
+    "traffic": "200+",
+    "started": "Tue, 15 Sep 2026 22:10:00 -0700",
+    "summary": "相关新闻主要集中在：El-Sayed Forced To Debate Empty Podium After Republican Dodges。",
+    "explanation": "Google Trends 显示“mike rogers”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：El-Sayed Forced To Debate Empty Podium After Republican Dodges。这些报道来自 HuffPost 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "All the celebrities at the US Open finals: Brad Pitt, Martha Stewart, Courteney Cox and more",
-        "url": "https://pagesix.com/2026/09/13/photos/all-the-celebrities-at-the-us-open-finals-brad-pitt-martha-stewart-courteney-cox-and-more/",
-        "source": "Page Six"
+        "title": "El-Sayed Forced To Debate Empty Podium After Republican Dodges",
+        "url": "https://www.huffpost.com/entry/abdul-el-sayed-mike-rogers-debate_n_6aa9e04de4b03cde7fad6e6c",
+        "source": "HuffPost"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "what is a data breach",
-    "titleZh": "what is a data breach",
-    "traffic": "1000+",
-    "started": "Mon, 14 Sep 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：Revolut gave customer IDs and financial data to a government impostor。",
-    "explanation": "Google Trends 显示“what is a data breach”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Revolut gave customer IDs and financial data to a government impostor。这些报道来自 Malwarebytes 等媒体，因此带动了集中搜索。",
+    "title": "claudia sheinbaum",
+    "titleZh": "claudia sheinbaum",
+    "traffic": "5000+",
+    "started": "Tue, 15 Sep 2026 22:00:00 -0700",
+    "summary": "相关新闻主要集中在：Miles de personas se reúnen en el Zócalo de la Ciudad de México para el Grito de Independencia。",
+    "explanation": "Google Trends 显示“claudia sheinbaum”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Miles de personas se reúnen en el Zócalo de la Ciudad de México para el Grito de Independencia。这些报道来自 Telemundo 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Revolut gave customer IDs and financial data to a government impostor",
-        "url": "https://www.malwarebytes.com/blog/news/2026/09/revolut-gave-customer-ids-and-financial-data-to-a-government-impostor",
-        "source": "Malwarebytes"
+        "title": "Miles de personas se reúnen en el Zócalo de la Ciudad de México para el Grito de Independencia",
+        "url": "https://www.telemundo.com/noticias/noticias-telemundo-en-la-noche/internacional/video/miles-de-personas-se-reunen-en-el-zocalo-de-la-ciudad-de-mexico-para-el-grito-de-independencia-tmvo13224226",
+        "source": "Telemundo"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "cryptocurrency trading",
-    "titleZh": "cryptocurrency trading",
+    "title": "high potential",
+    "titleZh": "high potential",
     "traffic": "500+",
-    "started": "Mon, 14 Sep 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：An attempt to perform cryptocurrency day trading using 166,700 virtual neurons based on the brain of a fly.。",
-    "explanation": "Google Trends 显示“cryptocurrency trading”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：An attempt to perform cryptocurrency day trading using 166,700 virtual neurons based on the brain of a fly.。这些报道来自 GIGAZINE 等媒体，因此带动了集中搜索。",
+    "started": "Tue, 15 Sep 2026 22:00:00 -0700",
+    "summary": "相关新闻主要集中在：‘High Potential’ Season 3 Release Date: When Is ‘High Potential’ Coming Back For Season 3?。",
+    "explanation": "Google Trends 显示“high potential”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：‘High Potential’ Season 3 Release Date: When Is ‘High Potential’ Coming Back For Season 3?。这些报道来自 Decider 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "An attempt to perform cryptocurrency day trading using 166,700 virtual neurons based on the brain of a fly.",
-        "url": "https://gigazine.net/gsc_news/en/20260914-stonkfly-malecns-v1-0-crypto/",
-        "source": "GIGAZINE"
+        "title": "‘High Potential’ Season 3 Release Date: When Is ‘High Potential’ Coming Back For Season 3?",
+        "url": "https://decider.com/2026/09/15/high-potential-season-3-release-date-when-high-potential-coming-back-season-3/",
+        "source": "Decider"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "artificial intelligence news",
-    "titleZh": "artificial intelligence news",
-    "traffic": "2000+",
-    "started": "Mon, 14 Sep 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：Trump’s AI Defense Defies Voter Unease Heading Into Midterms。",
-    "explanation": "Google Trends 显示“artificial intelligence news”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Trump’s AI Defense Defies Voter Unease Heading Into Midterms。这些报道来自 Bloomberg.com 等媒体，因此带动了集中搜索。",
+    "title": "michael jordan",
+    "titleZh": "michael jordan",
+    "traffic": "200+",
+    "started": "Tue, 15 Sep 2026 21:50:00 -0700",
+    "summary": "相关新闻主要集中在：Sophie Cunningham's Football Kick Doesn't Go As Planned in Funny Video Before NASCAR Race。",
+    "explanation": "Google Trends 显示“michael jordan”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Sophie Cunningham's Football Kick Doesn't Go As Planned in Funny Video Before NASCAR Race。这些报道来自 Bleacher Report 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Trump’s AI Defense Defies Voter Unease Heading Into Midterms",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-15/trump-s-ai-defense-defies-voter-unease-heading-into-midterms",
-        "source": "Bloomberg.com"
+        "title": "Sophie Cunningham's Football Kick Doesn't Go As Planned in Funny Video Before NASCAR Race",
+        "url": "https://bleacherreport.com/articles/25498963-sophie-cunninghams-football-kick-doesnt-go-planned-funny-video-nascar-race",
+        "source": "Bleacher Report"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "latest iphone rumors",
-    "titleZh": "latest iphone rumors",
-    "traffic": "2000+",
-    "started": "Mon, 14 Sep 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：iPhone 20 rumors are taking shape: 10 features Apple could introduce in 2027。",
-    "explanation": "Google Trends 显示“latest iphone rumors”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：iPhone 20 rumors are taking shape: 10 features Apple could introduce in 2027。这些报道来自 Gulf Business 等媒体，因此带动了集中搜索。",
+    "title": "angels",
+    "titleZh": "angels",
+    "traffic": "1000+",
+    "started": "Tue, 15 Sep 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：Johnson's incredible turnaround continues with another dominant start。",
+    "explanation": "Google Trends 显示“angels”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Johnson's incredible turnaround continues with another dominant start。这些报道来自 MLB.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "iPhone 20 rumors are taking shape: 10 features Apple could introduce in 2027",
-        "url": "https://gulfbusiness.com/en/2026/gadgets/iphone-20-rumors-are-taking-shape-10-features-apple-could-introduce-in-2027/",
-        "source": "Gulf Business"
+        "title": "Johnson's incredible turnaround continues with another dominant start",
+        "url": "https://www.mlb.com/news/ryan-johnson-strikes-out-7-in-angels-win-over-mariners",
+        "source": "MLB.com"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "netflix top movies right now",
-    "titleZh": "netflix top movies right now",
-    "traffic": "2000+",
-    "started": "Mon, 14 Sep 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：3 Perfect Movies Taking Over Netflix This Week (#1 Is a Taylor Sheridan Thriller)。",
-    "explanation": "Google Trends 显示“netflix top movies right now”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：3 Perfect Movies Taking Over Netflix This Week (#1 Is a Taylor Sheridan Thriller)。这些报道来自 Collider 等媒体，因此带动了集中搜索。",
+    "title": "stephen colbert",
+    "titleZh": "stephen colbert",
+    "traffic": "1000+",
+    "started": "Tue, 15 Sep 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：Stephen Colbert Says 'Free Speech Is Alive and Well' After Emmy Win Despite CBS Cancellation。",
+    "explanation": "Google Trends 显示“stephen colbert”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Stephen Colbert Says 'Free Speech Is Alive and Well' After Emmy Win Despite CBS Cancellation。这些报道来自 Variety 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "3 Perfect Movies Taking Over Netflix This Week (#1 Is a Taylor Sheridan Thriller)",
-        "url": "https://collider.com/best-netflix-movies-watch-september-14-2026/",
-        "source": "Collider"
+        "title": "Stephen Colbert Says 'Free Speech Is Alive and Well' After Emmy Win Despite CBS Cancellation",
+        "url": "https://variety.com/2026/tv/news/stephen-colbert-free-speech-emmy-win-cbs-cancellation-1236862571/",
+        "source": "Variety"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "nfl schedule this week",
-    "titleZh": "nfl schedule this week",
-    "traffic": "2000+",
-    "started": "Mon, 14 Sep 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：Want Bills vs. Lions tickets? Here are best available prices for Highmark Stadium opener。",
-    "explanation": "Google Trends 显示“nfl schedule this week”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Want Bills vs. Lions tickets? Here are best available prices for Highmark Stadium opener。这些报道来自 Democrat and Chronicle 等媒体，因此带动了集中搜索。",
+    "title": "helen mirren",
+    "titleZh": "helen mirren",
+    "traffic": "1000+",
+    "started": "Tue, 15 Sep 2026 20:40:00 -0700",
+    "summary": "相关新闻主要集中在：Helen Mirren on playing 'tortured' author Patricia Highsmith in TIFF film。",
+    "explanation": "Google Trends 显示“helen mirren”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Helen Mirren on playing 'tortured' author Patricia Highsmith in TIFF film。这些报道来自 CBC 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Want Bills vs. Lions tickets? Here are best available prices for Highmark Stadium opener",
-        "url": "https://www.democratandchronicle.com/story/sports/football/nfl/bills/2026/09/14/buffalo-bills-tickets-detroit-lions-week-2-game-highmark-stadium/91757974007/",
-        "source": "Democrat and Chronicle"
+        "title": "Helen Mirren on playing 'tortured' author Patricia Highsmith in TIFF film",
+        "url": "https://www.cbc.ca/player/play/video/9.7344898",
+        "source": "CBC"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "stock market news today",
-    "titleZh": "stock market news today",
-    "traffic": "5000+",
-    "started": "Mon, 14 Sep 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：Oil and Treasury yields haven’t moved this closely in seven years. That’s bad news for markets。",
-    "explanation": "Google Trends 显示“stock market news today”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Oil and Treasury yields haven’t moved this closely in seven years. That’s bad news for markets。这些报道来自 CNBC 等媒体，因此带动了集中搜索。",
+    "title": "winnie harlow",
+    "titleZh": "winnie harlow",
+    "traffic": "500+",
+    "started": "Tue, 15 Sep 2026 20:10:00 -0700",
+    "summary": "相关新闻主要集中在：Former L.A. Home of Supermodel Winnie Harlow Lists for $4.5 Million。",
+    "explanation": "Google Trends 显示“winnie harlow”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Former L.A. Home of Supermodel Winnie Harlow Lists for $4.5 Million。这些报道来自 Mansion Global 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Oil and Treasury yields haven’t moved this closely in seven years. That’s bad news for markets",
-        "url": "https://www.cnbc.com/2026/09/15/oil-us-treasurys-stocks-pressure.html",
-        "source": "CNBC"
+        "title": "Former L.A. Home of Supermodel Winnie Harlow Lists for $4.5 Million",
+        "url": "https://www.mansionglobal.com/articles/former-l-a-home-of-supermodel-winnie-harlow-lists-for-4-5-million-12b59b6c",
+        "source": "Mansion Global"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "kaia gerber",
-    "titleZh": "kaia gerber",
-    "traffic": "1000+",
-    "started": "Mon, 14 Sep 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：Kaia Gerber Goes Pantsless, Wearing Nothing but This Trendy Outerwear as a Top。",
-    "explanation": "Google Trends 显示“kaia gerber”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Kaia Gerber Goes Pantsless, Wearing Nothing but This Trendy Outerwear as a Top。这些报道来自 InStyle 等媒体，因此带动了集中搜索。",
+    "title": "astros standings",
+    "titleZh": "astros standings",
+    "traffic": "500+",
+    "started": "Tue, 15 Sep 2026 20:00:00 -0700",
+    "summary": "相关新闻主要集中在：How Latest Carlos Correa Injury News Impacts Astros, AL West Race。",
+    "explanation": "Google Trends 显示“astros standings”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：How Latest Carlos Correa Injury News Impacts Astros, AL West Race。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Kaia Gerber Goes Pantsless, Wearing Nothing but This Trendy Outerwear as a Top",
-        "url": "https://www.instyle.com/kaia-gerber-goes-pantsless-nothing-but-trendy-jacket-top-12115255",
-        "source": "InStyle"
+        "title": "How Latest Carlos Correa Injury News Impacts Astros, AL West Race",
+        "url": "https://sports.yahoo.com/articles/latest-carlos-correa-injury-news-010802597.html",
+        "source": "Yahoo Sports"
       }
     ]
   }
