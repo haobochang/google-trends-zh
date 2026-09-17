@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "robert downey jr",
-    "titleZh": "robert downey jr",
+    "title": "thema",
+    "titleZh": "thema",
     "traffic": "200+",
-    "started": "Tue, 15 Sep 2026 22:30:00 -0700",
-    "summary": "相关新闻主要集中在：'The Investigation Went on for Months': How Did David Harbour Keep Working With Millie Bobby Brown?。",
-    "explanation": "Google Trends 显示“robert downey jr”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：'The Investigation Went on for Months': How Did David Harbour Keep Working With Millie Bobby Brown?。这些报道来自 International Business Times UK 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 16 Sep 2026 22:50:00 -0700",
+    "summary": "相关新闻主要集中在：What to know about the deaths of 8 women in South Africa that have sparked fear and anger。",
+    "explanation": "Google Trends 显示“thema”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：What to know about the deaths of 8 women in South Africa that have sparked fear and anger。这些报道来自 AP News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "'The Investigation Went on for Months': How Did David Harbour Keep Working With Millie Bobby Brown?",
-        "url": "https://www.ibtimes.co.uk/david-harbour-millie-bobby-brown-reunite-controversies-1818738",
-        "source": "International Business Times UK"
+        "title": "What to know about the deaths of 8 women in South Africa that have sparked fear and anger",
+        "url": "https://apnews.com/article/south-africa-women-deaths-serial-killer-f105a2b307d8a22d3699043952999dec",
+        "source": "AP News"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "mike rogers",
-    "titleZh": "mike rogers",
-    "traffic": "200+",
-    "started": "Tue, 15 Sep 2026 22:10:00 -0700",
-    "summary": "相关新闻主要集中在：El-Sayed Forced To Debate Empty Podium After Republican Dodges。",
-    "explanation": "Google Trends 显示“mike rogers”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：El-Sayed Forced To Debate Empty Podium After Republican Dodges。这些报道来自 HuffPost 等媒体，因此带动了集中搜索。",
+    "title": "where to watch nfl games",
+    "titleZh": "where to watch nfl games",
+    "traffic": "500+",
+    "started": "Wed, 16 Sep 2026 22:30:00 -0700",
+    "summary": "相关新闻主要集中在：NFL Survivor Pool strategy: Best options for Week 2 after Chargers wipe out millions。",
+    "explanation": "Google Trends 显示“where to watch nfl games”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：NFL Survivor Pool strategy: Best options for Week 2 after Chargers wipe out millions。这些报道来自 SportsLine 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "El-Sayed Forced To Debate Empty Podium After Republican Dodges",
-        "url": "https://www.huffpost.com/entry/abdul-el-sayed-mike-rogers-debate_n_6aa9e04de4b03cde7fad6e6c",
-        "source": "HuffPost"
+        "title": "NFL Survivor Pool strategy: Best options for Week 2 after Chargers wipe out millions",
+        "url": "https://www.sportsline.com/insiders/nfl-survivor-pool-strategy-best-options-for-week-2-after-chargers-wipe-out-millions/",
+        "source": "SportsLine"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "claudia sheinbaum",
-    "titleZh": "claudia sheinbaum",
-    "traffic": "5000+",
-    "started": "Tue, 15 Sep 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：Miles de personas se reúnen en el Zócalo de la Ciudad de México para el Grito de Independencia。",
-    "explanation": "Google Trends 显示“claudia sheinbaum”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Miles de personas se reúnen en el Zócalo de la Ciudad de México para el Grito de Independencia。这些报道来自 Telemundo 等媒体，因此带动了集中搜索。",
+    "title": "tennis scores today",
+    "titleZh": "tennis scores today",
+    "traffic": "500+",
+    "started": "Wed, 16 Sep 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：This is how the race for the 2026 WTA Finals stands after the last Grand Slam of the year。",
+    "explanation": "Google Trends 显示“tennis scores today”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：This is how the race for the 2026 WTA Finals stands after the last Grand Slam of the year。这些报道来自 Puntodebreak 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Miles de personas se reúnen en el Zócalo de la Ciudad de México para el Grito de Independencia",
-        "url": "https://www.telemundo.com/noticias/noticias-telemundo-en-la-noche/internacional/video/miles-de-personas-se-reunen-en-el-zocalo-de-la-ciudad-de-mexico-para-el-grito-de-independencia-tmvo13224226",
-        "source": "Telemundo"
+        "title": "This is how the race for the 2026 WTA Finals stands after the last Grand Slam of the year",
+        "url": "https://www.puntodebreak.com/en/2026/09/13/this-is-how-the-race-for-the-2026-wta-finals-stands-after-the-last-grand-slam-of-the",
+        "source": "Puntodebreak"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "high potential",
-    "titleZh": "high potential",
+    "title": "artificial intelligence news",
+    "titleZh": "artificial intelligence news",
     "traffic": "500+",
-    "started": "Tue, 15 Sep 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：‘High Potential’ Season 3 Release Date: When Is ‘High Potential’ Coming Back For Season 3?。",
-    "explanation": "Google Trends 显示“high potential”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：‘High Potential’ Season 3 Release Date: When Is ‘High Potential’ Coming Back For Season 3?。这些报道来自 Decider 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 16 Sep 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior。",
+    "explanation": "Google Trends 显示“artificial intelligence news”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "‘High Potential’ Season 3 Release Date: When Is ‘High Potential’ Coming Back For Season 3?",
-        "url": "https://decider.com/2026/09/15/high-potential-season-3-release-date-when-high-potential-coming-back-season-3/",
-        "source": "Decider"
+        "title": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior",
+        "url": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
+        "source": "The New York Times"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "michael jordan",
-    "titleZh": "michael jordan",
-    "traffic": "200+",
-    "started": "Tue, 15 Sep 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：Sophie Cunningham's Football Kick Doesn't Go As Planned in Funny Video Before NASCAR Race。",
-    "explanation": "Google Trends 显示“michael jordan”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Sophie Cunningham's Football Kick Doesn't Go As Planned in Funny Video Before NASCAR Race。这些报道来自 Bleacher Report 等媒体，因此带动了集中搜索。",
+    "title": "netflix top movies right now",
+    "titleZh": "netflix top movies right now",
+    "traffic": "500+",
+    "started": "Wed, 16 Sep 2026 22:10:00 -0700",
+    "summary": "相关新闻主要集中在：‘Those Who Wish Me Dead’ Ending Explained: What Was Owen’s Secret?。",
+    "explanation": "Google Trends 显示“netflix top movies right now”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：‘Those Who Wish Me Dead’ Ending Explained: What Was Owen’s Secret?。这些报道来自 People.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Sophie Cunningham's Football Kick Doesn't Go As Planned in Funny Video Before NASCAR Race",
-        "url": "https://bleacherreport.com/articles/25498963-sophie-cunninghams-football-kick-doesnt-go-planned-funny-video-nascar-race",
-        "source": "Bleacher Report"
+        "title": "‘Those Who Wish Me Dead’ Ending Explained: What Was Owen’s Secret?",
+        "url": "https://people.com/those-who-wish-me-dead-ending-explained-12111301",
+        "source": "People.com"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "angels",
-    "titleZh": "angels",
-    "traffic": "1000+",
-    "started": "Tue, 15 Sep 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：Johnson's incredible turnaround continues with another dominant start。",
-    "explanation": "Google Trends 显示“angels”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Johnson's incredible turnaround continues with another dominant start。这些报道来自 MLB.com 等媒体，因此带动了集中搜索。",
+    "title": "what is a data breach",
+    "titleZh": "what is a data breach",
+    "traffic": "500+",
+    "started": "Wed, 16 Sep 2026 22:00:00 -0700",
+    "summary": "相关新闻主要集中在：CenterPoint says customer data taken after online post leaks information。",
+    "explanation": "Google Trends 显示“what is a data breach”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：CenterPoint says customer data taken after online post leaks information。这些报道来自 Chron 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Johnson's incredible turnaround continues with another dominant start",
-        "url": "https://www.mlb.com/news/ryan-johnson-strikes-out-7-in-angels-win-over-mariners",
-        "source": "MLB.com"
+        "title": "CenterPoint says customer data taken after online post leaks information",
+        "url": "https://www.chron.com/news/houston-texas/article/centerpoint-energy-data-leak-stolen-22433174.php",
+        "source": "Chron"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "stephen colbert",
-    "titleZh": "stephen colbert",
-    "traffic": "1000+",
-    "started": "Tue, 15 Sep 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：Stephen Colbert Says 'Free Speech Is Alive and Well' After Emmy Win Despite CBS Cancellation。",
-    "explanation": "Google Trends 显示“stephen colbert”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Stephen Colbert Says 'Free Speech Is Alive and Well' After Emmy Win Despite CBS Cancellation。这些报道来自 Variety 等媒体，因此带动了集中搜索。",
+    "title": "nfl schedule this week",
+    "titleZh": "nfl schedule this week",
+    "traffic": "500+",
+    "started": "Wed, 16 Sep 2026 22:00:00 -0700",
+    "summary": "相关新闻主要集中在：Ranking 5 NFL teams that need a win the most in Week 2, including the Cowboys and Patriots。",
+    "explanation": "Google Trends 显示“nfl schedule this week”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Ranking 5 NFL teams that need a win the most in Week 2, including the Cowboys and Patriots。这些报道来自 CBS Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Stephen Colbert Says 'Free Speech Is Alive and Well' After Emmy Win Despite CBS Cancellation",
-        "url": "https://variety.com/2026/tv/news/stephen-colbert-free-speech-emmy-win-cbs-cancellation-1236862571/",
-        "source": "Variety"
+        "title": "Ranking 5 NFL teams that need a win the most in Week 2, including the Cowboys and Patriots",
+        "url": "https://www.cbssports.com/nfl/news/ranking-5-nfl-teams-need-a-win-the-most-in-week-2/",
+        "source": "CBS Sports"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "helen mirren",
-    "titleZh": "helen mirren",
-    "traffic": "1000+",
-    "started": "Tue, 15 Sep 2026 20:40:00 -0700",
-    "summary": "相关新闻主要集中在：Helen Mirren on playing 'tortured' author Patricia Highsmith in TIFF film。",
-    "explanation": "Google Trends 显示“helen mirren”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Helen Mirren on playing 'tortured' author Patricia Highsmith in TIFF film。这些报道来自 CBC 等媒体，因此带动了集中搜索。",
+    "title": "cryptocurrency trading",
+    "titleZh": "cryptocurrency trading",
+    "traffic": "500+",
+    "started": "Wed, 16 Sep 2026 22:00:00 -0700",
+    "summary": "相关新闻主要集中在：Two Robinhood (HOOD) engineers face criminal charges for pre-listing Hyperliquid trades。",
+    "explanation": "Google Trends 显示“cryptocurrency trading”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Two Robinhood (HOOD) engineers face criminal charges for pre-listing Hyperliquid trades。这些报道来自 CoinDesk 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Helen Mirren on playing 'tortured' author Patricia Highsmith in TIFF film",
-        "url": "https://www.cbc.ca/player/play/video/9.7344898",
-        "source": "CBC"
+        "title": "Two Robinhood (HOOD) engineers face criminal charges for pre-listing Hyperliquid trades",
+        "url": "https://www.coindesk.com/business/2026/09/16/two-robinhood-engineers-charged-with-insider-trading-using-hyperliquid-perpetuals",
+        "source": "CoinDesk"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "winnie harlow",
-    "titleZh": "winnie harlow",
+    "title": "latest iphone rumors",
+    "titleZh": "latest iphone rumors",
     "traffic": "500+",
-    "started": "Tue, 15 Sep 2026 20:10:00 -0700",
-    "summary": "相关新闻主要集中在：Former L.A. Home of Supermodel Winnie Harlow Lists for $4.5 Million。",
-    "explanation": "Google Trends 显示“winnie harlow”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Former L.A. Home of Supermodel Winnie Harlow Lists for $4.5 Million。这些报道来自 Mansion Global 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 16 Sep 2026 22:00:00 -0700",
+    "summary": "相关新闻主要集中在：Should you buy Apple's iPhone 18 Pro now or wait until 2027?。",
+    "explanation": "Google Trends 显示“latest iphone rumors”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Should you buy Apple's iPhone 18 Pro now or wait until 2027?。这些报道来自 Báo VietNamNet 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Former L.A. Home of Supermodel Winnie Harlow Lists for $4.5 Million",
-        "url": "https://www.mansionglobal.com/articles/former-l-a-home-of-supermodel-winnie-harlow-lists-for-4-5-million-12b59b6c",
-        "source": "Mansion Global"
+        "title": "Should you buy Apple's iPhone 18 Pro now or wait until 2027?",
+        "url": "https://vietnamnet.vn/en/should-you-buy-apple-s-iphone-18-pro-now-or-wait-until-2027-2555817.html",
+        "source": "Báo VietNamNet"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "astros standings",
-    "titleZh": "astros standings",
-    "traffic": "500+",
-    "started": "Tue, 15 Sep 2026 20:00:00 -0700",
-    "summary": "相关新闻主要集中在：How Latest Carlos Correa Injury News Impacts Astros, AL West Race。",
-    "explanation": "Google Trends 显示“astros standings”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：How Latest Carlos Correa Injury News Impacts Astros, AL West Race。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "title": "matthew lillard scream",
+    "titleZh": "matthew lillard scream",
+    "traffic": "5000+",
+    "started": "Wed, 16 Sep 2026 21:50:00 -0700",
+    "summary": "相关新闻主要集中在：Matthew Lillard Knows Scream 7 Was on ‘the Wrong Side of History’。",
+    "explanation": "Google Trends 显示“matthew lillard scream”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Matthew Lillard Knows Scream 7 Was on ‘the Wrong Side of History’。这些报道来自 Vulture 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "How Latest Carlos Correa Injury News Impacts Astros, AL West Race",
-        "url": "https://sports.yahoo.com/articles/latest-carlos-correa-injury-news-010802597.html",
-        "source": "Yahoo Sports"
+        "title": "Matthew Lillard Knows Scream 7 Was on ‘the Wrong Side of History’",
+        "url": "https://www.vulture.com/article/matthew-lillard-ashamed-scream-7.html",
+        "source": "Vulture"
       }
     ]
   }
