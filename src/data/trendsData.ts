@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "japan",
-    "titleZh": "japan",
+    "title": "nico iamaleava",
+    "titleZh": "nico iamaleava",
     "traffic": "100+",
-    "started": "Fri, 18 Sep 2026 22:40:00 -0700",
-    "summary": "相关新闻主要集中在：Chinese delegation takes part in Asian Games welcome ceremony — ECNS。",
-    "explanation": "Google Trends 显示“japan”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Chinese delegation takes part in Asian Games welcome ceremony — ECNS。这些报道来自 UA.NEWS 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 19 Sep 2026 23:00:00 -0700",
+    "summary": "相关新闻主要集中在：UCLA Football Mailbag: Nico Iamaleava Faces Major Questions。",
+    "explanation": "Google Trends 显示“nico iamaleava”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：UCLA Football Mailbag: Nico Iamaleava Faces Major Questions。这些报道来自 Merced Sun-Star 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Chinese delegation takes part in Asian Games welcome ceremony — ECNS",
-        "url": "https://ua.news/en/world/delegatsiia-kitaiu-vziala-uchast-u-vitalnii-tseremoniyi-aziiskikh-igor-ecns",
-        "source": "UA.NEWS"
+        "title": "UCLA Football Mailbag: Nico Iamaleava Faces Major Questions",
+        "url": "https://www.mercedsunstar.com/sports/article317304518.html",
+        "source": "Merced Sun-Star"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "will smith",
-    "titleZh": "will smith",
+    "title": "draftkings free bet",
+    "titleZh": "draftkings free bet",
     "traffic": "200+",
-    "started": "Fri, 18 Sep 2026 22:20:00 -0700",
-    "summary": "相关新闻主要集中在：Jada Pinkett Smith's incredible figure in daring looks from bikinis to sheer dresses as star turns 55。",
-    "explanation": "Google Trends 显示“will smith”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Jada Pinkett Smith's incredible figure in daring looks from bikinis to sheer dresses as star turns 55。这些报道来自 HELLO! Magazine 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 19 Sep 2026 22:30:00 -0700",
+    "summary": "相关新闻主要集中在：DraftKings Allegedly Used AI to Target Bonus Bets at Customers Expected to Lose the Most。",
+    "explanation": "Google Trends 显示“draftkings free bet”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：DraftKings Allegedly Used AI to Target Bonus Bets at Customers Expected to Lose the Most。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Jada Pinkett Smith's incredible figure in daring looks from bikinis to sheer dresses as star turns 55",
-        "url": "https://www.hellomagazine.com/us/924260/jada-pinkett-smith-insane-figure-hottest-looks-bikinis-sheer-dresses/",
-        "source": "HELLO! Magazine"
+        "title": "DraftKings Allegedly Used AI to Target Bonus Bets at Customers Expected to Lose the Most",
+        "url": "https://www.yahoo.com/news/us/articles/draftkings-used-ai-target-bonus-174226924.html",
+        "source": "Yahoo"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "convenience store",
-    "titleZh": "convenience store",
-    "traffic": "1000+",
-    "started": "Fri, 18 Sep 2026 22:20:00 -0700",
-    "summary": "相关新闻主要集中在：Buc-ee’s awarded $850,000 in trademark infringement settlement。",
-    "explanation": "Google Trends 显示“convenience store”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Buc-ee’s awarded $850,000 in trademark infringement settlement。这些报道来自 CSP Daily News 等媒体，因此带动了集中搜索。",
+    "title": "india",
+    "titleZh": "india",
+    "traffic": "100+",
+    "started": "Sat, 19 Sep 2026 22:30:00 -0700",
+    "summary": "相关新闻主要集中在：20th Asian Games: women's 10m air rifle team final。",
+    "explanation": "Google Trends 显示“india”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：20th Asian Games: women's 10m air rifle team final。这些报道来自 Xinhua 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Buc-ee’s awarded $850,000 in trademark infringement settlement",
-        "url": "https://cspdailynews.com/company-news/buc-ees-awarded-850000-trademark-infringement-settlement",
-        "source": "CSP Daily News"
+        "title": "20th Asian Games: women's 10m air rifle team final",
+        "url": "https://english.news.cn/20260920/30e12f4c565d4af293af54e9ac3d79d6/c.html",
+        "source": "Xinhua"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "diesel fuel",
-    "titleZh": "diesel fuel",
-    "traffic": "5000+",
-    "started": "Fri, 18 Sep 2026 22:10:00 -0700",
-    "summary": "相关新闻主要集中在：Record US diesel prices squeeze farmers; food prices may rise。",
-    "explanation": "Google Trends 显示“diesel fuel”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Record US diesel prices squeeze farmers; food prices may rise。这些报道来自 Reuters 等媒体，因此带动了集中搜索。",
+    "title": "mlb wild card standings",
+    "titleZh": "mlb wild card standings",
+    "traffic": "200+",
+    "started": "Sat, 19 Sep 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：Here’s what the AL is missing down the stretch: A team that’s charging like the ’73 Mets。",
+    "explanation": "Google Trends 显示“mlb wild card standings”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Here’s what the AL is missing down the stretch: A team that’s charging like the ’73 Mets。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Record US diesel prices squeeze farmers; food prices may rise",
-        "url": "https://www.reuters.com/business/energy/record-us-diesel-prices-squeeze-farmers-food-prices-may-rise-2026-09-18/",
-        "source": "Reuters"
+        "title": "Here’s what the AL is missing down the stretch: A team that’s charging like the ’73 Mets",
+        "url": "https://www.nytimes.com/athletic/7602248/2026/09/17/mlb-playoffs-american-league-stretch-run-1973-mets/",
+        "source": "The New York Times"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "gas",
-    "titleZh": "gas",
-    "traffic": "1000+",
-    "started": "Fri, 18 Sep 2026 22:10:00 -0700",
-    "summary": "相关新闻主要集中在：Ohio diesel prices hit record high as gas prices surge。",
-    "explanation": "Google Trends 显示“gas”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Ohio diesel prices hit record high as gas prices surge。这些报道来自 10TV 等媒体，因此带动了集中搜索。",
+    "title": "carlos álvarez",
+    "titleZh": "carlos álvarez",
+    "traffic": "500+",
+    "started": "Sat, 19 Sep 2026 22:10:00 -0700",
+    "summary": "相关新闻主要集中在：Calos Álvarez asegura que América sería Top 6 en España y confiesa el apodo que NO le gusta。",
+    "explanation": "Google Trends 显示“carlos álvarez”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Calos Álvarez asegura que América sería Top 6 en España y confiesa el apodo que NO le gusta。这些报道来自 Fox Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Ohio diesel prices hit record high as gas prices surge",
-        "url": "https://www.10tv.com/article/news/local/ohio-diesel-prices-record-high-gas-prices-surge/530-6d2ff9a4-72d5-47e0-8ea3-7110c1ea5dad",
-        "source": "10TV"
+        "title": "Calos Álvarez asegura que América sería Top 6 en España y confiesa el apodo que NO le gusta",
+        "url": "https://www.foxsports.com.mx/2026/09/17/calos-alvarez-asegura-que-america-seria-top-6-en-espana-y-confiesa-el-apodo-que-no-le-gusta/",
+        "source": "Fox Sports"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "fuel",
-    "titleZh": "fuel",
-    "traffic": "1000+",
-    "started": "Fri, 18 Sep 2026 22:10:00 -0700",
-    "summary": "相关新闻主要集中在：Major airlines cut flights as higher jet fuel prices hit carriers。",
-    "explanation": "Google Trends 显示“fuel”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Major airlines cut flights as higher jet fuel prices hit carriers。这些报道来自 Fox Business 等媒体，因此带动了集中搜索。",
+    "title": "carlos alvarez america",
+    "titleZh": "carlos alvarez america",
+    "traffic": "200+",
+    "started": "Sat, 19 Sep 2026 22:10:00 -0700",
+    "summary": "相关新闻主要集中在：Chivas apagó el ataque de Almada: de ocho goles en cinco partidos, a dos en seis juegos。",
+    "explanation": "Google Trends 显示“carlos alvarez america”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Chivas apagó el ataque de Almada: de ocho goles en cinco partidos, a dos en seis juegos。这些报道来自 Sports Illustrated 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Major airlines cut flights as higher jet fuel prices hit carriers",
-        "url": "https://www.foxbusiness.com/markets/major-airlines-cut-flights-higher-jet-fuel-prices-hit-carriers",
-        "source": "Fox Business"
+        "title": "Chivas apagó el ataque de Almada: de ocho goles en cinco partidos, a dos en seis juegos",
+        "url": "https://www.si.com/mx/liga-mx/chivas-apago-ataque-almada-ocho-goles-cinco-partidos-a-dos-seis-juegos",
+        "source": "Sports Illustrated"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "betmgm sportsbook",
-    "titleZh": "betmgm sportsbook",
-    "traffic": "200+",
-    "started": "Fri, 18 Sep 2026 22:10:00 -0700",
-    "summary": "相关新闻主要集中在：bet365 Review Canada 2026: Bonuses, App & Sportsbook。",
-    "explanation": "Google Trends 显示“betmgm sportsbook”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：bet365 Review Canada 2026: Bonuses, App & Sportsbook。这些报道来自 ToffeeWeb 等媒体，因此带动了集中搜索。",
+    "title": "cat species",
+    "titleZh": "cat species",
+    "traffic": "1000+",
+    "started": "Sat, 19 Sep 2026 22:00:00 -0700",
+    "summary": "相关新闻主要集中在：New wild cat species discovered after hiding in plain sight for more than a century。",
+    "explanation": "Google Trends 显示“cat species”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：New wild cat species discovered after hiding in plain sight for more than a century。这些报道来自 FOX Weather 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "bet365 Review Canada 2026: Bonuses, App & Sportsbook",
-        "url": "https://www.toffeeweb.com/ca/bet365-review/",
-        "source": "ToffeeWeb"
+        "title": "New wild cat species discovered after hiding in plain sight for more than a century",
+        "url": "https://www.foxweather.com/earth-space/new-species-cat-discovered-first-time-over-100-years",
+        "source": "FOX Weather"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "betmgm",
-    "titleZh": "betmgm",
-    "traffic": "200+",
-    "started": "Fri, 18 Sep 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：BetMGM Bonus Code COVERS: Get up to $1,500 Bonus Bets for Lions vs. Bills。",
-    "explanation": "Google Trends 显示“betmgm”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：BetMGM Bonus Code COVERS: Get up to $1,500 Bonus Bets for Lions vs. Bills。这些报道来自 Covers.com 等媒体，因此带动了集中搜索。",
+    "title": "ca lottery",
+    "titleZh": "ca lottery",
+    "traffic": "100+",
+    "started": "Sat, 19 Sep 2026 22:00:00 -0700",
+    "summary": "相关新闻主要集中在：Top stories: Mega Millions winner in Fresno. Selma ‘healer’ charged. Fulton Street for sale。",
+    "explanation": "Google Trends 显示“ca lottery”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Top stories: Mega Millions winner in Fresno. Selma ‘healer’ charged. Fulton Street for sale。这些报道来自 Fresno Bee 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "BetMGM Bonus Code COVERS: Get up to $1,500 Bonus Bets for Lions vs. Bills",
-        "url": "https://www.covers.com/daily-promos/betmgm-bonus-code-nfl-lions-bills-week-2-9-17-2026",
-        "source": "Covers.com"
+        "title": "Top stories: Mega Millions winner in Fresno. Selma ‘healer’ charged. Fulton Street for sale",
+        "url": "https://www.fresnobee.com/news/local/article317276045.html",
+        "source": "Fresno Bee"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "pluto tv",
-    "titleZh": "pluto tv",
-    "traffic": "100+",
-    "started": "Fri, 18 Sep 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：Pluto TV’s Black Cinema Rewind Is Bringing Classic Throwback Movies Directly To You!。",
-    "explanation": "Google Trends 显示“pluto tv”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Pluto TV’s Black Cinema Rewind Is Bringing Classic Throwback Movies Directly To You!。这些报道来自 Scenes In Color 等媒体，因此带动了集中搜索。",
+    "title": "tesla roadster",
+    "titleZh": "tesla roadster",
+    "traffic": "1000+",
+    "started": "Sat, 19 Sep 2026 21:50:00 -0700",
+    "summary": "相关新闻主要集中在：Tesla Reopens Roadster Reservations Ahead of Public Reveal。",
+    "explanation": "Google Trends 显示“tesla roadster”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Tesla Reopens Roadster Reservations Ahead of Public Reveal。这些报道来自 Not a Tesla App 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Pluto TV’s Black Cinema Rewind Is Bringing Classic Throwback Movies Directly To You!",
-        "url": "https://scenesincolor.substack.com/p/pluto-tvs-black-cinema-rewind-is",
-        "source": "Scenes In Color"
+        "title": "Tesla Reopens Roadster Reservations Ahead of Public Reveal",
+        "url": "https://www.notateslaapp.com/news/4709/tesla-reopens-roadster-reservations-ahead-of-october-1-unveil",
+        "source": "Not a Tesla App"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "draftkings vs fanduel",
-    "titleZh": "draftkings vs fanduel",
-    "traffic": "2000+",
-    "started": "Fri, 18 Sep 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：It’s one of the most interesting weeks of the NFL season. Here’s what you need to know for Week 2。",
-    "explanation": "Google Trends 显示“draftkings vs fanduel”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：It’s one of the most interesting weeks of the NFL season. Here’s what you need to know for Week 2。这些报道来自 CNN 等媒体，因此带动了集中搜索。",
+    "title": "blade",
+    "titleZh": "blade",
+    "traffic": "200+",
+    "started": "Sat, 19 Sep 2026 21:50:00 -0700",
+    "summary": "相关新闻主要集中在：Tokyo Game Show: Stellar Blade debuts on Nintendo Switch 2 + Pre-order bonuses。",
+    "explanation": "Google Trends 显示“blade”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Tokyo Game Show: Stellar Blade debuts on Nintendo Switch 2 + Pre-order bonuses。这些报道来自 Nintendo-Online.de 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "It’s one of the most interesting weeks of the NFL season. Here’s what you need to know for Week 2",
-        "url": "https://www.cnn.com/2026/09/17/sport/nfl-week-2-what-to-know",
-        "source": "CNN"
+        "title": "Tokyo Game Show: Stellar Blade debuts on Nintendo Switch 2 + Pre-order bonuses",
+        "url": "https://nintendo-online.de/en/news/id/38063/tokyo-game-show-stellar-blade-debuts-on-nintendo-switch-2--pre-order-bonuses",
+        "source": "Nintendo-Online.de"
       }
     ]
   }
