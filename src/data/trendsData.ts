@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "sharon stone",
-    "titleZh": "sharon stone",
-    "traffic": "200+",
-    "started": "Sun, 20 Sep 2026 22:30:00 -0700",
-    "summary": "相关新闻主要集中在：Sharon Stone bashes ‘Sliver’ movie days after co-star Billy Baldwin ripped into her。",
-    "explanation": "Google Trends 显示“sharon stone”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Sharon Stone bashes ‘Sliver’ movie days after co-star Billy Baldwin ripped into her。这些报道来自 Page Six 等媒体，因此带动了集中搜索。",
+    "title": "india",
+    "titleZh": "india",
+    "traffic": "100+",
+    "started": "Mon, 21 Sep 2026 22:50:00 -0700",
+    "summary": "相关新闻主要集中在：AI, electronics and engineering goods fuel India’s export surge into China。",
+    "explanation": "Google Trends 显示“india”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：AI, electronics and engineering goods fuel India’s export surge into China。这些报道来自 The Times of India 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Sharon Stone bashes ‘Sliver’ movie days after co-star Billy Baldwin ripped into her",
-        "url": "https://pagesix.com/2026/09/18/entertainment/sharon-stone-bashes-sliver-movie-after-co-star-billy-baldwin-ripped-into-her/",
-        "source": "Page Six"
+        "title": "AI, electronics and engineering goods fuel India’s export surge into China",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/ai-electronics-and-engineering-goods-fuel-indias-export-surge-into-china/articleshow/134388925.cms",
+        "source": "The Times of India"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "japan",
-    "titleZh": "japan",
+    "title": "yosemite national park",
+    "titleZh": "yosemite national park",
     "traffic": "100+",
-    "started": "Sun, 20 Sep 2026 22:30:00 -0700",
-    "summary": "相关新闻主要集中在：Watch: \"Monster\" Waves Explode Behind Japanese Torii Gate as Typhoon Dujuan Hits (Video)。",
-    "explanation": "Google Trends 显示“japan”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Watch: \"Monster\" Waves Explode Behind Japanese Torii Gate as Typhoon Dujuan Hits (Video)。这些报道来自 SURFER Magazine 等媒体，因此带动了集中搜索。",
+    "started": "Mon, 21 Sep 2026 22:40:00 -0700",
+    "summary": "相关新闻主要集中在：IDENTIFIED: Pilot killed while battling Yosemite wildfire named。",
+    "explanation": "Google Trends 显示“yosemite national park”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：IDENTIFIED: Pilot killed while battling Yosemite wildfire named。这些报道来自 YourCentralValley.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Watch: \"Monster\" Waves Explode Behind Japanese Torii Gate as Typhoon Dujuan Hits (Video)",
-        "url": "https://www.surfer.com/news/typhoon-dujuan-japan-big-waves-video",
-        "source": "SURFER Magazine"
+        "title": "IDENTIFIED: Pilot killed while battling Yosemite wildfire named",
+        "url": "https://www.yourcentralvalley.com/news/local-news/yosemite-helicopter-crash-victim/",
+        "source": "YourCentralValley.com"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "new york",
-    "titleZh": "new york",
-    "traffic": "100+",
-    "started": "Sun, 20 Sep 2026 22:30:00 -0700",
-    "summary": "相关新闻主要集中在：Mamdani and Zelenskyy make Trump’s dance card on U.N. sidelines。",
-    "explanation": "Google Trends 显示“new york”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Mamdani and Zelenskyy make Trump’s dance card on U.N. sidelines。这些报道来自 MS NOW 等媒体，因此带动了集中搜索。",
+    "title": "sam richardson",
+    "titleZh": "sam richardson",
+    "traffic": "200+",
+    "started": "Mon, 21 Sep 2026 21:40:00 -0700",
+    "summary": "相关新闻主要集中在：Sci Fi Comedy Into The Sky Premieres At Fantastic Fest 2026。",
+    "explanation": "Google Trends 显示“sam richardson”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Sci Fi Comedy Into The Sky Premieres At Fantastic Fest 2026。这些报道来自 SuaraGarut.ID 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Mamdani and Zelenskyy make Trump’s dance card on U.N. sidelines",
-        "url": "https://www.ms.now/news/trump-united-nations-mamdani-zelenskyy-netanyahu-iran-war",
-        "source": "MS NOW"
+        "title": "Sci Fi Comedy Into The Sky Premieres At Fantastic Fest 2026",
+        "url": "https://suaragarut.id/en/sci-fi-comedy-into-the-sky-premieres",
+        "source": "SuaraGarut.ID"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "austin",
-    "titleZh": "austin",
-    "traffic": "500+",
-    "started": "Sun, 20 Sep 2026 22:30:00 -0700",
-    "summary": "相关新闻主要集中在：Attorney: Austin man shot by ICE agent was making DoorDash delivery。",
-    "explanation": "Google Trends 显示“austin”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Attorney: Austin man shot by ICE agent was making DoorDash delivery。这些报道来自 Austin American-Statesman 等媒体，因此带动了集中搜索。",
+    "title": "silent hill townfall",
+    "titleZh": "silent hill townfall",
+    "traffic": "200+",
+    "started": "Mon, 21 Sep 2026 21:20:00 -0700",
+    "summary": "相关新闻主要集中在：Psychological horror Silent Hill: Townfall ratchets up the scares — and frustrations。",
+    "explanation": "Google Trends 显示“silent hill townfall”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Psychological horror Silent Hill: Townfall ratchets up the scares — and frustrations。这些报道来自 CBC 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Attorney: Austin man shot by ICE agent was making DoorDash delivery",
-        "url": "https://www.statesman.com/news/local/article/ice-shooting-victim-doordash-delivery-austin-22441179.php",
-        "source": "Austin American-Statesman"
+        "title": "Psychological horror Silent Hill: Townfall ratchets up the scares — and frustrations",
+        "url": "https://www.cbc.ca/news/entertainment/silent-hill-townfall-review-9.7351482",
+        "source": "CBC"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "asteroid impact",
-    "titleZh": "asteroid impact",
-    "traffic": "500+",
-    "started": "Sun, 20 Sep 2026 22:10:00 -0700",
-    "summary": "相关新闻主要集中在：A routine quality check on a Moon map turned up a bright spot ringed by a dark halo, and it marked a 222-metre crater that did not exist before spring 2024, the largest newly formed crater yet found anywhere in the solar system。",
-    "explanation": "Google Trends 显示“asteroid impact”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：A routine quality check on a Moon map turned up a bright spot ringed by a dark halo, and it marked a 222-metre crater that did not exist before spring 2024, the largest newly formed crater yet found anywhere in the solar system。这些报道来自 Space Daily 等媒体，因此带动了集中搜索。",
+    "title": "woody harrelson",
+    "titleZh": "woody harrelson",
+    "traffic": "1000+",
+    "started": "Mon, 21 Sep 2026 21:20:00 -0700",
+    "summary": "相关新闻主要集中在：Matthew McConaughey, Woody Harrelson on Their Relationship with Each Other’s Kids (Exclusive)。",
+    "explanation": "Google Trends 显示“woody harrelson”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Matthew McConaughey, Woody Harrelson on Their Relationship with Each Other’s Kids (Exclusive)。这些报道来自 People.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "A routine quality check on a Moon map turned up a bright spot ringed by a dark halo, and it marked a 222-metre crater that did not exist before spring 2024, the largest newly formed crater yet found anywhere in the solar system",
-        "url": "https://spacedaily.com/s-a-routine-quality-check-on-a-moon-map-turned-up-a-bright-spot-ringed-by-a-dark-halo-and-it-marked-a-222-metre-crater-that-did-not-exist-before-spring-2024-the-largest-newly-formed-crater-yet-found/",
-        "source": "Space Daily"
+        "title": "Matthew McConaughey, Woody Harrelson on Their Relationship with Each Other’s Kids (Exclusive)",
+        "url": "https://people.com/matthew-mcconaughey-woody-harrelson-relationship-each-others-kids-exclusive-12127606",
+        "source": "People.com"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "ff7 revelation",
-    "titleZh": "ff7 revelation",
-    "traffic": "500+",
-    "started": "Sun, 20 Sep 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：Final Fantasy VII Revelation and Beyond: An Interview with Director Naoki Hamaguchi。",
-    "explanation": "Google Trends 显示“ff7 revelation”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Final Fantasy VII Revelation and Beyond: An Interview with Director Naoki Hamaguchi。这些报道来自 Anime News Network 等媒体，因此带动了集中搜索。",
+    "title": "dave franco",
+    "titleZh": "dave franco",
+    "traffic": "100+",
+    "started": "Mon, 21 Sep 2026 21:20:00 -0700",
+    "summary": "相关新闻主要集中在：Forgotten Island Review: DreamWorks Crafts Another Hit With This Tale of Friendship。",
+    "explanation": "Google Trends 显示“dave franco”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Forgotten Island Review: DreamWorks Crafts Another Hit With This Tale of Friendship。这些报道来自 The Film Maven 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Final Fantasy VII Revelation and Beyond: An Interview with Director Naoki Hamaguchi",
-        "url": "https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/final-fantasy-vii-revelation-and-beyond-an-interview-with-director-naoki-hamaguchi/.241962",
-        "source": "Anime News Network"
+        "title": "Forgotten Island Review: DreamWorks Crafts Another Hit With This Tale of Friendship",
+        "url": "https://thefilmmaven.com/forgotten-island-review/",
+        "source": "The Film Maven"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "maya joint",
-    "titleZh": "maya joint",
+    "title": "bo davidson",
+    "titleZh": "bo davidson",
     "traffic": "200+",
-    "started": "Sun, 20 Sep 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：September 21, 2026: Darya Astakhova vs Magda Linette: Set 2 Winner Prediction Market。",
-    "explanation": "Google Trends 显示“maya joint”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：September 21, 2026: Darya Astakhova vs Magda Linette: Set 2 Winner Prediction Market。这些报道来自 Robinhood 等媒体，因此带动了集中搜索。",
+    "started": "Mon, 21 Sep 2026 21:00:00 -0700",
+    "summary": "相关新闻主要集中在：Giants Make Multiple Roster Moves, Including Top-10 Prospect Promotion, Ahead of Twins Series。",
+    "explanation": "Google Trends 显示“bo davidson”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Giants Make Multiple Roster Moves, Including Top-10 Prospect Promotion, Ahead of Twins Series。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "September 21, 2026: Darya Astakhova vs Magda Linette: Set 2 Winner Prediction Market",
-        "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/darya-astakhova-vs-magda-linette-set-2-winner-sep-21-2026/",
-        "source": "Robinhood"
+        "title": "Giants Make Multiple Roster Moves, Including Top-10 Prospect Promotion, Ahead of Twins Series",
+        "url": "https://sports.yahoo.com/articles/giants-multiple-roster-moves-including-231500591.html",
+        "source": "Yahoo Sports"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "hal jordan lanterns",
-    "titleZh": "hal jordan lanterns",
-    "traffic": "1000+",
-    "started": "Sun, 20 Sep 2026 21:20:00 -0700",
-    "summary": "相关新闻主要集中在：‘Lanterns’ Episode 6 Recap: HBO Meets DCU。",
-    "explanation": "Google Trends 显示“hal jordan lanterns”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：‘Lanterns’ Episode 6 Recap: HBO Meets DCU。这些报道来自 The Ringer 等媒体，因此带动了集中搜索。",
+    "title": "ari emanuel",
+    "titleZh": "ari emanuel",
+    "traffic": "500+",
+    "started": "Mon, 21 Sep 2026 20:30:00 -0700",
+    "summary": "相关新闻主要集中在：Ari Emanuel’s ‘Roll the Calls’ Takes Aim at Everyone From His Brothers to Former Business Partners。",
+    "explanation": "Google Trends 显示“ari emanuel”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Ari Emanuel’s ‘Roll the Calls’ Takes Aim at Everyone From His Brothers to Former Business Partners。这些报道来自 Vanity Fair 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "‘Lanterns’ Episode 6 Recap: HBO Meets DCU",
-        "url": "https://www.theringer.com/2026/09/20/dc/lanterns-episode-6-bad-optics-recap-hal-jordan-john-stewart-guy-gardner-dcu",
-        "source": "The Ringer"
+        "title": "Ari Emanuel’s ‘Roll the Calls’ Takes Aim at Everyone From His Brothers to Former Business Partners",
+        "url": "https://www.vanityfair.com/story/ari-emanuel-roll-the-calls",
+        "source": "Vanity Fair"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "leon vs queretaro",
-    "titleZh": "leon vs queretaro",
-    "traffic": "100+",
-    "started": "Sun, 20 Sep 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：¡Los sorprenden en casa! León le arrebata un punto a Querétaro en La Corregidora。",
-    "explanation": "Google Trends 显示“leon vs queretaro”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：¡Los sorprenden en casa! León le arrebata un punto a Querétaro en La Corregidora。这些报道来自 Mediotiempo 等媒体，因此带动了集中搜索。",
+    "title": "hurricane polo",
+    "titleZh": "hurricane polo",
+    "traffic": "500+",
+    "started": "Mon, 21 Sep 2026 20:10:00 -0700",
+    "summary": "相关新闻主要集中在：Polo has rapidly intensified to a hurricane and is expected to impact Mexico。",
+    "explanation": "Google Trends 显示“hurricane polo”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Polo has rapidly intensified to a hurricane and is expected to impact Mexico。这些报道来自 AP News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "¡Los sorprenden en casa! León le arrebata un punto a Querétaro en La Corregidora",
-        "url": "https://www.mediotiempo.com/futbol/liga-mx/resumen-partido-queretaro-vs-leon-jornada-9-apertura-2026",
-        "source": "Mediotiempo"
+        "title": "Polo has rapidly intensified to a hurricane and is expected to impact Mexico",
+        "url": "https://apnews.com/article/polo-odalys-fay-major-hurricane-mexico-8d857bb0cb9db18befb4d23b04feca32",
+        "source": "AP News"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "fernando mendoza",
-    "titleZh": "fernando mendoza",
+    "title": "arike ogunbowale",
+    "titleZh": "arike ogunbowale",
     "traffic": "200+",
-    "started": "Sun, 20 Sep 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：Why Fernando Mendoza Isn’t Playing After Indiana 1st Pick to Raiders。",
-    "explanation": "Google Trends 显示“fernando mendoza”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Why Fernando Mendoza Isn’t Playing After Indiana 1st Pick to Raiders。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "started": "Mon, 21 Sep 2026 19:50:00 -0700",
+    "summary": "相关新闻主要集中在：Russia: What next after elections?。",
+    "explanation": "Google Trends 显示“arike ogunbowale”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Russia: What next after elections?。这些报道来自 CNN 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Why Fernando Mendoza Isn’t Playing After Indiana 1st Pick to Raiders",
-        "url": "https://sports.yahoo.com/articles/why-fernando-mendoza-isn-t-182932707.html",
-        "source": "Yahoo Sports"
+        "title": "Russia: What next after elections?",
+        "url": "https://www.cnn.com/2026/09/21/europe/russia-election-results-what-next-intl",
+        "source": "CNN"
       }
     ]
   }
