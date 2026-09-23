@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "india",
-    "titleZh": "india",
-    "traffic": "100+",
-    "started": "Mon, 21 Sep 2026 22:50:00 -0700",
-    "summary": "相关新闻主要集中在：AI, electronics and engineering goods fuel India’s export surge into China。",
-    "explanation": "Google Trends 显示“india”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：AI, electronics and engineering goods fuel India’s export surge into China。这些报道来自 The Times of India 等媒体，因此带动了集中搜索。",
+    "title": "maya joint",
+    "titleZh": "maya joint",
+    "traffic": "500+",
+    "started": "Tue, 22 Sep 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：September 22, 2026: Alina Korneeva vs Darya Astakhova: Set 2 Winner Prediction Market。",
+    "explanation": "Google Trends 显示“maya joint”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：September 22, 2026: Alina Korneeva vs Darya Astakhova: Set 2 Winner Prediction Market。这些报道来自 Robinhood 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "AI, electronics and engineering goods fuel India’s export surge into China",
-        "url": "https://timesofindia.indiatimes.com/business/india-business/ai-electronics-and-engineering-goods-fuel-indias-export-surge-into-china/articleshow/134388925.cms",
-        "source": "The Times of India"
+        "title": "September 22, 2026: Alina Korneeva vs Darya Astakhova: Set 2 Winner Prediction Market",
+        "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/alina-korneeva-vs-darya-astakhova-set-2-winner-sep-22-2026/",
+        "source": "Robinhood"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "yosemite national park",
-    "titleZh": "yosemite national park",
-    "traffic": "100+",
-    "started": "Mon, 21 Sep 2026 22:40:00 -0700",
-    "summary": "相关新闻主要集中在：IDENTIFIED: Pilot killed while battling Yosemite wildfire named。",
-    "explanation": "Google Trends 显示“yosemite national park”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：IDENTIFIED: Pilot killed while battling Yosemite wildfire named。这些报道来自 YourCentralValley.com 等媒体，因此带动了集中搜索。",
+    "title": "jon hamm",
+    "titleZh": "jon hamm",
+    "traffic": "500+",
+    "started": "Tue, 22 Sep 2026 22:10:00 -0700",
+    "summary": "相关新闻主要集中在：Kiritsis hostage crisis series portrays role of legendary Indy newsman。",
+    "explanation": "Google Trends 显示“jon hamm”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Kiritsis hostage crisis series portrays role of legendary Indy newsman。这些报道来自 Fox 59 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "IDENTIFIED: Pilot killed while battling Yosemite wildfire named",
-        "url": "https://www.yourcentralvalley.com/news/local-news/yosemite-helicopter-crash-victim/",
-        "source": "YourCentralValley.com"
+        "title": "Kiritsis hostage crisis series portrays role of legendary Indy newsman",
+        "url": "https://fox59.com/news/kiritsis-hostage-crisis-series-portrays-role-of-legendary-indy-newsman/",
+        "source": "Fox 59"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "sam richardson",
-    "titleZh": "sam richardson",
-    "traffic": "200+",
-    "started": "Mon, 21 Sep 2026 21:40:00 -0700",
-    "summary": "相关新闻主要集中在：Sci Fi Comedy Into The Sky Premieres At Fantastic Fest 2026。",
-    "explanation": "Google Trends 显示“sam richardson”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Sci Fi Comedy Into The Sky Premieres At Fantastic Fest 2026。这些报道来自 SuaraGarut.ID 等媒体，因此带动了集中搜索。",
+    "title": "will smith",
+    "titleZh": "will smith",
+    "traffic": "500+",
+    "started": "Tue, 22 Sep 2026 22:00:00 -0700",
+    "summary": "相关新闻主要集中在：I Am Legend 2 writer says he's doing everything he can to get it made, but they are facing \"a series of obstacles\"。",
+    "explanation": "Google Trends 显示“will smith”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：I Am Legend 2 writer says he's doing everything he can to get it made, but they are facing \"a series of obstacles\"。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Sci Fi Comedy Into The Sky Premieres At Fantastic Fest 2026",
-        "url": "https://suaragarut.id/en/sci-fi-comedy-into-the-sky-premieres",
-        "source": "SuaraGarut.ID"
+        "title": "I Am Legend 2 writer says he's doing everything he can to get it made, but they are facing \"a series of obstacles\"",
+        "url": "https://www.yahoo.com/entertainment/movies/articles/am-legend-2-writer-says-152426352.html",
+        "source": "Yahoo"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "silent hill townfall",
-    "titleZh": "silent hill townfall",
-    "traffic": "200+",
-    "started": "Mon, 21 Sep 2026 21:20:00 -0700",
-    "summary": "相关新闻主要集中在：Psychological horror Silent Hill: Townfall ratchets up the scares — and frustrations。",
-    "explanation": "Google Trends 显示“silent hill townfall”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Psychological horror Silent Hill: Townfall ratchets up the scares — and frustrations。这些报道来自 CBC 等媒体，因此带动了集中搜索。",
+    "title": "austin abrams",
+    "titleZh": "austin abrams",
+    "traffic": "1000+",
+    "started": "Tue, 22 Sep 2026 21:50:00 -0700",
+    "summary": "相关新闻主要集中在：Box Office Global: 'Resident Evil' $108M WW Franchise, Zach Cregger Record; 'Coyote vs. Acme' Approaches $100M。",
+    "explanation": "Google Trends 显示“austin abrams”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Box Office Global: 'Resident Evil' $108M WW Franchise, Zach Cregger Record; 'Coyote vs. Acme' Approaches $100M。这些报道来自 Deadline 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Psychological horror Silent Hill: Townfall ratchets up the scares — and frustrations",
-        "url": "https://www.cbc.ca/news/entertainment/silent-hill-townfall-review-9.7351482",
-        "source": "CBC"
+        "title": "Box Office Global: 'Resident Evil' $108M WW Franchise, Zach Cregger Record; 'Coyote vs. Acme' Approaches $100M",
+        "url": "https://deadline.com/2026/09/box-office-global-resident-evil-1237108765/",
+        "source": "Deadline"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "woody harrelson",
-    "titleZh": "woody harrelson",
-    "traffic": "1000+",
-    "started": "Mon, 21 Sep 2026 21:20:00 -0700",
-    "summary": "相关新闻主要集中在：Matthew McConaughey, Woody Harrelson on Their Relationship with Each Other’s Kids (Exclusive)。",
-    "explanation": "Google Trends 显示“woody harrelson”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Matthew McConaughey, Woody Harrelson on Their Relationship with Each Other’s Kids (Exclusive)。这些报道来自 People.com 等媒体，因此带动了集中搜索。",
+    "title": "athletics",
+    "titleZh": "athletics",
+    "traffic": "500+",
+    "started": "Tue, 22 Sep 2026 21:50:00 -0700",
+    "summary": "相关新闻主要集中在：Virginia Tech Football: 3 Observations Before Boston College。",
+    "explanation": "Google Trends 显示“athletics”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Virginia Tech Football: 3 Observations Before Boston College。这些报道来自 The Key Play 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Matthew McConaughey, Woody Harrelson on Their Relationship with Each Other’s Kids (Exclusive)",
-        "url": "https://people.com/matthew-mcconaughey-woody-harrelson-relationship-each-others-kids-exclusive-12127606",
-        "source": "People.com"
+        "title": "Virginia Tech Football: 3 Observations Before Boston College",
+        "url": "https://www.thekeyplay.com/virginia-tech-football/2026/09/26207/three-observations-virginia-tech-opens-acc-play-boston-college",
+        "source": "The Key Play"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "dave franco",
-    "titleZh": "dave franco",
-    "traffic": "100+",
-    "started": "Mon, 21 Sep 2026 21:20:00 -0700",
-    "summary": "相关新闻主要集中在：Forgotten Island Review: DreamWorks Crafts Another Hit With This Tale of Friendship。",
-    "explanation": "Google Trends 显示“dave franco”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Forgotten Island Review: DreamWorks Crafts Another Hit With This Tale of Friendship。这些报道来自 The Film Maven 等媒体，因此带动了集中搜索。",
+    "title": "josue de paula",
+    "titleZh": "josue de paula",
+    "traffic": "2000+",
+    "started": "Tue, 22 Sep 2026 21:30:00 -0700",
+    "summary": "相关新闻主要集中在：Dodgers All-Star Outfielder Floated as Likely Trade Candidate。",
+    "explanation": "Google Trends 显示“josue de paula”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Dodgers All-Star Outfielder Floated as Likely Trade Candidate。这些报道来自 Sports Illustrated 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Forgotten Island Review: DreamWorks Crafts Another Hit With This Tale of Friendship",
-        "url": "https://thefilmmaven.com/forgotten-island-review/",
-        "source": "The Film Maven"
+        "title": "Dodgers All-Star Outfielder Floated as Likely Trade Candidate",
+        "url": "https://www.si.com/mlb/dodgers/onsi/dodgers-all-star-outfielder-floated-likely-trade-candidate",
+        "source": "Sports Illustrated"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "bo davidson",
-    "titleZh": "bo davidson",
-    "traffic": "200+",
-    "started": "Mon, 21 Sep 2026 21:00:00 -0700",
-    "summary": "相关新闻主要集中在：Giants Make Multiple Roster Moves, Including Top-10 Prospect Promotion, Ahead of Twins Series。",
-    "explanation": "Google Trends 显示“bo davidson”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Giants Make Multiple Roster Moves, Including Top-10 Prospect Promotion, Ahead of Twins Series。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "title": "pop latino",
+    "titleZh": "pop latino",
+    "traffic": "5000+",
+    "started": "Tue, 22 Sep 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：Fui niña en los años 90 y así se sintió ver a Shakira desde el 'front stage' en Madrid。",
+    "explanation": "Google Trends 显示“pop latino”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Fui niña en los años 90 y así se sintió ver a Shakira desde el 'front stage' en Madrid。这些报道来自 Cosmopolitan 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Giants Make Multiple Roster Moves, Including Top-10 Prospect Promotion, Ahead of Twins Series",
-        "url": "https://sports.yahoo.com/articles/giants-multiple-roster-moves-including-231500591.html",
-        "source": "Yahoo Sports"
+        "title": "Fui niña en los años 90 y así se sintió ver a Shakira desde el 'front stage' en Madrid",
+        "url": "https://www.cosmopolitan.com/es/entretenimiento-cultura/a73821449/shakira-madrid-concierto-front-stage/",
+        "source": "Cosmopolitan"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "ari emanuel",
-    "titleZh": "ari emanuel",
-    "traffic": "500+",
-    "started": "Mon, 21 Sep 2026 20:30:00 -0700",
-    "summary": "相关新闻主要集中在：Ari Emanuel’s ‘Roll the Calls’ Takes Aim at Everyone From His Brothers to Former Business Partners。",
-    "explanation": "Google Trends 显示“ari emanuel”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Ari Emanuel’s ‘Roll the Calls’ Takes Aim at Everyone From His Brothers to Former Business Partners。这些报道来自 Vanity Fair 等媒体，因此带动了集中搜索。",
+    "title": "dodgers game today",
+    "titleZh": "dodgers game today",
+    "traffic": "5000+",
+    "started": "Tue, 22 Sep 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：Shohei Ohtani expected to come off injured list Wednesday as Dodgers ramp up for postseason。",
+    "explanation": "Google Trends 显示“dodgers game today”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Shohei Ohtani expected to come off injured list Wednesday as Dodgers ramp up for postseason。这些报道来自 CBS Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Ari Emanuel’s ‘Roll the Calls’ Takes Aim at Everyone From His Brothers to Former Business Partners",
-        "url": "https://www.vanityfair.com/story/ari-emanuel-roll-the-calls",
-        "source": "Vanity Fair"
+        "title": "Shohei Ohtani expected to come off injured list Wednesday as Dodgers ramp up for postseason",
+        "url": "https://www.cbssports.com/mlb/news/shohei-ohtani-injury-los-angeles-dodgers-mlb-playoffs/",
+        "source": "CBS Sports"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "hurricane polo",
-    "titleZh": "hurricane polo",
+    "title": "edward cabrera",
+    "titleZh": "edward cabrera",
     "traffic": "500+",
-    "started": "Mon, 21 Sep 2026 20:10:00 -0700",
-    "summary": "相关新闻主要集中在：Polo has rapidly intensified to a hurricane and is expected to impact Mexico。",
-    "explanation": "Google Trends 显示“hurricane polo”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Polo has rapidly intensified to a hurricane and is expected to impact Mexico。这些报道来自 AP News 等媒体，因此带动了集中搜索。",
+    "started": "Tue, 22 Sep 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：Cubs couldn't escape their Shota Imanaga doubts last October but this year feels different。",
+    "explanation": "Google Trends 显示“edward cabrera”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Cubs couldn't escape their Shota Imanaga doubts last October but this year feels different。这些报道来自 Cubbies Crib 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Polo has rapidly intensified to a hurricane and is expected to impact Mexico",
-        "url": "https://apnews.com/article/polo-odalys-fay-major-hurricane-mexico-8d857bb0cb9db18befb4d23b04feca32",
-        "source": "AP News"
+        "title": "Cubs couldn't escape their Shota Imanaga doubts last October but this year feels different",
+        "url": "https://cubbiescrib.com/cubs-couldn-t-escape-their-shota-imanaga-doubts-last-october-but-this-year-feels-different",
+        "source": "Cubbies Crib"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "arike ogunbowale",
-    "titleZh": "arike ogunbowale",
-    "traffic": "200+",
-    "started": "Mon, 21 Sep 2026 19:50:00 -0700",
-    "summary": "相关新闻主要集中在：Russia: What next after elections?。",
-    "explanation": "Google Trends 显示“arike ogunbowale”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Russia: What next after elections?。这些报道来自 CNN 等媒体，因此带动了集中搜索。",
+    "title": "jamie foxx",
+    "titleZh": "jamie foxx",
+    "traffic": "2000+",
+    "started": "Tue, 22 Sep 2026 20:50:00 -0700",
+    "summary": "相关新闻主要集中在：Jamie Foxx’s Daughter Corinne Celebrates 2 Years of Marriage to Joe Hooten。",
+    "explanation": "Google Trends 显示“jamie foxx”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Jamie Foxx’s Daughter Corinne Celebrates 2 Years of Marriage to Joe Hooten。这些报道来自 People.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Russia: What next after elections?",
-        "url": "https://www.cnn.com/2026/09/21/europe/russia-election-results-what-next-intl",
-        "source": "CNN"
+        "title": "Jamie Foxx’s Daughter Corinne Celebrates 2 Years of Marriage to Joe Hooten",
+        "url": "https://people.com/jamie-foxx-daughter-corinne-celebrates-2-years-of-marriage-to-joe-hooten-12134941",
+        "source": "People.com"
       }
     ]
   }
