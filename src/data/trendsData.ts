@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "breaking bad",
-    "titleZh": "breaking bad",
-    "traffic": "100+",
-    "started": "Fri, 25 Sep 2026 22:40:00 -0700",
-    "summary": "相关新闻主要集中在：'Atlanta' makes top 10 of New York Times list of 100 best TV shows of 21st century。",
-    "explanation": "Google Trends 显示“breaking bad”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：'Atlanta' makes top 10 of New York Times list of 100 best TV shows of 21st century。这些报道来自 11Alive.com 等媒体，因此带动了集中搜索。",
+    "title": "halle berry",
+    "titleZh": "halle berry",
+    "traffic": "500+",
+    "started": "Sat, 26 Sep 2026 22:40:00 -0700",
+    "summary": "相关新闻主要集中在：Halle Berry Says \"Menopause Is Not a Bad Thing When You Know What to Do\" at Create & Cultivate Festival。",
+    "explanation": "Google Trends 显示“halle berry”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Halle Berry Says \"Menopause Is Not a Bad Thing When You Know What to Do\" at Create & Cultivate Festival。这些报道来自 Celeb Secrets 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "'Atlanta' makes top 10 of New York Times list of 100 best TV shows of 21st century",
-        "url": "https://www.11alive.com/article/news/entertainment-news/atlanta-tv-show-makes-top-10-new-york-times-best-100-shows-of-21st-century-list/85-86023fbb-e8de-4071-beb0-922b71cd9039",
-        "source": "11Alive.com"
+        "title": "Halle Berry Says \"Menopause Is Not a Bad Thing When You Know What to Do\" at Create & Cultivate Festival",
+        "url": "https://celebsecrets.com/halle-berry-says-menopause-is-not-a-bad-thing-when-you-know-what-to-do-at-create-cultivate-festival/",
+        "source": "Celeb Secrets"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "zendaya",
-    "titleZh": "zendaya",
-    "traffic": "200+",
-    "started": "Fri, 25 Sep 2026 22:20:00 -0700",
-    "summary": "相关新闻主要集中在：Zendaya’s Stylist Reveals Her Reaction To Him Spilling The Tea On Her Marriage To Tom Holland。",
-    "explanation": "Google Trends 显示“zendaya”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Zendaya’s Stylist Reveals Her Reaction To Him Spilling The Tea On Her Marriage To Tom Holland。这些报道来自 HuffPost 等媒体，因此带动了集中搜索。",
+    "title": "stock market today",
+    "titleZh": "stock market today",
+    "traffic": "20000+",
+    "started": "Sat, 26 Sep 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：If I Were 25, I’d Put $300 Per Month Into This 1 ETF and Not Touch It for 40 Years。",
+    "explanation": "Google Trends 显示“stock market today”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：If I Were 25, I’d Put $300 Per Month Into This 1 ETF and Not Touch It for 40 Years。这些报道来自 24/7 Wall St. 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Zendaya’s Stylist Reveals Her Reaction To Him Spilling The Tea On Her Marriage To Tom Holland",
-        "url": "https://www.huffpost.com/entry/law-roach-zendaya-reaction-reveal-secretly-married-tom-holland_n_6ab590cce4b075a3d284eeeb",
-        "source": "HuffPost"
+        "title": "If I Were 25, I’d Put $300 Per Month Into This 1 ETF and Not Touch It for 40 Years",
+        "url": "https://247wallst.com/investing/etf/2026/09/25/if-i-were-25-id-put-300-per-month-into-this-1-etf-and-not-touch-it-for-40-years/",
+        "source": "24/7 Wall St."
       }
     ]
   },
   {
     "rank": 3,
-    "title": "afl grand final",
-    "titleZh": "afl grand final",
-    "traffic": "100+",
-    "started": "Fri, 25 Sep 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：VIDEO: Kylie Minogue performs The Loco-Motion with the Uninspired Employed。",
-    "explanation": "Google Trends 显示“afl grand final”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：VIDEO: Kylie Minogue performs The Loco-Motion with the Uninspired Employed。这些报道来自 ABC News & Headlines – Australian Broadcasting Corporation 等媒体，因此带动了集中搜索。",
+    "title": "netflix new releases",
+    "titleZh": "netflix new releases",
+    "traffic": "10000+",
+    "started": "Sat, 26 Sep 2026 22:10:00 -0700",
+    "summary": "相关新闻主要集中在：What's New on Netflix in October 2026。",
+    "explanation": "Google Trends 显示“netflix new releases”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：What's New on Netflix in October 2026。这些报道来自 Lifehacker 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "VIDEO: Kylie Minogue performs The Loco-Motion with the Uninspired Employed",
-        "url": "https://www.abc.net.au/news/2026-09-26/kylie-minogue-performs-the-loco-motion/107199550",
-        "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        "title": "What's New on Netflix in October 2026",
+        "url": "https://lifehacker.com/entertainment/whats-new-on-netflix-in-october-2026",
+        "source": "Lifehacker"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "afl",
-    "titleZh": "afl",
-    "traffic": "500+",
-    "started": "Fri, 25 Sep 2026 21:40:00 -0700",
-    "summary": "相关新闻主要集中在：Final Lachie Neale twist, ugly scenes unfold。",
-    "explanation": "Google Trends 显示“afl”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Final Lachie Neale twist, ugly scenes unfold。这些报道来自 News.com.au 等媒体，因此带动了集中搜索。",
+    "title": "mortgage rates today",
+    "titleZh": "mortgage rates today",
+    "traffic": "10000+",
+    "started": "Sat, 26 Sep 2026 22:10:00 -0700",
+    "summary": "相关新闻主要集中在：30-year fixed mortgage rate jumps sharply Thursday to 7.45%。",
+    "explanation": "Google Trends 显示“mortgage rates today”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：30-year fixed mortgage rate jumps sharply Thursday to 7.45%。这些报道来自 CNBC 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Final Lachie Neale twist, ugly scenes unfold",
-        "url": "https://www.news.com.au/sport/afl/lachie-neale-booed-during-afl-grand-final-parade-as-fremantle-supporters-flood-melbourne/news-story/581ec5121f1c853bffcc302626e33ae1",
-        "source": "News.com.au"
+        "title": "30-year fixed mortgage rate jumps sharply Thursday to 7.45%",
+        "url": "https://www.cnbc.com/2026/09/24/30-year-fixed-mortgage-rate-spikes-thursday-to-7point45percent.html",
+        "source": "CNBC"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "astros standings",
-    "titleZh": "astros standings",
-    "traffic": "500+",
-    "started": "Fri, 25 Sep 2026 21:40:00 -0700",
-    "summary": "相关新闻主要集中在：No One Should Win The AL West。",
-    "explanation": "Google Trends 显示“astros standings”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：No One Should Win The AL West。这些报道来自 Defector 等媒体，因此带动了集中搜索。",
+    "title": "weather forecast today",
+    "titleZh": "weather forecast today",
+    "traffic": "20000+",
+    "started": "Sat, 26 Sep 2026 22:10:00 -0700",
+    "summary": "相关新闻主要集中在：Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency。",
+    "explanation": "Google Trends 显示“weather forecast today”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency。这些报道来自 BBC 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "No One Should Win The AL West",
-        "url": "https://defector.com/no-one-should-win-the-al-west",
-        "source": "Defector"
+        "title": "Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency",
+        "url": "https://www.bbc.com/news/articles/ck1wxxzn5jndo",
+        "source": "BBC"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "astros - athletics",
-    "titleZh": "astros - athletics",
-    "traffic": "200+",
-    "started": "Fri, 25 Sep 2026 21:40:00 -0700",
-    "summary": "相关新闻主要集中在：Athletics take the lead with six-run 6th inning。",
-    "explanation": "Google Trends 显示“astros - athletics”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Athletics take the lead with six-run 6th inning。这些报道来自 MLB.com 等媒体，因此带动了集中搜索。",
+    "title": "davis warren",
+    "titleZh": "davis warren",
+    "traffic": "500+",
+    "started": "Sat, 26 Sep 2026 22:10:00 -0700",
+    "summary": "相关新闻主要集中在：Everything to know ahead of Georgia Tech football at Stanford。",
+    "explanation": "Google Trends 显示“davis warren”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Everything to know ahead of Georgia Tech football at Stanford。这些报道来自 The Atlanta Journal-Constitution 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Athletics take the lead with six-run 6th inning",
-        "url": "https://www.mlb.com/athletics/video/athletics-take-the-lead-with-six-run-6th-inning",
-        "source": "MLB.com"
+        "title": "Everything to know ahead of Georgia Tech football at Stanford",
+        "url": "https://www.ajc.com/sports/2026/09/what-to-know-ahead-of-georgia-tech-football-at-stanford/",
+        "source": "The Atlanta Journal-Constitution"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "red dead",
-    "titleZh": "red dead",
+    "title": "the social reckoning",
+    "titleZh": "the social reckoning",
     "traffic": "500+",
-    "started": "Fri, 25 Sep 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：Pre-Order The Goodtime State – Vice City Collection Now While Supplies Last。",
-    "explanation": "Google Trends 显示“red dead”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Pre-Order The Goodtime State – Vice City Collection Now While Supplies Last。这些报道来自 Rockstar Games 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 26 Sep 2026 21:50:00 -0700",
+    "summary": "相关新闻主要集中在：Aaron Sorkin Accidentally Made Mark Zuckerberg the Hero of His Anti-Facebook Movie。",
+    "explanation": "Google Trends 显示“the social reckoning”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Aaron Sorkin Accidentally Made Mark Zuckerberg the Hero of His Anti-Facebook Movie。这些报道来自 Reason Magazine 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Pre-Order The Goodtime State – Vice City Collection Now While Supplies Last",
-        "url": "https://www.rockstargames.com/newswire/article/9k2a49ook82o57/pre-order-the-goodtime-state-vice-city-collection-now-while-supplies-l",
-        "source": "Rockstar Games"
+        "title": "Aaron Sorkin Accidentally Made Mark Zuckerberg the Hero of His Anti-Facebook Movie",
+        "url": "https://reason.com/2026/09/24/aaron-sorkin-accidentally-made-mark-zuckerberg-the-hero-of-his-anti-facebook-movie/",
+        "source": "Reason Magazine"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "woody harrelson",
-    "titleZh": "woody harrelson",
-    "traffic": "2000+",
-    "started": "Fri, 25 Sep 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：Brothers review – Woody Harrelson and Matthew McConaughey’s super-fun sitcom about the chance they’re related。",
-    "explanation": "Google Trends 显示“woody harrelson”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Brothers review – Woody Harrelson and Matthew McConaughey’s super-fun sitcom about the chance they’re related。这些报道来自 The Guardian 等媒体，因此带动了集中搜索。",
+    "title": "jeremy peña",
+    "titleZh": "jeremy peña",
+    "traffic": "200+",
+    "started": "Sat, 26 Sep 2026 21:50:00 -0700",
+    "summary": "相关新闻主要集中在：Jeremy Peña homers twice as Astros top A’s。",
+    "explanation": "Google Trends 显示“jeremy peña”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Jeremy Peña homers twice as Astros top A’s。这些报道来自 NBC Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Brothers review – Woody Harrelson and Matthew McConaughey’s super-fun sitcom about the chance they’re related",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/sep/23/brothers-review-woody-harrelson-and-matthew-mcconaugheys-super-fun-sitcom-about-the-chance-theyre-related",
-        "source": "The Guardian"
+        "title": "Jeremy Peña homers twice as Astros top A’s",
+        "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-27/jeremy-pena-homers-twice-as-astros-top-as",
+        "source": "NBC Sports"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "alix earle",
-    "titleZh": "alix earle",
+    "title": "tucker carlson",
+    "titleZh": "tucker carlson",
     "traffic": "1000+",
-    "started": "Fri, 25 Sep 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：Alix Earle's Go Calm Serum Has My Acne-Prone Skin Acting Different。",
-    "explanation": "Google Trends 显示“alix earle”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Alix Earle's Go Calm Serum Has My Acne-Prone Skin Acting Different。这些报道来自 Bustle 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 26 Sep 2026 21:40:00 -0700",
+    "summary": "相关新闻主要集中在：Tucker Carlson says Trump should have been ousted over Iran threat。",
+    "explanation": "Google Trends 显示“tucker carlson”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Tucker Carlson says Trump should have been ousted over Iran threat。这些报道来自 Axios 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Alix Earle's Go Calm Serum Has My Acne-Prone Skin Acting Different",
-        "url": "https://www.bustle.com/beauty/alix-earle-reale-actives-go-calm-serum-review",
-        "source": "Bustle"
+        "title": "Tucker Carlson says Trump should have been ousted over Iran threat",
+        "url": "https://www.axios.com/2026/09/24/trump-iran-war-tucker-carlson-25th-amendment",
+        "source": "Axios"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "chris johnson jr",
-    "titleZh": "chris johnson jr",
-    "traffic": "500+",
-    "started": "Fri, 25 Sep 2026 21:10:00 -0700",
-    "summary": "相关新闻主要集中在：Dabo Swinney Has Made His Feelings Clear About Clemson's RB Situation。",
-    "explanation": "Google Trends 显示“chris johnson jr”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Dabo Swinney Has Made His Feelings Clear About Clemson's RB Situation。这些报道来自 roundtable.io 等媒体，因此带动了集中搜索。",
+    "title": "anthropic",
+    "titleZh": "anthropic",
+    "traffic": "1000+",
+    "started": "Sat, 26 Sep 2026 21:40:00 -0700",
+    "summary": "相关新闻主要集中在：The Machines Escaped. Their Masters Did So First.。",
+    "explanation": "Google Trends 显示“anthropic”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：The Machines Escaped. Their Masters Did So First.。这些报道来自 The Lever 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Dabo Swinney Has Made His Feelings Clear About Clemson's RB Situation",
-        "url": "https://roundtable.io/sports/ncaa/clemson/news/dabo-swinney-has-made-his-feelings-clear-about-clemsons-rb-situation",
-        "source": "roundtable.io"
+        "title": "The Machines Escaped. Their Masters Did So First.",
+        "url": "https://www.levernews.com/the-machines-escaped-their-masters-did-so-first/",
+        "source": "The Lever"
       }
     ]
   }
