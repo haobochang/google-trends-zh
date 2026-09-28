@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "halle berry",
-    "titleZh": "halle berry",
-    "traffic": "500+",
-    "started": "Sat, 26 Sep 2026 22:40:00 -0700",
-    "summary": "相关新闻主要集中在：Halle Berry Says \"Menopause Is Not a Bad Thing When You Know What to Do\" at Create & Cultivate Festival。",
-    "explanation": "Google Trends 显示“halle berry”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Halle Berry Says \"Menopause Is Not a Bad Thing When You Know What to Do\" at Create & Cultivate Festival。这些报道来自 Celeb Secrets 等媒体，因此带动了集中搜索。",
+    "title": "hal jordan lanterns",
+    "titleZh": "hal jordan lanterns",
+    "traffic": "2000+",
+    "started": "Sun, 27 Sep 2026 23:40:00 -0700",
+    "summary": "相关新闻主要集中在：‘Lanterns’ Review: Episode 7 Changes ‘The Jordan Boys’ Legacy — and Sets Up a Charged Finish。",
+    "explanation": "Google Trends 显示“hal jordan lanterns”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：‘Lanterns’ Review: Episode 7 Changes ‘The Jordan Boys’ Legacy — and Sets Up a Charged Finish。这些报道来自 IndieWire 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Halle Berry Says \"Menopause Is Not a Bad Thing When You Know What to Do\" at Create & Cultivate Festival",
-        "url": "https://celebsecrets.com/halle-berry-says-menopause-is-not-a-bad-thing-when-you-know-what-to-do-at-create-cultivate-festival/",
-        "source": "Celeb Secrets"
+        "title": "‘Lanterns’ Review: Episode 7 Changes ‘The Jordan Boys’ Legacy — and Sets Up a Charged Finish",
+        "url": "https://www.indiewire.com/criticism/shows/lanterns-episode-7-review-the-jordan-boys-spoilers-1235218463/",
+        "source": "IndieWire"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "stock market today",
-    "titleZh": "stock market today",
-    "traffic": "20000+",
-    "started": "Sat, 26 Sep 2026 22:20:00 -0700",
-    "summary": "相关新闻主要集中在：If I Were 25, I’d Put $300 Per Month Into This 1 ETF and Not Touch It for 40 Years。",
-    "explanation": "Google Trends 显示“stock market today”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：If I Were 25, I’d Put $300 Per Month Into This 1 ETF and Not Touch It for 40 Years。这些报道来自 24/7 Wall St. 等媒体，因此带动了集中搜索。",
+    "title": "necaxa vs club américa standings",
+    "titleZh": "necaxa vs club américa standings",
+    "traffic": "10000+",
+    "started": "Sun, 27 Sep 2026 23:20:00 -0700",
+    "summary": "相关新闻主要集中在：The $7 Million 'Gift' Set to Shine: Carlos Álvarez Makes His First Start for Club América。",
+    "explanation": "Google Trends 显示“necaxa vs club américa standings”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：The $7 Million 'Gift' Set to Shine: Carlos Álvarez Makes His First Start for Club América。这些报道来自 Soy Futbol 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "If I Were 25, I’d Put $300 Per Month Into This 1 ETF and Not Touch It for 40 Years",
-        "url": "https://247wallst.com/investing/etf/2026/09/25/if-i-were-25-id-put-300-per-month-into-this-1-etf-and-not-touch-it-for-40-years/",
-        "source": "24/7 Wall St."
+        "title": "The $7 Million 'Gift' Set to Shine: Carlos Álvarez Makes His First Start for Club América",
+        "url": "https://www.soyfutbol.com/en/news/the-7-million-gift-set-to-shine-carlos-alvarez-makes-his-first-start-for-club-america-20260926-0043.html",
+        "source": "Soy Futbol"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "netflix new releases",
-    "titleZh": "netflix new releases",
+    "title": "sports",
+    "titleZh": "sports",
     "traffic": "10000+",
-    "started": "Sat, 26 Sep 2026 22:10:00 -0700",
-    "summary": "相关新闻主要集中在：What's New on Netflix in October 2026。",
-    "explanation": "Google Trends 显示“netflix new releases”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：What's New on Netflix in October 2026。这些报道来自 Lifehacker 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 27 Sep 2026 22:50:00 -0700",
+    "summary": "相关新闻主要集中在：NFL injury tracker Week 3: Latest news, fantasy implications as Sam Darnold (glute) 'ready to go', Caleb Williams (hamstring) ruled out, Puka Nacua (hip) unlikely to play。",
+    "explanation": "Google Trends 显示“sports”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：NFL injury tracker Week 3: Latest news, fantasy implications as Sam Darnold (glute) 'ready to go', Caleb Williams (hamstring) ruled out, Puka Nacua (hip) unlikely to play。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "What's New on Netflix in October 2026",
-        "url": "https://lifehacker.com/entertainment/whats-new-on-netflix-in-october-2026",
-        "source": "Lifehacker"
+        "title": "NFL injury tracker Week 3: Latest news, fantasy implications as Sam Darnold (glute) 'ready to go', Caleb Williams (hamstring) ruled out, Puka Nacua (hip) unlikely to play",
+        "url": "https://sports.yahoo.com/fantasy/live/nfl-injury-tracker-week-3-latest-news-fantasy-implications-as-sam-darnold-glute-ready-to-go-caleb-williams-hamstring-ruled-out-puka-nacua-hip-unlikely-to-play-174807900.html",
+        "source": "Yahoo Sports"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "mortgage rates today",
-    "titleZh": "mortgage rates today",
-    "traffic": "10000+",
-    "started": "Sat, 26 Sep 2026 22:10:00 -0700",
-    "summary": "相关新闻主要集中在：30-year fixed mortgage rate jumps sharply Thursday to 7.45%。",
-    "explanation": "Google Trends 显示“mortgage rates today”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：30-year fixed mortgage rate jumps sharply Thursday to 7.45%。这些报道来自 CNBC 等媒体，因此带动了集中搜索。",
+    "title": "fitness",
+    "titleZh": "fitness",
+    "traffic": "2000+",
+    "started": "Sun, 27 Sep 2026 22:50:00 -0700",
+    "summary": "相关新闻主要集中在：Bodybuilding Just Invented a Division for People Who Don’t Want the Bodybuilder Look。",
+    "explanation": "Google Trends 显示“fitness”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Bodybuilding Just Invented a Division for People Who Don’t Want the Bodybuilder Look。这些报道来自 Muscle & Fitness 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "30-year fixed mortgage rate jumps sharply Thursday to 7.45%",
-        "url": "https://www.cnbc.com/2026/09/24/30-year-fixed-mortgage-rate-spikes-thursday-to-7point45percent.html",
-        "source": "CNBC"
+        "title": "Bodybuilding Just Invented a Division for People Who Don’t Want the Bodybuilder Look",
+        "url": "https://www.muscleandfitness.com/flexonline/training/bodybuilding-just-invented-a-division-for-people-who-dont-want-the-bodybuilder-look/",
+        "source": "Muscle & Fitness"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "weather forecast today",
-    "titleZh": "weather forecast today",
-    "traffic": "20000+",
-    "started": "Sat, 26 Sep 2026 22:10:00 -0700",
-    "summary": "相关新闻主要集中在：Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency。",
-    "explanation": "Google Trends 显示“weather forecast today”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency。这些报道来自 BBC 等媒体，因此带动了集中搜索。",
+    "title": "luke bryan",
+    "titleZh": "luke bryan",
+    "traffic": "500+",
+    "started": "Sun, 27 Sep 2026 22:40:00 -0700",
+    "summary": "相关新闻主要集中在：Lionel Richie Is All Smiles at L.A. Restaurant in First Public Appearance Since 3-Day Hospitalization。",
+    "explanation": "Google Trends 显示“luke bryan”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Lionel Richie Is All Smiles at L.A. Restaurant in First Public Appearance Since 3-Day Hospitalization。这些报道来自 People.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency",
-        "url": "https://www.bbc.com/news/articles/ck1wxxzn5jndo",
-        "source": "BBC"
+        "title": "Lionel Richie Is All Smiles at L.A. Restaurant in First Public Appearance Since 3-Day Hospitalization",
+        "url": "https://people.com/lionel-richie-seen-out-for-first-time-following-3-day-hospitalization-amid-recent-health-scare-12131492",
+        "source": "People.com"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "davis warren",
-    "titleZh": "davis warren",
-    "traffic": "500+",
-    "started": "Sat, 26 Sep 2026 22:10:00 -0700",
-    "summary": "相关新闻主要集中在：Everything to know ahead of Georgia Tech football at Stanford。",
-    "explanation": "Google Trends 显示“davis warren”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Everything to know ahead of Georgia Tech football at Stanford。这些报道来自 The Atlanta Journal-Constitution 等媒体，因此带动了集中搜索。",
+    "title": "cycling",
+    "titleZh": "cycling",
+    "traffic": "10000+",
+    "started": "Sun, 27 Sep 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：How Team USA won Worlds before it started。",
+    "explanation": "Google Trends 显示“cycling”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：How Team USA won Worlds before it started。这些报道来自 Escape Collective 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Everything to know ahead of Georgia Tech football at Stanford",
-        "url": "https://www.ajc.com/sports/2026/09/what-to-know-ahead-of-georgia-tech-football-at-stanford/",
-        "source": "The Atlanta Journal-Constitution"
+        "title": "How Team USA won Worlds before it started",
+        "url": "https://escapecollective.com/how-team-usa-won-the-worlds-before-it-started/",
+        "source": "Escape Collective"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "the social reckoning",
-    "titleZh": "the social reckoning",
-    "traffic": "500+",
-    "started": "Sat, 26 Sep 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：Aaron Sorkin Accidentally Made Mark Zuckerberg the Hero of His Anti-Facebook Movie。",
-    "explanation": "Google Trends 显示“the social reckoning”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Aaron Sorkin Accidentally Made Mark Zuckerberg the Hero of His Anti-Facebook Movie。这些报道来自 Reason Magazine 等媒体，因此带动了集中搜索。",
+    "title": "swimming",
+    "titleZh": "swimming",
+    "traffic": "2000+",
+    "started": "Sun, 27 Sep 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：Former USA Swimming Coach Frank Busch Dies at 75。",
+    "explanation": "Google Trends 显示“swimming”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Former USA Swimming Coach Frank Busch Dies at 75。这些报道来自 SuaraGarut.ID 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Aaron Sorkin Accidentally Made Mark Zuckerberg the Hero of His Anti-Facebook Movie",
-        "url": "https://reason.com/2026/09/24/aaron-sorkin-accidentally-made-mark-zuckerberg-the-hero-of-his-anti-facebook-movie/",
-        "source": "Reason Magazine"
+        "title": "Former USA Swimming Coach Frank Busch Dies at 75",
+        "url": "https://suaragarut.id/en/usa-swimming-coach-frank-busch-dies-75",
+        "source": "SuaraGarut.ID"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "jeremy peña",
-    "titleZh": "jeremy peña",
-    "traffic": "200+",
-    "started": "Sat, 26 Sep 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：Jeremy Peña homers twice as Astros top A’s。",
-    "explanation": "Google Trends 显示“jeremy peña”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Jeremy Peña homers twice as Astros top A’s。这些报道来自 NBC Sports 等媒体，因此带动了集中搜索。",
+    "title": "russia",
+    "titleZh": "russia",
+    "traffic": "1000+",
+    "started": "Sun, 27 Sep 2026 22:00:00 -0700",
+    "summary": "相关新闻主要集中在：1677 Days of russia-Ukraine War – russian Casualties In Ukraine。",
+    "explanation": "Google Trends 显示“russia”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：1677 Days of russia-Ukraine War – russian Casualties In Ukraine。这些报道来自 Defense Express 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Jeremy Peña homers twice as Astros top A’s",
-        "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-27/jeremy-pena-homers-twice-as-astros-top-as",
-        "source": "NBC Sports"
+        "title": "1677 Days of russia-Ukraine War – russian Casualties In Ukraine",
+        "url": "https://en.defence-ua.com/news/1677_days_of_russia_ukraine_war_russian_casualties_in_ukraine-19914.html",
+        "source": "Defense Express"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "tucker carlson",
-    "titleZh": "tucker carlson",
+    "title": "eagles vs bears",
+    "titleZh": "eagles vs bears",
     "traffic": "1000+",
-    "started": "Sat, 26 Sep 2026 21:40:00 -0700",
-    "summary": "相关新闻主要集中在：Tucker Carlson says Trump should have been ousted over Iran threat。",
-    "explanation": "Google Trends 显示“tucker carlson”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Tucker Carlson says Trump should have been ousted over Iran threat。这些报道来自 Axios 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 27 Sep 2026 21:40:00 -0700",
+    "summary": "相关新闻主要集中在：Spadaro: Game Preview at Bears, 6 storylines to follow。",
+    "explanation": "Google Trends 显示“eagles vs bears”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Spadaro: Game Preview at Bears, 6 storylines to follow。这些报道来自 Philadelphia Eagles 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Tucker Carlson says Trump should have been ousted over Iran threat",
-        "url": "https://www.axios.com/2026/09/24/trump-iran-war-tucker-carlson-25th-amendment",
-        "source": "Axios"
+        "title": "Spadaro: Game Preview at Bears, 6 storylines to follow",
+        "url": "https://www.philadelphiaeagles.com/news/eagles-at-bears-game-preview-6-storylines-to-follow-2026-week-3-nfl-regular-season-monday-night-football-jalen-hurts-caleb-williams",
+        "source": "Philadelphia Eagles"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "anthropic",
-    "titleZh": "anthropic",
+    "title": "chihuahua",
+    "titleZh": "chihuahua",
     "traffic": "1000+",
-    "started": "Sat, 26 Sep 2026 21:40:00 -0700",
-    "summary": "相关新闻主要集中在：The Machines Escaped. Their Masters Did So First.。",
-    "explanation": "Google Trends 显示“anthropic”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：The Machines Escaped. Their Masters Did So First.。这些报道来自 The Lever 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 27 Sep 2026 21:30:00 -0700",
+    "summary": "相关新闻主要集中在：México reanuda exportación de ganado a EE.UU. tras un brote de gusano barrenador。",
+    "explanation": "Google Trends 显示“chihuahua”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：México reanuda exportación de ganado a EE.UU. tras un brote de gusano barrenador。这些报道来自 Telemundo 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "The Machines Escaped. Their Masters Did So First.",
-        "url": "https://www.levernews.com/the-machines-escaped-their-masters-did-so-first/",
-        "source": "The Lever"
+        "title": "México reanuda exportación de ganado a EE.UU. tras un brote de gusano barrenador",
+        "url": "https://www.telemundo.com/noticias/noticias-telemundo/internacional/video/mexico-reanuda-exportacion-de-ganado-a-ee-uu-tras-un-brote-de-gusano-barrenador-tmvo13227367",
+        "source": "Telemundo"
       }
     ]
   }
