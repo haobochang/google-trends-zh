@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "hal jordan lanterns",
-    "titleZh": "hal jordan lanterns",
-    "traffic": "2000+",
-    "started": "Sun, 27 Sep 2026 23:40:00 -0700",
-    "summary": "相关新闻主要集中在：‘Lanterns’ Review: Episode 7 Changes ‘The Jordan Boys’ Legacy — and Sets Up a Charged Finish。",
-    "explanation": "Google Trends 显示“hal jordan lanterns”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：‘Lanterns’ Review: Episode 7 Changes ‘The Jordan Boys’ Legacy — and Sets Up a Charged Finish。这些报道来自 IndieWire 等媒体，因此带动了集中搜索。",
+    "title": "jaime faria",
+    "titleZh": "jaime faria",
+    "traffic": "200+",
+    "started": "Mon, 28 Sep 2026 23:40:00 -0700",
+    "summary": "相关新闻主要集中在：Trungelliti vs Molcan | Prediction Markets。",
+    "explanation": "Google Trends 显示“jaime faria”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Trungelliti vs Molcan | Prediction Markets。这些报道来自 Coinbase 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "‘Lanterns’ Review: Episode 7 Changes ‘The Jordan Boys’ Legacy — and Sets Up a Charged Finish",
-        "url": "https://www.indiewire.com/criticism/shows/lanterns-episode-7-review-the-jordan-boys-spoilers-1235218463/",
-        "source": "IndieWire"
+        "title": "Trungelliti vs Molcan | Prediction Markets",
+        "url": "https://www.coinbase.com/en-nl/predictions/event/KXATPMATCH-26SEP28TRUMOL",
+        "source": "Coinbase"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "necaxa vs club américa standings",
-    "titleZh": "necaxa vs club américa standings",
-    "traffic": "10000+",
-    "started": "Sun, 27 Sep 2026 23:20:00 -0700",
-    "summary": "相关新闻主要集中在：The $7 Million 'Gift' Set to Shine: Carlos Álvarez Makes His First Start for Club América。",
-    "explanation": "Google Trends 显示“necaxa vs club américa standings”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：The $7 Million 'Gift' Set to Shine: Carlos Álvarez Makes His First Start for Club América。这些报道来自 Soy Futbol 等媒体，因此带动了集中搜索。",
+    "title": "delta",
+    "titleZh": "delta",
+    "traffic": "2000+",
+    "started": "Mon, 28 Sep 2026 22:50:00 -0700",
+    "summary": "相关新闻主要集中在：Three passengers hospitalized after cabin fumes cause emergency landing of Boston-bound Delta flight, airline says。",
+    "explanation": "Google Trends 显示“delta”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Three passengers hospitalized after cabin fumes cause emergency landing of Boston-bound Delta flight, airline says。这些报道来自 The Boston Globe 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "The $7 Million 'Gift' Set to Shine: Carlos Álvarez Makes His First Start for Club América",
-        "url": "https://www.soyfutbol.com/en/news/the-7-million-gift-set-to-shine-carlos-alvarez-makes-his-first-start-for-club-america-20260926-0043.html",
-        "source": "Soy Futbol"
+        "title": "Three passengers hospitalized after cabin fumes cause emergency landing of Boston-bound Delta flight, airline says",
+        "url": "https://www.bostonglobe.com/2026/09/28/metro/3-delta-airlines-passengers-hospitalized-after-cabin-fumes-ground-plane-bound-for-boston/",
+        "source": "The Boston Globe"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "sports",
-    "titleZh": "sports",
-    "traffic": "10000+",
-    "started": "Sun, 27 Sep 2026 22:50:00 -0700",
-    "summary": "相关新闻主要集中在：NFL injury tracker Week 3: Latest news, fantasy implications as Sam Darnold (glute) 'ready to go', Caleb Williams (hamstring) ruled out, Puka Nacua (hip) unlikely to play。",
-    "explanation": "Google Trends 显示“sports”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：NFL injury tracker Week 3: Latest news, fantasy implications as Sam Darnold (glute) 'ready to go', Caleb Williams (hamstring) ruled out, Puka Nacua (hip) unlikely to play。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "title": "minecraft dungeons 2",
+    "titleZh": "minecraft dungeons 2",
+    "traffic": "200+",
+    "started": "Mon, 28 Sep 2026 22:50:00 -0700",
+    "summary": "相关新闻主要集中在：How Minecraft Dungeons II’s Interconnected World Makes Every Journey an Adventure。",
+    "explanation": "Google Trends 显示“minecraft dungeons 2”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：How Minecraft Dungeons II’s Interconnected World Makes Every Journey an Adventure。这些报道来自 XBOX Wire 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "NFL injury tracker Week 3: Latest news, fantasy implications as Sam Darnold (glute) 'ready to go', Caleb Williams (hamstring) ruled out, Puka Nacua (hip) unlikely to play",
-        "url": "https://sports.yahoo.com/fantasy/live/nfl-injury-tracker-week-3-latest-news-fantasy-implications-as-sam-darnold-glute-ready-to-go-caleb-williams-hamstring-ruled-out-puka-nacua-hip-unlikely-to-play-174807900.html",
-        "source": "Yahoo Sports"
+        "title": "How Minecraft Dungeons II’s Interconnected World Makes Every Journey an Adventure",
+        "url": "https://news.xbox.com/en-us/2026/09/28/how-minecraft-dungeons-iis-interconnected-world-makes-every-journey-an-adventure/",
+        "source": "XBOX Wire"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "fitness",
-    "titleZh": "fitness",
-    "traffic": "2000+",
-    "started": "Sun, 27 Sep 2026 22:50:00 -0700",
-    "summary": "相关新闻主要集中在：Bodybuilding Just Invented a Division for People Who Don’t Want the Bodybuilder Look。",
-    "explanation": "Google Trends 显示“fitness”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Bodybuilding Just Invented a Division for People Who Don’t Want the Bodybuilder Look。这些报道来自 Muscle & Fitness 等媒体，因此带动了集中搜索。",
+    "title": "rui takahashi",
+    "titleZh": "rui takahashi",
+    "traffic": "200+",
+    "started": "Mon, 28 Sep 2026 22:40:00 -0700",
+    "summary": "相关新闻主要集中在：Rui Takahashi, brother of Japanese volleyball star Ran Takahashi, comes out as gay。",
+    "explanation": "Google Trends 显示“rui takahashi”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Rui Takahashi, brother of Japanese volleyball star Ran Takahashi, comes out as gay。这些报道来自 GMA Network 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Bodybuilding Just Invented a Division for People Who Don’t Want the Bodybuilder Look",
-        "url": "https://www.muscleandfitness.com/flexonline/training/bodybuilding-just-invented-a-division-for-people-who-dont-want-the-bodybuilder-look/",
-        "source": "Muscle & Fitness"
+        "title": "Rui Takahashi, brother of Japanese volleyball star Ran Takahashi, comes out as gay",
+        "url": "https://www.gmanetwork.com/entertainment/showbiznews/rui-takahashi-brother-of-japanese-volleyball-star-ran-takahashi-comes-out-as-gay/139088/",
+        "source": "GMA Network"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "luke bryan",
-    "titleZh": "luke bryan",
+    "title": "arthur fils",
+    "titleZh": "arthur fils",
     "traffic": "500+",
-    "started": "Sun, 27 Sep 2026 22:40:00 -0700",
-    "summary": "相关新闻主要集中在：Lionel Richie Is All Smiles at L.A. Restaurant in First Public Appearance Since 3-Day Hospitalization。",
-    "explanation": "Google Trends 显示“luke bryan”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Lionel Richie Is All Smiles at L.A. Restaurant in First Public Appearance Since 3-Day Hospitalization。这些报道来自 People.com 等媒体，因此带动了集中搜索。",
+    "started": "Mon, 28 Sep 2026 21:50:00 -0700",
+    "summary": "相关新闻主要集中在：Menace Fils : Jódar et Fritz tremblent pour leur débu à Tokyo。",
+    "explanation": "Google Trends 显示“arthur fils”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Menace Fils : Jódar et Fritz tremblent pour leur débu à Tokyo。这些报道来自 Puntodebreak 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Lionel Richie Is All Smiles at L.A. Restaurant in First Public Appearance Since 3-Day Hospitalization",
-        "url": "https://people.com/lionel-richie-seen-out-for-first-time-following-3-day-hospitalization-amid-recent-health-scare-12131492",
-        "source": "People.com"
+        "title": "Menace Fils : Jódar et Fritz tremblent pour leur débu à Tokyo",
+        "url": "https://www.puntodebreak.com/fr/2026/09/28/menace-fils-jodar-et-fritz-tremblent-pour-leur-debu-tokyo",
+        "source": "Puntodebreak"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "cycling",
-    "titleZh": "cycling",
-    "traffic": "10000+",
-    "started": "Sun, 27 Sep 2026 22:20:00 -0700",
-    "summary": "相关新闻主要集中在：How Team USA won Worlds before it started。",
-    "explanation": "Google Trends 显示“cycling”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：How Team USA won Worlds before it started。这些报道来自 Escape Collective 等媒体，因此带动了集中搜索。",
+    "title": "hurricane nolo",
+    "titleZh": "hurricane nolo",
+    "traffic": "2000+",
+    "started": "Mon, 28 Sep 2026 21:30:00 -0700",
+    "summary": "相关新闻主要集中在：‘Storm fatigue’: Hawaiians reeling from back-to-back hurricanes as Nolo’s threats diminish。",
+    "explanation": "Google Trends 显示“hurricane nolo”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：‘Storm fatigue’: Hawaiians reeling from back-to-back hurricanes as Nolo’s threats diminish。这些报道来自 NBC News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "How Team USA won Worlds before it started",
-        "url": "https://escapecollective.com/how-team-usa-won-the-worlds-before-it-started/",
-        "source": "Escape Collective"
+        "title": "‘Storm fatigue’: Hawaiians reeling from back-to-back hurricanes as Nolo’s threats diminish",
+        "url": "https://www.nbcnews.com/weather/hurricanes/storm-fatigue-hawaiians-reeling-back-back-hurricanes-nolos-threats-dim-rcna600149",
+        "source": "NBC News"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "swimming",
-    "titleZh": "swimming",
-    "traffic": "2000+",
-    "started": "Sun, 27 Sep 2026 22:20:00 -0700",
-    "summary": "相关新闻主要集中在：Former USA Swimming Coach Frank Busch Dies at 75。",
-    "explanation": "Google Trends 显示“swimming”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Former USA Swimming Coach Frank Busch Dies at 75。这些报道来自 SuaraGarut.ID 等媒体，因此带动了集中搜索。",
+    "title": "jimmy kimmel",
+    "titleZh": "jimmy kimmel",
+    "traffic": "500+",
+    "started": "Mon, 28 Sep 2026 21:30:00 -0700",
+    "summary": "相关新闻主要集中在：Mamdani hosts Trump at Gracie Mansion as they continue unlikely rapport。",
+    "explanation": "Google Trends 显示“jimmy kimmel”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Mamdani hosts Trump at Gracie Mansion as they continue unlikely rapport。这些报道来自 The Washington Post 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Former USA Swimming Coach Frank Busch Dies at 75",
-        "url": "https://suaragarut.id/en/usa-swimming-coach-frank-busch-dies-75",
-        "source": "SuaraGarut.ID"
+        "title": "Mamdani hosts Trump at Gracie Mansion as they continue unlikely rapport",
+        "url": "https://www.washingtonpost.com/politics/2026/09/21/mamdani-hosts-trump-gracie-mansion-unlikely-rapport-continues/",
+        "source": "The Washington Post"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "russia",
-    "titleZh": "russia",
-    "traffic": "1000+",
-    "started": "Sun, 27 Sep 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：1677 Days of russia-Ukraine War – russian Casualties In Ukraine。",
-    "explanation": "Google Trends 显示“russia”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：1677 Days of russia-Ukraine War – russian Casualties In Ukraine。这些报道来自 Defense Express 等媒体，因此带动了集中搜索。",
+    "title": "josh hartnett",
+    "titleZh": "josh hartnett",
+    "traffic": "500+",
+    "started": "Mon, 28 Sep 2026 21:20:00 -0700",
+    "summary": "相关新闻主要集中在：Colleen Hoover and Michael Showalter on How Anne Hathaway and Dakota Johnson Made ‘Verity’ More Erotic, ‘It Ends With Us’ Drama and Sex in Movies。",
+    "explanation": "Google Trends 显示“josh hartnett”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Colleen Hoover and Michael Showalter on How Anne Hathaway and Dakota Johnson Made ‘Verity’ More Erotic, ‘It Ends With Us’ Drama and Sex in Movies。这些报道来自 Variety 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "1677 Days of russia-Ukraine War – russian Casualties In Ukraine",
-        "url": "https://en.defence-ua.com/news/1677_days_of_russia_ukraine_war_russian_casualties_in_ukraine-19914.html",
-        "source": "Defense Express"
+        "title": "Colleen Hoover and Michael Showalter on How Anne Hathaway and Dakota Johnson Made ‘Verity’ More Erotic, ‘It Ends With Us’ Drama and Sex in Movies",
+        "url": "https://variety.com/2026/film/features/verity-colleen-hoover-anne-hathaway-dakota-johnson-erotic-1236872986/",
+        "source": "Variety"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "eagles vs bears",
-    "titleZh": "eagles vs bears",
-    "traffic": "1000+",
-    "started": "Sun, 27 Sep 2026 21:40:00 -0700",
-    "summary": "相关新闻主要集中在：Spadaro: Game Preview at Bears, 6 storylines to follow。",
-    "explanation": "Google Trends 显示“eagles vs bears”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Spadaro: Game Preview at Bears, 6 storylines to follow。这些报道来自 Philadelphia Eagles 等媒体，因此带动了集中搜索。",
+    "title": "ken paxton",
+    "titleZh": "ken paxton",
+    "traffic": "500+",
+    "started": "Mon, 28 Sep 2026 21:20:00 -0700",
+    "summary": "相关新闻主要集中在：Could Dems take the TX Senate for the first time in DECADES?。",
+    "explanation": "Google Trends 显示“ken paxton”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Could Dems take the TX Senate for the first time in DECADES?。这些报道来自 MS NOW 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Spadaro: Game Preview at Bears, 6 storylines to follow",
-        "url": "https://www.philadelphiaeagles.com/news/eagles-at-bears-game-preview-6-storylines-to-follow-2026-week-3-nfl-regular-season-monday-night-football-jalen-hurts-caleb-williams",
-        "source": "Philadelphia Eagles"
+        "title": "Could Dems take the TX Senate for the first time in DECADES?",
+        "url": "https://www.ms.now/connect/watch/could-dems-take-the-tx-senate-for-the-first-time-in-decades-2515523651621",
+        "source": "MS NOW"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "chihuahua",
-    "titleZh": "chihuahua",
+    "title": "las vegas weather",
+    "titleZh": "las vegas weather",
     "traffic": "1000+",
-    "started": "Sun, 27 Sep 2026 21:30:00 -0700",
-    "summary": "相关新闻主要集中在：México reanuda exportación de ganado a EE.UU. tras un brote de gusano barrenador。",
-    "explanation": "Google Trends 显示“chihuahua”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：México reanuda exportación de ganado a EE.UU. tras un brote de gusano barrenador。这些报道来自 Telemundo 等媒体，因此带动了集中搜索。",
+    "started": "Mon, 28 Sep 2026 20:40:00 -0700",
+    "summary": "相关新闻主要集中在：Bullhead City urges caution as heavy rain brings flash flood warning。",
+    "explanation": "Google Trends 显示“las vegas weather”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Bullhead City urges caution as heavy rain brings flash flood warning。这些报道来自 KTNV Las Vegas 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "México reanuda exportación de ganado a EE.UU. tras un brote de gusano barrenador",
-        "url": "https://www.telemundo.com/noticias/noticias-telemundo/internacional/video/mexico-reanuda-exportacion-de-ganado-a-ee-uu-tras-un-brote-de-gusano-barrenador-tmvo13227367",
-        "source": "Telemundo"
+        "title": "Bullhead City urges caution as heavy rain brings flash flood warning",
+        "url": "https://www.ktnv.com/news/bullhead-city-urges-caution-as-heavy-rain-brings-flash-flood-warning",
+        "source": "KTNV Las Vegas"
       }
     ]
   }
