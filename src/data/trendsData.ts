@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "evan bouchard",
-    "titleZh": "evan bouchard",
-    "traffic": "500+",
-    "started": "Tue, 29 Sep 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：Evan Bouchard tallies goal vs. Oilers。",
-    "explanation": "Google Trends 显示“evan bouchard”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Evan Bouchard tallies goal vs. Oilers。这些报道来自 ESPN 等媒体，因此带动了集中搜索。",
+    "title": "flavio cobolli",
+    "titleZh": "flavio cobolli",
+    "traffic": "200+",
+    "started": "Wed, 30 Sep 2026 23:50:00 -0700",
+    "summary": "相关新闻主要集中在：October 1, 2026: Elena Rybakina vs Alina Charaeva: Set 1 Winner Tennis Prediction Market。",
+    "explanation": "Google Trends 显示“flavio cobolli”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：October 1, 2026: Elena Rybakina vs Alina Charaeva: Set 1 Winner Tennis Prediction Market。这些报道来自 Robinhood 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Evan Bouchard tallies goal vs. Oilers",
-        "url": "https://www.espn.com/video/clip/_/id/50063949/evan-bouchard-tallies-goal-vs-oilers",
-        "source": "ESPN"
+        "title": "October 1, 2026: Elena Rybakina vs Alina Charaeva: Set 1 Winner Tennis Prediction Market",
+        "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/elena-rybakina-vs-alina-charaeva-set-1-winner-oct-01-2026/",
+        "source": "Robinhood"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "tommy paul",
-    "titleZh": "tommy paul",
-    "traffic": "2000+",
-    "started": "Tue, 29 Sep 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：Alejandro Tabilo vs Tommy Paul Prediction - ATP Japan Open 2026。",
-    "explanation": "Google Trends 显示“tommy paul”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Alejandro Tabilo vs Tommy Paul Prediction - ATP Japan Open 2026。这些报道来自 Stats Insider 等媒体，因此带动了集中搜索。",
+    "title": "paula badosa",
+    "titleZh": "paula badosa",
+    "traffic": "200+",
+    "started": "Wed, 30 Sep 2026 23:40:00 -0700",
+    "summary": "相关新闻主要集中在：Paula Badosa quiere volver a lo más alto en el WTA 1.000 de Pekín y prepara el torneo junto a Aryna Sabalenka。",
+    "explanation": "Google Trends 显示“paula badosa”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Paula Badosa quiere volver a lo más alto en el WTA 1.000 de Pekín y prepara el torneo junto a Aryna Sabalenka。这些报道来自 El Desmarque 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Alejandro Tabilo vs Tommy Paul Prediction - ATP Japan Open 2026",
-        "url": "https://www.statsinsider.com.au/news/alejandro-tabilo-vs-tommy-paul-prediction-atp-japan-open-2026",
-        "source": "Stats Insider"
+        "title": "Paula Badosa quiere volver a lo más alto en el WTA 1.000 de Pekín y prepara el torneo junto a Aryna Sabalenka",
+        "url": "https://www.eldesmarque.com/tenis/20260929/paula-badosa-mas-alto-wta-1000-pekin-aryna-sabalenka_18_020294681.html",
+        "source": "El Desmarque"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "maya joint",
-    "titleZh": "maya joint",
-    "traffic": "500+",
-    "started": "Tue, 29 Sep 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：Maya Joint vs Sinja Kraus Prediction - WTA China Open 2026。",
-    "explanation": "Google Trends 显示“maya joint”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Maya Joint vs Sinja Kraus Prediction - WTA China Open 2026。这些报道来自 Stats Insider 等媒体，因此带动了集中搜索。",
+    "title": "panama vs new zealand",
+    "titleZh": "panama vs new zealand",
+    "traffic": "1000+",
+    "started": "Wed, 30 Sep 2026 23:10:00 -0700",
+    "summary": "相关新闻主要集中在：All Whites captain coy on Fifa World Cup verdict, ahead of NZ football review。",
+    "explanation": "Google Trends 显示“panama vs new zealand”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：All Whites captain coy on Fifa World Cup verdict, ahead of NZ football review。这些报道来自 NZ Herald 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Maya Joint vs Sinja Kraus Prediction - WTA China Open 2026",
-        "url": "https://www.statsinsider.com.au/news/maya-joint-vs-sinja-kraus-prediction-wta-china-open-2026",
-        "source": "Stats Insider"
+        "title": "All Whites captain coy on Fifa World Cup verdict, ahead of NZ football review",
+        "url": "https://www.nzherald.co.nz/sport/football/all-whites-why-chris-wood-still-feels-pain-of-new-zealands-fifa-world-cup-exit/IB47O32IOBCB5CEFUR72LANXIA/",
+        "source": "NZ Herald"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "mason miller",
-    "titleZh": "mason miller",
-    "traffic": "500+",
-    "started": "Tue, 29 Sep 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：Cubs 0-8 Padres (Sep 29, 2026) Final Score。",
-    "explanation": "Google Trends 显示“mason miller”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Cubs 0-8 Padres (Sep 29, 2026) Final Score。这些报道来自 ESPN 等媒体，因此带动了集中搜索。",
+    "title": "quentin halys",
+    "titleZh": "quentin halys",
+    "traffic": "200+",
+    "started": "Wed, 30 Sep 2026 23:10:00 -0700",
+    "summary": "相关新闻主要集中在：October 1, 2026: Darderi / Etcheverry T vs Hijikata / Uesugi Tennis Prediction Market。",
+    "explanation": "Google Trends 显示“quentin halys”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：October 1, 2026: Darderi / Etcheverry T vs Hijikata / Uesugi Tennis Prediction Market。这些报道来自 Robinhood 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Cubs 0-8 Padres (Sep 29, 2026) Final Score",
-        "url": "https://www.espn.com/mlb/game/_/gameId/401907974/cubs-padres",
-        "source": "ESPN"
+        "title": "October 1, 2026: Darderi / Etcheverry T vs Hijikata / Uesugi Tennis Prediction Market",
+        "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/darderi-etcheverry-t-vs-hijikata-uesugi-oct-01-2026/",
+        "source": "Robinhood"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "casino",
-    "titleZh": "casino",
+    "title": "franklin high school",
+    "titleZh": "franklin high school",
     "traffic": "2000+",
-    "started": "Tue, 29 Sep 2026 21:40:00 -0700",
-    "summary": "相关新闻主要集中在：NYC pied-à-terre tax rollout flawed, judge rules。",
-    "explanation": "Google Trends 显示“casino”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：NYC pied-à-terre tax rollout flawed, judge rules。这些报道来自 ABC7 New York 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 30 Sep 2026 23:00:00 -0700",
+    "summary": "相关新闻主要集中在：Student at Franklin High School dies after fourth-floor fall: LAPD。",
+    "explanation": "Google Trends 显示“franklin high school”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Student at Franklin High School dies after fourth-floor fall: LAPD。这些报道来自 NBC Los Angeles 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "NYC pied-à-terre tax rollout flawed, judge rules",
-        "url": "https://abc7ny.com/post/nyc-pied-terre-tax-judge-rules-taxes-saying-implementation-was-flawed-city-can-appeal/19888754/",
-        "source": "ABC7 New York"
+        "title": "Student at Franklin High School dies after fourth-floor fall: LAPD",
+        "url": "https://www.nbclosangeles.com/news/local/franklin-high-school-student-dies/3949426/",
+        "source": "NBC Los Angeles"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "sean burke",
-    "titleZh": "sean burke",
-    "traffic": "1000+",
-    "started": "Tue, 29 Sep 2026 21:40:00 -0700",
-    "summary": "相关新闻主要集中在：White Sox's Sean Burke Drops Legendary Quote Ahead of MLB Wild Card Game 2 Start vs. Astros。",
-    "explanation": "Google Trends 显示“sean burke”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：White Sox's Sean Burke Drops Legendary Quote Ahead of MLB Wild Card Game 2 Start vs. Astros。这些报道来自 Bleacher Report 等媒体，因此带动了集中搜索。",
+    "title": "lamelo ball",
+    "titleZh": "lamelo ball",
+    "traffic": "500+",
+    "started": "Wed, 30 Sep 2026 22:50:00 -0700",
+    "summary": "相关新闻主要集中在：Ana Montana, girlfriend to NBA star LaMelo Ball, arrested on felony drug charges in North Carolina。",
+    "explanation": "Google Trends 显示“lamelo ball”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Ana Montana, girlfriend to NBA star LaMelo Ball, arrested on felony drug charges in North Carolina。这些报道来自 Fox News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "White Sox's Sean Burke Drops Legendary Quote Ahead of MLB Wild Card Game 2 Start vs. Astros",
-        "url": "https://bleacherreport.com/articles/25504931-white-soxs-sean-burke-drops-legendary-quote-ahead-mlb-wild-card-game-2-start-vs-astros",
-        "source": "Bleacher Report"
+        "title": "Ana Montana, girlfriend to NBA star LaMelo Ball, arrested on felony drug charges in North Carolina",
+        "url": "https://www.foxnews.com/outkick-sports/ana-montana-girlfriend-nba-star-lamelo-ball-arrested-felony-drug-charges-north-carolina",
+        "source": "Fox News"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "joe musgrove",
-    "titleZh": "joe musgrove",
-    "traffic": "5000+",
-    "started": "Tue, 29 Sep 2026 21:30:00 -0700",
-    "summary": "相关新闻主要集中在：Padres add Joe Musgrove, out since 2024, to wild-card roster。",
-    "explanation": "Google Trends 显示“joe musgrove”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Padres add Joe Musgrove, out since 2024, to wild-card roster。这些报道来自 ESPN 等媒体，因此带动了集中搜索。",
+    "title": "china open",
+    "titleZh": "china open",
+    "traffic": "200+",
+    "started": "Wed, 30 Sep 2026 22:50:00 -0700",
+    "summary": "相关新闻主要集中在：'The 5th Grand Slam:' Zheng embraces the home-crowd pressure of Beijing。",
+    "explanation": "Google Trends 显示“china open”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：'The 5th Grand Slam:' Zheng embraces the home-crowd pressure of Beijing。这些报道来自 WTA Tennis 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Padres add Joe Musgrove, out since 2024, to wild-card roster",
-        "url": "https://www.espn.com/mlb/story/_/id/50059817/padres-add-joe-musgrove-2024-wild-card-roster",
-        "source": "ESPN"
+        "title": "'The 5th Grand Slam:' Zheng embraces the home-crowd pressure of Beijing",
+        "url": "https://www.wtatennis.com/news/4583484/to-play-in-china-is-playing-the-5th-grand-slam-zheng-qinwen-embraces-the-pressure-of-beijing",
+        "source": "WTA Tennis"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "hailee steinfeld",
-    "titleZh": "hailee steinfeld",
-    "traffic": "2000+",
-    "started": "Tue, 29 Sep 2026 21:30:00 -0700",
-    "summary": "相关新闻主要集中在：Josh Allen's Wife, Hailee Steinfield, Announces Difficult Personal News Before Chargers-Bills。",
-    "explanation": "Google Trends 显示“hailee steinfeld”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Josh Allen's Wife, Hailee Steinfield, Announces Difficult Personal News Before Chargers-Bills。这些报道来自 Heavy.com 等媒体，因此带动了集中搜索。",
+    "title": "frances tiafoe",
+    "titleZh": "frances tiafoe",
+    "traffic": "1000+",
+    "started": "Wed, 30 Sep 2026 22:30:00 -0700",
+    "summary": "相关新闻主要集中在：ATP Tokyo Day 2 Predictions Including Kei Nishikori vs Frances Tiafoe。",
+    "explanation": "Google Trends 显示“frances tiafoe”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：ATP Tokyo Day 2 Predictions Including Kei Nishikori vs Frances Tiafoe。这些报道来自 Last Word On Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Josh Allen's Wife, Hailee Steinfield, Announces Difficult Personal News Before Chargers-Bills",
-        "url": "https://heavy.com/sports/nfl/buffalo-bills/josh-allen-wife-girlfriend-hailee-steinfield-news-dog/",
-        "source": "Heavy.com"
+        "title": "ATP Tokyo Day 2 Predictions Including Kei Nishikori vs Frances Tiafoe",
+        "url": "https://lastwordonsports.com/tennis/2026/09/30/atp-tokyo-day-2-predictions-nishikori-tiafoe/",
+        "source": "Last Word On Sports"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "reggie",
-    "titleZh": "reggie",
+    "title": "jim carrey",
+    "titleZh": "jim carrey",
     "traffic": "1000+",
-    "started": "Tue, 29 Sep 2026 21:20:00 -0700",
-    "summary": "相关新闻主要集中在：Reggie Gets Emotional While Discussing His Exit From Clover Boyz & Why He No Longer Wants To Be Around Kai Cenat (VIDEOS)。",
-    "explanation": "Google Trends 显示“reggie”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Reggie Gets Emotional While Discussing His Exit From Clover Boyz & Why He No Longer Wants To Be Around Kai Cenat (VIDEOS)。这些报道来自 The Shade Room 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 30 Sep 2026 22:30:00 -0700",
+    "summary": "相关新闻主要集中在：Jim Carrey, 64, marries longtime girlfriend Min Ah, 32, in secret Los Angeles ceremony。",
+    "explanation": "Google Trends 显示“jim carrey”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Jim Carrey, 64, marries longtime girlfriend Min Ah, 32, in secret Los Angeles ceremony。这些报道来自 Nine.com.au 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Reggie Gets Emotional While Discussing His Exit From Clover Boyz & Why He No Longer Wants To Be Around Kai Cenat (VIDEOS)",
-        "url": "https://theshaderoom.com/reggie-gets-emotional-exit-clover-boyz-no-longer-wants-to-be-around-kai-cenat-videos/",
-        "source": "The Shade Room"
+        "title": "Jim Carrey, 64, marries longtime girlfriend Min Ah, 32, in secret Los Angeles ceremony",
+        "url": "https://www.nine.com.au/entertainment/celebrity/jim-carrey-marries-girlfriend-min-ah-32-secret-los-angeles-ceremony-20261001-p6122y.html",
+        "source": "Nine.com.au"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "amy schumer",
-    "titleZh": "amy schumer",
-    "traffic": "1000+",
-    "started": "Tue, 29 Sep 2026 21:20:00 -0700",
-    "summary": "相关新闻主要集中在：Paul McCartney, Howard Stern, Pete Davidson, TV on the Radio, Bernie Sanders and Goose to Join Jimmy Kimmel in Brooklyn This Week。",
-    "explanation": "Google Trends 显示“amy schumer”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Paul McCartney, Howard Stern, Pete Davidson, TV on the Radio, Bernie Sanders and Goose to Join Jimmy Kimmel in Brooklyn This Week。这些报道来自 Jambands 等媒体，因此带动了集中搜索。",
+    "title": "florence pugh",
+    "titleZh": "florence pugh",
+    "traffic": "2000+",
+    "started": "Wed, 30 Sep 2026 22:30:00 -0700",
+    "summary": "相关新闻主要集中在：‘East of Eden’ New York Premiere Photos: Florence Pugh, Chris Abbott, Mike Faist & More。",
+    "explanation": "Google Trends 显示“florence pugh”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：‘East of Eden’ New York Premiere Photos: Florence Pugh, Chris Abbott, Mike Faist & More。这些报道来自 Deadline 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Paul McCartney, Howard Stern, Pete Davidson, TV on the Radio, Bernie Sanders and Goose to Join Jimmy Kimmel in Brooklyn This Week",
-        "url": "https://jambands.com/news/2026/09/28/paul-mccartney-howard-stern-pete-davidson-tv-on-the-radio-bernie-sanders-and-goose-to-join-jimmy-kimmel-in-brooklyn-this-week/",
-        "source": "Jambands"
+        "title": "‘East of Eden’ New York Premiere Photos: Florence Pugh, Chris Abbott, Mike Faist & More",
+        "url": "https://deadline.com/gallery/east-of-eden-new-york-premiere-red-carpet-photos/",
+        "source": "Deadline"
       }
     ]
   }
