@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "asian games medal tally",
-    "titleZh": "asian games medal tally",
-    "traffic": "500+",
-    "started": "Fri, 2 Oct 2026 23:10:00 -0700",
-    "summary": "相关新闻主要集中在：Asian Games 2026 Medal Tally: Historic hockey, boxing, wrestling and archery golds power India into top 5。",
-    "explanation": "Google Trends 显示“asian games medal tally”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Asian Games 2026 Medal Tally: Historic hockey, boxing, wrestling and archery golds power India into top 5。这些报道来自 The Times of India 等媒体，因此带动了集中搜索。",
+    "title": "apple tv",
+    "titleZh": "apple tv",
+    "traffic": "5000+",
+    "started": "Sat, 3 Oct 2026 23:30:00 -0700",
+    "summary": "相关新闻主要集中在：East of Eden to Kill Jackie: the seven best shows to stream this week | Television & radio。",
+    "explanation": "Google Trends 显示“apple tv”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：East of Eden to Kill Jackie: the seven best shows to stream this week | Television & radio。这些报道来自 The Guardian 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Asian Games 2026 Medal Tally: Historic hockey, boxing, wrestling and archery golds power India into top 5",
-        "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-medal-tally-historic-hockey-boxing-wrestling-and-archery-golds-power-india-into-top-5/articleshow/134641234.cms",
-        "source": "The Times of India"
+        "title": "East of Eden to Kill Jackie: the seven best shows to stream this week | Television & radio",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/sep/25/the-seven-best-shows-to-stream-this-week",
+        "source": "The Guardian"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "first friday shooting",
-    "titleZh": "first friday shooting",
-    "traffic": "1000+",
-    "started": "Fri, 2 Oct 2026 23:00:00 -0700",
-    "summary": "相关新闻主要集中在：Heavy police activity near First Friday at the Arts District。",
-    "explanation": "Google Trends 显示“first friday shooting”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Heavy police activity near First Friday at the Arts District。这些报道来自 KTNV Las Vegas 等媒体，因此带动了集中搜索。",
+    "title": "tropical storm nolo",
+    "titleZh": "tropical storm nolo",
+    "traffic": "200+",
+    "started": "Sat, 3 Oct 2026 23:20:00 -0700",
+    "summary": "相关新闻主要集中在：First Alert Forecast: More spotty showers for Kauai and Oahu today, drier conditions expected over the weekend。",
+    "explanation": "Google Trends 显示“tropical storm nolo”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：First Alert Forecast: More spotty showers for Kauai and Oahu today, drier conditions expected over the weekend。这些报道来自 Hawaii News Now 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Heavy police activity near First Friday at the Arts District",
-        "url": "https://www.ktnv.com/news/heavy-police-activity-near-first-friday-at-the-arts-district",
-        "source": "KTNV Las Vegas"
+        "title": "First Alert Forecast: More spotty showers for Kauai and Oahu today, drier conditions expected over the weekend",
+        "url": "https://www.hawaiinewsnow.com/2026/10/02/first-alert-forecast-more-spotty-showers-kauai-oahu-today-drier-conditions-expected-over-weekend/",
+        "source": "Hawaii News Now"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "japan open",
-    "titleZh": "japan open",
+    "title": "bahrain",
+    "titleZh": "bahrain",
     "traffic": "200+",
-    "started": "Fri, 2 Oct 2026 23:00:00 -0700",
-    "summary": "相关新闻主要集中在：Video : Denis Shapovalov defeats Alejandro Tabilo at Japan Open Tennis Championships 2026 – Round 2。",
-    "explanation": "Google Trends 显示“japan open”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Video : Denis Shapovalov defeats Alejandro Tabilo at Japan Open Tennis Championships 2026 – Round 2。这些报道来自 TennisTemple 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 3 Oct 2026 23:20:00 -0700",
+    "summary": "相关新闻主要集中在：Who is best set for success in Sepang?。",
+    "explanation": "Google Trends 显示“bahrain”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Who is best set for success in Sepang?。这些报道来自 PlanetF1 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Video : Denis Shapovalov defeats Alejandro Tabilo at Japan Open Tennis Championships 2026 – Round 2",
-        "url": "https://en.tennistemple.com/video/denis-shapovalov-defeats-alejandro-tabilo-at-japan/An49s",
-        "source": "TennisTemple"
+        "title": "Who is best set for success in Sepang?",
+        "url": "https://www.planetf1.com/f1-data/race-predictions-bahrain-grand-prix-malaysia",
+        "source": "PlanetF1"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "getty",
-    "titleZh": "getty",
-    "traffic": "200+",
-    "started": "Fri, 2 Oct 2026 22:50:00 -0700",
-    "summary": "相关新闻主要集中在：Getty Images Avoids Default With Last-Minute Bond Payment After NYSE Moves to Delist Shares。",
-    "explanation": "Google Trends 显示“getty”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Getty Images Avoids Default With Last-Minute Bond Payment After NYSE Moves to Delist Shares。这些报道来自 Benzinga 等媒体，因此带动了集中搜索。",
+    "title": "f1 schedule",
+    "titleZh": "f1 schedule",
+    "traffic": "500+",
+    "started": "Sat, 3 Oct 2026 22:40:00 -0700",
+    "summary": "相关新闻主要集中在：What Do You Get When 7 F1 Drivers Share a Tropical Island? ‘A Social Experiment’ ... and Chaos。",
+    "explanation": "Google Trends 显示“f1 schedule”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：What Do You Get When 7 F1 Drivers Share a Tropical Island? ‘A Social Experiment’ ... and Chaos。这些报道来自 Road & Track 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Getty Images Avoids Default With Last-Minute Bond Payment After NYSE Moves to Delist Shares",
-        "url": "https://www.benzinga.com/markets/bonds/26/10/62103234/getty-images-avoids-default-bond-payment-nyse-delisting",
-        "source": "Benzinga"
+        "title": "What Do You Get When 7 F1 Drivers Share a Tropical Island? ‘A Social Experiment’ ... and Chaos",
+        "url": "https://www.roadandtrack.com/news/a73980574/7-f1-drivers-share-a-tropical-island/",
+        "source": "Road & Track"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "monterrey - américa",
-    "titleZh": "monterrey - américa",
-    "traffic": "1000+",
-    "started": "Fri, 2 Oct 2026 22:40:00 -0700",
-    "summary": "相关新闻主要集中在：Resumen Rayadas vs América Femenil: Ángel Villacampa pierde el invicto por remontada de Aerial Chavarin。",
-    "explanation": "Google Trends 显示“monterrey - américa”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Resumen Rayadas vs América Femenil: Ángel Villacampa pierde el invicto por remontada de Aerial Chavarin。这些报道来自 MARCA 等媒体，因此带动了集中搜索。",
+    "title": "karen khachanov",
+    "titleZh": "karen khachanov",
+    "traffic": "200+",
+    "started": "Sat, 3 Oct 2026 22:40:00 -0700",
+    "summary": "相关新闻主要集中在：Kartal vs Wang | Prediction Markets。",
+    "explanation": "Google Trends 显示“karen khachanov”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Kartal vs Wang | Prediction Markets。这些报道来自 Coinbase 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Resumen Rayadas vs América Femenil: Ángel Villacampa pierde el invicto por remontada de Aerial Chavarin",
-        "url": "https://www.marca.com/mx/futbol/liga-mx-femenil/2026/10/03/resumen-rayadas-vs-america-femenil-angel-villacampa-pierde-invicto-remontada-aerial-chavarin.html",
-        "source": "MARCA"
+        "title": "Kartal vs Wang | Prediction Markets",
+        "url": "https://www.coinbase.com/predictions/event/KXWTAMATCH-26OCT01KARWAN",
+        "source": "Coinbase"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "matteo arnaldi",
-    "titleZh": "matteo arnaldi",
-    "traffic": "200+",
-    "started": "Fri, 2 Oct 2026 22:40:00 -0700",
-    "summary": "相关新闻主要集中在：ATP Tokyo Day 4 Predictions Including Carlos Alcaraz vs Matteo Arnaldi。",
-    "explanation": "Google Trends 显示“matteo arnaldi”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：ATP Tokyo Day 4 Predictions Including Carlos Alcaraz vs Matteo Arnaldi。这些报道来自 Last Word On Sports 等媒体，因此带动了集中搜索。",
+    "title": "japan open",
+    "titleZh": "japan open",
+    "traffic": "1000+",
+    "started": "Sat, 3 Oct 2026 22:30:00 -0700",
+    "summary": "相关新闻主要集中在：Alcaraz fends off 4 set points, then blitzes Arnaldi for Tokyo QF spot。",
+    "explanation": "Google Trends 显示“japan open”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Alcaraz fends off 4 set points, then blitzes Arnaldi for Tokyo QF spot。这些报道来自 ATP Tour 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "ATP Tokyo Day 4 Predictions Including Carlos Alcaraz vs Matteo Arnaldi",
-        "url": "https://lastwordonsports.com/tennis/2026/10/02/atp-tokyo-day-4-predictions-alcaraz-arnaldi/",
-        "source": "Last Word On Sports"
+        "title": "Alcaraz fends off 4 set points, then blitzes Arnaldi for Tokyo QF spot",
+        "url": "https://www.atptour.com/en/news/alcaraz-arnaldi-tokyo-2026-saturday",
+        "source": "ATP Tour"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "vaibhav sooryavanshi",
-    "titleZh": "vaibhav sooryavanshi",
-    "traffic": "500+",
-    "started": "Fri, 2 Oct 2026 22:20:00 -0700",
-    "summary": "相关新闻主要集中在：WATCH: Saim Ayub mocks Vaibhav Sooryavanshi with babysitting gesture after his wicket in IND vs PAK Asian...。",
-    "explanation": "Google Trends 显示“vaibhav sooryavanshi”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：WATCH: Saim Ayub mocks Vaibhav Sooryavanshi with babysitting gesture after his wicket in IND vs PAK Asian...。这些报道来自 Moneycontrol.com 等媒体，因此带动了集中搜索。",
+    "title": "complexcon 2026",
+    "titleZh": "complexcon 2026",
+    "traffic": "200+",
+    "started": "Sat, 3 Oct 2026 22:00:00 -0700",
+    "summary": "相关新闻主要集中在：COMPLEXCON CELEBRATES 10-YEAR ANNIVERSARY WITH LANDMARK LOS ANGELES DEBUT OCTOBER 3-4。",
+    "explanation": "Google Trends 显示“complexcon 2026”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：COMPLEXCON CELEBRATES 10-YEAR ANNIVERSARY WITH LANDMARK LOS ANGELES DEBUT OCTOBER 3-4。这些报道来自 Morningstar 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "WATCH: Saim Ayub mocks Vaibhav Sooryavanshi with babysitting gesture after his wicket in IND vs PAK Asian...",
-        "url": "https://www.moneycontrol.com/sports/cricket/watch-saim-ayub-mocks-vaibhav-sooryavanshi-with-babysitting-gesture-after-his-wicket-in-ind-vs-pak-asian-games-showdown-article-14043704.html",
-        "source": "Moneycontrol.com"
+        "title": "COMPLEXCON CELEBRATES 10-YEAR ANNIVERSARY WITH LANDMARK LOS ANGELES DEBUT OCTOBER 3-4",
+        "url": "https://www.morningstar.com/news/pr-newswire/20261001ny61515/complexcon-celebrates-10-year-anniversary-with-landmark-los-angeles-debut-october-3-4",
+        "source": "Morningstar"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "payton talbott",
-    "titleZh": "payton talbott",
-    "traffic": "200+",
-    "started": "Fri, 2 Oct 2026 22:20:00 -0700",
-    "summary": "相关新闻主要集中在：Anything But Fighting: Payton Talbott answers random questions | Part 4。",
-    "explanation": "Google Trends 显示“payton talbott”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Anything But Fighting: Payton Talbott answers random questions | Part 4。这些报道来自 MMA Fighting 等媒体，因此带动了集中搜索。",
+    "title": "friday the 13th",
+    "titleZh": "friday the 13th",
+    "traffic": "500+",
+    "started": "Sat, 3 Oct 2026 22:00:00 -0700",
+    "summary": "相关新闻主要集中在：Crystal Lake Brings Camp Crystal Lake Experience to New York Comic Con。",
+    "explanation": "Google Trends 显示“friday the 13th”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Crystal Lake Brings Camp Crystal Lake Experience to New York Comic Con。这些报道来自 The Movie Blog 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Anything But Fighting: Payton Talbott answers random questions | Part 4",
-        "url": "https://www.mmafighting.com/videos/510572/anything-but-fighting-payton-talbott-answers-random-questions-part-4",
-        "source": "MMA Fighting"
+        "title": "Crystal Lake Brings Camp Crystal Lake Experience to New York Comic Con",
+        "url": "https://www.themovieblog.com/2026/10/crystal-lake-nycc-opening-scene-sneak-peek/",
+        "source": "The Movie Blog"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "mater dei football",
-    "titleZh": "mater dei football",
-    "traffic": "200+",
-    "started": "Fri, 2 Oct 2026 22:20:00 -0700",
-    "summary": "相关新闻主要集中在：Mater Dei vs. Santa Margarita Football Live Updates Of Trinity League Opener。",
-    "explanation": "Google Trends 显示“mater dei football”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Mater Dei vs. Santa Margarita Football Live Updates Of Trinity League Opener。这些报道来自 Sports Illustrated 等媒体，因此带动了集中搜索。",
+    "title": "thomas randolph",
+    "titleZh": "thomas randolph",
+    "traffic": "500+",
+    "started": "Sat, 3 Oct 2026 22:00:00 -0700",
+    "summary": "相关新闻主要集中在：Where is Thomas Randolph now? Update on 'The Widower' case。",
+    "explanation": "Google Trends 显示“thomas randolph”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Where is Thomas Randolph now? Update on 'The Widower' case。这些报道来自 USA Today 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Mater Dei vs. Santa Margarita Football Live Updates Of Trinity League Opener",
-        "url": "https://www.si.com/high-school/california/mater-dei-vs-santa-margarita-football-live-updates-of-trinity-league-opener-01m3zh7yqcqn",
-        "source": "Sports Illustrated"
+        "title": "Where is Thomas Randolph now? Update on 'The Widower' case",
+        "url": "https://www.usatoday.com/story/entertainment/tv-streaming/2026/10/02/the-widower-thomas-randolph-netflix-doc-case-update/92038282007/",
+        "source": "USA Today"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "abhishek sharma",
-    "titleZh": "abhishek sharma",
-    "traffic": "1000+",
-    "started": "Fri, 2 Oct 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：Abhishek Sharma's run-frenzy ends, dismissed for 61 off 28 balls: Shreyas Iyer brings 100 for India inside ...。",
-    "explanation": "Google Trends 显示“abhishek sharma”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Abhishek Sharma's run-frenzy ends, dismissed for 61 off 28 balls: Shreyas Iyer brings 100 for India inside ...。这些报道来自 Bhaskar English 等媒体，因此带动了集中搜索。",
+    "title": "carlos alcaraz",
+    "titleZh": "carlos alcaraz",
+    "traffic": "5000+",
+    "started": "Sat, 3 Oct 2026 21:50:00 -0700",
+    "summary": "相关新闻主要集中在：Alcaraz gana en su debut en Tokio y Nishikori se despide del tenis。",
+    "explanation": "Google Trends 显示“carlos alcaraz”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Alcaraz gana en su debut en Tokio y Nishikori se despide del tenis。这些报道来自 Diario Las Américas 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Abhishek Sharma's run-frenzy ends, dismissed for 61 off 28 balls: Shreyas Iyer brings 100 for India inside ...",
-        "url": "https://www.bhaskarenglish.in/sports/cricket/news/ind-vs-pak-final-asian-games-live-score-update-jasprit-bumrah-abhishek-sharma-shreyas-iyer-139227122.html",
-        "source": "Bhaskar English"
+        "title": "Alcaraz gana en su debut en Tokio y Nishikori se despide del tenis",
+        "url": "https://www.diariolasamericas.com/deportes/alcaraz-gana-su-debut-tokio-y-nishikori-se-despide-del-tenis-n5403131",
+        "source": "Diario Las Américas"
       }
     ]
   }
