@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "apple tv",
-    "titleZh": "apple tv",
-    "traffic": "5000+",
-    "started": "Sat, 3 Oct 2026 23:30:00 -0700",
-    "summary": "相关新闻主要集中在：East of Eden to Kill Jackie: the seven best shows to stream this week | Television & radio。",
-    "explanation": "Google Trends 显示“apple tv”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：East of Eden to Kill Jackie: the seven best shows to stream this week | Television & radio。这些报道来自 The Guardian 等媒体，因此带动了集中搜索。",
+    "title": "cybersecurity tips",
+    "titleZh": "cybersecurity tips",
+    "traffic": "200+",
+    "started": "Sun, 4 Oct 2026 23:50:00 -0700",
+    "summary": "相关新闻主要集中在：Some Assembly Required: Verifying What’s Real in 2026。",
+    "explanation": "Google Trends 显示“cybersecurity tips”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Some Assembly Required: Verifying What’s Real in 2026。这些报道来自 Security Boulevard 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "East of Eden to Kill Jackie: the seven best shows to stream this week | Television & radio",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/sep/25/the-seven-best-shows-to-stream-this-week",
-        "source": "The Guardian"
+        "title": "Some Assembly Required: Verifying What’s Real in 2026",
+        "url": "https://securityboulevard.com/2026/10/some-assembly-required-verifying-whats-real-in-2026/",
+        "source": "Security Boulevard"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "tropical storm nolo",
-    "titleZh": "tropical storm nolo",
+    "title": "qinwen zheng",
+    "titleZh": "qinwen zheng",
     "traffic": "200+",
-    "started": "Sat, 3 Oct 2026 23:20:00 -0700",
-    "summary": "相关新闻主要集中在：First Alert Forecast: More spotty showers for Kauai and Oahu today, drier conditions expected over the weekend。",
-    "explanation": "Google Trends 显示“tropical storm nolo”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：First Alert Forecast: More spotty showers for Kauai and Oahu today, drier conditions expected over the weekend。这些报道来自 Hawaii News Now 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 4 Oct 2026 23:40:00 -0700",
+    "summary": "相关新闻主要集中在：Marie Bouzkova vs. Qinwen Zheng prediction, odds, picks for WTA China Open 2026。",
+    "explanation": "Google Trends 显示“qinwen zheng”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Marie Bouzkova vs. Qinwen Zheng prediction, odds, picks for WTA China Open 2026。这些报道来自 Dimers 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "First Alert Forecast: More spotty showers for Kauai and Oahu today, drier conditions expected over the weekend",
-        "url": "https://www.hawaiinewsnow.com/2026/10/02/first-alert-forecast-more-spotty-showers-kauai-oahu-today-drier-conditions-expected-over-weekend/",
-        "source": "Hawaii News Now"
+        "title": "Marie Bouzkova vs. Qinwen Zheng prediction, odds, picks for WTA China Open 2026",
+        "url": "https://www.dimers.com/tennis/news/marie-bouzkova-vs-qinwen-zheng-tennis-prediction-wta-china-open-2026-ac",
+        "source": "Dimers"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "bahrain",
-    "titleZh": "bahrain",
-    "traffic": "200+",
-    "started": "Sat, 3 Oct 2026 23:20:00 -0700",
-    "summary": "相关新闻主要集中在：Who is best set for success in Sepang?。",
-    "explanation": "Google Trends 显示“bahrain”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Who is best set for success in Sepang?。这些报道来自 PlanetF1 等媒体，因此带动了集中搜索。",
+    "title": "estados unidos",
+    "titleZh": "estados unidos",
+    "traffic": "500+",
+    "started": "Sun, 4 Oct 2026 23:10:00 -0700",
+    "summary": "相关新闻主要集中在：“La rivalidad contra México me da lo mismo”, asegura Pochettino previo al clásico de Concacaf。",
+    "explanation": "Google Trends 显示“estados unidos”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：“La rivalidad contra México me da lo mismo”, asegura Pochettino previo al clásico de Concacaf。这些报道来自 Telemundo 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Who is best set for success in Sepang?",
-        "url": "https://www.planetf1.com/f1-data/race-predictions-bahrain-grand-prix-malaysia",
-        "source": "PlanetF1"
+        "title": "“La rivalidad contra México me da lo mismo”, asegura Pochettino previo al clásico de Concacaf",
+        "url": "https://www.telemundo.com/noticias/edicion-noticias-telemundo/internacional/video/la-rivalidad-contra-mexico-me-da-lo-mismo-asegura-pochettino-previo-al-clasico-de-concacaf-tmvo13230161",
+        "source": "Telemundo"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "f1 schedule",
-    "titleZh": "f1 schedule",
+    "title": "iva jovic",
+    "titleZh": "iva jovic",
     "traffic": "500+",
-    "started": "Sat, 3 Oct 2026 22:40:00 -0700",
-    "summary": "相关新闻主要集中在：What Do You Get When 7 F1 Drivers Share a Tropical Island? ‘A Social Experiment’ ... and Chaos。",
-    "explanation": "Google Trends 显示“f1 schedule”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：What Do You Get When 7 F1 Drivers Share a Tropical Island? ‘A Social Experiment’ ... and Chaos。这些报道来自 Road & Track 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 4 Oct 2026 22:40:00 -0700",
+    "summary": "相关新闻主要集中在：Jovic survives Dart in 2:45 Beijing marathon to make third round。",
+    "explanation": "Google Trends 显示“iva jovic”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Jovic survives Dart in 2:45 Beijing marathon to make third round。这些报道来自 WTA Tennis 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "What Do You Get When 7 F1 Drivers Share a Tropical Island? ‘A Social Experiment’ ... and Chaos",
-        "url": "https://www.roadandtrack.com/news/a73980574/7-f1-drivers-share-a-tropical-island/",
-        "source": "Road & Track"
+        "title": "Jovic survives Dart in 2:45 Beijing marathon to make third round",
+        "url": "https://www.wtatennis.com/videos/4586045/jovic-survives-dart-pressure-in-245-beijing-marathon-to-make-third-round",
+        "source": "WTA Tennis"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "karen khachanov",
-    "titleZh": "karen khachanov",
-    "traffic": "200+",
-    "started": "Sat, 3 Oct 2026 22:40:00 -0700",
-    "summary": "相关新闻主要集中在：Kartal vs Wang | Prediction Markets。",
-    "explanation": "Google Trends 显示“karen khachanov”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Kartal vs Wang | Prediction Markets。这些报道来自 Coinbase 等媒体，因此带动了集中搜索。",
+    "title": "debt crisis",
+    "titleZh": "debt crisis",
+    "traffic": "500+",
+    "started": "Sun, 4 Oct 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：The Bond Market Doesn’t Need Such a Hard Sell。",
+    "explanation": "Google Trends 显示“debt crisis”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：The Bond Market Doesn’t Need Such a Hard Sell。这些报道来自 Bloomberg.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Kartal vs Wang | Prediction Markets",
-        "url": "https://www.coinbase.com/predictions/event/KXWTAMATCH-26OCT01KARWAN",
-        "source": "Coinbase"
+        "title": "The Bond Market Doesn’t Need Such a Hard Sell",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-02/robin-wigglesworth-s-a-fabulous-debt-makes-the-case-for-bonds",
+        "source": "Bloomberg.com"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "japan open",
-    "titleZh": "japan open",
+    "title": "ecuador vs panama",
+    "titleZh": "ecuador vs panama",
     "traffic": "1000+",
-    "started": "Sat, 3 Oct 2026 22:30:00 -0700",
-    "summary": "相关新闻主要集中在：Alcaraz fends off 4 set points, then blitzes Arnaldi for Tokyo QF spot。",
-    "explanation": "Google Trends 显示“japan open”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Alcaraz fends off 4 set points, then blitzes Arnaldi for Tokyo QF spot。这些报道来自 ATP Tour 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 4 Oct 2026 22:10:00 -0700",
+    "summary": "相关新闻主要集中在：Así formaría La Tri para enfrentar a Panamá este lunes 5 de octubre。",
+    "explanation": "Google Trends 显示“ecuador vs panama”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Así formaría La Tri para enfrentar a Panamá este lunes 5 de octubre。这些报道来自 Teleamazonas 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Alcaraz fends off 4 set points, then blitzes Arnaldi for Tokyo QF spot",
-        "url": "https://www.atptour.com/en/news/alcaraz-arnaldi-tokyo-2026-saturday",
-        "source": "ATP Tour"
+        "title": "Así formaría La Tri para enfrentar a Panamá este lunes 5 de octubre",
+        "url": "https://www.teleamazonas.com/deportes/futbol/la-tri/posible-alineacion-ecuador-panama-lunes-5-octubre-129593/",
+        "source": "Teleamazonas"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "complexcon 2026",
-    "titleZh": "complexcon 2026",
-    "traffic": "200+",
-    "started": "Sat, 3 Oct 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：COMPLEXCON CELEBRATES 10-YEAR ANNIVERSARY WITH LANDMARK LOS ANGELES DEBUT OCTOBER 3-4。",
-    "explanation": "Google Trends 显示“complexcon 2026”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：COMPLEXCON CELEBRATES 10-YEAR ANNIVERSARY WITH LANDMARK LOS ANGELES DEBUT OCTOBER 3-4。这些报道来自 Morningstar 等媒体，因此带动了集中搜索。",
+    "title": "mariana ochoa",
+    "titleZh": "mariana ochoa",
+    "traffic": "5000+",
+    "started": "Sun, 4 Oct 2026 22:10:00 -0700",
+    "summary": "相关新闻主要集中在：¡Ellos son todos los finalistas de La Casa de Los Famosos México!。",
+    "explanation": "Google Trends 显示“mariana ochoa”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：¡Ellos son todos los finalistas de La Casa de Los Famosos México!。这些报道来自 Las Estrellas 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "COMPLEXCON CELEBRATES 10-YEAR ANNIVERSARY WITH LANDMARK LOS ANGELES DEBUT OCTOBER 3-4",
-        "url": "https://www.morningstar.com/news/pr-newswire/20261001ny61515/complexcon-celebrates-10-year-anniversary-with-landmark-los-angeles-debut-october-3-4",
-        "source": "Morningstar"
+        "title": "¡Ellos son todos los finalistas de La Casa de Los Famosos México!",
+        "url": "https://www.lasestrellas.tv/famosos/ellos-son-todos-los-finalistas-de-la-casa-de-los-famosos-mexico",
+        "source": "Las Estrellas"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "friday the 13th",
-    "titleZh": "friday the 13th",
+    "title": "iga świątek",
+    "titleZh": "iga świątek",
     "traffic": "500+",
-    "started": "Sat, 3 Oct 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：Crystal Lake Brings Camp Crystal Lake Experience to New York Comic Con。",
-    "explanation": "Google Trends 显示“friday the 13th”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Crystal Lake Brings Camp Crystal Lake Experience to New York Comic Con。这些报道来自 The Movie Blog 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 4 Oct 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：Ekspert pełen obaw o Świątek. \"Nie wiem, czy plan B zadziała\"。",
+    "explanation": "Google Trends 显示“iga świątek”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Ekspert pełen obaw o Świątek. \"Nie wiem, czy plan B zadziała\"。这些报道来自 Sport.pl 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Crystal Lake Brings Camp Crystal Lake Experience to New York Comic Con",
-        "url": "https://www.themovieblog.com/2026/10/crystal-lake-nycc-opening-scene-sneak-peek/",
-        "source": "The Movie Blog"
+        "title": "Ekspert pełen obaw o Świątek. \"Nie wiem, czy plan B zadziała\"",
+        "url": "https://www.sport.pl/tenis/7,64987,33058902,ekspert-pelen-obaw-o-swiatek-nie-wiem-czy-plan-b-zadziala.html",
+        "source": "Sport.pl"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "thomas randolph",
-    "titleZh": "thomas randolph",
+    "title": "saints vs falcons",
+    "titleZh": "saints vs falcons",
     "traffic": "500+",
-    "started": "Sat, 3 Oct 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：Where is Thomas Randolph now? Update on 'The Widower' case。",
-    "explanation": "Google Trends 显示“thomas randolph”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Where is Thomas Randolph now? Update on 'The Widower' case。这些报道来自 USA Today 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 4 Oct 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：Saints vs. Falcons: Our staff predictions for Monday’s game in the Dome。",
+    "explanation": "Google Trends 显示“saints vs falcons”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Saints vs. Falcons: Our staff predictions for Monday’s game in the Dome。这些报道来自 NOLA.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Where is Thomas Randolph now? Update on 'The Widower' case",
-        "url": "https://www.usatoday.com/story/entertainment/tv-streaming/2026/10/02/the-widower-thomas-randolph-netflix-doc-case-update/92038282007/",
-        "source": "USA Today"
+        "title": "Saints vs. Falcons: Our staff predictions for Monday’s game in the Dome",
+        "url": "https://www.nola.com/sports/new-orleans-saints-atlanta-falcons-times-picayune-staff-predictions-picks-nfl-monday-night-football-week-4/article_93cc6841-f946-403d-8cf7-d60ff887bb3d.html",
+        "source": "NOLA.com"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "carlos alcaraz",
-    "titleZh": "carlos alcaraz",
-    "traffic": "5000+",
-    "started": "Sat, 3 Oct 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：Alcaraz gana en su debut en Tokio y Nishikori se despide del tenis。",
-    "explanation": "Google Trends 显示“carlos alcaraz”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Alcaraz gana en su debut en Tokio y Nishikori se despide del tenis。这些报道来自 Diario Las Américas 等媒体，因此带动了集中搜索。",
+    "title": "alex rodriguez",
+    "titleZh": "alex rodriguez",
+    "traffic": "500+",
+    "started": "Sun, 4 Oct 2026 21:10:00 -0700",
+    "summary": "相关新闻主要集中在：Trying to provide a spark, Wells instead runs Yanks out of lone scoring chance。",
+    "explanation": "Google Trends 显示“alex rodriguez”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Trying to provide a spark, Wells instead runs Yanks out of lone scoring chance。这些报道来自 MLB.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Alcaraz gana en su debut en Tokio y Nishikori se despide del tenis",
-        "url": "https://www.diariolasamericas.com/deportes/alcaraz-gana-su-debut-tokio-y-nishikori-se-despide-del-tenis-n5403131",
-        "source": "Diario Las Américas"
+        "title": "Trying to provide a spark, Wells instead runs Yanks out of lone scoring chance",
+        "url": "https://www.mlb.com/news/austin-wells-discusses-baserunning-in-yankees-alds-game-1-2026-loss",
+        "source": "MLB.com"
       }
     ]
   }
