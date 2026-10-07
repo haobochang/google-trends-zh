@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "naomi osaka",
-    "titleZh": "naomi osaka",
-    "traffic": "500+",
-    "started": "Tue, 6 Oct 2026 00:20:00 -0700",
-    "summary": "相关新闻主要集中在：Scare for Timofeeva in Beijing: her watch is stolen in the locker room, but she recovers it later。",
-    "explanation": "Google Trends 显示“naomi osaka”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Scare for Timofeeva in Beijing: her watch is stolen in the locker room, but she recovers it later。这些报道来自 Puntodebreak 等媒体，因此带动了集中搜索。",
+    "title": "elise mertens",
+    "titleZh": "elise mertens",
+    "traffic": "200+",
+    "started": "Wed, 7 Oct 2026 00:00:00 -0700",
+    "summary": "相关新闻主要集中在：Coco Gauff – Elise Mertens prediction and betting tips – October 7, 2026。",
+    "explanation": "Google Trends 显示“elise mertens”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Coco Gauff – Elise Mertens prediction and betting tips – October 7, 2026。这些报道来自 RatingBet 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Scare for Timofeeva in Beijing: her watch is stolen in the locker room, but she recovers it later",
-        "url": "https://www.puntodebreak.com/en/2026/10/04/scare-for-timofeeva-in-beijing-her-watch-is-stolen-in-the-locker-room-but-she-recovers",
-        "source": "Puntodebreak"
+        "title": "Coco Gauff – Elise Mertens prediction and betting tips – October 7, 2026",
+        "url": "https://ratingbet.com/predictions/coco-gauff-elise-mertens-prediction-and-betting-tips-october-7-2026/",
+        "source": "RatingBet"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "typhoon",
-    "titleZh": "typhoon",
+    "title": "defense rankings week 5",
+    "titleZh": "defense rankings week 5",
     "traffic": "100+",
-    "started": "Tue, 6 Oct 2026 00:20:00 -0700",
-    "summary": "相关新闻主要集中在：Hurricane Nolo forecast to cross International Date Line into western North Pacific, transitioning into a typhoon。",
-    "explanation": "Google Trends 显示“typhoon”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Hurricane Nolo forecast to cross International Date Line into western North Pacific, transitioning into a typhoon。这些报道来自 The Watchers - Watching the world evolve and transform 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 7 Oct 2026 00:00:00 -0700",
+    "summary": "相关新闻主要集中在：Getting Defensive: Week 5 fantasy plays led by Vikings, Jaguars; top streaming defenses。",
+    "explanation": "Google Trends 显示“defense rankings week 5”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Getting Defensive: Week 5 fantasy plays led by Vikings, Jaguars; top streaming defenses。这些报道来自 NBC Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Hurricane Nolo forecast to cross International Date Line into western North Pacific, transitioning into a typhoon",
-        "url": "https://watchers.news/2026/10/04/hurricane-nolo-forecast-to-cross-international-date-line-into-western-north-pacific-transitioning-into-a-typhoon/",
-        "source": "The Watchers - Watching the world evolve and transform"
+        "title": "Getting Defensive: Week 5 fantasy plays led by Vikings, Jaguars; top streaming defenses",
+        "url": "https://www.nbcsports.com/fantasy/football/news/getting-defensive-week-5-fantasy-plays-led-by-vikings-jaguars-top-streaming-defenses",
+        "source": "NBC Sports"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "exoplanets",
-    "titleZh": "exoplanets",
-    "traffic": "200+",
-    "started": "Tue, 6 Oct 2026 00:00:00 -0700",
-    "summary": "相关新闻主要集中在：Possible planet found in habitable zone of star about 2,000 degrees hotter than our sun。",
-    "explanation": "Google Trends 显示“exoplanets”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Possible planet found in habitable zone of star about 2,000 degrees hotter than our sun。这些报道来自 FOX Weather 等媒体，因此带动了集中搜索。",
+    "title": "coco gauff",
+    "titleZh": "coco gauff",
+    "traffic": "10000+",
+    "started": "Tue, 6 Oct 2026 23:40:00 -0700",
+    "summary": "相关新闻主要集中在：Gauff hits out at racist abuse after replayed point in Beijing sparks backlash。",
+    "explanation": "Google Trends 显示“coco gauff”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Gauff hits out at racist abuse after replayed point in Beijing sparks backlash。这些报道来自 Reuters 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Possible planet found in habitable zone of star about 2,000 degrees hotter than our sun",
-        "url": "https://www.foxweather.com/earth-space/habitable-planet-hottest-star-sun-exoplanet",
-        "source": "FOX Weather"
+        "title": "Gauff hits out at racist abuse after replayed point in Beijing sparks backlash",
+        "url": "https://www.reuters.com/sports/tennis/gauff-hits-out-racist-abuse-after-replayed-point-beijing-sparks-backlash-2026-10-06/",
+        "source": "Reuters"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "ny measles outbreak",
-    "titleZh": "ny measles outbreak",
-    "traffic": "500+",
-    "started": "Mon, 5 Oct 2026 23:20:00 -0700",
-    "summary": "相关新闻主要集中在：New York state declares measles disaster amid resurgence of disease in US。",
-    "explanation": "Google Trends 显示“ny measles outbreak”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：New York state declares measles disaster amid resurgence of disease in US。这些报道来自 Al Jazeera 等媒体，因此带动了集中搜索。",
+    "title": "megan fox 2026",
+    "titleZh": "megan fox 2026",
+    "traffic": "100+",
+    "started": "Tue, 6 Oct 2026 23:40:00 -0700",
+    "summary": "相关新闻主要集中在：Megan Fox Stars in Ro Sparks Erectile Dysfunction Ad。",
+    "explanation": "Google Trends 显示“megan fox 2026”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Megan Fox Stars in Ro Sparks Erectile Dysfunction Ad。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "New York state declares measles disaster amid resurgence of disease in US",
-        "url": "https://www.aljazeera.com/news/2026/10/6/new-york-state-declares-measles-disaster-amid-resurgence-of-disease-in-us",
-        "source": "Al Jazeera"
+        "title": "Megan Fox Stars in Ro Sparks Erectile Dysfunction Ad",
+        "url": "https://www.yahoo.com/entertainment/celebrity/articles/megan-fox-stars-ro-sparks-184200682.html",
+        "source": "Yahoo"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "michael zheng",
-    "titleZh": "michael zheng",
-    "traffic": "500+",
-    "started": "Mon, 5 Oct 2026 23:20:00 -0700",
-    "summary": "相关新闻主要集中在：October 6, 2026: Safiullin vs Mochizuki Tennis Prediction Market。",
-    "explanation": "Google Trends 显示“michael zheng”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：October 6, 2026: Safiullin vs Mochizuki Tennis Prediction Market。这些报道来自 Robinhood 等媒体，因此带动了集中搜索。",
+    "title": "alex molcan",
+    "titleZh": "alex molcan",
+    "traffic": "2000+",
+    "started": "Tue, 6 Oct 2026 23:30:00 -0700",
+    "summary": "相关新闻主要集中在：October 7, 2026: Marco Trungelliti vs Rei Sakamoto: Set 2 Winner Tennis Prediction Market。",
+    "explanation": "Google Trends 显示“alex molcan”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：October 7, 2026: Marco Trungelliti vs Rei Sakamoto: Set 2 Winner Tennis Prediction Market。这些报道来自 Robinhood 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "October 6, 2026: Safiullin vs Mochizuki Tennis Prediction Market",
-        "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/safiullin-vs-mochizuki-oct-06-2026/",
+        "title": "October 7, 2026: Marco Trungelliti vs Rei Sakamoto: Set 2 Winner Tennis Prediction Market",
+        "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/marco-trungelliti-vs-rei-sakamoto-set-2-winner-oct-07-2026/",
         "source": "Robinhood"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "diamond brown",
-    "titleZh": "diamond brown",
+    "title": "aion 2 maintenance",
+    "titleZh": "aion 2 maintenance",
     "traffic": "200+",
-    "started": "Mon, 5 Oct 2026 23:00:00 -0700",
-    "summary": "相关新闻主要集中在：Chris Brown's Baby Mama Wants Around $45K A Month In Child Support。",
-    "explanation": "Google Trends 显示“diamond brown”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Chris Brown's Baby Mama Wants Around $45K A Month In Child Support。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
+    "started": "Tue, 6 Oct 2026 23:30:00 -0700",
+    "summary": "相关新闻主要集中在：Aion 2 Review-In-Progress。",
+    "explanation": "Google Trends 显示“aion 2 maintenance”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Aion 2 Review-In-Progress。这些报道来自 MMORPG.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Chris Brown's Baby Mama Wants Around $45K A Month In Child Support",
-        "url": "https://www.yahoo.com/entertainment/celebrity/articles/chris-browns-baby-mama-wants-230013885.html",
-        "source": "Yahoo"
+        "title": "Aion 2 Review-In-Progress",
+        "url": "https://www.mmorpg.com/reviews/aion-2-review-in-progress-2000139065",
+        "source": "MMORPG.com"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "bryn walker",
-    "titleZh": "bryn walker",
-    "traffic": "1000+",
-    "started": "Mon, 5 Oct 2026 22:40:00 -0700",
-    "summary": "相关新闻主要集中在：Founders of fashion brand killed in hills neighborhood near Berkeley campus。",
-    "explanation": "Google Trends 显示“bryn walker”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Founders of fashion brand killed in hills neighborhood near Berkeley campus。这些报道来自 SFGATE 等媒体，因此带动了集中搜索。",
+    "title": "winter weather forecast",
+    "titleZh": "winter weather forecast",
+    "traffic": "100+",
+    "started": "Tue, 6 Oct 2026 23:30:00 -0700",
+    "summary": "相关新闻主要集中在：“That Escalated Quickly”: First Snow Brings Solid Coverage to Alyeska Ski Resort。",
+    "explanation": "Google Trends 显示“winter weather forecast”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：“That Escalated Quickly”: First Snow Brings Solid Coverage to Alyeska Ski Resort。这些报道来自 POWDER Magazine 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Founders of fashion brand killed in hills neighborhood near Berkeley campus",
-        "url": "https://www.sfgate.com/bayarea/article/berkeley-hills-shooting-walker-22461763.php",
-        "source": "SFGATE"
+        "title": "“That Escalated Quickly”: First Snow Brings Solid Coverage to Alyeska Ski Resort",
+        "url": "https://www.powder.com/news/first-snow-alyeska-ski-resort",
+        "source": "POWDER Magazine"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "kristen wiig",
-    "titleZh": "kristen wiig",
-    "traffic": "500+",
-    "started": "Mon, 5 Oct 2026 22:30:00 -0700",
-    "summary": "相关新闻主要集中在：Kristen Wiig Wears Chanel Minidress at Paris Fashion Week。",
-    "explanation": "Google Trends 显示“kristen wiig”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Kristen Wiig Wears Chanel Minidress at Paris Fashion Week。这些报道来自 SuaraGarut.ID 等媒体，因此带动了集中搜索。",
+    "title": "julio iglesias",
+    "titleZh": "julio iglesias",
+    "traffic": "200+",
+    "started": "Tue, 6 Oct 2026 22:50:00 -0700",
+    "summary": "相关新闻主要集中在：Julio Iglesias Jr. inicia este sábado su gira en La Nucía con “entradas agotadas”。",
+    "explanation": "Google Trends 显示“julio iglesias”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Julio Iglesias Jr. inicia este sábado su gira en La Nucía con “entradas agotadas”。这些报道来自 Ayuntamiento de la Nucia 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Kristen Wiig Wears Chanel Minidress at Paris Fashion Week",
-        "url": "https://suaragarut.id/en/kristen-wiig-chanel-paris-fashion-week",
-        "source": "SuaraGarut.ID"
+        "title": "Julio Iglesias Jr. inicia este sábado su gira en La Nucía con “entradas agotadas”",
+        "url": "https://www.lanucia.es/Actualidad/noticia/38015-Julio-Iglesias-Jr-inicia-sabado-gira-La-Nucoa-entradas-agotadas",
+        "source": "Ayuntamiento de la Nucia"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "chris mañon",
-    "titleZh": "chris mañon",
-    "traffic": "500+",
-    "started": "Mon, 5 Oct 2026 22:30:00 -0700",
-    "summary": "相关新闻主要集中在：Lakers' biggest question mark this season surprisingly revolves around new Luka Doncic era。",
-    "explanation": "Google Trends 显示“chris mañon”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Lakers' biggest question mark this season surprisingly revolves around new Luka Doncic era。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "title": "jaguar type 01",
+    "titleZh": "jaguar type 01",
+    "traffic": "1000+",
+    "started": "Tue, 6 Oct 2026 22:40:00 -0700",
+    "summary": "相关新闻主要集中在：Jaguar Ditches the Pink Branding in Unveil of Its Big, Sleek Type 01 EV。",
+    "explanation": "Google Trends 显示“jaguar type 01”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Jaguar Ditches the Pink Branding in Unveil of Its Big, Sleek Type 01 EV。这些报道来自 WSJ 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Lakers' biggest question mark this season surprisingly revolves around new Luka Doncic era",
-        "url": "https://sports.yahoo.com/articles/lakers-biggest-mark-season-surprisingly-145028632.html",
-        "source": "Yahoo Sports"
+        "title": "Jaguar Ditches the Pink Branding in Unveil of Its Big, Sleek Type 01 EV",
+        "url": "https://www.wsj.com/cmo-today/jaguar-ditches-the-pink-branding-in-unveil-of-its-big-sleek-type-01-ev-0a544152",
+        "source": "WSJ"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "ghost seed round",
-    "titleZh": "ghost seed round",
-    "traffic": "1000+",
-    "started": "Mon, 5 Oct 2026 22:10:00 -0700",
-    "summary": "相关新闻主要集中在：Ghost Sells Core Personal AI Computer for $3,499。",
-    "explanation": "Google Trends 显示“ghost seed round”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Ghost Sells Core Personal AI Computer for $3,499。这些报道来自 TOKENPOST 等媒体，因此带动了集中搜索。",
+    "title": "kiara advani",
+    "titleZh": "kiara advani",
+    "traffic": "500+",
+    "started": "Tue, 6 Oct 2026 22:30:00 -0700",
+    "summary": "相关新闻主要集中在：Kiara Advani, Sidharth Malhotra announce second pregnancy: ‘Blessed once again’。",
+    "explanation": "Google Trends 显示“kiara advani”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Kiara Advani, Sidharth Malhotra announce second pregnancy: ‘Blessed once again’。这些报道来自 The Indian Express 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Ghost Sells Core Personal AI Computer for $3,499",
-        "url": "https://www.tokenpost.com/news/technology/26869",
-        "source": "TOKENPOST"
+        "title": "Kiara Advani, Sidharth Malhotra announce second pregnancy: ‘Blessed once again’",
+        "url": "https://indianexpress.com/article/entertainment/bollywood/kiara-advani-sidharth-malhotra-announce-second-pregnancy-blessed-once-again-10910260/",
+        "source": "The Indian Express"
       }
     ]
   }
