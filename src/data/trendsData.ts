@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "wind advisory",
-    "titleZh": "wind advisory",
-    "traffic": "200+",
-    "started": "Fri, 9 Oct 2026 00:00:00 -0700",
-    "summary": "相关新闻主要集中在：Warm October week continues with highs near 100。",
-    "explanation": "Google Trends 显示“wind advisory”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Warm October week continues with highs near 100。这些报道来自 AZ Family 等媒体，因此带动了集中搜索。",
+    "title": "tomas martin etcheverry",
+    "titleZh": "tomas martin etcheverry",
+    "traffic": "1000+",
+    "started": "Fri, 9 Oct 2026 23:50:00 -0700",
+    "summary": "相关新闻主要集中在：October 11, 2026: Alex de Minaur vs Rei Sakamoto Round of 32 match Prediction Market。",
+    "explanation": "Google Trends 显示“tomas martin etcheverry”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：October 11, 2026: Alex de Minaur vs Rei Sakamoto Round of 32 match Prediction Market。这些报道来自 Robinhood 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Warm October week continues with highs near 100",
-        "url": "https://www.azfamily.com/2026/10/05/warm-october-week-continues-with-highs-near-100/",
-        "source": "AZ Family"
+        "title": "October 11, 2026: Alex de Minaur vs Rei Sakamoto Round of 32 match Prediction Market",
+        "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/alex-de-minaur-vs-rei-sakamoto-round-of-32-match-oct-11-2026/",
+        "source": "Robinhood"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "avatar seven havens release time",
-    "titleZh": "avatar seven havens release time",
-    "traffic": "200+",
-    "started": "Fri, 9 Oct 2026 00:00:00 -0700",
-    "summary": "相关新闻主要集中在：Avatar: Seven Havens Clip Has The Last Airbender Fans Complaining About One Specific Thing。",
-    "explanation": "Google Trends 显示“avatar seven havens release time”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Avatar: Seven Havens Clip Has The Last Airbender Fans Complaining About One Specific Thing。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
+    "title": "erie pa",
+    "titleZh": "erie pa",
+    "traffic": "100+",
+    "started": "Fri, 9 Oct 2026 23:50:00 -0700",
+    "summary": "相关新闻主要集中在：Multiple people, including 2 children, dead in suspected murder-suicide at Pennsylvania home。",
+    "explanation": "Google Trends 显示“erie pa”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Multiple people, including 2 children, dead in suspected murder-suicide at Pennsylvania home。这些报道来自 New York Post 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Avatar: Seven Havens Clip Has The Last Airbender Fans Complaining About One Specific Thing",
-        "url": "https://www.yahoo.com/entertainment/tv/articles/avatar-seven-havens-clip-last-202449627.html",
-        "source": "Yahoo"
+        "title": "Multiple people, including 2 children, dead in suspected murder-suicide at Pennsylvania home",
+        "url": "https://nypost.com/2026/10/10/us-news/pennsylvania-mass-shooting-leaves-multiple-dead-at-erie-home/",
+        "source": "New York Post"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "google play",
-    "titleZh": "google play",
-    "traffic": "500+",
-    "started": "Fri, 9 Oct 2026 00:00:00 -0700",
-    "summary": "相关新闻主要集中在：Amazon’s new Alexa Tablets drop the Fire branding but are more Android than ever。",
-    "explanation": "Google Trends 显示“google play”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Amazon’s new Alexa Tablets drop the Fire branding but are more Android than ever。这些报道来自 Ars Technica 等媒体，因此带动了集中搜索。",
+    "title": "alexandra daddario",
+    "titleZh": "alexandra daddario",
+    "traffic": "100+",
+    "started": "Fri, 9 Oct 2026 23:40:00 -0700",
+    "summary": "相关新闻主要集中在：Alexandra Daddario (40) Dazzles in Pink Sequins at NYCC as 'Mayfair Witches' Reveals New 'Salem Coven' Title and Premiere Date。",
+    "explanation": "Google Trends 显示“alexandra daddario”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Alexandra Daddario (40) Dazzles in Pink Sequins at NYCC as 'Mayfair Witches' Reveals New 'Salem Coven' Title and Premiere Date。这些报道来自 Comic Basics 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Amazon’s new Alexa Tablets drop the Fire branding but are more Android than ever",
-        "url": "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/",
-        "source": "Ars Technica"
+        "title": "Alexandra Daddario (40) Dazzles in Pink Sequins at NYCC as 'Mayfair Witches' Reveals New 'Salem Coven' Title and Premiere Date",
+        "url": "https://www.comicbasics.com/alexandra-daddario-40-dazzles-in-pink-sequins-at-nycc-as-mayfair-witches-reveals-new-salem-coven-title-and-premiere-date/",
+        "source": "Comic Basics"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "salma hayek",
-    "titleZh": "salma hayek",
+    "title": "casper ruud",
+    "titleZh": "casper ruud",
     "traffic": "100+",
-    "started": "Fri, 9 Oct 2026 00:00:00 -0700",
-    "summary": "相关新闻主要集中在：Salma Hayek and Her Life in a Billionaire Family: Lavish Homes, $15 Billion and Love with François-Henri Pinault。",
-    "explanation": "Google Trends 显示“salma hayek”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Salma Hayek and Her Life in a Billionaire Family: Lavish Homes, $15 Billion and Love with François-Henri Pinault。这些报道来自 NEWS.am STYLE 等媒体，因此带动了集中搜索。",
+    "started": "Fri, 9 Oct 2026 23:30:00 -0700",
+    "summary": "相关新闻主要集中在：Highlights: Home wild card Bu gets past Van Assche in Shanghai 2026。",
+    "explanation": "Google Trends 显示“casper ruud”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Highlights: Home wild card Bu gets past Van Assche in Shanghai 2026。这些报道来自 ATP Tour 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Salma Hayek and Her Life in a Billionaire Family: Lavish Homes, $15 Billion and Love with François-Henri Pinault",
-        "url": "https://style.news.am/eng/news/116555/salma-hayek-and-her-life-in-a-billionaire-family-lavish-homes-$15-billion-and-love-with-fran%C3%A7ois-henri-pinault.html",
-        "source": "NEWS.am STYLE"
+        "title": "Highlights: Home wild card Bu gets past Van Assche in Shanghai 2026",
+        "url": "https://www.atptour.com/en/video/highlights-home-wild-card-bu-gets-past-van-assche-in-shanghai-2026",
+        "source": "ATP Tour"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "shawn layden",
-    "titleZh": "shawn layden",
-    "traffic": "100+",
-    "started": "Fri, 9 Oct 2026 00:00:00 -0700",
-    "summary": "相关新闻主要集中在：Former Sony exec reveals Nintendo's sweary response to original PSP reveal。",
-    "explanation": "Google Trends 显示“shawn layden”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Former Sony exec reveals Nintendo's sweary response to original PSP reveal。这些报道来自 Metro.co.uk 等媒体，因此带动了集中搜索。",
+    "title": "taylor fritz",
+    "titleZh": "taylor fritz",
+    "traffic": "500+",
+    "started": "Fri, 9 Oct 2026 23:20:00 -0700",
+    "summary": "相关新闻主要集中在：Matteo Arnaldi vs. Taylor Fritz prediction, odds, picks for ATP Shanghai Masters 2026。",
+    "explanation": "Google Trends 显示“taylor fritz”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Matteo Arnaldi vs. Taylor Fritz prediction, odds, picks for ATP Shanghai Masters 2026。这些报道来自 Dimers 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Former Sony exec reveals Nintendo's sweary response to original PSP reveal",
-        "url": "https://metro.co.uk/2026/10/07/former-sony-exec-reveals-nintendos-sweary-response-original-psp-reveal-29688043/",
-        "source": "Metro.co.uk"
+        "title": "Matteo Arnaldi vs. Taylor Fritz prediction, odds, picks for ATP Shanghai Masters 2026",
+        "url": "https://www.dimers.com/tennis/news/matteo-arnaldi-vs-taylor-fritz-tennis-prediction-atp-shanghai-masters-2026-ac",
+        "source": "Dimers"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "sa vs aus",
-    "titleZh": "sa vs aus",
-    "traffic": "500+",
-    "started": "Thu, 8 Oct 2026 23:50:00 -0700",
-    "summary": "相关新闻主要集中在：T20 ties have softened on-field rivalries, says Harmer。",
-    "explanation": "Google Trends 显示“sa vs aus”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：T20 ties have softened on-field rivalries, says Harmer。这些报道来自 Reuters 等媒体，因此带动了集中搜索。",
+    "title": "camilo ugo carabelli",
+    "titleZh": "camilo ugo carabelli",
+    "traffic": "100+",
+    "started": "Fri, 9 Oct 2026 23:10:00 -0700",
+    "summary": "相关新闻主要集中在：ATP Shanghai Day 4 Predictions Including Felix Auger-Aliassime vs Camilo Ugo Carabelli。",
+    "explanation": "Google Trends 显示“camilo ugo carabelli”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：ATP Shanghai Day 4 Predictions Including Felix Auger-Aliassime vs Camilo Ugo Carabelli。这些报道来自 Last Word On Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "T20 ties have softened on-field rivalries, says Harmer",
-        "url": "https://www.reuters.com/sports/cricket/t20-ties-have-softened-on-field-rivalries-says-harmer-2026-10-07/",
-        "source": "Reuters"
+        "title": "ATP Shanghai Day 4 Predictions Including Felix Auger-Aliassime vs Camilo Ugo Carabelli",
+        "url": "https://lastwordonsports.com/tennis/2026/10/09/atp-shanghai-predictions-auger-aliassime-ugo-carabelli/",
+        "source": "Last Word On Sports"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "weather los angeles",
-    "titleZh": "weather los angeles",
+    "title": "heidi horton",
+    "titleZh": "heidi horton",
     "traffic": "100+",
-    "started": "Thu, 8 Oct 2026 23:50:00 -0700",
-    "summary": "相关新闻主要集中在：10 LA County Beaches Unsafe For Swimming Due To Bacteria Levels。",
-    "explanation": "Google Trends 显示“weather los angeles”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：10 LA County Beaches Unsafe For Swimming Due To Bacteria Levels。这些报道来自 Patch 等媒体，因此带动了集中搜索。",
+    "started": "Fri, 9 Oct 2026 23:00:00 -0700",
+    "summary": "相关新闻主要集中在：Heidi Horton, Houston basketball coach who inspired Disney film, dies at 54。",
+    "explanation": "Google Trends 显示“heidi horton”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Heidi Horton, Houston basketball coach who inspired Disney film, dies at 54。这些报道来自 Chron 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "10 LA County Beaches Unsafe For Swimming Due To Bacteria Levels",
-        "url": "https://patch.com/california/los-angeles/10-la-county-beaches-unsafe-swimming-due-bacteria-levels-1",
-        "source": "Patch"
+        "title": "Heidi Horton, Houston basketball coach who inspired Disney film, dies at 54",
+        "url": "https://www.chron.com/culture/article/heidi-burge-horton-dead-22468784.php",
+        "source": "Chron"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "anya taylor-joy",
-    "titleZh": "anya taylor-joy",
+    "title": "indiana vs nebraska predictions",
+    "titleZh": "indiana vs nebraska predictions",
     "traffic": "100+",
-    "started": "Thu, 8 Oct 2026 23:40:00 -0700",
-    "summary": "相关新闻主要集中在：Anya Taylor-Joy’s $1 Billion Sci-Fi Blockbuster Is Officially Taking Over the World。",
-    "explanation": "Google Trends 显示“anya taylor-joy”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Anya Taylor-Joy’s $1 Billion Sci-Fi Blockbuster Is Officially Taking Over the World。这些报道来自 Collider 等媒体，因此带动了集中搜索。",
+    "started": "Fri, 9 Oct 2026 23:00:00 -0700",
+    "summary": "相关新闻主要集中在：IU football game day: Indiana at Nebraska primer and prediction。",
+    "explanation": "Google Trends 显示“indiana vs nebraska predictions”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：IU football game day: Indiana at Nebraska primer and prediction。这些报道来自 The Daily Hoosier 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Anya Taylor-Joy’s $1 Billion Sci-Fi Blockbuster Is Officially Taking Over the World",
-        "url": "https://collider.com/anya-taylor-joy-super-mario-galaxy-movie-streaming-success-peacock-october-2026/",
-        "source": "Collider"
+        "title": "IU football game day: Indiana at Nebraska primer and prediction",
+        "url": "https://www.thedailyhoosier.com/iu-football-game-day-indiana-at-nebraska-primer-and-prediction/",
+        "source": "The Daily Hoosier"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "aion 2 maintenance",
-    "titleZh": "aion 2 maintenance",
-    "traffic": "200+",
-    "started": "Thu, 8 Oct 2026 23:30:00 -0700",
-    "summary": "相关新闻主要集中在：Aion 2 Beginner Guide: 10 Things to Do First。",
-    "explanation": "Google Trends 显示“aion 2 maintenance”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Aion 2 Beginner Guide: 10 Things to Do First。这些报道来自 Mobalytics 等媒体，因此带动了集中搜索。",
+    "title": "ktla",
+    "titleZh": "ktla",
+    "traffic": "100+",
+    "started": "Fri, 9 Oct 2026 23:00:00 -0700",
+    "summary": "相关新闻主要集中在：KTLA 5’s Gayle Anderson opens up about cosmetic procedures with Dr. Truesdale。",
+    "explanation": "Google Trends 显示“ktla”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：KTLA 5’s Gayle Anderson opens up about cosmetic procedures with Dr. Truesdale。这些报道来自 KTLA 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Aion 2 Beginner Guide: 10 Things to Do First",
-        "url": "https://mobalytics.gg/gamebase/guides/aion-2-beginner-guide",
-        "source": "Mobalytics"
+        "title": "KTLA 5’s Gayle Anderson opens up about cosmetic procedures with Dr. Truesdale",
+        "url": "https://ktla.com/morning-news/ktla-5s-gayle-anderson-opens-up-about-cosmetic-procedures-with-dr-truesdale/",
+        "source": "KTLA"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "zion williamson",
-    "titleZh": "zion williamson",
-    "traffic": "200+",
-    "started": "Thu, 8 Oct 2026 23:30:00 -0700",
-    "summary": "相关新闻主要集中在：Pelicans Back Yves Missi to Become an Elite Defensive Center。",
-    "explanation": "Google Trends 显示“zion williamson”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Pelicans Back Yves Missi to Become an Elite Defensive Center。这些报道来自 SuaraGarut.ID 等媒体，因此带动了集中搜索。",
+    "title": "new zealand vs australia",
+    "titleZh": "new zealand vs australia",
+    "traffic": "500+",
+    "started": "Fri, 9 Oct 2026 22:50:00 -0700",
+    "summary": "相关新闻主要集中在：New Zealand Australia Rugby。",
+    "explanation": "Google Trends 显示“new zealand vs australia”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：New Zealand Australia Rugby。这些报道来自 couriernews.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Pelicans Back Yves Missi to Become an Elite Defensive Center",
-        "url": "https://suaragarut.id/en/pelicans-back-yves-missi-defense",
-        "source": "SuaraGarut.ID"
+        "title": "New Zealand Australia Rugby",
+        "url": "https://www.couriernews.com/sports/new-zealand-australia-rugby/image_29fd4746-adf0-5ee4-aa1d-5fead0d1d1f3.html",
+        "source": "couriernews.com"
       }
     ]
   }
