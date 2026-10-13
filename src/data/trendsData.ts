@@ -3,44 +3,27 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "jasmine paolini",
-    "titleZh": "jasmine paolini",
-    "traffic": "500+",
-    "started": "Mon, 12 Oct 2026 00:00:00 -0700",
-    "summary": "相关新闻主要集中在：Sonay Kartal vs Belinda Bencic: Set 1 Winner Tennis Prediction Market。",
-    "explanation": "Google Trends 显示“jasmine paolini”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Sonay Kartal vs Belinda Bencic: Set 1 Winner Tennis Prediction Market。这些报道来自 Robinhood 等媒体，因此带动了集中搜索。",
+    "title": "mensik",
+    "titleZh": "mensik",
+    "traffic": "2000+",
+    "started": "Mon, 12 Oct 2026 23:50:00 -0700",
+    "summary": "相关新闻主要集中在：Highlights: De Minaur sinks Khachanov for Shanghai 2026 QF spot。",
+    "explanation": "Google Trends 显示“mensik”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Highlights: De Minaur sinks Khachanov for Shanghai 2026 QF spot。这些报道来自 ATP Tour 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Sonay Kartal vs Belinda Bencic: Set 1 Winner Tennis Prediction Market",
-        "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/sonay-kartal-vs-belinda-bencic-set-1-winner-oct-12-2026/",
-        "source": "Robinhood"
+        "title": "Highlights: De Minaur sinks Khachanov for Shanghai 2026 QF spot",
+        "url": "https://www.atptour.com/en/video/highlights-de-minaur-sinks-khachanov-for-shanghai-2026-qf-spot",
+        "source": "ATP Tour"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "stefanos tsitsipas",
-    "titleZh": "stefanos tsitsipas",
-    "traffic": "100+",
-    "started": "Mon, 12 Oct 2026 00:00:00 -0700",
-    "summary": "相关新闻主要集中在：ATP Shanghai Day 6 Predictions Including Carlos Alcaraz vs Zizou Bergs。",
-    "explanation": "Google Trends 显示“stefanos tsitsipas”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：ATP Shanghai Day 6 Predictions Including Carlos Alcaraz vs Zizou Bergs。这些报道来自 Last Word On Sports 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "ATP Shanghai Day 6 Predictions Including Carlos Alcaraz vs Zizou Bergs",
-        "url": "https://lastwordonsports.com/tennis/2026/10/11/atp-shanghai-day-6-predictions-alcaraz-bergs/",
-        "source": "Last Word On Sports"
-      }
-    ]
-  },
-  {
-    "rank": 3,
     "title": "bangladesh vs afghanistan",
     "titleZh": "bangladesh vs afghanistan",
     "traffic": "200+",
-    "started": "Sun, 11 Oct 2026 23:50:00 -0700",
+    "started": "Mon, 12 Oct 2026 23:50:00 -0700",
     "summary": "相关新闻主要集中在：Mahmud takes Test hat-trick - can you name the others in past 40 years?。",
     "explanation": "Google Trends 显示“bangladesh vs afghanistan”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Mahmud takes Test hat-trick - can you name the others in past 40 years?。这些报道来自 BBC 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
@@ -53,121 +36,138 @@ export const trendsData: TrendItem[] = [
     ]
   },
   {
-    "rank": 4,
-    "title": "snl last night",
-    "titleZh": "snl last night",
-    "traffic": "1000+",
-    "started": "Sun, 11 Oct 2026 23:40:00 -0700",
-    "summary": "相关新闻主要集中在：Saturday Night Live: Shane Gillis is a game host but the season’s subpar streak continues。",
-    "explanation": "Google Trends 显示“snl last night”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Saturday Night Live: Shane Gillis is a game host but the season’s subpar streak continues。这些报道来自 The Guardian 等媒体，因此带动了集中搜索。",
+    "rank": 3,
+    "title": "sorana cirstea",
+    "titleZh": "sorana cirstea",
+    "traffic": "100+",
+    "started": "Mon, 12 Oct 2026 23:40:00 -0700",
+    "summary": "相关新闻主要集中在：Sorana Cîrstea revine în circuitul WTA。",
+    "explanation": "Google Trends 显示“sorana cirstea”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Sorana Cîrstea revine în circuitul WTA。这些报道来自 Radio Romania Cluj 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Saturday Night Live: Shane Gillis is a game host but the season’s subpar streak continues",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/11/saturday-night-live-shane-gillis-hosts",
-        "source": "The Guardian"
+        "title": "Sorana Cîrstea revine în circuitul WTA",
+        "url": "https://www.radiocluj.ro/2026/10/11/sorana-cirstea-revine-in-circuitul-wta/",
+        "source": "Radio Romania Cluj"
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "diana shnaider",
+    "titleZh": "diana shnaider",
+    "traffic": "1000+",
+    "started": "Mon, 12 Oct 2026 23:40:00 -0700",
+    "summary": "相关新闻主要集中在：Sakkari vs. Kostyuk Prediction at the Dongfeng Voyah Wuhan Open – Tuesday, October 13。",
+    "explanation": "Google Trends 显示“diana shnaider”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Sakkari vs. Kostyuk Prediction at the Dongfeng Voyah Wuhan Open – Tuesday, October 13。这些报道来自 Bleacher Nation 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Sakkari vs. Kostyuk Prediction at the Dongfeng Voyah Wuhan Open – Tuesday, October 13",
+        "url": "https://www.bleachernation.com/picks/2026/10/12/sakkari-vs-kostyuk-prediction-at-the-dongfeng-voyah-wuhan-open-tuesday-october-13/",
+        "source": "Bleacher Nation"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "ukraine",
-    "titleZh": "ukraine",
-    "traffic": "2000+",
-    "started": "Sun, 11 Oct 2026 23:30:00 -0700",
-    "summary": "相关新闻主要集中在：Trump bears down on Zelensky as Russia keeps up attacks on Ukraine。",
-    "explanation": "Google Trends 显示“ukraine”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Trump bears down on Zelensky as Russia keeps up attacks on Ukraine。这些报道来自 Axios 等媒体，因此带动了集中搜索。",
+    "title": "mayar sherif",
+    "titleZh": "mayar sherif",
+    "traffic": "100+",
+    "started": "Mon, 12 Oct 2026 23:30:00 -0700",
+    "summary": "相关新闻主要集中在：Chwalińska Enters Wuhan Draw With Singles And Doubles Matches。",
+    "explanation": "Google Trends 显示“mayar sherif”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Chwalińska Enters Wuhan Draw With Singles And Doubles Matches。这些报道来自 SuaraGarut.ID 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Trump bears down on Zelensky as Russia keeps up attacks on Ukraine",
-        "url": "https://www.axios.com/2026/10/11/russia-ukraine-oil-energy-ceasefire-trump-putin-zelensky",
-        "source": "Axios"
+        "title": "Chwalińska Enters Wuhan Draw With Singles And Doubles Matches",
+        "url": "https://suaragarut.id/en/chwali%C5%84ska-wuhan-debut-doubles-draw",
+        "source": "SuaraGarut.ID"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "dalibor svrcina",
-    "titleZh": "dalibor svrcina",
+    "title": "maja chwalińska",
+    "titleZh": "maja chwalińska",
     "traffic": "100+",
-    "started": "Sun, 11 Oct 2026 23:20:00 -0700",
-    "summary": "相关新闻主要集中在：Daniil Medvedev vs Dalibor Svrcina LIVE Streaming, Shanghai Masters 2026: Start Time, Prediction, Where to Watch in USA, Czech Republic, India and Worldwide。",
-    "explanation": "Google Trends 显示“dalibor svrcina”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Daniil Medvedev vs Dalibor Svrcina LIVE Streaming, Shanghai Masters 2026: Start Time, Prediction, Where to Watch in USA, Czech Republic, India and Worldwide。这些报道来自 The Sunday Guardian 等媒体，因此带动了集中搜索。",
+    "started": "Mon, 12 Oct 2026 23:20:00 -0700",
+    "summary": "相关新闻主要集中在：Deklasacja w meczu Chwalińskiej z mistrzynią turnieju WTA. 80 minut walki w Wuhan。",
+    "explanation": "Google Trends 显示“maja chwalińska”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Deklasacja w meczu Chwalińskiej z mistrzynią turnieju WTA. 80 minut walki w Wuhan。这些报道来自 Interia Sport 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Daniil Medvedev vs Dalibor Svrcina LIVE Streaming, Shanghai Masters 2026: Start Time, Prediction, Where to Watch in USA, Czech Republic, India and Worldwide",
-        "url": "https://sundayguardianlive.com/sports/daniil-medvedev-vs-dalibor-svrcina-live-streaming-shanghai-masters-2026-start-time-prediction-where-to-watch-in-usa-czech-republic-india-and-worldwide-303931/",
-        "source": "The Sunday Guardian"
+        "title": "Deklasacja w meczu Chwalińskiej z mistrzynią turnieju WTA. 80 minut walki w Wuhan",
+        "url": "https://sport.interia.pl/tenis/news-deklasacja-w-meczu-chwalinskiej-z-mistrzynia-turnieju-wta-6,nId,23557347",
+        "source": "Interia Sport"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "jiri lehecka",
-    "titleZh": "jiri lehecka",
-    "traffic": "500+",
-    "started": "Sun, 11 Oct 2026 23:10:00 -0700",
-    "summary": "相关新闻主要集中在：Jódar anuncia cambios en su calendario para el 2027。",
-    "explanation": "Google Trends 显示“jiri lehecka”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Jódar anuncia cambios en su calendario para el 2027。这些报道来自 Puntodebreak 等媒体，因此带动了集中搜索。",
+    "title": "inundación",
+    "titleZh": "inundación",
+    "traffic": "100+",
+    "started": "Mon, 12 Oct 2026 23:20:00 -0700",
+    "summary": "相关新闻主要集中在：Reporteros - ¿Cómo sigue Nepal enfrentando la emergencia?。",
+    "explanation": "Google Trends 显示“inundación”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Reporteros - ¿Cómo sigue Nepal enfrentando la emergencia?。这些报道来自 France 24 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Jódar anuncia cambios en su calendario para el 2027",
-        "url": "https://www.puntodebreak.com/2026/10/10/jodar-anuncia-cambios-calendario-2027",
-        "source": "Puntodebreak"
+        "title": "Reporteros - ¿Cómo sigue Nepal enfrentando la emergencia?",
+        "url": "https://www.france24.com/es/programas/reporteros/20261012-c%C3%B3mo-sigue-nepal-enfrentando-la-emergencia",
+        "source": "France 24"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "taylor fritz",
-    "titleZh": "taylor fritz",
+    "title": "lakers news",
+    "titleZh": "lakers news",
     "traffic": "500+",
-    "started": "Sun, 11 Oct 2026 23:10:00 -0700",
-    "summary": "相关新闻主要集中在：October 8, 2026: Marcos Giron vs Sebastian Baez Round of 128 match Prediction Market。",
-    "explanation": "Google Trends 显示“taylor fritz”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：October 8, 2026: Marcos Giron vs Sebastian Baez Round of 128 match Prediction Market。这些报道来自 Robinhood 等媒体，因此带动了集中搜索。",
+    "started": "Mon, 12 Oct 2026 23:10:00 -0700",
+    "summary": "相关新闻主要集中在：Will new contract change Austin Reaves' mindset?。",
+    "explanation": "Google Trends 显示“lakers news”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Will new contract change Austin Reaves' mindset?。这些报道来自 Lakers Nation 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "October 8, 2026: Marcos Giron vs Sebastian Baez Round of 128 match Prediction Market",
-        "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/marcos-giron-vs-sebastian-baez-round-of-128-match-oct-08-2026/",
-        "source": "Robinhood"
+        "title": "Will new contract change Austin Reaves' mindset?",
+        "url": "https://lakersnation.com/lakers-news-max-contract-wont-change-austin-reaves-mindset/",
+        "source": "Lakers Nation"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "kevin mannix sfpd",
-    "titleZh": "kevin mannix sfpd",
+    "title": "kate winslet",
+    "titleZh": "kate winslet",
     "traffic": "100+",
-    "started": "Sun, 11 Oct 2026 23:10:00 -0700",
-    "summary": "相关新闻主要集中在：Retired SFPD couple, Ann and Kevin Mannix, among 3 killed in Marin shooting, sources say。",
-    "explanation": "Google Trends 显示“kevin mannix sfpd”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Retired SFPD couple, Ann and Kevin Mannix, among 3 killed in Marin shooting, sources say。这些报道来自 Mission Local 等媒体，因此带动了集中搜索。",
+    "started": "Mon, 12 Oct 2026 23:10:00 -0700",
+    "summary": "相关新闻主要集中在：The regrettable 2003 role Kate Winslet hunted down a director to play: “I really want to do this”。",
+    "explanation": "Google Trends 显示“kate winslet”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：The regrettable 2003 role Kate Winslet hunted down a director to play: “I really want to do this”。这些报道来自 Far Out Magazine 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Retired SFPD couple, Ann and Kevin Mannix, among 3 killed in Marin shooting, sources say",
-        "url": "https://missionlocal.org/2026/10/ann-mannix-kevin-mannix-sfpd/",
-        "source": "Mission Local"
+        "title": "The regrettable 2003 role Kate Winslet hunted down a director to play: “I really want to do this”",
+        "url": "https://faroutmagazine.co.uk/regrettable-2003-role-kate-winslet-hunted-down-a-director-to-play/",
+        "source": "Far Out Magazine"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "robert downey jr",
-    "titleZh": "robert downey jr",
-    "traffic": "100+",
-    "started": "Sun, 11 Oct 2026 23:10:00 -0700",
-    "summary": "相关新闻主要集中在：Avengers: Doomsday: New Lord Doom Merchandise Confirms He Won't Appear In The Movie — Here's Why。",
-    "explanation": "Google Trends 显示“robert downey jr”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Avengers: Doomsday: New Lord Doom Merchandise Confirms He Won't Appear In The Movie — Here's Why。这些报道来自 ComicBookMovie.com 等媒体，因此带动了集中搜索。",
+    "title": "a20 lite",
+    "titleZh": "a20 lite",
+    "traffic": "200+",
+    "started": "Mon, 12 Oct 2026 23:00:00 -0700",
+    "summary": "相关新闻主要集中在：[Photo] Mercy, a healthy smile。",
+    "explanation": "Google Trends 显示“a20 lite”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：[Photo] Mercy, a healthy smile。这些报道来自 매일경제 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Avengers: Doomsday: New Lord Doom Merchandise Confirms He Won't Appear In The Movie — Here's Why",
-        "url": "https://comicbookmovie.com/avengers/avengers-doomsday/avengers-doomsday-new-lord-doom-merchandise-confirms-he-wont-appear-in-the-movie-heres-why-a230359",
-        "source": "ComicBookMovie.com"
+        "title": "[Photo] Mercy, a healthy smile",
+        "url": "https://www.mk.co.kr/en/photos/12174250",
+        "source": "매일경제"
       }
     ]
   }
