@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "elina svitolina",
-    "titleZh": "elina svitolina",
-    "traffic": "5000+",
-    "started": "Thu, 15 Oct 2026 22:20:00 -0700",
-    "summary": "相关新闻主要集中在：Alexander Bublik Brandon Nakashima live score and H2H results。",
-    "explanation": "Google Trends 显示“elina svitolina”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Alexander Bublik Brandon Nakashima live score and H2H results。这些报道来自 Sofascore 等媒体，因此带动了集中搜索。",
+    "title": "los tigres del norte",
+    "titleZh": "los tigres del norte",
+    "traffic": "200+",
+    "started": "Fri, 16 Oct 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：Los Tigres del Norte llevan su música y su defensa de los inmigrantes al Tiny Desk de NPR。",
+    "explanation": "Google Trends 显示“los tigres del norte”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Los Tigres del Norte llevan su música y su defensa de los inmigrantes al Tiny Desk de NPR。这些报道来自 Dallas News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Alexander Bublik Brandon Nakashima live score and H2H results",
-        "url": "https://www.sofascore.com/tennis/match/brandon-nakashima-alexander-bublik/FupbsBlUb",
-        "source": "Sofascore"
+        "title": "Los Tigres del Norte llevan su música y su defensa de los inmigrantes al Tiny Desk de NPR",
+        "url": "https://www.dallasnews.com/espanol/al-dia/espectaculos/article/tigres-del-norte-tiny-desk-npr-concierto-migrantes-22480451.php",
+        "source": "Dallas News"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "jonathan majors",
-    "titleZh": "jonathan majors",
-    "traffic": "100+",
-    "started": "Thu, 15 Oct 2026 22:20:00 -0700",
-    "summary": "相关新闻主要集中在：Meagan Good on Her ‘Reasonable Doubt’ Role, Learning From Husband Jonathan Majors and Breaking Out of the Pretty Box。",
-    "explanation": "Google Trends 显示“jonathan majors”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Meagan Good on Her ‘Reasonable Doubt’ Role, Learning From Husband Jonathan Majors and Breaking Out of the Pretty Box。这些报道来自 IMDb 等媒体，因此带动了集中搜索。",
+    "title": "junior h",
+    "titleZh": "junior h",
+    "traffic": "200+",
+    "started": "Fri, 16 Oct 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：\"Hemos normalizado burlarnos\": Junior H sale a hablar de su salud tras ser señalado como portador de VIH。",
+    "explanation": "Google Trends 显示“junior h”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：\"Hemos normalizado burlarnos\": Junior H sale a hablar de su salud tras ser señalado como portador de VIH。这些报道来自 Radio Fórmula 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Meagan Good on Her ‘Reasonable Doubt’ Role, Learning From Husband Jonathan Majors and Breaking Out of the Pretty Box",
-        "url": "https://www.imdb.com/es/news/ni66063112/?ref_=nwc_art_perm",
-        "source": "IMDb"
+        "title": "\"Hemos normalizado burlarnos\": Junior H sale a hablar de su salud tras ser señalado como portador de VIH",
+        "url": "https://www.radioformula.com.mx/espectaculos/hemos-normalizado-burlarnos-junior-h-sale-a-hablar-de-su-salud-tras-ser-senalado-como-portador-de-vih-20261016-0049.html",
+        "source": "Radio Fórmula"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "fitness",
-    "titleZh": "fitness",
-    "traffic": "2000+",
-    "started": "Thu, 15 Oct 2026 22:10:00 -0700",
-    "summary": "相关新闻主要集中在：Eric Von Frohlich Leaves a Lasting Mark on Fitness。",
-    "explanation": "Google Trends 显示“fitness”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Eric Von Frohlich Leaves a Lasting Mark on Fitness。这些报道来自 SuaraGarut.ID 等媒体，因此带动了集中搜索。",
+    "title": "aj dybantsa",
+    "titleZh": "aj dybantsa",
+    "traffic": "500+",
+    "started": "Fri, 16 Oct 2026 22:10:00 -0700",
+    "summary": "相关新闻主要集中在：Caleb Love (head) goes to to the locker room。",
+    "explanation": "Google Trends 显示“aj dybantsa”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Caleb Love (head) goes to to the locker room。这些报道来自 NBC Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Eric Von Frohlich Leaves a Lasting Mark on Fitness",
-        "url": "https://suaragarut.id/en/eric-von-frohlich-fitness-legacy",
-        "source": "SuaraGarut.ID"
+        "title": "Caleb Love (head) goes to to the locker room",
+        "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-16/caleb-love-head-goes-to-to-the-locker-room",
+        "source": "NBC Sports"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "dennis rodman",
-    "titleZh": "dennis rodman",
-    "traffic": "200+",
-    "started": "Thu, 15 Oct 2026 22:10:00 -0700",
-    "summary": "相关新闻主要集中在：Dennis Rodman Returns to San Antonio for Fan Signing。",
-    "explanation": "Google Trends 显示“dennis rodman”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Dennis Rodman Returns to San Antonio for Fan Signing。这些报道来自 SuaraGarut.ID 等媒体，因此带动了集中搜索。",
+    "title": "can vs nep",
+    "titleZh": "can vs nep",
+    "traffic": "500+",
+    "started": "Fri, 16 Oct 2026 22:00:00 -0700",
+    "summary": "相关新闻主要集中在：Canada’s Victory Prolongs Nepal’s Wait。",
+    "explanation": "Google Trends 显示“can vs nep”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Canada’s Victory Prolongs Nepal’s Wait。这些报道来自 Ekantipur 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Dennis Rodman Returns to San Antonio for Fan Signing",
-        "url": "https://suaragarut.id/en/rodman-san-antonio-fan-signing",
-        "source": "SuaraGarut.ID"
+        "title": "Canada’s Victory Prolongs Nepal’s Wait",
+        "url": "https://ekantipur.com/sports/2026/10/15/en/canadas-victory-prolongs-nepals-wait-58-20.html",
+        "source": "Ekantipur"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "sonay kartal",
-    "titleZh": "sonay kartal",
-    "traffic": "2000+",
-    "started": "Thu, 15 Oct 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：Wuhan Open: Sonay Kartal stuns Jasmine Paolini to set up quarter-final against Elina Svitolina while Alexander Zverev continues winning form。",
-    "explanation": "Google Trends 显示“sonay kartal”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Wuhan Open: Sonay Kartal stuns Jasmine Paolini to set up quarter-final against Elina Svitolina while Alexander Zverev continues winning form。这些报道来自 Sky Sports 等媒体，因此带动了集中搜索。",
+    "title": "alycia parks",
+    "titleZh": "alycia parks",
+    "traffic": "200+",
+    "started": "Fri, 16 Oct 2026 22:00:00 -0700",
+    "summary": "相关新闻主要集中在：Andy Roddick’s Unfiltered Take on Frances Tiafoe and Alexander Bublik’s Angry Meltdowns。",
+    "explanation": "Google Trends 显示“alycia parks”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Andy Roddick’s Unfiltered Take on Frances Tiafoe and Alexander Bublik’s Angry Meltdowns。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Wuhan Open: Sonay Kartal stuns Jasmine Paolini to set up quarter-final against Elina Svitolina while Alexander Zverev continues winning form",
-        "url": "https://www.skysports.com/tennis/news/13599528/wuhan-open-sonay-kartal-stuns-jasmine-paolini-to-set-up-quarter-final-against-elina-svitolina-while-alexander-zverev-continues-winning-form",
-        "source": "Sky Sports"
+        "title": "Andy Roddick’s Unfiltered Take on Frances Tiafoe and Alexander Bublik’s Angry Meltdowns",
+        "url": "https://sports.yahoo.com/articles/andy-roddick-unfiltered-frances-tiafoe-200423404.html",
+        "source": "Yahoo Sports"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "ktla",
-    "titleZh": "ktla",
+    "title": "united airlines flight ua941 emergency",
+    "titleZh": "united airlines flight ua941 emergency",
     "traffic": "200+",
-    "started": "Thu, 15 Oct 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：Bike MS Bay to Bay 2026: Donate to Team KTLA。",
-    "explanation": "Google Trends 显示“ktla”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Bike MS Bay to Bay 2026: Donate to Team KTLA。这些报道来自 KTLA 等媒体，因此带动了集中搜索。",
+    "started": "Fri, 16 Oct 2026 21:50:00 -0700",
+    "summary": "相关新闻主要集中在：United Airlines Flight 941 To New York Quickly Aborts The Atlantic As Emergency Vehicles Intercept。",
+    "explanation": "Google Trends 显示“united airlines flight ua941 emergency”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：United Airlines Flight 941 To New York Quickly Aborts The Atlantic As Emergency Vehicles Intercept。这些报道来自 TheTravel 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Bike MS Bay to Bay 2026: Donate to Team KTLA",
-        "url": "https://ktla.com/news/local-news/bike-ms-bay-to-bay-2026-donate-to-team-ktla/",
-        "source": "KTLA"
+        "title": "United Airlines Flight 941 To New York Quickly Aborts The Atlantic As Emergency Vehicles Intercept",
+        "url": "https://www.thetravel.com/united-airlines-flight-941-to-new-york-quickly-aborts-the-atlantic-as-emergency-vehicles-intercept/",
+        "source": "TheTravel"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "immunizations",
-    "titleZh": "immunizations",
-    "traffic": "1000+",
-    "started": "Thu, 15 Oct 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：Virginians Encouraged to Get Annual Flu Vaccine, Immunizations to Protect Against Respiratory Illnesses During Event at Riverside Health。",
-    "explanation": "Google Trends 显示“immunizations”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Virginians Encouraged to Get Annual Flu Vaccine, Immunizations to Protect Against Respiratory Illnesses During Event at Riverside Health。这些报道来自 Virginia Department of Health (.gov) 等媒体，因此带动了集中搜索。",
+    "title": "australia vs new zealand",
+    "titleZh": "australia vs new zealand",
+    "traffic": "500+",
+    "started": "Fri, 16 Oct 2026 21:40:00 -0700",
+    "summary": "相关新闻主要集中在：~!$Here's Got the ways to watch free Wallabies v All Blacks Bledisloe Cup 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ。",
+    "explanation": "Google Trends 显示“australia vs new zealand”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：~!$Here's Got the ways to watch free Wallabies v All Blacks Bledisloe Cup 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ。这些报道来自 Universidad de Córdoba (UCO) 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Virginians Encouraged to Get Annual Flu Vaccine, Immunizations to Protect Against Respiratory Illnesses During Event at Riverside Health",
-        "url": "https://www.vdh.virginia.gov/news/public-relations-contacts/2026-news-releases/virginians-encouraged-to-get-annual-flu-vaccine-immunizations-to-protect-against-respiratory-illnesses-during-event-at-riverside-health/",
-        "source": "Virginia Department of Health (.gov)"
+        "title": "~!$Here's Got the ways to watch free Wallabies v All Blacks Bledisloe Cup 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ",
+        "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Imh0dHBzOi8vbWl0c3Vrb25nYW5ndW8uZ2l0aHViLmlvL3JxcC9jdmIueG1sIi8+PC9rcnBhbm8+&id=video-wallabies-v-all-blacks-bledisloe-cup-lie-en-wmfekop",
+        "source": "Universidad de Córdoba (UCO)"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "vaccines",
-    "titleZh": "vaccines",
-    "traffic": "1000+",
-    "started": "Thu, 15 Oct 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：YOUR LETTERS: Kids impacted by RFK vaccine cutback decision。",
-    "explanation": "Google Trends 显示“vaccines”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：YOUR LETTERS: Kids impacted by RFK vaccine cutback decision。这些报道来自 The Labor Tribune 等媒体，因此带动了集中搜索。",
+    "title": "quentin grimes",
+    "titleZh": "quentin grimes",
+    "traffic": "200+",
+    "started": "Fri, 16 Oct 2026 21:40:00 -0700",
+    "summary": "相关新闻主要集中在：Lakers Expected to Add Fearless 46% 3-Point Sniper to Starting Lineup With Luka。",
+    "explanation": "Google Trends 显示“quentin grimes”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Lakers Expected to Add Fearless 46% 3-Point Sniper to Starting Lineup With Luka。这些报道来自 Heavy.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "YOUR LETTERS: Kids impacted by RFK vaccine cutback decision",
-        "url": "https://labortribune.com/your-letters-kids-impacted-by-rfk-vaccine-cutback-decision/",
-        "source": "The Labor Tribune"
+        "title": "Lakers Expected to Add Fearless 46% 3-Point Sniper to Starting Lineup With Luka",
+        "url": "https://heavy.com/sports/nba/los-angeles-lakers/lakers-add-fearless-three-point-sniper/",
+        "source": "Heavy.com"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "flu shots near me",
-    "titleZh": "flu shots near me",
-    "traffic": "1000+",
-    "started": "Thu, 15 Oct 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：NYS Health Commissioner encourages seasonal immunizations。",
-    "explanation": "Google Trends 显示“flu shots near me”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：NYS Health Commissioner encourages seasonal immunizations。这些报道来自 Eagle News Online 等媒体，因此带动了集中搜索。",
+    "title": "la granja vip",
+    "titleZh": "la granja vip",
+    "traffic": "200+",
+    "started": "Fri, 16 Oct 2026 21:40:00 -0700",
+    "summary": "相关新闻主要集中在：Así van las votaciones de La Granja VIP tras la Asamblea de Nominación, ¿quién será el sexto eliminado?。",
+    "explanation": "Google Trends 显示“la granja vip”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Así van las votaciones de La Granja VIP tras la Asamblea de Nominación, ¿quién será el sexto eliminado?。这些报道来自 El Heraldo de México 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "NYS Health Commissioner encourages seasonal immunizations",
-        "url": "https://www.eaglenewsonline.com/baldwinsville_messenger/nys-health-commissioner-encourages-seasonal-immunizations/article_cab80988-81d6-54e3-a21e-a36fe2e38bed.html",
-        "source": "Eagle News Online"
+        "title": "Así van las votaciones de La Granja VIP tras la Asamblea de Nominación, ¿quién será el sexto eliminado?",
+        "url": "https://heraldodemexico.com.mx/espectaculos/2026/10/15/asi-van-las-votaciones-de-la-granja-vip-tras-la-asamblea-de-nominacion-quien-sera-el-sexto-eliminado-908957.html",
+        "source": "El Heraldo de México"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "zach bryan book",
-    "titleZh": "zach bryan book",
+    "title": "burt reynolds",
+    "titleZh": "burt reynolds",
     "traffic": "200+",
-    "started": "Thu, 15 Oct 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：Zach Bryan’s ‘Young Manhood And Other Donatable Organs’: Stream It Now。",
-    "explanation": "Google Trends 显示“zach bryan book”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Zach Bryan’s ‘Young Manhood And Other Donatable Organs’: Stream It Now。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
+    "started": "Fri, 16 Oct 2026 21:40:00 -0700",
+    "summary": "相关新闻主要集中在：Jason Statham's Remake of a Burt Reynolds Action Thriller Surpassed the Original in Every Way。",
+    "explanation": "Google Trends 显示“burt reynolds”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Jason Statham's Remake of a Burt Reynolds Action Thriller Surpassed the Original in Every Way。这些报道来自 Collider 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Zach Bryan’s ‘Young Manhood And Other Donatable Organs’: Stream It Now",
-        "url": "https://www.yahoo.com/entertainment/music/articles/zach-bryan-young-manhood-other-040036349.html",
-        "source": "Yahoo"
+        "title": "Jason Statham's Remake of a Burt Reynolds Action Thriller Surpassed the Original in Every Way",
+        "url": "https://collider.com/wild-card-jason-statham-remake-burt-reynolds-streaming/",
+        "source": "Collider"
       }
     ]
   }
