@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "los tigres del norte",
-    "titleZh": "los tigres del norte",
+    "title": "julian lewis",
+    "titleZh": "julian lewis",
     "traffic": "200+",
-    "started": "Fri, 16 Oct 2026 22:20:00 -0700",
-    "summary": "相关新闻主要集中在：Los Tigres del Norte llevan su música y su defensa de los inmigrantes al Tiny Desk de NPR。",
-    "explanation": "Google Trends 显示“los tigres del norte”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Los Tigres del Norte llevan su música y su defensa de los inmigrantes al Tiny Desk de NPR。这些报道来自 Dallas News 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 17 Oct 2026 22:40:00 -0700",
+    "summary": "相关新闻主要集中在：Keeler: CU Buffs, QB Julian Lewis were supposed to be legendary. What happened?。",
+    "explanation": "Google Trends 显示“julian lewis”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Keeler: CU Buffs, QB Julian Lewis were supposed to be legendary. What happened?。这些报道来自 The Denver Post 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Los Tigres del Norte llevan su música y su defensa de los inmigrantes al Tiny Desk de NPR",
-        "url": "https://www.dallasnews.com/espanol/al-dia/espectaculos/article/tigres-del-norte-tiny-desk-npr-concierto-migrantes-22480451.php",
-        "source": "Dallas News"
+        "title": "Keeler: CU Buffs, QB Julian Lewis were supposed to be legendary. What happened?",
+        "url": "https://www.denverpost.com/2026/10/10/cu-buffs-qb-julian-lewis-deion-sanders-football-shedeur-sanders/",
+        "source": "The Denver Post"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "junior h",
-    "titleZh": "junior h",
-    "traffic": "200+",
-    "started": "Fri, 16 Oct 2026 22:20:00 -0700",
-    "summary": "相关新闻主要集中在：\"Hemos normalizado burlarnos\": Junior H sale a hablar de su salud tras ser señalado como portador de VIH。",
-    "explanation": "Google Trends 显示“junior h”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：\"Hemos normalizado burlarnos\": Junior H sale a hablar de su salud tras ser señalado como portador de VIH。这些报道来自 Radio Fórmula 等媒体，因此带动了集中搜索。",
+    "title": "nebraska football schedule",
+    "titleZh": "nebraska football schedule",
+    "traffic": "2000+",
+    "started": "Sat, 17 Oct 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：Balanced Attack Leads No. 1 Huskers Past No. 13 Purdue - University of Nebraska - Official Athletics Website。",
+    "explanation": "Google Trends 显示“nebraska football schedule”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Balanced Attack Leads No. 1 Huskers Past No. 13 Purdue - University of Nebraska - Official Athletics Website。这些报道来自 huskers.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "\"Hemos normalizado burlarnos\": Junior H sale a hablar de su salud tras ser señalado como portador de VIH",
-        "url": "https://www.radioformula.com.mx/espectaculos/hemos-normalizado-burlarnos-junior-h-sale-a-hablar-de-su-salud-tras-ser-senalado-como-portador-de-vih-20261016-0049.html",
-        "source": "Radio Fórmula"
+        "title": "Balanced Attack Leads No. 1 Huskers Past No. 13 Purdue - University of Nebraska - Official Athletics Website",
+        "url": "https://huskers.com/news/2026/10/17/balanced-attack-leads-no-1-huskers-past-no-13-purdue1",
+        "source": "huskers.com"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "aj dybantsa",
-    "titleZh": "aj dybantsa",
-    "traffic": "500+",
-    "started": "Fri, 16 Oct 2026 22:10:00 -0700",
-    "summary": "相关新闻主要集中在：Caleb Love (head) goes to to the locker room。",
-    "explanation": "Google Trends 显示“aj dybantsa”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Caleb Love (head) goes to to the locker room。这些报道来自 NBC Sports 等媒体，因此带动了集中搜索。",
+    "title": "cara delevingne",
+    "titleZh": "cara delevingne",
+    "traffic": "200+",
+    "started": "Sat, 17 Oct 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：Kendall Jenner says she'd be open to sex with women as she breaks silence on Cara Delevingne romance rumours。",
+    "explanation": "Google Trends 显示“cara delevingne”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Kendall Jenner says she'd be open to sex with women as she breaks silence on Cara Delevingne romance rumours。这些报道来自 The Sun 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Caleb Love (head) goes to to the locker room",
-        "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-16/caleb-love-head-goes-to-to-the-locker-room",
-        "source": "NBC Sports"
+        "title": "Kendall Jenner says she'd be open to sex with women as she breaks silence on Cara Delevingne romance rumours",
+        "url": "https://www.the-sun.com/entertainment/17165483/kendall-jenner-open-sex-women-cara-delevingne/",
+        "source": "The Sun"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "can vs nep",
-    "titleZh": "can vs nep",
-    "traffic": "500+",
-    "started": "Fri, 16 Oct 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：Canada’s Victory Prolongs Nepal’s Wait。",
-    "explanation": "Google Trends 显示“can vs nep”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Canada’s Victory Prolongs Nepal’s Wait。这些报道来自 Ekantipur 等媒体，因此带动了集中搜索。",
+    "title": "u of u football",
+    "titleZh": "u of u football",
+    "traffic": "200+",
+    "started": "Sat, 17 Oct 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：Trey Reynolds on What It's Like to Be a Linebacker at the U。",
+    "explanation": "Google Trends 显示“u of u football”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Trey Reynolds on What It's Like to Be a Linebacker at the U。这些报道来自 247Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Canada’s Victory Prolongs Nepal’s Wait",
-        "url": "https://ekantipur.com/sports/2026/10/15/en/canadas-victory-prolongs-nepals-wait-58-20.html",
-        "source": "Ekantipur"
+        "title": "Trey Reynolds on What It's Like to Be a Linebacker at the U",
+        "url": "https://247sports.com/college/utah/article/trey-reynolds-utah-utes-football-colorado-game--291348259/",
+        "source": "247Sports"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "alycia parks",
-    "titleZh": "alycia parks",
-    "traffic": "200+",
-    "started": "Fri, 16 Oct 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：Andy Roddick’s Unfiltered Take on Frances Tiafoe and Alexander Bublik’s Angry Meltdowns。",
-    "explanation": "Google Trends 显示“alycia parks”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Andy Roddick’s Unfiltered Take on Frances Tiafoe and Alexander Bublik’s Angry Meltdowns。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "title": "lg vs kia",
+    "titleZh": "lg vs kia",
+    "traffic": "500+",
+    "started": "Sat, 17 Oct 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：[Photo] \"Tolhurst, who allowed a comeback in the 4th inning\" Tolhurst。",
+    "explanation": "Google Trends 显示“lg vs kia”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：[Photo] \"Tolhurst, who allowed a comeback in the 4th inning\" Tolhurst。这些报道来自 스타뉴스 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Andy Roddick’s Unfiltered Take on Frances Tiafoe and Alexander Bublik’s Angry Meltdowns",
-        "url": "https://sports.yahoo.com/articles/andy-roddick-unfiltered-frances-tiafoe-200423404.html",
-        "source": "Yahoo Sports"
+        "title": "[Photo] \"Tolhurst, who allowed a comeback in the 4th inning\" Tolhurst",
+        "url": "https://www.starnewskorea.com/en/sports/2026/10/17/2026101715502580863",
+        "source": "스타뉴스"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "united airlines flight ua941 emergency",
-    "titleZh": "united airlines flight ua941 emergency",
+    "title": "st petersburg",
+    "titleZh": "st petersburg",
     "traffic": "200+",
-    "started": "Fri, 16 Oct 2026 21:50:00 -0700",
-    "summary": "相关新闻主要集中在：United Airlines Flight 941 To New York Quickly Aborts The Atlantic As Emergency Vehicles Intercept。",
-    "explanation": "Google Trends 显示“united airlines flight ua941 emergency”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：United Airlines Flight 941 To New York Quickly Aborts The Atlantic As Emergency Vehicles Intercept。这些报道来自 TheTravel 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 17 Oct 2026 22:10:00 -0700",
+    "summary": "相关新闻主要集中在：Ukrainian drones force closure of all four Moscow airports overnight, cancelling dozens of flights。",
+    "explanation": "Google Trends 显示“st petersburg”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Ukrainian drones force closure of all four Moscow airports overnight, cancelling dozens of flights。这些报道来自 Euronews.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "United Airlines Flight 941 To New York Quickly Aborts The Atlantic As Emergency Vehicles Intercept",
-        "url": "https://www.thetravel.com/united-airlines-flight-941-to-new-york-quickly-aborts-the-atlantic-as-emergency-vehicles-intercept/",
-        "source": "TheTravel"
+        "title": "Ukrainian drones force closure of all four Moscow airports overnight, cancelling dozens of flights",
+        "url": "https://www.euronews.com/2026/10/16/ukrainian-drones-force-closure-of-all-four-moscow-airports-overnight-cancelling-dozens-of-",
+        "source": "Euronews.com"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "australia vs new zealand",
-    "titleZh": "australia vs new zealand",
-    "traffic": "500+",
-    "started": "Fri, 16 Oct 2026 21:40:00 -0700",
-    "summary": "相关新闻主要集中在：~!$Here's Got the ways to watch free Wallabies v All Blacks Bledisloe Cup 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ。",
-    "explanation": "Google Trends 显示“australia vs new zealand”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：~!$Here's Got the ways to watch free Wallabies v All Blacks Bledisloe Cup 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ。这些报道来自 Universidad de Córdoba (UCO) 等媒体，因此带动了集中搜索。",
+    "title": "ai bubble",
+    "titleZh": "ai bubble",
+    "traffic": "200+",
+    "started": "Sat, 17 Oct 2026 22:00:00 -0700",
+    "summary": "相关新闻主要集中在：Earnings, Cashflows and Stock Prices: The AI Spending plays through!。",
+    "explanation": "Google Trends 显示“ai bubble”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Earnings, Cashflows and Stock Prices: The AI Spending plays through!。这些报道来自 Aswath Damodaran | Substack 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "~!$Here's Got the ways to watch free Wallabies v All Blacks Bledisloe Cup 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ",
-        "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Imh0dHBzOi8vbWl0c3Vrb25nYW5ndW8uZ2l0aHViLmlvL3JxcC9jdmIueG1sIi8+PC9rcnBhbm8+&id=video-wallabies-v-all-blacks-bledisloe-cup-lie-en-wmfekop",
-        "source": "Universidad de Córdoba (UCO)"
+        "title": "Earnings, Cashflows and Stock Prices: The AI Spending plays through!",
+        "url": "https://aswathdamodaran.substack.com/p/earnings-cashflows-and-stock-prices",
+        "source": "Aswath Damodaran | Substack"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "quentin grimes",
-    "titleZh": "quentin grimes",
+    "title": "cyberpunk edgerunners season 2",
+    "titleZh": "cyberpunk edgerunners season 2",
     "traffic": "200+",
-    "started": "Fri, 16 Oct 2026 21:40:00 -0700",
-    "summary": "相关新闻主要集中在：Lakers Expected to Add Fearless 46% 3-Point Sniper to Starting Lineup With Luka。",
-    "explanation": "Google Trends 显示“quentin grimes”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Lakers Expected to Add Fearless 46% 3-Point Sniper to Starting Lineup With Luka。这些报道来自 Heavy.com 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 17 Oct 2026 22:00:00 -0700",
+    "summary": "相关新闻主要集中在：Netflix Reveals New Trailers, Cast for ‘Cyberpunk,’ ‘Bass X Machina’ and ‘Blue Eye Samurai’。",
+    "explanation": "Google Trends 显示“cyberpunk edgerunners season 2”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Netflix Reveals New Trailers, Cast for ‘Cyberpunk,’ ‘Bass X Machina’ and ‘Blue Eye Samurai’。这些报道来自 Animation Magazine 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Lakers Expected to Add Fearless 46% 3-Point Sniper to Starting Lineup With Luka",
-        "url": "https://heavy.com/sports/nba/los-angeles-lakers/lakers-add-fearless-three-point-sniper/",
-        "source": "Heavy.com"
+        "title": "Netflix Reveals New Trailers, Cast for ‘Cyberpunk,’ ‘Bass X Machina’ and ‘Blue Eye Samurai’",
+        "url": "https://www.animationmagazine.net/2026/10/netflix-reveals-new-trailers-cast-for-cyberpunk-bass-x-machina-and-blue-eye-samurai/",
+        "source": "Animation Magazine"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "la granja vip",
-    "titleZh": "la granja vip",
-    "traffic": "200+",
-    "started": "Fri, 16 Oct 2026 21:40:00 -0700",
-    "summary": "相关新闻主要集中在：Así van las votaciones de La Granja VIP tras la Asamblea de Nominación, ¿quién será el sexto eliminado?。",
-    "explanation": "Google Trends 显示“la granja vip”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Así van las votaciones de La Granja VIP tras la Asamblea de Nominación, ¿quién será el sexto eliminado?。这些报道来自 El Heraldo de México 等媒体，因此带动了集中搜索。",
+    "title": "san diego fc vs la galaxy standings",
+    "titleZh": "san diego fc vs la galaxy standings",
+    "traffic": "500+",
+    "started": "Sat, 17 Oct 2026 21:50:00 -0700",
+    "summary": "相关新闻主要集中在：Marco Reus has goal, assist to back JT Marcinkowski as Galaxy blank Timbers 2-0。",
+    "explanation": "Google Trends 显示“san diego fc vs la galaxy standings”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Marco Reus has goal, assist to back JT Marcinkowski as Galaxy blank Timbers 2-0。这些报道来自 New Haven Register 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Así van las votaciones de La Granja VIP tras la Asamblea de Nominación, ¿quién será el sexto eliminado?",
-        "url": "https://heraldodemexico.com.mx/espectaculos/2026/10/15/asi-van-las-votaciones-de-la-granja-vip-tras-la-asamblea-de-nominacion-quien-sera-el-sexto-eliminado-908957.html",
-        "source": "El Heraldo de México"
+        "title": "Marco Reus has goal, assist to back JT Marcinkowski as Galaxy blank Timbers 2-0",
+        "url": "https://www.nhregister.com/sports/article/marcus-reus-has-goal-assist-to-back-jt-22477908.php",
+        "source": "New Haven Register"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "burt reynolds",
-    "titleZh": "burt reynolds",
-    "traffic": "200+",
-    "started": "Fri, 16 Oct 2026 21:40:00 -0700",
-    "summary": "相关新闻主要集中在：Jason Statham's Remake of a Burt Reynolds Action Thriller Surpassed the Original in Every Way。",
-    "explanation": "Google Trends 显示“burt reynolds”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Jason Statham's Remake of a Burt Reynolds Action Thriller Surpassed the Original in Every Way。这些报道来自 Collider 等媒体，因此带动了集中搜索。",
+    "title": "noah centineo",
+    "titleZh": "noah centineo",
+    "traffic": "500+",
+    "started": "Sat, 17 Oct 2026 21:50:00 -0700",
+    "summary": "相关新闻主要集中在：Street Fighter First Reviews: Colorful, Weird, Noisy Nonsense Affectionately Made for Fans。",
+    "explanation": "Google Trends 显示“noah centineo”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Street Fighter First Reviews: Colorful, Weird, Noisy Nonsense Affectionately Made for Fans。这些报道来自 Rotten Tomatoes 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Jason Statham's Remake of a Burt Reynolds Action Thriller Surpassed the Original in Every Way",
-        "url": "https://collider.com/wild-card-jason-statham-remake-burt-reynolds-streaming/",
-        "source": "Collider"
+        "title": "Street Fighter First Reviews: Colorful, Weird, Noisy Nonsense Affectionately Made for Fans",
+        "url": "https://editorial.rottentomatoes.com/article/street-fighter-2026-first-reviews/",
+        "source": "Rotten Tomatoes"
       }
     ]
   }
