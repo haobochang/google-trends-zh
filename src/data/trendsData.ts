@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "better call saul",
-    "titleZh": "better call saul",
+    "title": "sara bejlek",
+    "titleZh": "sara bejlek",
     "traffic": "200+",
-    "started": "Sun, 18 Oct 2026 22:50:00 -0700",
-    "summary": "相关新闻主要集中在：Weekly episodes or the full binge: which kind of viewer are you?。",
-    "explanation": "Google Trends 显示“better call saul”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Weekly episodes or the full binge: which kind of viewer are you?。这些报道来自 ThePrint 等媒体，因此带动了集中搜索。",
+    "started": "Mon, 19 Oct 2026 22:40:00 -0700",
+    "summary": "相关新闻主要集中在：Silvia Alletti A. Garifullina live score and H2H results。",
+    "explanation": "Google Trends 显示“sara bejlek”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Silvia Alletti A. Garifullina live score and H2H results。这些报道来自 Sofascore 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Weekly episodes or the full binge: which kind of viewer are you?",
-        "url": "https://theprint.in/feature/weekly-episodes-or-the-full-binge/3075345/",
-        "source": "ThePrint"
+        "title": "Silvia Alletti A. Garifullina live score and H2H results",
+        "url": "https://www.sofascore.com/tennis/match/a-garifullina-silvia-alletti/RpRdsTPZd",
+        "source": "Sofascore"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "evan stewart",
-    "titleZh": "evan stewart",
-    "traffic": "100+",
-    "started": "Sun, 18 Oct 2026 22:30:00 -0700",
-    "summary": "相关新闻主要集中在：The 3 Oregon WRs who could step into a pivotal role with Evan Stewart's injury。",
-    "explanation": "Google Trends 显示“evan stewart”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：The 3 Oregon WRs who could step into a pivotal role with Evan Stewart's injury。这些报道来自 Autzen Zoo 等媒体，因此带动了集中搜索。",
+    "title": "alycia parks",
+    "titleZh": "alycia parks",
+    "traffic": "2000+",
+    "started": "Mon, 19 Oct 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：Andy Roddick’s Unfiltered Take on Frances Tiafoe and Alexander Bublik’s Angry Meltdowns。",
+    "explanation": "Google Trends 显示“alycia parks”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Andy Roddick’s Unfiltered Take on Frances Tiafoe and Alexander Bublik’s Angry Meltdowns。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "The 3 Oregon WRs who could step into a pivotal role with Evan Stewart's injury",
-        "url": "https://autzenzoo.com/the-3-oregon-wrs-who-could-step-into-a-pivotal-role-with-evan-stewart-s-injury",
-        "source": "Autzen Zoo"
+        "title": "Andy Roddick’s Unfiltered Take on Frances Tiafoe and Alexander Bublik’s Angry Meltdowns",
+        "url": "https://sports.yahoo.com/articles/andy-roddick-unfiltered-frances-tiafoe-200423404.html",
+        "source": "Yahoo Sports"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "diesel fuel",
-    "titleZh": "diesel fuel",
-    "traffic": "2000+",
-    "started": "Sun, 18 Oct 2026 22:20:00 -0700",
-    "summary": "相关新闻主要集中在：Wright defends Trump’s Russian diesel deal as ‘carrot’ for peace。",
-    "explanation": "Google Trends 显示“diesel fuel”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Wright defends Trump’s Russian diesel deal as ‘carrot’ for peace。这些报道来自 Politico 等媒体，因此带动了集中搜索。",
+    "title": "diana shnaider",
+    "titleZh": "diana shnaider",
+    "traffic": "200+",
+    "started": "Mon, 19 Oct 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：Yulia Putintseva vs Diana Shnaider Prediction & Picks - WTA Wuhan Open。",
+    "explanation": "Google Trends 显示“diana shnaider”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Yulia Putintseva vs Diana Shnaider Prediction & Picks - WTA Wuhan Open。这些报道来自 SportyTrader 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Wright defends Trump’s Russian diesel deal as ‘carrot’ for peace",
-        "url": "https://www.politico.com/news/2026/10/18/wright-defends-trump-russia-diesel-deal-01125781",
-        "source": "Politico"
+        "title": "Yulia Putintseva vs Diana Shnaider Prediction & Picks - WTA Wuhan Open",
+        "url": "https://www.sportytrader.com/us/picks/yulia-putintseva-diana-shnaider-378960/",
+        "source": "SportyTrader"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "fuel",
-    "titleZh": "fuel",
-    "traffic": "5000+",
-    "started": "Sun, 18 Oct 2026 22:20:00 -0700",
-    "summary": "相关新闻主要集中在：Opinion | To Russia With Love, Signed Donald。",
-    "explanation": "Google Trends 显示“fuel”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Opinion | To Russia With Love, Signed Donald。这些报道来自 WSJ 等媒体，因此带动了集中搜索。",
+    "title": "final jeopardy answer today",
+    "titleZh": "final jeopardy answer today",
+    "traffic": "1000+",
+    "started": "Mon, 19 Oct 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：Minnesota’s Frank Merchlewitz Wins $14,350 On ‘Jeopardy!’ - And He’s Back Monday。",
+    "explanation": "Google Trends 显示“final jeopardy answer today”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Minnesota’s Frank Merchlewitz Wins $14,350 On ‘Jeopardy!’ - And He’s Back Monday。这些报道来自 Duluth Country Radio 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Opinion | To Russia With Love, Signed Donald",
-        "url": "https://www.wsj.com/opinion/to-russia-with-love-signed-donald-bffbcdc8",
-        "source": "WSJ"
+        "title": "Minnesota’s Frank Merchlewitz Wins $14,350 On ‘Jeopardy!’ - And He’s Back Monday",
+        "url": "https://b105country.com/winona-minnesota-frank-merchlewitz-jeopardy-champion/",
+        "source": "Duluth Country Radio"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "spacex launch jellyfish",
-    "titleZh": "spacex launch jellyfish",
-    "traffic": "500+",
-    "started": "Sun, 18 Oct 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station。",
-    "explanation": "Google Trends 显示“spacex launch jellyfish”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station。这些报道来自 NASA (.gov) 等媒体，因此带动了集中搜索。",
+    "title": "midterm elections",
+    "titleZh": "midterm elections",
+    "traffic": "200+",
+    "started": "Mon, 19 Oct 2026 22:10:00 -0700",
+    "summary": "相关新闻主要集中在：Trump says he could be ‘last Republican president’。",
+    "explanation": "Google Trends 显示“midterm elections”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Trump says he could be ‘last Republican president’。这些报道来自 The Hill 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station",
-        "url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/",
-        "source": "NASA (.gov)"
+        "title": "Trump says he could be ‘last Republican president’",
+        "url": "https://thehill.com/homenews/administration/6144713-donald-trump-republican-party-midterm-struggles/",
+        "source": "The Hill"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "lisa rinna",
-    "titleZh": "lisa rinna",
+    "title": "wayne",
+    "titleZh": "wayne",
     "traffic": "200+",
-    "started": "Sun, 18 Oct 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：Amelia Gray Gets Seriously Cheeky in Teeny Tiny VS Micro Shorts。",
-    "explanation": "Google Trends 显示“lisa rinna”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Amelia Gray Gets Seriously Cheeky in Teeny Tiny VS Micro Shorts。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
+    "started": "Mon, 19 Oct 2026 22:10:00 -0700",
+    "summary": "相关新闻主要集中在：Thomas Dirig Obituary (1944 - 2026) - Brownsburg, IN - Fort Wayne Newspapers。",
+    "explanation": "Google Trends 显示“wayne”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Thomas Dirig Obituary (1944 - 2026) - Brownsburg, IN - Fort Wayne Newspapers。这些报道来自 Legacy | Obituary 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Amelia Gray Gets Seriously Cheeky in Teeny Tiny VS Micro Shorts",
-        "url": "https://www.aol.com/articles/amelia-gray-gets-seriously-cheeky-131442000.html",
-        "source": "AOL.com"
+        "title": "Thomas Dirig Obituary (1944 - 2026) - Brownsburg, IN - Fort Wayne Newspapers",
+        "url": "https://www.legacy.com/us/obituaries/fortwayne/name/thomas-dirig-obituary?id=62782642",
+        "source": "Legacy | Obituary"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "ufc 333",
-    "titleZh": "ufc 333",
+    "title": "jenna ortega",
+    "titleZh": "jenna ortega",
     "traffic": "500+",
-    "started": "Sun, 18 Oct 2026 21:40:00 -0700",
-    "summary": "相关新闻主要集中在：MMA Main Card Pick of the Week: UFC 333。",
-    "explanation": "Google Trends 显示“ufc 333”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：MMA Main Card Pick of the Week: UFC 333。这些报道来自 Sports Gambling Podcast 等媒体，因此带动了集中搜索。",
+    "started": "Mon, 19 Oct 2026 22:00:00 -0700",
+    "summary": "相关新闻主要集中在：'Klara and the Sun' Review: Taika Waititi's Calamitous Android Fantasy。",
+    "explanation": "Google Trends 显示“jenna ortega”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：'Klara and the Sun' Review: Taika Waititi's Calamitous Android Fantasy。这些报道来自 Variety 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "MMA Main Card Pick of the Week: UFC 333",
-        "url": "https://www.sportsgamblingpodcast.com/2026/10/18/mma-main-card-pick-of-the-week-ufc-333/",
-        "source": "Sports Gambling Podcast"
+        "title": "'Klara and the Sun' Review: Taika Waititi's Calamitous Android Fantasy",
+        "url": "https://variety.com/2026/film/news/klara-and-the-sun-review-1236914992/",
+        "source": "Variety"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "leylah fernandez",
-    "titleZh": "leylah fernandez",
-    "traffic": "1000+",
-    "started": "Sun, 18 Oct 2026 21:30:00 -0700",
-    "summary": "相关新闻主要集中在：Alex Eala at the Ningbo Open: Schedule and Draw。",
-    "explanation": "Google Trends 显示“leylah fernandez”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Alex Eala at the Ningbo Open: Schedule and Draw。这些报道来自 GMA Network 等媒体，因此带动了集中搜索。",
+    "title": "invasive reticulated python puerto rico jungle",
+    "titleZh": "invasive reticulated python puerto rico jungle",
+    "traffic": "200+",
+    "started": "Mon, 19 Oct 2026 22:00:00 -0700",
+    "summary": "相关新闻主要集中在：Python hunters snag Puerto Rico's largest reticulated python on record after it was spotted strangling pet cat。",
+    "explanation": "Google Trends 显示“invasive reticulated python puerto rico jungle”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Python hunters snag Puerto Rico's largest reticulated python on record after it was spotted strangling pet cat。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Alex Eala at the Ningbo Open: Schedule and Draw",
-        "url": "https://www.gmanetwork.com/news/sports/othersports/1006300/alex-eala-at-the-ningbo-open-schedule-and-draw/story/",
-        "source": "GMA Network"
+        "title": "Python hunters snag Puerto Rico's largest reticulated python on record after it was spotted strangling pet cat",
+        "url": "https://www.aol.com/articles/python-hunters-snag-puerto-ricos-233516000.html",
+        "source": "AOL.com"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "stephen a smith",
-    "titleZh": "stephen a smith",
-    "traffic": "500+",
-    "started": "Sun, 18 Oct 2026 21:30:00 -0700",
-    "summary": "相关新闻主要集中在：Trump Spills on Bill Maher’s True Feelings After Cozy Dinner。",
-    "explanation": "Google Trends 显示“stephen a smith”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Trump Spills on Bill Maher’s True Feelings After Cozy Dinner。这些报道来自 The Daily Beast 等媒体，因此带动了集中搜索。",
+    "title": "paula badosa",
+    "titleZh": "paula badosa",
+    "traffic": "200+",
+    "started": "Mon, 19 Oct 2026 22:00:00 -0700",
+    "summary": "相关新闻主要集中在：Paula Badosa - Antonia Ružic en directo - Osaka Individual femenino -: Resultados y resúmenes de Tenis - 20/10/2026。",
+    "explanation": "Google Trends 显示“paula badosa”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Paula Badosa - Antonia Ružic en directo - Osaka Individual femenino -: Resultados y resúmenes de Tenis - 20/10/2026。这些报道来自 Eurosport 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Trump Spills on Bill Maher’s True Feelings After Cozy Dinner",
-        "url": "https://www.thedailybeast.com/donald-trump-spills-on-bill-mahers-true-feelings-after-white-house-dinner",
-        "source": "The Daily Beast"
+        "title": "Paula Badosa - Antonia Ružic en directo - Osaka Individual femenino -: Resultados y resúmenes de Tenis - 20/10/2026",
+        "url": "https://www.eurosport.es/tenis/wta-osaka/2026/live-paula-badosa-antonia-ruzic_mtc22034885/live.shtml",
+        "source": "Eurosport"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "fume",
-    "titleZh": "fume",
-    "traffic": "500+",
-    "started": "Sun, 18 Oct 2026 21:20:00 -0700",
-    "summary": "相关新闻主要集中在：President Trump waives new Russia sanctions citing 'national interests'。",
-    "explanation": "Google Trends 显示“fume”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：President Trump waives new Russia sanctions citing 'national interests'。这些报道来自 FOX 10 Phoenix 等媒体，因此带动了集中搜索。",
+    "title": "mary stoiana",
+    "titleZh": "mary stoiana",
+    "traffic": "200+",
+    "started": "Mon, 19 Oct 2026 22:00:00 -0700",
+    "summary": "相关新闻主要集中在：Sports News, Transfers, Scores | Watch Live Sport。",
+    "explanation": "Google Trends 显示“mary stoiana”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Sports News, Transfers, Scores | Watch Live Sport。这些报道来自 Sky Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "President Trump waives new Russia sanctions citing 'national interests'",
-        "url": "https://www.fox10phoenix.com/video/fmc-2jn9j9k71ildgzkd",
-        "source": "FOX 10 Phoenix"
+        "title": "Sports News, Transfers, Scores | Watch Live Sport",
+        "url": "https://www.skysports.com/tennis/watch/6742997485599459112/kinoshita-group-japan-open-2026",
+        "source": "Sky Sports"
       }
     ]
   }
