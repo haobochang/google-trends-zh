@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "sara bejlek",
-    "titleZh": "sara bejlek",
-    "traffic": "200+",
-    "started": "Mon, 19 Oct 2026 22:40:00 -0700",
-    "summary": "相关新闻主要集中在：Silvia Alletti A. Garifullina live score and H2H results。",
-    "explanation": "Google Trends 显示“sara bejlek”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Silvia Alletti A. Garifullina live score and H2H results。这些报道来自 Sofascore 等媒体，因此带动了集中搜索。",
+    "title": "laura wright son engagement",
+    "titleZh": "laura wright son engagement",
+    "traffic": "100+",
+    "started": "Tue, 20 Oct 2026 22:30:00 -0700",
+    "summary": "相关新闻主要集中在：General Hospital Star Laura Wright Celebrates Some Big Engagement News。",
+    "explanation": "Google Trends 显示“laura wright son engagement”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：General Hospital Star Laura Wright Celebrates Some Big Engagement News。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Silvia Alletti A. Garifullina live score and H2H results",
-        "url": "https://www.sofascore.com/tennis/match/a-garifullina-silvia-alletti/RpRdsTPZd",
-        "source": "Sofascore"
-      }
-    ]
-  },
-  {
-    "rank": 2,
-    "title": "alycia parks",
-    "titleZh": "alycia parks",
-    "traffic": "2000+",
-    "started": "Mon, 19 Oct 2026 22:20:00 -0700",
-    "summary": "相关新闻主要集中在：Andy Roddick’s Unfiltered Take on Frances Tiafoe and Alexander Bublik’s Angry Meltdowns。",
-    "explanation": "Google Trends 显示“alycia parks”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Andy Roddick’s Unfiltered Take on Frances Tiafoe and Alexander Bublik’s Angry Meltdowns。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Andy Roddick’s Unfiltered Take on Frances Tiafoe and Alexander Bublik’s Angry Meltdowns",
-        "url": "https://sports.yahoo.com/articles/andy-roddick-unfiltered-frances-tiafoe-200423404.html",
-        "source": "Yahoo Sports"
-      }
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "diana shnaider",
-    "titleZh": "diana shnaider",
-    "traffic": "200+",
-    "started": "Mon, 19 Oct 2026 22:20:00 -0700",
-    "summary": "相关新闻主要集中在：Yulia Putintseva vs Diana Shnaider Prediction & Picks - WTA Wuhan Open。",
-    "explanation": "Google Trends 显示“diana shnaider”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Yulia Putintseva vs Diana Shnaider Prediction & Picks - WTA Wuhan Open。这些报道来自 SportyTrader 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Yulia Putintseva vs Diana Shnaider Prediction & Picks - WTA Wuhan Open",
-        "url": "https://www.sportytrader.com/us/picks/yulia-putintseva-diana-shnaider-378960/",
-        "source": "SportyTrader"
-      }
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "final jeopardy answer today",
-    "titleZh": "final jeopardy answer today",
-    "traffic": "1000+",
-    "started": "Mon, 19 Oct 2026 22:20:00 -0700",
-    "summary": "相关新闻主要集中在：Minnesota’s Frank Merchlewitz Wins $14,350 On ‘Jeopardy!’ - And He’s Back Monday。",
-    "explanation": "Google Trends 显示“final jeopardy answer today”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Minnesota’s Frank Merchlewitz Wins $14,350 On ‘Jeopardy!’ - And He’s Back Monday。这些报道来自 Duluth Country Radio 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Minnesota’s Frank Merchlewitz Wins $14,350 On ‘Jeopardy!’ - And He’s Back Monday",
-        "url": "https://b105country.com/winona-minnesota-frank-merchlewitz-jeopardy-champion/",
-        "source": "Duluth Country Radio"
-      }
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "midterm elections",
-    "titleZh": "midterm elections",
-    "traffic": "200+",
-    "started": "Mon, 19 Oct 2026 22:10:00 -0700",
-    "summary": "相关新闻主要集中在：Trump says he could be ‘last Republican president’。",
-    "explanation": "Google Trends 显示“midterm elections”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Trump says he could be ‘last Republican president’。这些报道来自 The Hill 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Trump says he could be ‘last Republican president’",
-        "url": "https://thehill.com/homenews/administration/6144713-donald-trump-republican-party-midterm-struggles/",
-        "source": "The Hill"
-      }
-    ]
-  },
-  {
-    "rank": 6,
-    "title": "wayne",
-    "titleZh": "wayne",
-    "traffic": "200+",
-    "started": "Mon, 19 Oct 2026 22:10:00 -0700",
-    "summary": "相关新闻主要集中在：Thomas Dirig Obituary (1944 - 2026) - Brownsburg, IN - Fort Wayne Newspapers。",
-    "explanation": "Google Trends 显示“wayne”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Thomas Dirig Obituary (1944 - 2026) - Brownsburg, IN - Fort Wayne Newspapers。这些报道来自 Legacy | Obituary 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Thomas Dirig Obituary (1944 - 2026) - Brownsburg, IN - Fort Wayne Newspapers",
-        "url": "https://www.legacy.com/us/obituaries/fortwayne/name/thomas-dirig-obituary?id=62782642",
-        "source": "Legacy | Obituary"
-      }
-    ]
-  },
-  {
-    "rank": 7,
-    "title": "jenna ortega",
-    "titleZh": "jenna ortega",
-    "traffic": "500+",
-    "started": "Mon, 19 Oct 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：'Klara and the Sun' Review: Taika Waititi's Calamitous Android Fantasy。",
-    "explanation": "Google Trends 显示“jenna ortega”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：'Klara and the Sun' Review: Taika Waititi's Calamitous Android Fantasy。这些报道来自 Variety 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "'Klara and the Sun' Review: Taika Waititi's Calamitous Android Fantasy",
-        "url": "https://variety.com/2026/film/news/klara-and-the-sun-review-1236914992/",
-        "source": "Variety"
-      }
-    ]
-  },
-  {
-    "rank": 8,
-    "title": "invasive reticulated python puerto rico jungle",
-    "titleZh": "invasive reticulated python puerto rico jungle",
-    "traffic": "200+",
-    "started": "Mon, 19 Oct 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：Python hunters snag Puerto Rico's largest reticulated python on record after it was spotted strangling pet cat。",
-    "explanation": "Google Trends 显示“invasive reticulated python puerto rico jungle”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Python hunters snag Puerto Rico's largest reticulated python on record after it was spotted strangling pet cat。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Python hunters snag Puerto Rico's largest reticulated python on record after it was spotted strangling pet cat",
-        "url": "https://www.aol.com/articles/python-hunters-snag-puerto-ricos-233516000.html",
+        "title": "General Hospital Star Laura Wright Celebrates Some Big Engagement News",
+        "url": "https://www.aol.com/articles/general-hospital-star-laura-wright-014422000.html",
         "source": "AOL.com"
       }
     ]
   },
   {
-    "rank": 9,
-    "title": "paula badosa",
-    "titleZh": "paula badosa",
-    "traffic": "200+",
-    "started": "Mon, 19 Oct 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：Paula Badosa - Antonia Ružic en directo - Osaka Individual femenino -: Resultados y resúmenes de Tenis - 20/10/2026。",
-    "explanation": "Google Trends 显示“paula badosa”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Paula Badosa - Antonia Ružic en directo - Osaka Individual femenino -: Resultados y resúmenes de Tenis - 20/10/2026。这些报道来自 Eurosport 等媒体，因此带动了集中搜索。",
+    "rank": 2,
+    "title": "como vs manchester united",
+    "titleZh": "como vs manchester united",
+    "traffic": "100+",
+    "started": "Tue, 20 Oct 2026 22:30:00 -0700",
+    "summary": "相关新闻主要集中在：Team news for Como v United。",
+    "explanation": "Google Trends 显示“como vs manchester united”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Team news for Como v United。这些报道来自 Manchester United 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Paula Badosa - Antonia Ružic en directo - Osaka Individual femenino -: Resultados y resúmenes de Tenis - 20/10/2026",
-        "url": "https://www.eurosport.es/tenis/wta-osaka/2026/live-paula-badosa-antonia-ruzic_mtc22034885/live.shtml",
-        "source": "Eurosport"
+        "title": "Team news for Como v United",
+        "url": "https://www.manutd.com/en/news/press-conference-team-news-for-como-v-united",
+        "source": "Manchester United"
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "when is black friday",
+    "titleZh": "when is black friday",
+    "traffic": "100+",
+    "started": "Tue, 20 Oct 2026 22:30:00 -0700",
+    "summary": "相关新闻主要集中在：The Early Black Friday Fashion Deals Team Vogue Are Bookmarking For 2026。",
+    "explanation": "Google Trends 显示“when is black friday”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：The Early Black Friday Fashion Deals Team Vogue Are Bookmarking For 2026。这些报道来自 British Vogue 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "The Early Black Friday Fashion Deals Team Vogue Are Bookmarking For 2026",
+        "url": "https://www.vogue.co.uk/fashion/gallery/black-friday-fashion-deals-2026",
+        "source": "British Vogue"
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "glp 1 medication safety recall",
+    "titleZh": "glp 1 medication safety recall",
+    "traffic": "500+",
+    "started": "Tue, 20 Oct 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：GLP-1 injections recalled nationwide. See affected products。",
+    "explanation": "Google Trends 显示“glp 1 medication safety recall”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：GLP-1 injections recalled nationwide. See affected products。这些报道来自 USA Today 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "GLP-1 injections recalled nationwide. See affected products",
+        "url": "https://www.usatoday.com/story/money/consumer-protection/recalls-alerts/2026/10/19/glp-1-injections-nationwide-recall/92332991007/",
+        "source": "USA Today"
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "title": "sunny balwani",
+    "titleZh": "sunny balwani",
+    "traffic": "200+",
+    "started": "Tue, 20 Oct 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：Where Is Elizabeth Holmes’ Ex Sunny Balwani Now? Inside His Life After Theranos Fraud Convictions。",
+    "explanation": "Google Trends 显示“sunny balwani”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Where Is Elizabeth Holmes’ Ex Sunny Balwani Now? Inside His Life After Theranos Fraud Convictions。这些报道来自 Oxygen Official Site 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Where Is Elizabeth Holmes’ Ex Sunny Balwani Now? Inside His Life After Theranos Fraud Convictions",
+        "url": "https://www.oxygen.com/videos/where-is-elizabeth-holmes-ex-sunny-balwani-now-inside-his-life-after-theranos-fraud",
+        "source": "Oxygen Official Site"
+      }
+    ]
+  },
+  {
+    "rank": 6,
+    "title": "jfk",
+    "titleZh": "jfk",
+    "traffic": "100+",
+    "started": "Tue, 20 Oct 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：A new book reveals the sickening extent of JFK's philandering。",
+    "explanation": "Google Trends 显示“jfk”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：A new book reveals the sickening extent of JFK's philandering。这些报道来自 New York Post 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "A new book reveals the sickening extent of JFK's philandering",
+        "url": "https://nypost.com/2026/10/17/us-news/a-new-book-reveals-the-sickening-extent-of-jfks-philandering/",
+        "source": "New York Post"
+      }
+    ]
+  },
+  {
+    "rank": 7,
+    "title": "marie bouzkova",
+    "titleZh": "marie bouzkova",
+    "traffic": "500+",
+    "started": "Tue, 20 Oct 2026 22:10:00 -0700",
+    "summary": "相关新闻主要集中在：Marie Bouzkova vs Anastasia Zakharova Prediction & Picks - Ningbo Open。",
+    "explanation": "Google Trends 显示“marie bouzkova”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Marie Bouzkova vs Anastasia Zakharova Prediction & Picks - Ningbo Open。这些报道来自 SportyTrader 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Marie Bouzkova vs Anastasia Zakharova Prediction & Picks - Ningbo Open",
+        "url": "https://www.sportytrader.com/us/picks/marie-bouzkova-anastasia-zakharova-380885/",
+        "source": "SportyTrader"
+      }
+    ]
+  },
+  {
+    "rank": 8,
+    "title": "weather los angeles",
+    "titleZh": "weather los angeles",
+    "traffic": "200+",
+    "started": "Tue, 20 Oct 2026 22:10:00 -0700",
+    "summary": "相关新闻主要集中在：Storms descend on Southern California, raising risk of dangerous surf, flooding, debris flows。",
+    "explanation": "Google Trends 显示“weather los angeles”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Storms descend on Southern California, raising risk of dangerous surf, flooding, debris flows。这些报道来自 Los Angeles Times 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Storms descend on Southern California, raising risk of dangerous surf, flooding, debris flows",
+        "url": "https://www.latimes.com/california/story/2026-10-20/rain-is-in-southern-california-forecast-with-flooding-concern",
+        "source": "Los Angeles Times"
+      }
+    ]
+  },
+  {
+    "rank": 9,
+    "title": "severe thunderstorm warning",
+    "titleZh": "severe thunderstorm warning",
+    "traffic": "2000+",
+    "started": "Tue, 20 Oct 2026 22:00:00 -0700",
+    "summary": "相关新闻主要集中在：Could a tornado hit Phoenix this week? Here’s what we’re watching.。",
+    "explanation": "Google Trends 显示“severe thunderstorm warning”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Could a tornado hit Phoenix this week? Here’s what we’re watching.。这些报道来自 The Washington Post 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Could a tornado hit Phoenix this week? Here’s what we’re watching.",
+        "url": "https://www.washingtonpost.com/weather/2026/10/20/could-tornado-hit-phoenix-this-week-heres-what-were-watching/",
+        "source": "The Washington Post"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "mary stoiana",
-    "titleZh": "mary stoiana",
-    "traffic": "200+",
-    "started": "Mon, 19 Oct 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：Sports News, Transfers, Scores | Watch Live Sport。",
-    "explanation": "Google Trends 显示“mary stoiana”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Sports News, Transfers, Scores | Watch Live Sport。这些报道来自 Sky Sports 等媒体，因此带动了集中搜索。",
+    "title": "погода завтра",
+    "titleZh": "погода завтра",
+    "traffic": "500+",
+    "started": "Tue, 20 Oct 2026 21:40:00 -0700",
+    "summary": "相关新闻主要集中在：Арктический антициклон вернет в Татарстане солнце, но принесет похолодание。",
+    "explanation": "Google Trends 显示“погода завтра”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Арктический антициклон вернет в Татарстане солнце, но принесет похолодание。这些报道来自 Телеканал ТНВ Татарстан 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Sports News, Transfers, Scores | Watch Live Sport",
-        "url": "https://www.skysports.com/tennis/watch/6742997485599459112/kinoshita-group-japan-open-2026",
-        "source": "Sky Sports"
+        "title": "Арктический антициклон вернет в Татарстане солнце, но принесет похолодание",
+        "url": "https://tnv.ru/news/tatarstan/581769-arkticheskiy-antitsiklon-vernet-v-tatarstane-solntse-no-prineset-poxolodanie/",
+        "source": "Телеканал ТНВ Татарстан"
       }
     ]
   }
