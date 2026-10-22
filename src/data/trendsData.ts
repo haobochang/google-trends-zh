@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "laura wright son engagement",
-    "titleZh": "laura wright son engagement",
-    "traffic": "100+",
-    "started": "Tue, 20 Oct 2026 22:30:00 -0700",
-    "summary": "相关新闻主要集中在：General Hospital Star Laura Wright Celebrates Some Big Engagement News。",
-    "explanation": "Google Trends 显示“laura wright son engagement”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：General Hospital Star Laura Wright Celebrates Some Big Engagement News。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
+    "title": "sunny balwani",
+    "titleZh": "sunny balwani",
+    "traffic": "200+",
+    "started": "Wed, 21 Oct 2026 22:50:00 -0700",
+    "summary": "相关新闻主要集中在：Who Is Elizabeth Holmes' Ex-Boyfriend Sunny Balwani?。",
+    "explanation": "Google Trends 显示“sunny balwani”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Who Is Elizabeth Holmes' Ex-Boyfriend Sunny Balwani?。这些报道来自 A&E 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "General Hospital Star Laura Wright Celebrates Some Big Engagement News",
-        "url": "https://www.aol.com/articles/general-hospital-star-laura-wright-014422000.html",
-        "source": "AOL.com"
+        "title": "Who Is Elizabeth Holmes' Ex-Boyfriend Sunny Balwani?",
+        "url": "https://www.aetv.com/articles/sunny-balwani-elizabeth-holmes-boyfriend",
+        "source": "A&E"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "como vs manchester united",
-    "titleZh": "como vs manchester united",
+    "title": "aj brown stats",
+    "titleZh": "aj brown stats",
     "traffic": "100+",
-    "started": "Tue, 20 Oct 2026 22:30:00 -0700",
-    "summary": "相关新闻主要集中在：Team news for Como v United。",
-    "explanation": "Google Trends 显示“como vs manchester united”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Team news for Como v United。这些报道来自 Manchester United 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 21 Oct 2026 22:40:00 -0700",
+    "summary": "相关新闻主要集中在：A.J. Brown on Sunday’s rough outing: I’m moving forward。",
+    "explanation": "Google Trends 显示“aj brown stats”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：A.J. Brown on Sunday’s rough outing: I’m moving forward。这些报道来自 NBC Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Team news for Como v United",
-        "url": "https://www.manutd.com/en/news/press-conference-team-news-for-como-v-united",
-        "source": "Manchester United"
+        "title": "A.J. Brown on Sunday’s rough outing: I’m moving forward",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/a-j-brown-on-sundays-rough-outing-im-moving-forward",
+        "source": "NBC Sports"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "when is black friday",
-    "titleZh": "when is black friday",
+    "title": "bust",
+    "titleZh": "bust",
     "traffic": "100+",
-    "started": "Tue, 20 Oct 2026 22:30:00 -0700",
-    "summary": "相关新闻主要集中在：The Early Black Friday Fashion Deals Team Vogue Are Bookmarking For 2026。",
-    "explanation": "Google Trends 显示“when is black friday”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：The Early Black Friday Fashion Deals Team Vogue Are Bookmarking For 2026。这些报道来自 British Vogue 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 21 Oct 2026 22:40:00 -0700",
+    "summary": "相关新闻主要集中在：Three local men are facing federal charges after drug investigation found cocaine, guns and cash。",
+    "explanation": "Google Trends 显示“bust”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Three local men are facing federal charges after drug investigation found cocaine, guns and cash。这些报道来自 WHEC.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "The Early Black Friday Fashion Deals Team Vogue Are Bookmarking For 2026",
-        "url": "https://www.vogue.co.uk/fashion/gallery/black-friday-fashion-deals-2026",
-        "source": "British Vogue"
+        "title": "Three local men are facing federal charges after drug investigation found cocaine, guns and cash",
+        "url": "https://www.whec.com/top-news/three-local-men-are-facing-federal-charges-after-drug-investigation-found-cocaine-guns-and-cash/",
+        "source": "WHEC.com"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "glp 1 medication safety recall",
-    "titleZh": "glp 1 medication safety recall",
-    "traffic": "500+",
-    "started": "Tue, 20 Oct 2026 22:20:00 -0700",
-    "summary": "相关新闻主要集中在：GLP-1 injections recalled nationwide. See affected products。",
-    "explanation": "Google Trends 显示“glp 1 medication safety recall”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：GLP-1 injections recalled nationwide. See affected products。这些报道来自 USA Today 等媒体，因此带动了集中搜索。",
+    "title": "santos laguna vs pumas unam standings",
+    "titleZh": "santos laguna vs pumas unam standings",
+    "traffic": "2000+",
+    "started": "Wed, 21 Oct 2026 22:30:00 -0700",
+    "summary": "相关新闻主要集中在：Santos Laguna vs Pumas Prediction, Betting Tips, Lineups & Odds | 21 Oct 2026。",
+    "explanation": "Google Trends 显示“santos laguna vs pumas unam standings”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Santos Laguna vs Pumas Prediction, Betting Tips, Lineups & Odds | 21 Oct 2026。这些报道来自 Sportsgambler 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "GLP-1 injections recalled nationwide. See affected products",
-        "url": "https://www.usatoday.com/story/money/consumer-protection/recalls-alerts/2026/10/19/glp-1-injections-nationwide-recall/92332991007/",
-        "source": "USA Today"
+        "title": "Santos Laguna vs Pumas Prediction, Betting Tips, Lineups & Odds | 21 Oct 2026",
+        "url": "https://www.sportsgambler.com/betting-tips/football/santos-laguna-vs-pumas-prediction-lineups-odds-2026-10-21/",
+        "source": "Sportsgambler"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "sunny balwani",
-    "titleZh": "sunny balwani",
-    "traffic": "200+",
-    "started": "Tue, 20 Oct 2026 22:20:00 -0700",
-    "summary": "相关新闻主要集中在：Where Is Elizabeth Holmes’ Ex Sunny Balwani Now? Inside His Life After Theranos Fraud Convictions。",
-    "explanation": "Google Trends 显示“sunny balwani”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Where Is Elizabeth Holmes’ Ex Sunny Balwani Now? Inside His Life After Theranos Fraud Convictions。这些报道来自 Oxygen Official Site 等媒体，因此带动了集中搜索。",
+    "title": "nuggets",
+    "titleZh": "nuggets",
+    "traffic": "500+",
+    "started": "Wed, 21 Oct 2026 22:30:00 -0700",
+    "summary": "相关新闻主要集中在：Oklahoma City plays Denver in conference matchup。",
+    "explanation": "Google Trends 显示“nuggets”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Oklahoma City plays Denver in conference matchup。这些报道来自 ABC News - Breaking News, Latest News and Videos 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Where Is Elizabeth Holmes’ Ex Sunny Balwani Now? Inside His Life After Theranos Fraud Convictions",
-        "url": "https://www.oxygen.com/videos/where-is-elizabeth-holmes-ex-sunny-balwani-now-inside-his-life-after-theranos-fraud",
-        "source": "Oxygen Official Site"
+        "title": "Oklahoma City plays Denver in conference matchup",
+        "url": "https://abcnews.com/Sports/wireStory/oklahoma-city-plays-denver-conference-matchup-137437854",
+        "source": "ABC News - Breaking News, Latest News and Videos"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "jfk",
-    "titleZh": "jfk",
-    "traffic": "100+",
-    "started": "Tue, 20 Oct 2026 22:20:00 -0700",
-    "summary": "相关新闻主要集中在：A new book reveals the sickening extent of JFK's philandering。",
-    "explanation": "Google Trends 显示“jfk”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：A new book reveals the sickening extent of JFK's philandering。这些报道来自 New York Post 等媒体，因此带动了集中搜索。",
+    "title": "black friday 2026",
+    "titleZh": "black friday 2026",
+    "traffic": "500+",
+    "started": "Wed, 21 Oct 2026 22:30:00 -0700",
+    "summary": "相关新闻主要集中在：Black Friday 2026: Shopping Starts Earlier, Gaming Dominates Tech & Travellers Look for Longer Trips。",
+    "explanation": "Google Trends 显示“black friday 2026”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Black Friday 2026: Shopping Starts Earlier, Gaming Dominates Tech & Travellers Look for Longer Trips。这些报道来自 ExchangeWire 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "A new book reveals the sickening extent of JFK's philandering",
-        "url": "https://nypost.com/2026/10/17/us-news/a-new-book-reveals-the-sickening-extent-of-jfks-philandering/",
-        "source": "New York Post"
+        "title": "Black Friday 2026: Shopping Starts Earlier, Gaming Dominates Tech & Travellers Look for Longer Trips",
+        "url": "https://www.exchangewire.com/blog/2026/10/20/black-friday-2026-shopping-starts-earlier-gaming-dominates-tech-travellers-look-for-longer-trips/",
+        "source": "ExchangeWire"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "marie bouzkova",
-    "titleZh": "marie bouzkova",
+    "title": "denver nuggets",
+    "titleZh": "denver nuggets",
     "traffic": "500+",
-    "started": "Tue, 20 Oct 2026 22:10:00 -0700",
-    "summary": "相关新闻主要集中在：Marie Bouzkova vs Anastasia Zakharova Prediction & Picks - Ningbo Open。",
-    "explanation": "Google Trends 显示“marie bouzkova”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Marie Bouzkova vs Anastasia Zakharova Prediction & Picks - Ningbo Open。这些报道来自 SportyTrader 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 21 Oct 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：Alpha Diallo arrives in Denver as 29-year-old NBA rookie fresh off being EuroLeague’s top defender。",
+    "explanation": "Google Trends 显示“denver nuggets”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Alpha Diallo arrives in Denver as 29-year-old NBA rookie fresh off being EuroLeague’s top defender。这些报道来自 The Journal 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Marie Bouzkova vs Anastasia Zakharova Prediction & Picks - Ningbo Open",
-        "url": "https://www.sportytrader.com/us/picks/marie-bouzkova-anastasia-zakharova-380885/",
-        "source": "SportyTrader"
+        "title": "Alpha Diallo arrives in Denver as 29-year-old NBA rookie fresh off being EuroLeague’s top defender",
+        "url": "https://www.the-journal.com/articles/associated-press/alpha-diallo-arrives-in-denver-as-29-year-old-nba-rookie-fresh-off-being-euroleagues-top-defender/",
+        "source": "The Journal"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "weather los angeles",
-    "titleZh": "weather los angeles",
-    "traffic": "200+",
-    "started": "Tue, 20 Oct 2026 22:10:00 -0700",
-    "summary": "相关新闻主要集中在：Storms descend on Southern California, raising risk of dangerous surf, flooding, debris flows。",
-    "explanation": "Google Trends 显示“weather los angeles”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Storms descend on Southern California, raising risk of dangerous surf, flooding, debris flows。这些报道来自 Los Angeles Times 等媒体，因此带动了集中搜索。",
+    "title": "shaq",
+    "titleZh": "shaq",
+    "traffic": "100+",
+    "started": "Wed, 21 Oct 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：Shaq’s TikTok workout video has fans going crazy: ‘Call me’。",
+    "explanation": "Google Trends 显示“shaq”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Shaq’s TikTok workout video has fans going crazy: ‘Call me’。这些报道来自 New York Post 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Storms descend on Southern California, raising risk of dangerous surf, flooding, debris flows",
-        "url": "https://www.latimes.com/california/story/2026-10-20/rain-is-in-southern-california-forecast-with-flooding-concern",
-        "source": "Los Angeles Times"
+        "title": "Shaq’s TikTok workout video has fans going crazy: ‘Call me’",
+        "url": "https://nypost.com/2026/10/14/sports/shaqs-tiktok-workout-video-has-fans-going-crazy/",
+        "source": "New York Post"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "severe thunderstorm warning",
-    "titleZh": "severe thunderstorm warning",
-    "traffic": "2000+",
-    "started": "Tue, 20 Oct 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：Could a tornado hit Phoenix this week? Here’s what we’re watching.。",
-    "explanation": "Google Trends 显示“severe thunderstorm warning”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Could a tornado hit Phoenix this week? Here’s what we’re watching.。这些报道来自 The Washington Post 等媒体，因此带动了集中搜索。",
+    "title": "iva jovic",
+    "titleZh": "iva jovic",
+    "traffic": "1000+",
+    "started": "Wed, 21 Oct 2026 22:10:00 -0700",
+    "summary": "相关新闻主要集中在：Polina Kudermetova Reaches Second Round of Ningbo Open。",
+    "explanation": "Google Trends 显示“iva jovic”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Polina Kudermetova Reaches Second Round of Ningbo Open。这些报道来自 UzDaily.uz 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Could a tornado hit Phoenix this week? Here’s what we’re watching.",
-        "url": "https://www.washingtonpost.com/weather/2026/10/20/could-tornado-hit-phoenix-this-week-heres-what-were-watching/",
-        "source": "The Washington Post"
+        "title": "Polina Kudermetova Reaches Second Round of Ningbo Open",
+        "url": "https://www.uzdaily.uz/en/polina-kudermetova-reaches-second-round-of-ningbo-open/",
+        "source": "UzDaily.uz"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "погода завтра",
-    "titleZh": "погода завтра",
+    "title": "chris webber",
+    "titleZh": "chris webber",
     "traffic": "500+",
-    "started": "Tue, 20 Oct 2026 21:40:00 -0700",
-    "summary": "相关新闻主要集中在：Арктический антициклон вернет в Татарстане солнце, но принесет похолодание。",
-    "explanation": "Google Trends 显示“погода завтра”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Арктический антициклон вернет в Татарстане солнце, но принесет похолодание。这些报道来自 Телеканал ТНВ Татарстан 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 21 Oct 2026 22:10:00 -0700",
+    "summary": "相关新闻主要集中在：Chris Webber’s Best Basketball Cards Trace the Rise of a One-of-a-Kind 1990s Star。",
+    "explanation": "Google Trends 显示“chris webber”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Chris Webber’s Best Basketball Cards Trace the Rise of a One-of-a-Kind 1990s Star。这些报道来自 OTIA Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Арктический антициклон вернет в Татарстане солнце, но принесет похолодание",
-        "url": "https://tnv.ru/news/tatarstan/581769-arkticheskiy-antitsiklon-vernet-v-tatarstane-solntse-no-prineset-poxolodanie/",
-        "source": "Телеканал ТНВ Татарстан"
+        "title": "Chris Webber’s Best Basketball Cards Trace the Rise of a One-of-a-Kind 1990s Star",
+        "url": "https://otia.com/news/chris-webber-best-basketball-cards-1990s",
+        "source": "OTIA Sports"
       }
     ]
   }
