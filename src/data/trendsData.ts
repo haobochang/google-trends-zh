@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "october hunter moon",
-    "titleZh": "october hunter moon",
-    "traffic": "10000+",
-    "started": "Sun, 25 Oct 2026 22:40:00 -0700",
-    "summary": "相关新闻主要集中在：How the Full Hunter’s Moon will influence your sign in October 2026。",
-    "explanation": "Google Trends 显示“october hunter moon”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：How the Full Hunter’s Moon will influence your sign in October 2026。这些报道来自 Vogue Australia 等媒体，因此带动了集中搜索。",
+    "title": "aliaksandra sasnovich",
+    "titleZh": "aliaksandra sasnovich",
+    "traffic": "200+",
+    "started": "Mon, 26 Oct 2026 23:00:00 -0700",
+    "summary": "相关新闻主要集中在：Aliaksandra Sasnovich vs. Nikola Bartunkova prediction, odds, picks for WTA Toray Pan Pacific Open 2026。",
+    "explanation": "Google Trends 显示“aliaksandra sasnovich”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Aliaksandra Sasnovich vs. Nikola Bartunkova prediction, odds, picks for WTA Toray Pan Pacific Open 2026。这些报道来自 Dimers 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "How the Full Hunter’s Moon will influence your sign in October 2026",
-        "url": "https://www.vogue.com.au/culture/horoscopes/how-the-full-hunters-moon-will-influence-your-sign-in-october-2026/image-gallery/ac467d3af5662ba4bfb446f2fc79a38a",
-        "source": "Vogue Australia"
+        "title": "Aliaksandra Sasnovich vs. Nikola Bartunkova prediction, odds, picks for WTA Toray Pan Pacific Open 2026",
+        "url": "https://www.dimers.com/tennis/news/aliaksandra-sasnovich-vs-nikola-bartunkova-tennis-prediction-wta-toray-pan-pacific-open-2026-ac",
+        "source": "Dimers"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "charlize theron optical illusion outfit",
-    "titleZh": "charlize theron optical illusion outfit",
+    "title": "pokimane",
+    "titleZh": "pokimane",
     "traffic": "100+",
-    "started": "Sun, 25 Oct 2026 22:20:00 -0700",
-    "summary": "相关新闻主要集中在：Charlize Theron Turns Heads in a Striking Optical Illusion Look During amfAR Acceptance Speech。",
-    "explanation": "Google Trends 显示“charlize theron optical illusion outfit”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Charlize Theron Turns Heads in a Striking Optical Illusion Look During amfAR Acceptance Speech。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
+    "started": "Mon, 26 Oct 2026 23:00:00 -0700",
+    "summary": "相关新闻主要集中在：Pokimane Reveals She Feels Unsafe When Atrioc Appears On Her Screen Years After 2023 Deepfake Controversy。",
+    "explanation": "Google Trends 显示“pokimane”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Pokimane Reveals She Feels Unsafe When Atrioc Appears On Her Screen Years After 2023 Deepfake Controversy。这些报道来自 NDTV Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Charlize Theron Turns Heads in a Striking Optical Illusion Look During amfAR Acceptance Speech",
-        "url": "https://www.aol.com/articles/charlize-theron-turns-heads-striking-232405000.html",
-        "source": "AOL.com"
+        "title": "Pokimane Reveals She Feels Unsafe When Atrioc Appears On Her Screen Years After 2023 Deepfake Controversy",
+        "url": "https://sports.ndtv.com/us/us-streamers/pokimane-reveals-she-feels-unsafe-when-atrioc-appears-on-her-screen-years-after-2023-deepfake-controversy-12236214",
+        "source": "NDTV Sports"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "komanche",
-    "titleZh": "komanche",
-    "traffic": "2000+",
-    "started": "Sun, 25 Oct 2026 22:10:00 -0700",
-    "summary": "相关新闻主要集中在：Reportan el fallecimiento de “El Komanche”, famoso influencer。",
-    "explanation": "Google Trends 显示“komanche”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Reportan el fallecimiento de “El Komanche”, famoso influencer。这些报道来自 El Heraldo de México 等媒体，因此带动了集中搜索。",
+    "title": "superbad",
+    "titleZh": "superbad",
+    "traffic": "100+",
+    "started": "Mon, 26 Oct 2026 22:50:00 -0700",
+    "summary": "相关新闻主要集中在：Emma Stone's R-Rated Comedy with 88% RT Is a Global Streaming Hit。",
+    "explanation": "Google Trends 显示“superbad”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Emma Stone's R-Rated Comedy with 88% RT Is a Global Streaming Hit。这些报道来自 Comic Book Resources 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Reportan el fallecimiento de “El Komanche”, famoso influencer",
-        "url": "https://heraldodemexico.com.mx/nacional/2026/10/25/reportan-el-fallecimiento-de-el-komanche-famoso-influencer-915976.html",
-        "source": "El Heraldo de México"
+        "title": "Emma Stone's R-Rated Comedy with 88% RT Is a Global Streaming Hit",
+        "url": "https://www.cbr.com/superbad-teen-comedy-hbo-success-october-2026/",
+        "source": "Comic Book Resources"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "daria snigur",
-    "titleZh": "daria snigur",
-    "traffic": "2000+",
-    "started": "Sun, 25 Oct 2026 22:00:00 -0700",
-    "summary": "相关新闻主要集中在：October 27, 2026: Taylor Fritz vs Stefanos Tsitsipas: Set 2 Winner Tennis Prediction Market。",
-    "explanation": "Google Trends 显示“daria snigur”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：October 27, 2026: Taylor Fritz vs Stefanos Tsitsipas: Set 2 Winner Tennis Prediction Market。这些报道来自 Robinhood 等媒体，因此带动了集中搜索。",
+    "title": "naomi osaka",
+    "titleZh": "naomi osaka",
+    "traffic": "100+",
+    "started": "Mon, 26 Oct 2026 22:50:00 -0700",
+    "summary": "相关新闻主要集中在：Naomi Osaka's former partner still dealing with fallout of breakup in latest song: 'Was never my intention to raise a daughter in separate homes'。",
+    "explanation": "Google Trends 显示“naomi osaka”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Naomi Osaka's former partner still dealing with fallout of breakup in latest song: 'Was never my intention to raise a daughter in separate homes'。这些报道来自 Yardbarker 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "October 27, 2026: Taylor Fritz vs Stefanos Tsitsipas: Set 2 Winner Tennis Prediction Market",
-        "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/taylor-fritz-vs-stefanos-tsitsipas-set-2-winner-oct-27-2026/",
-        "source": "Robinhood"
+        "title": "Naomi Osaka's former partner still dealing with fallout of breakup in latest song: 'Was never my intention to raise a daughter in separate homes'",
+        "url": "https://www.yardbarker.com/tennis/articles/naomi_osakas_former_partner_still_dealing_with_fallout_of_breakup_in_latest_song_was_never_my_intention_to_raise_a_daughter_in_separate_homes/s1_17460_44471429",
+        "source": "Yardbarker"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "kody brown",
-    "titleZh": "kody brown",
-    "traffic": "200+",
-    "started": "Sun, 25 Oct 2026 21:40:00 -0700",
-    "summary": "相关新闻主要集中在：Sister Wives: Meri Brown Reunites with Christine for First 1-on-1 in Years and Reveals Major Regret。",
-    "explanation": "Google Trends 显示“kody brown”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Sister Wives: Meri Brown Reunites with Christine for First 1-on-1 in Years and Reveals Major Regret。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
+    "title": "wildwood box office",
+    "titleZh": "wildwood box office",
+    "traffic": "100+",
+    "started": "Mon, 26 Oct 2026 22:50:00 -0700",
+    "summary": "相关新闻主要集中在：Laika’s ‘Wildwood’ is a box office hit in Portland indie theaters。",
+    "explanation": "Google Trends 显示“wildwood box office”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Laika’s ‘Wildwood’ is a box office hit in Portland indie theaters。这些报道来自 OregonLive.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Sister Wives: Meri Brown Reunites with Christine for First 1-on-1 in Years and Reveals Major Regret",
-        "url": "https://www.aol.com/articles/sister-wives-meri-brown-reunites-030000000.html",
-        "source": "AOL.com"
+        "title": "Laika’s ‘Wildwood’ is a box office hit in Portland indie theaters",
+        "url": "https://www.oregonlive.com/business/2026/10/laikas-wildwood-is-a-box-office-hit-in-portland-indie-theaters.html",
+        "source": "OregonLive.com"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "kirill kaprizov",
-    "titleZh": "kirill kaprizov",
-    "traffic": "200+",
-    "started": "Sun, 25 Oct 2026 21:40:00 -0700",
-    "summary": "相关新闻主要集中在：Kirill Kaprizov Joins Connor McDavid In Exclusive NHL Company With Historic Start To Season。",
-    "explanation": "Google Trends 显示“kirill kaprizov”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Kirill Kaprizov Joins Connor McDavid In Exclusive NHL Company With Historic Start To Season。这些报道来自 The Hockey News 等媒体，因此带动了集中搜索。",
+    "title": "nikola bartunkova",
+    "titleZh": "nikola bartunkova",
+    "traffic": "1000+",
+    "started": "Mon, 26 Oct 2026 22:40:00 -0700",
+    "summary": "相关新闻主要集中在：October 26, 2026: Maya Joint vs Sorana Cirstea: Set 2 Winner Tennis Prediction Market。",
+    "explanation": "Google Trends 显示“nikola bartunkova”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：October 26, 2026: Maya Joint vs Sorana Cirstea: Set 2 Winner Tennis Prediction Market。这些报道来自 Robinhood 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Kirill Kaprizov Joins Connor McDavid In Exclusive NHL Company With Historic Start To Season",
-        "url": "https://thehockeynews.com/nhl/minnesota-wild/latest-news/kirill-kaprizov-joins-connor-mcdavid-in-exclusive-nhl-company-with-historic-start-to-season",
-        "source": "The Hockey News"
+        "title": "October 26, 2026: Maya Joint vs Sorana Cirstea: Set 2 Winner Tennis Prediction Market",
+        "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/maya-joint-vs-sorana-cirstea-set-2-winner-oct-26-2026/",
+        "source": "Robinhood"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "attack on titan",
-    "titleZh": "attack on titan",
-    "traffic": "200+",
-    "started": "Sun, 25 Oct 2026 21:30:00 -0700",
-    "summary": "相关新闻主要集中在：Vinland Saga Creator Gives a Heartbreaking Update on the Anime's Third Season。",
-    "explanation": "Google Trends 显示“attack on titan”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Vinland Saga Creator Gives a Heartbreaking Update on the Anime's Third Season。这些报道来自 Polygon.com 等媒体，因此带动了集中搜索。",
+    "title": "morgan spector",
+    "titleZh": "morgan spector",
+    "traffic": "5000+",
+    "started": "Mon, 26 Oct 2026 22:30:00 -0700",
+    "summary": "相关新闻主要集中在：'The Gilded Age' Season 4 Cast Shakeup: 6 Stars Exiting, Several Confirmed to Return & a Few Upped to Series Regulars!。",
+    "explanation": "Google Trends 显示“morgan spector”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：'The Gilded Age' Season 4 Cast Shakeup: 6 Stars Exiting, Several Confirmed to Return & a Few Upped to Series Regulars!。这些报道来自 Just Jared 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Vinland Saga Creator Gives a Heartbreaking Update on the Anime's Third Season",
-        "url": "https://www.polygon.com/vinland-saga-season-3-creator-update-not-in-production/",
-        "source": "Polygon.com"
+        "title": "'The Gilded Age' Season 4 Cast Shakeup: 6 Stars Exiting, Several Confirmed to Return & a Few Upped to Series Regulars!",
+        "url": "https://www.justjared.com/2026/10/25/the-gilded-age-season-4-cast-shakeup-6-stars-exiting-several-confirmed-to-return-a-few-upped-to-series-regulars/",
+        "source": "Just Jared"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "laika studios",
-    "titleZh": "laika studios",
+    "title": "wow forever",
+    "titleZh": "wow forever",
     "traffic": "200+",
-    "started": "Sun, 25 Oct 2026 21:30:00 -0700",
-    "summary": "相关新闻主要集中在：Stop-motion movie Wildwood is a staggering masterpiece. It's a miracle it exists at all。",
-    "explanation": "Google Trends 显示“laika studios”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Stop-motion movie Wildwood is a staggering masterpiece. It's a miracle it exists at all。这些报道来自 CBC 等媒体，因此带动了集中搜索。",
+    "started": "Mon, 26 Oct 2026 22:30:00 -0700",
+    "summary": "相关新闻主要集中在：WoW Forever Racial Tier List: Best Races for PvE and PvP。",
+    "explanation": "Google Trends 显示“wow forever”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：WoW Forever Racial Tier List: Best Races for PvE and PvP。这些报道来自 Mobalytics 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Stop-motion movie Wildwood is a staggering masterpiece. It's a miracle it exists at all",
-        "url": "https://www.cbc.ca/news/entertainment/wildwood-review-laika-9.7393321",
-        "source": "CBC"
+        "title": "WoW Forever Racial Tier List: Best Races for PvE and PvP",
+        "url": "https://mobalytics.gg/wow-forever/profile/crix/tier-lists/wow-forever-racial-tier-list-best-races-for-pve-and-pvp",
+        "source": "Mobalytics"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "xbox fifty new games release",
-    "titleZh": "xbox fifty new games release",
-    "traffic": "500+",
-    "started": "Sun, 25 Oct 2026 21:20:00 -0700",
-    "summary": "相关新闻主要集中在：Xbox console users will receive 50 games from October 26 to 31.。",
-    "explanation": "Google Trends 显示“xbox fifty new games release”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Xbox console users will receive 50 games from October 26 to 31.。这些报道来自 GameGPU 等媒体，因此带动了集中搜索。",
+    "title": "xavier becerra",
+    "titleZh": "xavier becerra",
+    "traffic": "100+",
+    "started": "Mon, 26 Oct 2026 22:20:00 -0700",
+    "summary": "相关新闻主要集中在：Becerra’s free midday electricity plan would be progress。",
+    "explanation": "Google Trends 显示“xavier becerra”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Becerra’s free midday electricity plan would be progress。这些报道来自 GulfToday 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Xbox console users will receive 50 games from October 26 to 31.",
-        "url": "https://en.gamegpu.com/news/igry/polzovateli-konsolej-xbox-poluchat-50-igr-s-26-po-31-oktyabrya",
-        "source": "GameGPU"
+        "title": "Becerra’s free midday electricity plan would be progress",
+        "url": "https://www.gulftoday.ae/opinion/2026/10/26/becerras-free-midday-electricity-plan-would-be-progress",
+        "source": "GulfToday"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "cyclist",
-    "titleZh": "cyclist",
-    "traffic": "200+",
-    "started": "Sun, 25 Oct 2026 21:20:00 -0700",
-    "summary": "相关新闻主要集中在：Driver plows into group of 30 bicyclists on Halloween-themed ride, killing 2 before fleeing。",
-    "explanation": "Google Trends 显示“cyclist”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Driver plows into group of 30 bicyclists on Halloween-themed ride, killing 2 before fleeing。这些报道来自 Los Angeles Times 等媒体，因此带动了集中搜索。",
+    "title": "pokemon unite",
+    "titleZh": "pokemon unite",
+    "traffic": "1000+",
+    "started": "Mon, 26 Oct 2026 22:10:00 -0700",
+    "summary": "相关新闻主要集中在：Pokemon UNITE ending service on March 23, 2027。",
+    "explanation": "Google Trends 显示“pokemon unite”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Pokemon UNITE ending service on March 23, 2027。这些报道来自 Nintendo Everything 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Driver plows into group of 30 bicyclists on Halloween-themed ride, killing 2 before fleeing",
-        "url": "https://www.latimes.com/california/story/2026-10-25/two-bicyclists-killed-by-alleged-drunk-driver-during-pre-halloween-ride",
-        "source": "Los Angeles Times"
+        "title": "Pokemon UNITE ending service on March 23, 2027",
+        "url": "https://nintendoeverything.com/pokemon-unite-ending-service-on-march-23-2027/",
+        "source": "Nintendo Everything"
       }
     ]
   }
