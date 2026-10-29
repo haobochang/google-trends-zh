@@ -3,165 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "arby's",
-    "titleZh": "arby's",
-    "traffic": "1000+",
-    "started": "Tue, 27 Oct 2026 23:20:00 -0700",
-    "summary": "相关新闻主要集中在：Popular fast-food chain bringing back deep-fried Thanksgiving sandwiches。",
-    "explanation": "Google Trends 显示“arby's”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Popular fast-food chain bringing back deep-fried Thanksgiving sandwiches。这些报道来自 MLive.com 等媒体，因此带动了集中搜索。",
+    "title": "go fund me",
+    "titleZh": "go fund me",
+    "traffic": "100+",
+    "started": "Wed, 28 Oct 2026 23:40:00 -0700",
+    "summary": "相关新闻主要集中在：Ex-USMNT star Eddie Johnson to train 3-year-old removed from Florida soccer game。",
+    "explanation": "Google Trends 显示“go fund me”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Ex-USMNT star Eddie Johnson to train 3-year-old removed from Florida soccer game。这些报道来自 ESPN 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Popular fast-food chain bringing back deep-fried Thanksgiving sandwiches",
-        "url": "https://www.mlive.com/business/2026/10/popular-fast-food-chain-bringing-back-deep-fried-thanksgiving-sandwiches.html",
-        "source": "MLive.com"
+        "title": "Ex-USMNT star Eddie Johnson to train 3-year-old removed from Florida soccer game",
+        "url": "https://www.espn.com/soccer/story/_/id/50301379/3-year-old-florida-youth-soccer-police-eddie-johnson",
+        "source": "ESPN"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "lanlana tararudee",
-    "titleZh": "lanlana tararudee",
-    "traffic": "200+",
-    "started": "Tue, 27 Oct 2026 23:20:00 -0700",
-    "summary": "相关新闻主要集中在：Paula Badosa defeats Carol Lee and cruises into the round of 16 in Guangzhou。",
-    "explanation": "Google Trends 显示“lanlana tararudee”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Paula Badosa defeats Carol Lee and cruises into the round of 16 in Guangzhou。这些报道来自 Mundo Deportivo 等媒体，因此带动了集中搜索。",
+    "title": "maria timofeeva",
+    "titleZh": "maria timofeeva",
+    "traffic": "100+",
+    "started": "Wed, 28 Oct 2026 23:20:00 -0700",
+    "summary": "相关新闻主要集中在：Sports News, Transfers, Scores | Watch Live Sport。",
+    "explanation": "Google Trends 显示“maria timofeeva”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Sports News, Transfers, Scores | Watch Live Sport。这些报道来自 Sky Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Paula Badosa defeats Carol Lee and cruises into the round of 16 in Guangzhou",
-        "url": "https://www.mundodeportivo.com/en/20261026/1004243332/paula-badosa-defeats-carol-lee-and-cruises-into-the-round-of-16-in-guangzhou.html",
-        "source": "Mundo Deportivo"
+        "title": "Sports News, Transfers, Scores | Watch Live Sport",
+        "url": "https://www.skysports.com/tennis/watch/8380352964561018112/guangzhou-open-2026",
+        "source": "Sky Sports"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "caitlin clark all wnba first team",
-    "titleZh": "caitlin clark all wnba first team",
+    "title": "boating",
+    "titleZh": "boating",
     "traffic": "100+",
-    "started": "Tue, 27 Oct 2026 23:20:00 -0700",
-    "summary": "相关新闻主要集中在：Indiana Fever Guards Caitlin Clark and Kelsey Mitchell Named to 2026 All-WNBA First Team。",
-    "explanation": "Google Trends 显示“caitlin clark all wnba first team”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Indiana Fever Guards Caitlin Clark and Kelsey Mitchell Named to 2026 All-WNBA First Team。这些报道来自 Indiana Fever 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 28 Oct 2026 23:10:00 -0700",
+    "summary": "相关新闻主要集中在：Missing Angoon fisherman found dead。",
+    "explanation": "Google Trends 显示“boating”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Missing Angoon fisherman found dead。这些报道来自 KTOO 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Indiana Fever Guards Caitlin Clark and Kelsey Mitchell Named to 2026 All-WNBA First Team",
-        "url": "https://fever.wnba.com/news/indiana-fever-guards-caitlin-clark-and-kelsey-mitchell-named-to-2026-all-wnba-first-team",
-        "source": "Indiana Fever"
+        "title": "Missing Angoon fisherman found dead",
+        "url": "https://www.ktoo.org/2026/10/28/search-underway-for-missing-angoon-fisherman/",
+        "source": "KTOO"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "seth mcgowan",
-    "titleZh": "seth mcgowan",
-    "traffic": "100+",
-    "started": "Tue, 27 Oct 2026 23:20:00 -0700",
-    "summary": "相关新闻主要集中在：Stash List: 4 Players to Stash in Fantasy Football Entering NFL Week 8。",
-    "explanation": "Google Trends 显示“seth mcgowan”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Stash List: 4 Players to Stash in Fantasy Football Entering NFL Week 8。这些报道来自 FanDuel 等媒体，因此带动了集中搜索。",
+    "title": "final jeopardy today",
+    "titleZh": "final jeopardy today",
+    "traffic": "200+",
+    "started": "Wed, 28 Oct 2026 23:00:00 -0700",
+    "summary": "相关新闻主要集中在：'Jeopardy!' recap: What happened on Oct. 26, 2026。",
+    "explanation": "Google Trends 显示“final jeopardy today”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：'Jeopardy!' recap: What happened on Oct. 26, 2026。这些报道来自 USA Today 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Stash List: 4 Players to Stash in Fantasy Football Entering NFL Week 8",
-        "url": "https://www.fanduel.com/research/stash-list-4-players-to-stash-in-fantasy-football-entering-nfl-week-8",
-        "source": "FanDuel"
+        "title": "'Jeopardy!' recap: What happened on Oct. 26, 2026",
+        "url": "https://www.usatoday.com/story/entertainment/2026/10/27/entertainment-2026-10-26-what-to-watch-jeopardy/92455792007/",
+        "source": "USA Today"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "mortgage interest rates",
-    "titleZh": "mortgage interest rates",
+    "title": "naomi osaka",
+    "titleZh": "naomi osaka",
     "traffic": "2000+",
-    "started": "Tue, 27 Oct 2026 23:10:00 -0700",
-    "summary": "相关新闻主要集中在：Slightly lower mortgage rates finally pause slide in housing demand。",
-    "explanation": "Google Trends 显示“mortgage interest rates”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Slightly lower mortgage rates finally pause slide in housing demand。这些报道来自 HousingWire 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 28 Oct 2026 22:50:00 -0700",
+    "summary": "相关新闻主要集中在：Osaka saves triple set point vs. Paolini, advances to Tokyo second round。",
+    "explanation": "Google Trends 显示“naomi osaka”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Osaka saves triple set point vs. Paolini, advances to Tokyo second round。这些报道来自 WTA Tennis 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Slightly lower mortgage rates finally pause slide in housing demand",
-        "url": "https://www.housingwire.com/articles/mortgage-rates-demand-stabilizes/",
-        "source": "HousingWire"
+        "title": "Osaka saves triple set point vs. Paolini, advances to Tokyo second round",
+        "url": "https://www.wtatennis.com/videos/4599556/osaka-saves-triple-set-point-vs-paolini-advances-to-tokyo-second-round",
+        "source": "WTA Tennis"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "nba standings",
-    "titleZh": "nba standings",
-    "traffic": "2000+",
-    "started": "Tue, 27 Oct 2026 23:00:00 -0700",
-    "summary": "nba standings 在 Google Trends 上出现明显搜索热度上升。",
-    "explanation": "nba standings 当天在 Google 搜索中迅速升温，但当前可用新闻线索有限，建议结合后续报道继续观察。",
-    "relatedQueries": [],
-    "sourceLinks": []
-  },
-  {
-    "rank": 7,
-    "title": "katerina siniakova",
-    "titleZh": "katerina siniakova",
-    "traffic": "200+",
-    "started": "Tue, 27 Oct 2026 23:00:00 -0700",
-    "summary": "相关新闻主要集中在：WTA Guangzhou Day 3 Predictions Including Paula Badosa vs Sinja Kraus。",
-    "explanation": "Google Trends 显示“katerina siniakova”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：WTA Guangzhou Day 3 Predictions Including Paula Badosa vs Sinja Kraus。这些报道来自 Last Word On Sports 等媒体，因此带动了集中搜索。",
+    "title": "olimpia - cartaginés",
+    "titleZh": "olimpia - cartaginés",
+    "traffic": "500+",
+    "started": "Wed, 28 Oct 2026 22:50:00 -0700",
+    "summary": "相关新闻主要集中在：La afición olimpista cumplió (galería)。",
+    "explanation": "Google Trends 显示“olimpia - cartaginés”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：La afición olimpista cumplió (galería)。这些报道来自 Diario La Tribuna 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "WTA Guangzhou Day 3 Predictions Including Paula Badosa vs Sinja Kraus",
-        "url": "https://lastwordonsports.com/tennis/2026/10/27/wta-guangzhou-day-3-predictions-badosa-kraus/",
-        "source": "Last Word On Sports"
+        "title": "La afición olimpista cumplió (galería)",
+        "url": "https://www.latribuna.hn/2026/10/28/la-aficion-olimpista-cumplio/",
+        "source": "Diario La Tribuna"
+      }
+    ]
+  },
+  {
+    "rank": 7,
+    "title": "nba scores yesterday",
+    "titleZh": "nba scores yesterday",
+    "traffic": "2000+",
+    "started": "Wed, 28 Oct 2026 22:50:00 -0700",
+    "summary": "相关新闻主要集中在：30 Fantasy basketball takes on every NBA team after the first week of the 2026-27 season。",
+    "explanation": "Google Trends 显示“nba scores yesterday”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：30 Fantasy basketball takes on every NBA team after the first week of the 2026-27 season。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "30 Fantasy basketball takes on every NBA team after the first week of the 2026-27 season",
+        "url": "https://sports.yahoo.com/fantasy/article/30-fantasy-basketball-takes-on-every-nba-team-after-the-first-week-of-the-2026-27-season-152253976.html",
+        "source": "Yahoo Sports"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "cyberpunk",
-    "titleZh": "cyberpunk",
-    "traffic": "500+",
-    "started": "Tue, 27 Oct 2026 23:00:00 -0700",
-    "summary": "相关新闻主要集中在：New Cyberpunk 2 Job Listing Further Supports Multiplayer Mode。",
-    "explanation": "Google Trends 显示“cyberpunk”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：New Cyberpunk 2 Job Listing Further Supports Multiplayer Mode。这些报道来自 Insider Gaming 等媒体，因此带动了集中搜索。",
+    "title": "gofundme",
+    "titleZh": "gofundme",
+    "traffic": "200+",
+    "started": "Wed, 28 Oct 2026 22:50:00 -0700",
+    "summary": "相关新闻主要集中在：Juvenile in custody after fatal weekend assault in Hartford。",
+    "explanation": "Google Trends 显示“gofundme”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Juvenile in custody after fatal weekend assault in Hartford。这些报道来自 Sioux Falls Live 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "New Cyberpunk 2 Job Listing Further Supports Multiplayer Mode",
-        "url": "https://insider-gaming.com/new-cyberpunk-2-job-listing-further-supports-multiplayer-mode/",
-        "source": "Insider Gaming"
+        "title": "Juvenile in custody after fatal weekend assault in Hartford",
+        "url": "https://www.siouxfallslive.com/news/sioux-falls/victim-dies-after-sunday-morning-assault-in-hartford",
+        "source": "Sioux Falls Live"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "sofia vergara",
-    "titleZh": "sofia vergara",
-    "traffic": "200+",
-    "started": "Tue, 27 Oct 2026 23:00:00 -0700",
-    "summary": "相关新闻主要集中在：Sofía Vergara and Imagine Dragons singer Dan Reynolds hold hands in new photos from Beverly Hills dinner。",
-    "explanation": "Google Trends 显示“sofia vergara”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Sofía Vergara and Imagine Dragons singer Dan Reynolds hold hands in new photos from Beverly Hills dinner。这些报道来自 HOLA 等媒体，因此带动了集中搜索。",
+    "title": "dc universe",
+    "titleZh": "dc universe",
+    "traffic": "500+",
+    "started": "Wed, 28 Oct 2026 22:30:00 -0700",
+    "summary": "相关新闻主要集中在：James Gunn and Peter Safran’s DC Experiment: What’s Working, What Isn’t, and What’s Next。",
+    "explanation": "Google Trends 显示“dc universe”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：James Gunn and Peter Safran’s DC Experiment: What’s Working, What Isn’t, and What’s Next。这些报道来自 IndieWire 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Sofía Vergara and Imagine Dragons singer Dan Reynolds hold hands in new photos from Beverly Hills dinner",
-        "url": "https://www.hola.com/us/celebrities/20261027931644/sofia-vergara-imagine-dragons-singer-dan-reynolds-hold-hands/",
-        "source": "HOLA"
+        "title": "James Gunn and Peter Safran’s DC Experiment: What’s Working, What Isn’t, and What’s Next",
+        "url": "https://www.indiewire.com/features/commentary/james-gunn-dc-studios-report-card-1235223600/",
+        "source": "IndieWire"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "russell westbrook",
-    "titleZh": "russell westbrook",
-    "traffic": "100+",
-    "started": "Tue, 27 Oct 2026 22:50:00 -0700",
-    "summary": "相关新闻主要集中在：Sam Presti when asked about Russell Westbrook: 'I haven't thought about anything relative to the roster spot'。",
-    "explanation": "Google Trends 显示“russell westbrook”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Sam Presti when asked about Russell Westbrook: 'I haven't thought about anything relative to the roster spot'。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "title": "wendy's near me",
+    "titleZh": "wendy's near me",
+    "traffic": "200+",
+    "started": "Wed, 28 Oct 2026 22:30:00 -0700",
+    "summary": "相关新闻主要集中在：Violent attack at Northridge Wendy's restaurant involving man with knife caught on camera。",
+    "explanation": "Google Trends 显示“wendy's near me”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Violent attack at Northridge Wendy's restaurant involving man with knife caught on camera。这些报道来自 ABC7 Los Angeles 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Sam Presti when asked about Russell Westbrook: 'I haven't thought about anything relative to the roster spot'",
-        "url": "https://sports.yahoo.com/articles/sam-presti-asked-russell-westbrook-091853219.html",
-        "source": "Yahoo Sports"
+        "title": "Violent attack at Northridge Wendy's restaurant involving man with knife caught on camera",
+        "url": "https://abc7.com/post/violent-attack-northridge-wendys-restaurant-involving-man-knife-caught-camera/19991508/",
+        "source": "ABC7 Los Angeles"
       }
     ]
   }
