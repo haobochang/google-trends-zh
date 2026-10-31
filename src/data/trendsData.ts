@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "nz vs ind",
-    "titleZh": "nz vs ind",
+    "title": "las vegas flash flooding",
+    "titleZh": "las vegas flash flooding",
     "traffic": "2000+",
-    "started": "Thu, 29 Oct 2026 23:50:00 -0700",
-    "summary": "相关新闻主要集中在：IND vs NZ 2026 4th T20I, Auckland Weather Updates: Will rain halt India's winning march at Eden Park。",
-    "explanation": "Google Trends 显示“nz vs ind”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：IND vs NZ 2026 4th T20I, Auckland Weather Updates: Will rain halt India's winning march at Eden Park。这些报道来自 India.com 等媒体，因此带动了集中搜索。",
+    "started": "Fri, 30 Oct 2026 23:40:00 -0700",
+    "summary": "相关新闻主要集中在：1 dead in Henderson after heavy rain triggers three water rescue operations。",
+    "explanation": "Google Trends 显示“las vegas flash flooding”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：1 dead in Henderson after heavy rain triggers three water rescue operations。这些报道来自 Las Vegas Review-Journal 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "IND vs NZ 2026 4th T20I, Auckland Weather Updates: Will rain halt India's winning march at Eden Park",
-        "url": "https://www.india.com/sports/cricket/ind-vs-nz-2026-weather-updates-4th-t20i-match-30-oct-india-vs-new-zealand-match-pitch-reports-eden-park-auckland-weather-forecast-8540635/",
-        "source": "India.com"
+        "title": "1 dead in Henderson after heavy rain triggers three water rescue operations",
+        "url": "https://www.reviewjournal.com/local/weather/flood-advisory-issued-for-southeast-las-vegas-valley-3907228/",
+        "source": "Las Vegas Review-Journal"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "midterm election predictions",
-    "titleZh": "midterm election predictions",
+    "title": "sanjay gupta",
+    "titleZh": "sanjay gupta",
     "traffic": "200+",
-    "started": "Thu, 29 Oct 2026 23:50:00 -0700",
-    "summary": "相关新闻主要集中在：A Democratic win in midterms could put prediction markets and the CFTC in the hot seat。",
-    "explanation": "Google Trends 显示“midterm election predictions”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：A Democratic win in midterms could put prediction markets and the CFTC in the hot seat。这些报道来自 CNBC 等媒体，因此带动了集中搜索。",
+    "started": "Fri, 30 Oct 2026 23:40:00 -0700",
+    "summary": "相关新闻主要集中在：Kaante director Sanjay Gupta dies at 57 after suffering a head injury at home。",
+    "explanation": "Google Trends 显示“sanjay gupta”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Kaante director Sanjay Gupta dies at 57 after suffering a head injury at home。这些报道来自 The Indian Express 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "A Democratic win in midterms could put prediction markets and the CFTC in the hot seat",
-        "url": "https://www.cnbc.com/2026/10/28/democrats-prediction-markets-cftc-midterms.html",
-        "source": "CNBC"
+        "title": "Kaante director Sanjay Gupta dies at 57 after suffering a head injury at home",
+        "url": "https://indianexpress.com/article/entertainment/bollywood/sanjay-gupta-dies-at-57-accidental-fall-head-injury-10944535/",
+        "source": "The Indian Express"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "indianapolis colts tickets",
-    "titleZh": "indianapolis colts tickets",
-    "traffic": "100+",
-    "started": "Thu, 29 Oct 2026 23:50:00 -0700",
-    "summary": "相关新闻主要集中在：Colts release former Bengals linebacker。",
-    "explanation": "Google Trends 显示“indianapolis colts tickets”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Colts release former Bengals linebacker。这些报道来自 Cincinnati Enquirer 等媒体，因此带动了集中搜索。",
+    "title": "mia pohankova",
+    "titleZh": "mia pohankova",
+    "traffic": "200+",
+    "started": "Fri, 30 Oct 2026 23:20:00 -0700",
+    "summary": "相关新闻主要集中在：“Zero Effort”; “What A Shame” – Fans React To Naomi Osaka’s Shock Loss To 18 y/o In Early Japan Open Exit。",
+    "explanation": "Google Trends 显示“mia pohankova”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：“Zero Effort”; “What A Shame” – Fans React To Naomi Osaka’s Shock Loss To 18 y/o In Early Japan Open Exit。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Colts release former Bengals linebacker",
-        "url": "https://www.cincinnati.com/story/sports/nfl/bengals/2026/10/29/colts-release-germaine-pratt-former-bengals-linebacker/92498046007/",
-        "source": "Cincinnati Enquirer"
+        "title": "“Zero Effort”; “What A Shame” – Fans React To Naomi Osaka’s Shock Loss To 18 y/o In Early Japan Open Exit",
+        "url": "https://sports.yahoo.com/articles/zero-effort-shame-fans-react-194835960.html",
+        "source": "Yahoo Sports"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "steve hilton",
-    "titleZh": "steve hilton",
-    "traffic": "100+",
-    "started": "Thu, 29 Oct 2026 23:50:00 -0700",
-    "summary": "相关新闻主要集中在：California governor's race: Becerra and Hilton offer competing visions for the state's future。",
-    "explanation": "Google Trends 显示“steve hilton”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：California governor's race: Becerra and Hilton offer competing visions for the state's future。这些报道来自 10News.com 等媒体，因此带动了集中搜索。",
+    "title": "violetta mailyan",
+    "titleZh": "violetta mailyan",
+    "traffic": "200+",
+    "started": "Fri, 30 Oct 2026 23:10:00 -0700",
+    "summary": "相关新闻主要集中在：LA botox doctor learns fate for $45M Medicare scheme that funded luxury vacations。",
+    "explanation": "Google Trends 显示“violetta mailyan”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：LA botox doctor learns fate for $45M Medicare scheme that funded luxury vacations。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "California governor's race: Becerra and Hilton offer competing visions for the state's future",
-        "url": "https://www.10news.com/california-governors-race-becerra-and-hilton-offer-competing-visions-for-the-states-future",
-        "source": "10News.com"
+        "title": "LA botox doctor learns fate for $45M Medicare scheme that funded luxury vacations",
+        "url": "https://www.yahoo.com/news/us/articles/la-botox-doctor-learns-fate-012236328.html",
+        "source": "Yahoo"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "stock futures",
-    "titleZh": "stock futures",
-    "traffic": "10000+",
-    "started": "Thu, 29 Oct 2026 23:40:00 -0700",
-    "summary": "相关新闻主要集中在：Stocks slump, bonds leap as AI giants' spending spooks investors。",
-    "explanation": "Google Trends 显示“stock futures”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Stocks slump, bonds leap as AI giants' spending spooks investors。这些报道来自 Reuters 等媒体，因此带动了集中搜索。",
+    "title": "halloween candy undeclared milk allergen",
+    "titleZh": "halloween candy undeclared milk allergen",
+    "traffic": "100+",
+    "started": "Fri, 30 Oct 2026 23:10:00 -0700",
+    "summary": "相关新闻主要集中在：Halloween safety: beware of these CANDY RECALLS as of 10/30/26.。",
+    "explanation": "Google Trends 显示“halloween candy undeclared milk allergen”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Halloween safety: beware of these CANDY RECALLS as of 10/30/26.。这些报道来自 Daily Kos 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Stocks slump, bonds leap as AI giants' spending spooks investors",
-        "url": "https://www.reuters.com/legal/transactional/global-markets-global-markets-2026-10-30/",
-        "source": "Reuters"
+        "title": "Halloween safety: beware of these CANDY RECALLS as of 10/30/26.",
+        "url": "https://www.dailykos.com/stories/2026/10/30/800120001/community/safety-not-to-put-a-damper-on-halloween-but-candy-recalls-to-be-aware-of/",
+        "source": "Daily Kos"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "flash flood warning",
-    "titleZh": "flash flood warning",
-    "traffic": "20000+",
-    "started": "Thu, 29 Oct 2026 23:30:00 -0700",
-    "summary": "相关新闻主要集中在：Temporary Evacuation Site opened in Hāna amid increased rainfall, flooding; multiple road closures due to high water。",
-    "explanation": "Google Trends 显示“flash flood warning”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Temporary Evacuation Site opened in Hāna amid increased rainfall, flooding; multiple road closures due to high water。这些报道来自 Maui Now 等媒体，因此带动了集中搜索。",
+    "title": "elena pridankina",
+    "titleZh": "elena pridankina",
+    "traffic": "100+",
+    "started": "Fri, 30 Oct 2026 23:10:00 -0700",
+    "summary": "相关新闻主要集中在：Elena Pridankina vs Ekaterine Gorgodze - Match WTA - Prudential Hong Kong Tennis Open 1970 - qualifying-1st-round。",
+    "explanation": "Google Trends 显示“elena pridankina”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Elena Pridankina vs Ekaterine Gorgodze - Match WTA - Prudential Hong Kong Tennis Open 1970 - qualifying-1st-round。这些报道来自 tennismajors.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Temporary Evacuation Site opened in Hāna amid increased rainfall, flooding; multiple road closures due to high water",
-        "url": "https://mauinow.com/2026/10/28/pi%CA%BBilani-hwy-closed-at-mile-51-in-hana-due-to-high-water/",
-        "source": "Maui Now"
+        "title": "Elena Pridankina vs Ekaterine Gorgodze - Match WTA - Prudential Hong Kong Tennis Open 1970 - qualifying-1st-round",
+        "url": "https://www.tennismajors.com/matches/wta/prudential-hong-kong-tennis-open/elena-pridankina-vs-ekaterine-gorgodze",
+        "source": "tennismajors.com"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "index funds",
-    "titleZh": "index funds",
-    "traffic": "200+",
-    "started": "Thu, 29 Oct 2026 23:20:00 -0700",
-    "summary": "相关新闻主要集中在：If I Were in My 20s, I'd Buy This 1 ETF Warren Buffett Recommended and Hold It for Decades。",
-    "explanation": "Google Trends 显示“index funds”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：If I Were in My 20s, I'd Buy This 1 ETF Warren Buffett Recommended and Hold It for Decades。这些报道来自 Yahoo Finance 等媒体，因此带动了集中搜索。",
+    "title": "tom hanks",
+    "titleZh": "tom hanks",
+    "traffic": "100+",
+    "started": "Fri, 30 Oct 2026 23:00:00 -0700",
+    "summary": "相关新闻主要集中在：Tom Hanks made Connecticut laugh. John Mayer came home。",
+    "explanation": "Google Trends 显示“tom hanks”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Tom Hanks made Connecticut laugh. John Mayer came home。这些报道来自 CT Insider 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "If I Were in My 20s, I'd Buy This 1 ETF Warren Buffett Recommended and Hold It for Decades",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/were-20s-id-buy-1-180500854.html",
-        "source": "Yahoo Finance"
+        "title": "Tom Hanks made Connecticut laugh. John Mayer came home",
+        "url": "https://www.ctinsider.com/shorelineentertainment/article/tom-hanks-john-mayer-connecticut-celebrities-22501216.php",
+        "source": "CT Insider"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "rybakina",
-    "titleZh": "rybakina",
-    "traffic": "2000+",
-    "started": "Thu, 29 Oct 2026 23:10:00 -0700",
-    "summary": "相关新闻主要集中在：Rankings Watch: Rybakina one win from securing year-end World No. 1。",
-    "explanation": "Google Trends 显示“rybakina”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Rankings Watch: Rybakina one win from securing year-end World No. 1。这些报道来自 WTA Tennis 等媒体，因此带动了集中搜索。",
+    "title": "xavier becerra",
+    "titleZh": "xavier becerra",
+    "traffic": "100+",
+    "started": "Fri, 30 Oct 2026 23:00:00 -0700",
+    "summary": "相关新闻主要集中在：$3 a gallon, 150 cars: Hilton’s Sanger fuel giveaway put affordability in gear。",
+    "explanation": "Google Trends 显示“xavier becerra”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：$3 a gallon, 150 cars: Hilton’s Sanger fuel giveaway put affordability in gear。这些报道来自 KMPH Fox 26 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Rankings Watch: Rybakina one win from securing year-end World No. 1",
-        "url": "https://www.wtatennis.com/news/4599060/rankings-watch-rybakina-one-win-from-securing-year-end-world-no-1",
-        "source": "WTA Tennis"
+        "title": "$3 a gallon, 150 cars: Hilton’s Sanger fuel giveaway put affordability in gear",
+        "url": "https://kmph.com/news/local/3-a-gallon-150-cars-hiltons-sanger-fuel-giveaway-put-affordability-in-gear",
+        "source": "KMPH Fox 26"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "mac jones",
-    "titleZh": "mac jones",
-    "traffic": "500+",
-    "started": "Thu, 29 Oct 2026 23:10:00 -0700",
-    "summary": "相关新闻主要集中在：George Kittle’s wife calls out 49ers QB’s dating ‘red flag’。",
-    "explanation": "Google Trends 显示“mac jones”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：George Kittle’s wife calls out 49ers QB’s dating ‘red flag’。这些报道来自 New York Post 等媒体，因此带动了集中搜索。",
+    "title": "hk vs pak",
+    "titleZh": "hk vs pak",
+    "traffic": "1000+",
+    "started": "Fri, 30 Oct 2026 22:50:00 -0700",
+    "summary": "相关新闻主要集中在：India's Batting Falters in Hong Kong Sixes Loss to Pakistan。",
+    "explanation": "Google Trends 显示“hk vs pak”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：India's Batting Falters in Hong Kong Sixes Loss to Pakistan。这些报道来自 Rediff 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "George Kittle’s wife calls out 49ers QB’s dating ‘red flag’",
-        "url": "https://nypost.com/2026/10/29/sports/george-kittles-wife-claire-exposes-mac-jones-dating-red-flag/",
-        "source": "New York Post"
+        "title": "India's Batting Falters in Hong Kong Sixes Loss to Pakistan",
+        "url": "https://www.rediff.com/cricket/report/hong-kong-international-sixes-india-lose-to-pakistan-by-four-wickets/20261030.htm",
+        "source": "Rediff"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "diet",
-    "titleZh": "diet",
-    "traffic": "100+",
-    "started": "Thu, 29 Oct 2026 23:10:00 -0700",
-    "summary": "相关新闻主要集中在：Short-Term Low-Fat Diet Has Lasting Inflammatory Disease Benefits。",
-    "explanation": "Google Trends 显示“diet”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Short-Term Low-Fat Diet Has Lasting Inflammatory Disease Benefits。这些报道来自 Inside Precision Medicine 等媒体，因此带动了集中搜索。",
+    "title": "ryan garcia",
+    "titleZh": "ryan garcia",
+    "traffic": "500+",
+    "started": "Fri, 30 Oct 2026 22:50:00 -0700",
+    "summary": "相关新闻主要集中在：Ryan Garcia gives Floyd Mayweather final ultimatum to make comeback fight happen: \"Let's do it\"。",
+    "explanation": "Google Trends 显示“ryan garcia”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Ryan Garcia gives Floyd Mayweather final ultimatum to make comeback fight happen: \"Let's do it\"。这些报道来自 Boxing News Online 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Short-Term Low-Fat Diet Has Lasting Inflammatory Disease Benefits",
-        "url": "https://www.insideprecisionmedicine.com/topics/precision-medicine/short-term-low-fat-diet-has-lasting-inflammatory-disease-benefits/",
-        "source": "Inside Precision Medicine"
+        "title": "Ryan Garcia gives Floyd Mayweather final ultimatum to make comeback fight happen: \"Let's do it\"",
+        "url": "https://boxingnewsonline.net/news/garcia-gives-mayweather-final-ultimatum/",
+        "source": "Boxing News Online"
       }
     ]
   }
