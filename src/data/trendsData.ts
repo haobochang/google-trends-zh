@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "las vegas flash flooding",
-    "titleZh": "las vegas flash flooding",
-    "traffic": "2000+",
-    "started": "Fri, 30 Oct 2026 23:40:00 -0700",
-    "summary": "相关新闻主要集中在：1 dead in Henderson after heavy rain triggers three water rescue operations。",
-    "explanation": "Google Trends 显示“las vegas flash flooding”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：1 dead in Henderson after heavy rain triggers three water rescue operations。这些报道来自 Las Vegas Review-Journal 等媒体，因此带动了集中搜索。",
+    "title": "pizza near me",
+    "titleZh": "pizza near me",
+    "traffic": "5000+",
+    "started": "Sun, 1 Nov 2026 00:10:00 -0700",
+    "summary": "相关新闻主要集中在：Over $446K raised for Michigan grocer harassed by streamers。",
+    "explanation": "Google Trends 显示“pizza near me”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Over $446K raised for Michigan grocer harassed by streamers。这些报道来自 National News Desk 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "1 dead in Henderson after heavy rain triggers three water rescue operations",
-        "url": "https://www.reviewjournal.com/local/weather/flood-advisory-issued-for-southeast-las-vegas-valley-3907228/",
-        "source": "Las Vegas Review-Journal"
+        "title": "Over $446K raised for Michigan grocer harassed by streamers",
+        "url": "https://thenationaldesk.com/news/americas-news-now/over-446k-raised-for-red-baron-employee-who-was-harassed-by-streamers-michigan-detroit-gofundme",
+        "source": "National News Desk"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "sanjay gupta",
-    "titleZh": "sanjay gupta",
-    "traffic": "200+",
-    "started": "Fri, 30 Oct 2026 23:40:00 -0700",
-    "summary": "相关新闻主要集中在：Kaante director Sanjay Gupta dies at 57 after suffering a head injury at home。",
-    "explanation": "Google Trends 显示“sanjay gupta”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Kaante director Sanjay Gupta dies at 57 after suffering a head injury at home。这些报道来自 The Indian Express 等媒体，因此带动了集中搜索。",
+    "title": "ihop",
+    "titleZh": "ihop",
+    "traffic": "1000+",
+    "started": "Sun, 1 Nov 2026 00:10:00 -0700",
+    "summary": "相关新闻主要集中在：Dual-branded Applebee's | IHOP opens in Louisville。",
+    "explanation": "Google Trends 显示“ihop”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Dual-branded Applebee's | IHOP opens in Louisville。这些报道来自 The Business Journals 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Kaante director Sanjay Gupta dies at 57 after suffering a head injury at home",
-        "url": "https://indianexpress.com/article/entertainment/bollywood/sanjay-gupta-dies-at-57-accidental-fall-head-injury-10944535/",
-        "source": "The Indian Express"
+        "title": "Dual-branded Applebee's | IHOP opens in Louisville",
+        "url": "https://www.bizjournals.com/louisville/news/2026/10/22/dual-branded-applebee-s-ihop-opens-in-louisville.html",
+        "source": "The Business Journals"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "mia pohankova",
-    "titleZh": "mia pohankova",
-    "traffic": "200+",
-    "started": "Fri, 30 Oct 2026 23:20:00 -0700",
-    "summary": "相关新闻主要集中在：“Zero Effort”; “What A Shame” – Fans React To Naomi Osaka’s Shock Loss To 18 y/o In Early Japan Open Exit。",
-    "explanation": "Google Trends 显示“mia pohankova”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：“Zero Effort”; “What A Shame” – Fans React To Naomi Osaka’s Shock Loss To 18 y/o In Early Japan Open Exit。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "title": "ind vs nz",
+    "titleZh": "ind vs nz",
+    "traffic": "2000+",
+    "started": "Sun, 1 Nov 2026 00:00:00 -0700",
+    "summary": "相关新闻主要集中在：Ready for Action one last time in NZ v IND T20Is。",
+    "explanation": "Google Trends 显示“ind vs nz”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Ready for Action one last time in NZ v IND T20Is。这些报道来自 BCCI 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "“Zero Effort”; “What A Shame” – Fans React To Naomi Osaka’s Shock Loss To 18 y/o In Early Japan Open Exit",
-        "url": "https://sports.yahoo.com/articles/zero-effort-shame-fans-react-194835960.html",
-        "source": "Yahoo Sports"
+        "title": "Ready for Action one last time in NZ v IND T20Is",
+        "url": "https://www.bcci.tv/videos/s-ready-for-action-one-last-time-in-nz-v-ind-t20is-tbcul",
+        "source": "BCCI"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "violetta mailyan",
-    "titleZh": "violetta mailyan",
+    "title": "apple iphone duo",
+    "titleZh": "apple iphone duo",
     "traffic": "200+",
-    "started": "Fri, 30 Oct 2026 23:10:00 -0700",
-    "summary": "相关新闻主要集中在：LA botox doctor learns fate for $45M Medicare scheme that funded luxury vacations。",
-    "explanation": "Google Trends 显示“violetta mailyan”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：LA botox doctor learns fate for $45M Medicare scheme that funded luxury vacations。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 1 Nov 2026 00:00:00 -0700",
+    "summary": "相关新闻主要集中在：Samsung Slices at Apple’s iPhone Duo With Its Z Fold 8 Ad。",
+    "explanation": "Google Trends 显示“apple iphone duo”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Samsung Slices at Apple’s iPhone Duo With Its Z Fold 8 Ad。这些报道来自 CNET 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "LA botox doctor learns fate for $45M Medicare scheme that funded luxury vacations",
-        "url": "https://www.yahoo.com/news/us/articles/la-botox-doctor-learns-fate-012236328.html",
-        "source": "Yahoo"
+        "title": "Samsung Slices at Apple’s iPhone Duo With Its Z Fold 8 Ad",
+        "url": "https://www.cnet.com/tech/mobile/samsung-slice-apple-iphone-duo-z-fold-8-ad/",
+        "source": "CNET"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "halloween candy undeclared milk allergen",
-    "titleZh": "halloween candy undeclared milk allergen",
+    "title": "leni klum",
+    "titleZh": "leni klum",
     "traffic": "100+",
-    "started": "Fri, 30 Oct 2026 23:10:00 -0700",
-    "summary": "相关新闻主要集中在：Halloween safety: beware of these CANDY RECALLS as of 10/30/26.。",
-    "explanation": "Google Trends 显示“halloween candy undeclared milk allergen”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Halloween safety: beware of these CANDY RECALLS as of 10/30/26.。这些报道来自 Daily Kos 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 1 Nov 2026 00:00:00 -0700",
+    "summary": "相关新闻主要集中在：Heidis Halloween Party: Als gigantische Hand stiehlt Heidi Klum ihren Gästen die Show - Video。",
+    "explanation": "Google Trends 显示“leni klum”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Heidis Halloween Party: Als gigantische Hand stiehlt Heidi Klum ihren Gästen die Show - Video。这些报道来自 WELT 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Halloween safety: beware of these CANDY RECALLS as of 10/30/26.",
-        "url": "https://www.dailykos.com/stories/2026/10/30/800120001/community/safety-not-to-put-a-damper-on-halloween-but-candy-recalls-to-be-aware-of/",
-        "source": "Daily Kos"
+        "title": "Heidis Halloween Party: Als gigantische Hand stiehlt Heidi Klum ihren Gästen die Show - Video",
+        "url": "https://www.welt.de/vermischtes/video6ae6da3a6a5ed9f21313418a/heidis-halloween-party-als-gigantische-hand-stiehlt-heidi-klum-ihren-gaesten-die-show.html",
+        "source": "WELT"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "elena pridankina",
-    "titleZh": "elena pridankina",
-    "traffic": "100+",
-    "started": "Fri, 30 Oct 2026 23:10:00 -0700",
-    "summary": "相关新闻主要集中在：Elena Pridankina vs Ekaterine Gorgodze - Match WTA - Prudential Hong Kong Tennis Open 1970 - qualifying-1st-round。",
-    "explanation": "Google Trends 显示“elena pridankina”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Elena Pridankina vs Ekaterine Gorgodze - Match WTA - Prudential Hong Kong Tennis Open 1970 - qualifying-1st-round。这些报道来自 tennismajors.com 等媒体，因此带动了集中搜索。",
+    "title": "india national cricket team vs new zealand national cricket team match scorecard",
+    "titleZh": "india national cricket team vs new zealand national cricket team match scorecard",
+    "traffic": "200+",
+    "started": "Sat, 31 Oct 2026 23:50:00 -0700",
+    "summary": "相关新闻主要集中在：‘A learning curve’: Iyer says India still adapting to NZ grounds after Eden Park drubbing。",
+    "explanation": "Google Trends 显示“india national cricket team vs new zealand national cricket team match scorecard”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：‘A learning curve’: Iyer says India still adapting to NZ grounds after Eden Park drubbing。这些报道来自 Cricbuzz 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Elena Pridankina vs Ekaterine Gorgodze - Match WTA - Prudential Hong Kong Tennis Open 1970 - qualifying-1st-round",
-        "url": "https://www.tennismajors.com/matches/wta/prudential-hong-kong-tennis-open/elena-pridankina-vs-ekaterine-gorgodze",
-        "source": "tennismajors.com"
+        "title": "‘A learning curve’: Iyer says India still adapting to NZ grounds after Eden Park drubbing",
+        "url": "https://www.cricbuzz.com/cricket-news/140720/iyer-says-india-still-adapting-to-nz-grounds-after-eden-park-drubbing-cricbuzzcom",
+        "source": "Cricbuzz"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "tom hanks",
-    "titleZh": "tom hanks",
+    "title": "new york time",
+    "titleZh": "new york time",
     "traffic": "100+",
-    "started": "Fri, 30 Oct 2026 23:00:00 -0700",
-    "summary": "相关新闻主要集中在：Tom Hanks made Connecticut laugh. John Mayer came home。",
-    "explanation": "Google Trends 显示“tom hanks”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Tom Hanks made Connecticut laugh. John Mayer came home。这些报道来自 CT Insider 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 31 Oct 2026 23:50:00 -0700",
+    "summary": "相关新闻主要集中在：Cate Blanchett-Backed Group of Stars Files Brief in NYT-OpenAI Lawsuit。",
+    "explanation": "Google Trends 显示“new york time”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Cate Blanchett-Backed Group of Stars Files Brief in NYT-OpenAI Lawsuit。这些报道来自 Variety 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Tom Hanks made Connecticut laugh. John Mayer came home",
-        "url": "https://www.ctinsider.com/shorelineentertainment/article/tom-hanks-john-mayer-connecticut-celebrities-22501216.php",
-        "source": "CT Insider"
+        "title": "Cate Blanchett-Backed Group of Stars Files Brief in NYT-OpenAI Lawsuit",
+        "url": "https://variety.com/2026/biz/news/cate-blanchett-hollywood-stars-brief-nyt-openai-lawsuit-1236935578/",
+        "source": "Variety"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "xavier becerra",
-    "titleZh": "xavier becerra",
+    "title": "when is gta 6 coming out",
+    "titleZh": "when is gta 6 coming out",
     "traffic": "100+",
-    "started": "Fri, 30 Oct 2026 23:00:00 -0700",
-    "summary": "相关新闻主要集中在：$3 a gallon, 150 cars: Hilton’s Sanger fuel giveaway put affordability in gear。",
-    "explanation": "Google Trends 显示“xavier becerra”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：$3 a gallon, 150 cars: Hilton’s Sanger fuel giveaway put affordability in gear。这些报道来自 KMPH Fox 26 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 31 Oct 2026 23:50:00 -0700",
+    "summary": "相关新闻主要集中在：Grand Theft Auto VI Reportedly Requires A 210GB Download。",
+    "explanation": "Google Trends 显示“when is gta 6 coming out”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Grand Theft Auto VI Reportedly Requires A 210GB Download。这些报道来自 Engadget 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "$3 a gallon, 150 cars: Hilton’s Sanger fuel giveaway put affordability in gear",
-        "url": "https://kmph.com/news/local/3-a-gallon-150-cars-hiltons-sanger-fuel-giveaway-put-affordability-in-gear",
-        "source": "KMPH Fox 26"
+        "title": "Grand Theft Auto VI Reportedly Requires A 210GB Download",
+        "url": "https://www.engadget.com/2298872/gta-6-download-size-reportedly-210-gb/",
+        "source": "Engadget"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "hk vs pak",
-    "titleZh": "hk vs pak",
-    "traffic": "1000+",
-    "started": "Fri, 30 Oct 2026 22:50:00 -0700",
-    "summary": "相关新闻主要集中在：India's Batting Falters in Hong Kong Sixes Loss to Pakistan。",
-    "explanation": "Google Trends 显示“hk vs pak”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：India's Batting Falters in Hong Kong Sixes Loss to Pakistan。这些报道来自 Rediff 等媒体，因此带动了集中搜索。",
+    "title": "premier sports",
+    "titleZh": "premier sports",
+    "traffic": "500+",
+    "started": "Sat, 31 Oct 2026 23:40:00 -0700",
+    "summary": "相关新闻主要集中在：Nico Raskin Can't Wait For Hampden Return。",
+    "explanation": "Google Trends 显示“premier sports”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Nico Raskin Can't Wait For Hampden Return。这些报道来自 Rangers Football Club 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "India's Batting Falters in Hong Kong Sixes Loss to Pakistan",
-        "url": "https://www.rediff.com/cricket/report/hong-kong-international-sixes-india-lose-to-pakistan-by-four-wickets/20261030.htm",
-        "source": "Rediff"
+        "title": "Nico Raskin Can't Wait For Hampden Return",
+        "url": "https://www.rangers.co.uk/news/nico-raskin-cant-wait-hampden-return",
+        "source": "Rangers Football Club"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "ryan garcia",
-    "titleZh": "ryan garcia",
-    "traffic": "500+",
-    "started": "Fri, 30 Oct 2026 22:50:00 -0700",
-    "summary": "相关新闻主要集中在：Ryan Garcia gives Floyd Mayweather final ultimatum to make comeback fight happen: \"Let's do it\"。",
-    "explanation": "Google Trends 显示“ryan garcia”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Ryan Garcia gives Floyd Mayweather final ultimatum to make comeback fight happen: \"Let's do it\"。这些报道来自 Boxing News Online 等媒体，因此带动了集中搜索。",
+    "title": "est",
+    "titleZh": "est",
+    "traffic": "200+",
+    "started": "Sat, 31 Oct 2026 23:30:00 -0700",
+    "summary": "相关新闻主要集中在：Darius Acuff Jr : un volume de tirs historique, mais une adresse catastrophique。",
+    "explanation": "Google Trends 显示“est”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Darius Acuff Jr : un volume de tirs historique, mais une adresse catastrophique。这些报道来自 BasketSession.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Ryan Garcia gives Floyd Mayweather final ultimatum to make comeback fight happen: \"Let's do it\"",
-        "url": "https://boxingnewsonline.net/news/garcia-gives-mayweather-final-ultimatum/",
-        "source": "Boxing News Online"
+        "title": "Darius Acuff Jr : un volume de tirs historique, mais une adresse catastrophique",
+        "url": "https://www.basketsession.com/NBA/darius-acuff-jr-une-boulimie-de-tirs-jamais-vue-depuis-50-ans-pour-un-rookie-784578/",
+        "source": "BasketSession.com"
       }
     ]
   }
