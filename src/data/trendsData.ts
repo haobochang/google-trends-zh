@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "the avengers",
-    "titleZh": "the avengers",
+    "title": "matt damon",
+    "titleZh": "matt damon",
     "traffic": "100+",
-    "started": "Sun, 1 Nov 2026 23:20:00 -0800",
-    "summary": "相关新闻主要集中在：The Infernal Hulk vs. The Avengers。",
-    "explanation": "Google Trends 显示“the avengers”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：The Infernal Hulk vs. The Avengers。这些报道来自 IGN Nordic 等媒体，因此带动了集中搜索。",
+    "started": "Mon, 2 Nov 2026 23:40:00 -0800",
+    "summary": "相关新闻主要集中在：‘The Gilded Age’ Season 4 Premieres with a Scandalous Affair and Blink-and-You-Miss It Cameo from 2 Shocking Celeb Guests。",
+    "explanation": "Google Trends 显示“matt damon”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：‘The Gilded Age’ Season 4 Premieres with a Scandalous Affair and Blink-and-You-Miss It Cameo from 2 Shocking Celeb Guests。这些报道来自 People.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "The Infernal Hulk vs. The Avengers",
-        "url": "https://nordic.ign.com/the-infernal-hulk-vs-the-avengers",
-        "source": "IGN Nordic"
+        "title": "‘The Gilded Age’ Season 4 Premieres with a Scandalous Affair and Blink-and-You-Miss It Cameo from 2 Shocking Celeb Guests",
+        "url": "https://people.com/the-gilded-age-season-4-premiere-recap-12203323",
+        "source": "People.com"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "playstation",
-    "titleZh": "playstation",
-    "traffic": "500+",
-    "started": "Sun, 1 Nov 2026 23:00:00 -0800",
-    "summary": "相关新闻主要集中在：Change These PlayStation 5 Settings Before GTA 6 Comes Out。",
-    "explanation": "Google Trends 显示“playstation”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Change These PlayStation 5 Settings Before GTA 6 Comes Out。这些报道来自 Engadget 等媒体，因此带动了集中搜索。",
+    "title": "ca lottery",
+    "titleZh": "ca lottery",
+    "traffic": "100+",
+    "started": "Mon, 2 Nov 2026 23:40:00 -0800",
+    "summary": "相关新闻主要集中在：California Lottery Daily 3 Midday, Daily Derby winning numbers for Oct. 29, 2026。",
+    "explanation": "Google Trends 显示“ca lottery”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：California Lottery Daily 3 Midday, Daily Derby winning numbers for Oct. 29, 2026。这些报道来自 The Desert Sun 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Change These PlayStation 5 Settings Before GTA 6 Comes Out",
-        "url": "https://www.engadget.com/2302290/playstation-5-settings-change-before-gta-6/",
-        "source": "Engadget"
+        "title": "California Lottery Daily 3 Midday, Daily Derby winning numbers for Oct. 29, 2026",
+        "url": "https://www.desertsun.com/story/news/local/2026/10/29/california-lottery-results-thursday-october-29-2026/92510651007/",
+        "source": "The Desert Sun"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "grambling basketball",
-    "titleZh": "grambling basketball",
-    "traffic": "1000+",
-    "started": "Sun, 1 Nov 2026 23:00:00 -0800",
-    "summary": "相关新闻主要集中在：Frosinone 2-0 Torino (Nov 1, 2026) Team Stats。",
-    "explanation": "Google Trends 显示“grambling basketball”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Frosinone 2-0 Torino (Nov 1, 2026) Team Stats。这些报道来自 ESPN 等媒体，因此带动了集中搜索。",
+    "title": "sadie sink",
+    "titleZh": "sadie sink",
+    "traffic": "200+",
+    "started": "Mon, 2 Nov 2026 23:20:00 -0800",
+    "summary": "相关新闻主要集中在：‘X-Men’: ‘Hunger Games’ Actor Ben Wang Circling Iceman Role in Marvel’s Reboot。",
+    "explanation": "Google Trends 显示“sadie sink”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：‘X-Men’: ‘Hunger Games’ Actor Ben Wang Circling Iceman Role in Marvel’s Reboot。这些报道来自 Variety 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Frosinone 2-0 Torino (Nov 1, 2026) Team Stats",
-        "url": "https://www.espn.com/soccer/team-stats/_/gameId/401874782",
-        "source": "ESPN"
-      }
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "when is the last day to vote",
-    "titleZh": "when is the last day to vote",
-    "traffic": "100+",
-    "started": "Sun, 1 Nov 2026 23:00:00 -0800",
-    "summary": "相关新闻主要集中在：Buncombe County sets midterm record for early-voting turnout。",
-    "explanation": "Google Trends 显示“when is the last day to vote”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Buncombe County sets midterm record for early-voting turnout。这些报道来自 WLOS 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Buncombe County sets midterm record for early-voting turnout",
-        "url": "https://wlos.com/news/local/buncombe-county-record-early-voting-turnout-2026-election-96838-voters",
-        "source": "WLOS"
-      }
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "katie boulter",
-    "titleZh": "katie boulter",
-    "traffic": "500+",
-    "started": "Sun, 1 Nov 2026 22:40:00 -0800",
-    "summary": "相关新闻主要集中在：November 3, 2026: Elsa Jacquemot vs Lucrezia Stefanini: Set 2 Winner Prediction Market。",
-    "explanation": "Google Trends 显示“katie boulter”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：November 3, 2026: Elsa Jacquemot vs Lucrezia Stefanini: Set 2 Winner Prediction Market。这些报道来自 Robinhood 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "November 3, 2026: Elsa Jacquemot vs Lucrezia Stefanini: Set 2 Winner Prediction Market",
-        "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/elsa-jacquemot-vs-lucrezia-stefanini-set-2-winner-nov-03-2026/",
-        "source": "Robinhood"
-      }
-    ]
-  },
-  {
-    "rank": 6,
-    "title": "marty erlichman",
-    "titleZh": "marty erlichman",
-    "traffic": "100+",
-    "started": "Sun, 1 Nov 2026 22:40:00 -0800",
-    "summary": "相关新闻主要集中在：Marty Erlichman, Longtime Manager for Barbra Streisand, Dies at 97。",
-    "explanation": "Google Trends 显示“marty erlichman”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Marty Erlichman, Longtime Manager for Barbra Streisand, Dies at 97。这些报道来自 Variety 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Marty Erlichman, Longtime Manager for Barbra Streisand, Dies at 97",
-        "url": "https://variety.com/2026/music/people-news/marty-erlichman-dead-barbra-streisand-manager-1236937009/",
+        "title": "‘X-Men’: ‘Hunger Games’ Actor Ben Wang Circling Iceman Role in Marvel’s Reboot",
+        "url": "https://variety.com/2026/film/news/x-men-hunger-games-ben-wang-iceman-marvel-reboot-1236937787/",
         "source": "Variety"
       }
     ]
   },
   {
-    "rank": 7,
-    "title": "flock safety",
-    "titleZh": "flock safety",
-    "traffic": "200+",
-    "started": "Sun, 1 Nov 2026 22:40:00 -0800",
-    "summary": "相关新闻主要集中在：'Get the Flock out': Americans respond to AI cameras in bipartisan backlash。",
-    "explanation": "Google Trends 显示“flock safety”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：'Get the Flock out': Americans respond to AI cameras in bipartisan backlash。这些报道来自 France 24 等媒体，因此带动了集中搜索。",
+    "rank": 4,
+    "title": "barcelona vs aston villa",
+    "titleZh": "barcelona vs aston villa",
+    "traffic": "100+",
+    "started": "Mon, 2 Nov 2026 23:20:00 -0800",
+    "summary": "相关新闻主要集中在：Barcelona vs Aston Villa: Champions League – Predictions, news, lineups。",
+    "explanation": "Google Trends 显示“barcelona vs aston villa”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Barcelona vs Aston Villa: Champions League – Predictions, news, lineups。这些报道来自 Al Jazeera 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "'Get the Flock out': Americans respond to AI cameras in bipartisan backlash",
-        "url": "https://www.france24.com/en/americas/20261027-united-states-get-the-flock-out-americans-respond-to-ai-cameras-in-bipartisan-backlash-midterm-elections",
-        "source": "France 24"
+        "title": "Barcelona vs Aston Villa: Champions League – Predictions, news, lineups",
+        "url": "https://www.aljazeera.com/sports/2026/11/2/barcelona-vs-aston-villa-champions-league-predictions-news",
+        "source": "Al Jazeera"
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "title": "zeynep sonmez",
+    "titleZh": "zeynep sonmez",
+    "traffic": "100+",
+    "started": "Mon, 2 Nov 2026 23:20:00 -0800",
+    "summary": "相关新闻主要集中在：Alex Eala Reaches Career Milestone, Moves Within 26 Points of 4-Time Grand Slam Champion。",
+    "explanation": "Google Trends 显示“zeynep sonmez”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Alex Eala Reaches Career Milestone, Moves Within 26 Points of 4-Time Grand Slam Champion。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Alex Eala Reaches Career Milestone, Moves Within 26 Points of 4-Time Grand Slam Champion",
+        "url": "https://sports.yahoo.com/articles/alex-eala-reaches-career-milestone-021734313.html",
+        "source": "Yahoo Sports"
+      }
+    ]
+  },
+  {
+    "rank": 6,
+    "title": "中期选举",
+    "titleZh": "中期选举",
+    "traffic": "100+",
+    "started": "Mon, 2 Nov 2026 23:20:00 -0800",
+    "summary": "相关新闻主要集中在：美国中期选举今日投票，民调：民主党参议院候选人在七个关键州领先。",
+    "explanation": "Google Trends 显示“中期选举”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：美国中期选举今日投票，民调：民主党参议院候选人在七个关键州领先。这些报道来自 凤凰网 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "美国中期选举今日投票，民调：民主党参议院候选人在七个关键州领先",
+        "url": "https://news.ifeng.com/c/8xkM97nXIi9",
+        "source": "凤凰网"
+      }
+    ]
+  },
+  {
+    "rank": 7,
+    "title": "seattle basketball",
+    "titleZh": "seattle basketball",
+    "traffic": "100+",
+    "started": "Mon, 2 Nov 2026 23:20:00 -0800",
+    "summary": "相关新闻主要集中在：Seattle U vs. New Mexico TV & Stream – Nov. 2。",
+    "explanation": "Google Trends 显示“seattle basketball”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Seattle U vs. New Mexico TV & Stream – Nov. 2。这些报道来自 Sports Radio 93.3 KJR 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Seattle U vs. New Mexico TV & Stream – Nov. 2",
+        "url": "https://933kjr.iheart.com/content/2026-11-02-seattle-u-vs-new-mexico-tv-stream-nov-2/",
+        "source": "Sports Radio 93.3 KJR"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "claire liu",
-    "titleZh": "claire liu",
-    "traffic": "200+",
-    "started": "Sun, 1 Nov 2026 22:30:00 -0800",
-    "summary": "相关新闻主要集中在：‘Always learning’ – 46-year-old Venus Williams on HK Open。",
-    "explanation": "Google Trends 显示“claire liu”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：‘Always learning’ – 46-year-old Venus Williams on HK Open。这些报道来自 Toowoomba Chronicle 等媒体，因此带动了集中搜索。",
+    "title": "disneyland paris ride closing 2027",
+    "titleZh": "disneyland paris ride closing 2027",
+    "traffic": "100+",
+    "started": "Mon, 2 Nov 2026 23:10:00 -0800",
+    "summary": "相关新闻主要集中在：Disneyland to electrify Autopia track on classic 1955 ride, report says。",
+    "explanation": "Google Trends 显示“disneyland paris ride closing 2027”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Disneyland to electrify Autopia track on classic 1955 ride, report says。这些报道来自 Orange County Register 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "‘Always learning’ – 46-year-old Venus Williams on HK Open",
-        "url": "https://www.thechronicle.com.au/sport/always-learning-46yearold-venus-williams-on-hk-open/video/232f4b606444f7e6427e7a6bb98156e7",
-        "source": "Toowoomba Chronicle"
+        "title": "Disneyland to electrify Autopia track on classic 1955 ride, report says",
+        "url": "https://www.ocregister.com/2026/11/02/disneyland-to-electrify-autopia-track-on-classic-1955-ride-report-says/",
+        "source": "Orange County Register"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "fundraiser",
-    "titleZh": "fundraiser",
-    "traffic": "200+",
-    "started": "Sun, 1 Nov 2026 22:20:00 -0800",
-    "summary": "相关新闻主要集中在：Over $446K raised for Michigan grocer harassed by streamers。",
-    "explanation": "Google Trends 显示“fundraiser”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Over $446K raised for Michigan grocer harassed by streamers。这些报道来自 The National News Desk 等媒体，因此带动了集中搜索。",
+    "title": "dayana yastremska",
+    "titleZh": "dayana yastremska",
+    "traffic": "2000+",
+    "started": "Mon, 2 Nov 2026 23:10:00 -0800",
+    "summary": "相关新闻主要集中在：November 3, 2026: Alex Michelsen vs Jiri Lehecka: Set 1 Winner Tennis Prediction Market。",
+    "explanation": "Google Trends 显示“dayana yastremska”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：November 3, 2026: Alex Michelsen vs Jiri Lehecka: Set 1 Winner Tennis Prediction Market。这些报道来自 Robinhood 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Over $446K raised for Michigan grocer harassed by streamers",
-        "url": "https://thenationaldesk.com/news/americas-news-now/over-446k-raised-for-red-baron-employee-who-was-harassed-by-streamers-michigan-detroit-gofundme",
-        "source": "The National News Desk"
+        "title": "November 3, 2026: Alex Michelsen vs Jiri Lehecka: Set 1 Winner Tennis Prediction Market",
+        "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/alex-michelsen-vs-jiri-lehecka-set-1-winner-nov-03-2026/",
+        "source": "Robinhood"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "tracker season 4",
-    "titleZh": "tracker season 4",
-    "traffic": "2000+",
-    "started": "Sun, 1 Nov 2026 22:10:00 -0800",
-    "summary": "相关新闻主要集中在：'Tracker' Season 4 Officially Rewrites the Rules of CBS' Action Thriller。",
-    "explanation": "Google Trends 显示“tracker season 4”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：'Tracker' Season 4 Officially Rewrites the Rules of CBS' Action Thriller。这些报道来自 MovieWeb 等媒体，因此带动了集中搜索。",
+    "title": "severance",
+    "titleZh": "severance",
+    "traffic": "100+",
+    "started": "Mon, 2 Nov 2026 23:00:00 -0800",
+    "summary": "相关新闻主要集中在：‘Dark Matter’ Season 3 premiere date info: Will there be a ‘Dark Matter’ Season 3 on Apple TV? Everything we know。",
+    "explanation": "Google Trends 显示“severance”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：‘Dark Matter’ Season 3 premiere date info: Will there be a ‘Dark Matter’ Season 3 on Apple TV? Everything we know。这些报道来自 Decider 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "'Tracker' Season 4 Officially Rewrites the Rules of CBS' Action Thriller",
-        "url": "https://movieweb.com/tracker-season-4-jensen-ackles-change/",
-        "source": "MovieWeb"
+        "title": "‘Dark Matter’ Season 3 premiere date info: Will there be a ‘Dark Matter’ Season 3 on Apple TV? Everything we know",
+        "url": "https://decider.com/2026/10/29/dark-matter-season-3-apple-tv/",
+        "source": "Decider"
       }
     ]
   }
