@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "matt damon",
-    "titleZh": "matt damon",
-    "traffic": "100+",
-    "started": "Mon, 2 Nov 2026 23:40:00 -0800",
-    "summary": "相关新闻主要集中在：‘The Gilded Age’ Season 4 Premieres with a Scandalous Affair and Blink-and-You-Miss It Cameo from 2 Shocking Celeb Guests。",
-    "explanation": "Google Trends 显示“matt damon”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：‘The Gilded Age’ Season 4 Premieres with a Scandalous Affair and Blink-and-You-Miss It Cameo from 2 Shocking Celeb Guests。这些报道来自 People.com 等媒体，因此带动了集中搜索。",
+    "title": "david flippo",
+    "titleZh": "david flippo",
+    "traffic": "200+",
+    "started": "Tue, 3 Nov 2026 23:00:00 -0800",
+    "summary": "相关新闻主要集中在：The nation is watching Nevada; vote like it。",
+    "explanation": "Google Trends 显示“david flippo”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：The nation is watching Nevada; vote like it。这些报道来自 Las Vegas Sun 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "‘The Gilded Age’ Season 4 Premieres with a Scandalous Affair and Blink-and-You-Miss It Cameo from 2 Shocking Celeb Guests",
-        "url": "https://people.com/the-gilded-age-season-4-premiere-recap-12203323",
-        "source": "People.com"
+        "title": "The nation is watching Nevada; vote like it",
+        "url": "https://lasvegassun.com/news/2026/nov/03/the-nation-is-watching-nevada-vote-like-it/",
+        "source": "Las Vegas Sun"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "ca lottery",
-    "titleZh": "ca lottery",
+    "title": "huntington beach election results",
+    "titleZh": "huntington beach election results",
     "traffic": "100+",
-    "started": "Mon, 2 Nov 2026 23:40:00 -0800",
-    "summary": "相关新闻主要集中在：California Lottery Daily 3 Midday, Daily Derby winning numbers for Oct. 29, 2026。",
-    "explanation": "Google Trends 显示“ca lottery”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：California Lottery Daily 3 Midday, Daily Derby winning numbers for Oct. 29, 2026。这些报道来自 The Desert Sun 等媒体，因此带动了集中搜索。",
+    "started": "Tue, 3 Nov 2026 23:00:00 -0800",
+    "summary": "相关新闻主要集中在：Election results: 11 vie for 4 Huntington Beach City Council seats。",
+    "explanation": "Google Trends 显示“huntington beach election results”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Election results: 11 vie for 4 Huntington Beach City Council seats。这些报道来自 Orange County Register 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "California Lottery Daily 3 Midday, Daily Derby winning numbers for Oct. 29, 2026",
-        "url": "https://www.desertsun.com/story/news/local/2026/10/29/california-lottery-results-thursday-october-29-2026/92510651007/",
-        "source": "The Desert Sun"
-      }
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "sadie sink",
-    "titleZh": "sadie sink",
-    "traffic": "200+",
-    "started": "Mon, 2 Nov 2026 23:20:00 -0800",
-    "summary": "相关新闻主要集中在：‘X-Men’: ‘Hunger Games’ Actor Ben Wang Circling Iceman Role in Marvel’s Reboot。",
-    "explanation": "Google Trends 显示“sadie sink”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：‘X-Men’: ‘Hunger Games’ Actor Ben Wang Circling Iceman Role in Marvel’s Reboot。这些报道来自 Variety 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "‘X-Men’: ‘Hunger Games’ Actor Ben Wang Circling Iceman Role in Marvel’s Reboot",
-        "url": "https://variety.com/2026/film/news/x-men-hunger-games-ben-wang-iceman-marvel-reboot-1236937787/",
-        "source": "Variety"
-      }
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "barcelona vs aston villa",
-    "titleZh": "barcelona vs aston villa",
-    "traffic": "100+",
-    "started": "Mon, 2 Nov 2026 23:20:00 -0800",
-    "summary": "相关新闻主要集中在：Barcelona vs Aston Villa: Champions League – Predictions, news, lineups。",
-    "explanation": "Google Trends 显示“barcelona vs aston villa”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Barcelona vs Aston Villa: Champions League – Predictions, news, lineups。这些报道来自 Al Jazeera 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Barcelona vs Aston Villa: Champions League – Predictions, news, lineups",
-        "url": "https://www.aljazeera.com/sports/2026/11/2/barcelona-vs-aston-villa-champions-league-predictions-news",
-        "source": "Al Jazeera"
-      }
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "zeynep sonmez",
-    "titleZh": "zeynep sonmez",
-    "traffic": "100+",
-    "started": "Mon, 2 Nov 2026 23:20:00 -0800",
-    "summary": "相关新闻主要集中在：Alex Eala Reaches Career Milestone, Moves Within 26 Points of 4-Time Grand Slam Champion。",
-    "explanation": "Google Trends 显示“zeynep sonmez”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Alex Eala Reaches Career Milestone, Moves Within 26 Points of 4-Time Grand Slam Champion。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Alex Eala Reaches Career Milestone, Moves Within 26 Points of 4-Time Grand Slam Champion",
-        "url": "https://sports.yahoo.com/articles/alex-eala-reaches-career-milestone-021734313.html",
-        "source": "Yahoo Sports"
-      }
-    ]
-  },
-  {
-    "rank": 6,
-    "title": "中期选举",
-    "titleZh": "中期选举",
-    "traffic": "100+",
-    "started": "Mon, 2 Nov 2026 23:20:00 -0800",
-    "summary": "相关新闻主要集中在：美国中期选举今日投票，民调：民主党参议院候选人在七个关键州领先。",
-    "explanation": "Google Trends 显示“中期选举”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：美国中期选举今日投票，民调：民主党参议院候选人在七个关键州领先。这些报道来自 凤凰网 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "美国中期选举今日投票，民调：民主党参议院候选人在七个关键州领先",
-        "url": "https://news.ifeng.com/c/8xkM97nXIi9",
-        "source": "凤凰网"
-      }
-    ]
-  },
-  {
-    "rank": 7,
-    "title": "seattle basketball",
-    "titleZh": "seattle basketball",
-    "traffic": "100+",
-    "started": "Mon, 2 Nov 2026 23:20:00 -0800",
-    "summary": "相关新闻主要集中在：Seattle U vs. New Mexico TV & Stream – Nov. 2。",
-    "explanation": "Google Trends 显示“seattle basketball”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Seattle U vs. New Mexico TV & Stream – Nov. 2。这些报道来自 Sports Radio 93.3 KJR 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Seattle U vs. New Mexico TV & Stream – Nov. 2",
-        "url": "https://933kjr.iheart.com/content/2026-11-02-seattle-u-vs-new-mexico-tv-stream-nov-2/",
-        "source": "Sports Radio 93.3 KJR"
-      }
-    ]
-  },
-  {
-    "rank": 8,
-    "title": "disneyland paris ride closing 2027",
-    "titleZh": "disneyland paris ride closing 2027",
-    "traffic": "100+",
-    "started": "Mon, 2 Nov 2026 23:10:00 -0800",
-    "summary": "相关新闻主要集中在：Disneyland to electrify Autopia track on classic 1955 ride, report says。",
-    "explanation": "Google Trends 显示“disneyland paris ride closing 2027”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Disneyland to electrify Autopia track on classic 1955 ride, report says。这些报道来自 Orange County Register 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Disneyland to electrify Autopia track on classic 1955 ride, report says",
-        "url": "https://www.ocregister.com/2026/11/02/disneyland-to-electrify-autopia-track-on-classic-1955-ride-report-says/",
+        "title": "Election results: 11 vie for 4 Huntington Beach City Council seats",
+        "url": "https://www.ocregister.com/2026/11/03/election-results-11-vie-for-4-huntington-beach-city-council-seats/",
         "source": "Orange County Register"
       }
     ]
   },
   {
-    "rank": 9,
-    "title": "dayana yastremska",
-    "titleZh": "dayana yastremska",
-    "traffic": "2000+",
-    "started": "Mon, 2 Nov 2026 23:10:00 -0800",
-    "summary": "相关新闻主要集中在：November 3, 2026: Alex Michelsen vs Jiri Lehecka: Set 1 Winner Tennis Prediction Market。",
-    "explanation": "Google Trends 显示“dayana yastremska”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：November 3, 2026: Alex Michelsen vs Jiri Lehecka: Set 1 Winner Tennis Prediction Market。这些报道来自 Robinhood 等媒体，因此带动了集中搜索。",
+    "rank": 3,
+    "title": "spencer pratt",
+    "titleZh": "spencer pratt",
+    "traffic": "200+",
+    "started": "Tue, 3 Nov 2026 22:50:00 -0800",
+    "summary": "相关新闻主要集中在：Spencer Pratt Defends Staying in $1,200-a-Night Hotel After Featuring Trailer in L.A. Mayoral Race Ad。",
+    "explanation": "Google Trends 显示“spencer pratt”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Spencer Pratt Defends Staying in $1,200-a-Night Hotel After Featuring Trailer in L.A. Mayoral Race Ad。这些报道来自 Us Weekly 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "November 3, 2026: Alex Michelsen vs Jiri Lehecka: Set 1 Winner Tennis Prediction Market",
-        "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/alex-michelsen-vs-jiri-lehecka-set-1-winner-nov-03-2026/",
-        "source": "Robinhood"
+        "title": "Spencer Pratt Defends Staying in $1,200-a-Night Hotel After Featuring Trailer in L.A. Mayoral Race Ad",
+        "url": "https://www.usmagazine.com/celebrity-news/news/spencer-pratt-defends-luxury-hotel-stay-during-mayor-race/",
+        "source": "Us Weekly"
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "detroit free press",
+    "titleZh": "detroit free press",
+    "traffic": "100+",
+    "started": "Tue, 3 Nov 2026 22:50:00 -0800",
+    "summary": "相关新闻主要集中在：Here are the finalists for the Free Press Boys Athlete of the Week。",
+    "explanation": "Google Trends 显示“detroit free press”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Here are the finalists for the Free Press Boys Athlete of the Week。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Here are the finalists for the Free Press Boys Athlete of the Week",
+        "url": "https://www.yahoo.com/news/videos/finalists-free-press-boys-athlete-100823340.html",
+        "source": "Yahoo"
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "title": "ontario california election results",
+    "titleZh": "ontario california election results",
+    "traffic": "500+",
+    "started": "Tue, 3 Nov 2026 22:40:00 -0800",
+    "summary": "相关新闻主要集中在：Bazinet winds Goderich mayoral race in a landslide。",
+    "explanation": "Google Trends 显示“ontario california election results”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Bazinet winds Goderich mayoral race in a landslide。这些报道来自 CTV News 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Bazinet winds Goderich mayoral race in a landslide",
+        "url": "https://www.ctvnews.ca/london/article/goderich-huron-and-bruce-county-election-results/",
+        "source": "CTV News"
+      }
+    ]
+  },
+  {
+    "rank": 6,
+    "title": "virat kohli",
+    "titleZh": "virat kohli",
+    "traffic": "2000+",
+    "started": "Tue, 3 Nov 2026 22:40:00 -0800",
+    "summary": "相关新闻主要集中在：Rohit Sharma score today for New Zealand vs. India 1st ODI in Auckland。",
+    "explanation": "Google Trends 显示“virat kohli”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Rohit Sharma score today for New Zealand vs. India 1st ODI in Auckland。这些报道来自 Yahoo Sports 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Rohit Sharma score today for New Zealand vs. India 1st ODI in Auckland",
+        "url": "https://sports.yahoo.com/articles/rohit-sharma-score-today-zealand-015752424.html",
+        "source": "Yahoo Sports"
+      }
+    ]
+  },
+  {
+    "rank": 7,
+    "title": "bill huizenga",
+    "titleZh": "bill huizenga",
+    "traffic": "200+",
+    "started": "Tue, 3 Nov 2026 22:30:00 -0800",
+    "summary": "相关新闻主要集中在：Bill Huizenga’s GOP primary challenger endorses Sean McCann in U.S. House race。",
+    "explanation": "Google Trends 显示“bill huizenga”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Bill Huizenga’s GOP primary challenger endorses Sean McCann in U.S. House race。这些报道来自 MLive.com 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Bill Huizenga’s GOP primary challenger endorses Sean McCann in U.S. House race",
+        "url": "https://www.mlive.com/politics/2026/11/bill-huizengas-gop-primary-challenger-endorses-sean-mccann-in-us-house-race.html",
+        "source": "MLive.com"
+      }
+    ]
+  },
+  {
+    "rank": 8,
+    "title": "stock markets",
+    "titleZh": "stock markets",
+    "traffic": "2000+",
+    "started": "Tue, 3 Nov 2026 22:20:00 -0800",
+    "summary": "相关新闻主要集中在：S&P 500 Edges Up as Oil Falls on US Election Day: Markets Wrap。",
+    "explanation": "Google Trends 显示“stock markets”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：S&P 500 Edges Up as Oil Falls on US Election Day: Markets Wrap。这些报道来自 Bloomberg.com 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "S&P 500 Edges Up as Oil Falls on US Election Day: Markets Wrap",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-02/stock-market-today-dow-s-p-live-updates",
+        "source": "Bloomberg.com"
+      }
+    ]
+  },
+  {
+    "rank": 9,
+    "title": "brenton awa",
+    "titleZh": "brenton awa",
+    "traffic": "200+",
+    "started": "Tue, 3 Nov 2026 22:20:00 -0800",
+    "summary": "相关新闻主要集中在：Ed Case and Jill Tokuda win re-election to the U.S. House。",
+    "explanation": "Google Trends 显示“brenton awa”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Ed Case and Jill Tokuda win re-election to the U.S. House。这些报道来自 Honolulu Star-Advertiser 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Ed Case and Jill Tokuda win re-election to the U.S. House",
+        "url": "https://www.staradvertiser.com/2026/11/03/breaking-news/ed-case-and-jill-tokuda-win-re-election-to-the-u-s-house/",
+        "source": "Honolulu Star-Advertiser"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "severance",
-    "titleZh": "severance",
-    "traffic": "100+",
-    "started": "Mon, 2 Nov 2026 23:00:00 -0800",
-    "summary": "相关新闻主要集中在：‘Dark Matter’ Season 3 premiere date info: Will there be a ‘Dark Matter’ Season 3 on Apple TV? Everything we know。",
-    "explanation": "Google Trends 显示“severance”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：‘Dark Matter’ Season 3 premiere date info: Will there be a ‘Dark Matter’ Season 3 on Apple TV? Everything we know。这些报道来自 Decider 等媒体，因此带动了集中搜索。",
+    "title": "street fighter film theater count drop",
+    "titleZh": "street fighter film theater count drop",
+    "traffic": "200+",
+    "started": "Tue, 3 Nov 2026 22:20:00 -0800",
+    "summary": "相关新闻主要集中在：Removed From 750 Theaters, 'Street Fighter' Officially Passes Final Box-Office Milestone。",
+    "explanation": "Google Trends 显示“street fighter film theater count drop”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Removed From 750 Theaters, 'Street Fighter' Officially Passes Final Box-Office Milestone。这些报道来自 Collider 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "‘Dark Matter’ Season 3 premiere date info: Will there be a ‘Dark Matter’ Season 3 on Apple TV? Everything we know",
-        "url": "https://decider.com/2026/10/29/dark-matter-season-3-apple-tv/",
-        "source": "Decider"
+        "title": "Removed From 750 Theaters, 'Street Fighter' Officially Passes Final Box-Office Milestone",
+        "url": "https://collider.com/street-fighter-removed-from-750-theaters-box-office-milestone/",
+        "source": "Collider"
       }
     ]
   }
