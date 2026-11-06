@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "midterm election results senate",
-    "titleZh": "midterm election results senate",
-    "traffic": "50000+",
-    "started": "Wed, 4 Nov 2026 23:30:00 -0800",
-    "summary": "相关新闻主要集中在：Five reasons why Republicans lost so badly。",
-    "explanation": "Google Trends 显示“midterm election results senate”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Five reasons why Republicans lost so badly。这些报道来自 BBC 等媒体，因此带动了集中搜索。",
+    "title": "nifty 50",
+    "titleZh": "nifty 50",
+    "traffic": "100+",
+    "started": "Thu, 5 Nov 2026 23:30:00 -0800",
+    "summary": "相关新闻主要集中在：Overbought Nifty May Find Fresh Fuel as AI Stocks Tumble Globally。",
+    "explanation": "Google Trends 显示“nifty 50”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Overbought Nifty May Find Fresh Fuel as AI Stocks Tumble Globally。这些报道来自 Bloomberg.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Five reasons why Republicans lost so badly",
-        "url": "https://www.bbc.com/news/articles/cqkgjvr00zmyo",
-        "source": "BBC"
+        "title": "Overbought Nifty May Find Fresh Fuel as AI Stocks Tumble Globally",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-11-06/overbought-nifty-may-find-fresh-fuel-as-ai-stocks-tumble-globally",
+        "source": "Bloomberg.com"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "lapd navy helicopter near miss",
-    "titleZh": "lapd navy helicopter near miss",
+    "title": "anya taylor-joy",
+    "titleZh": "anya taylor-joy",
     "traffic": "100+",
-    "started": "Wed, 4 Nov 2026 23:30:00 -0800",
-    "summary": "相关新闻主要集中在：LAPD helicopter makes last-minute move to avoid mid-air collision with military aircraft。",
-    "explanation": "Google Trends 显示“lapd navy helicopter near miss”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：LAPD helicopter makes last-minute move to avoid mid-air collision with military aircraft。这些报道来自 CBS News 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 5 Nov 2026 23:30:00 -0800",
+    "summary": "相关新闻主要集中在：‘Dune 3’ Cast Says the Movie Takes ‘Departures’ From the Books, but ‘You’re Crazy If You’re Going to Pick Fault’ With It。",
+    "explanation": "Google Trends 显示“anya taylor-joy”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：‘Dune 3’ Cast Says the Movie Takes ‘Departures’ From the Books, but ‘You’re Crazy If You’re Going to Pick Fault’ With It。这些报道来自 Variety 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "LAPD helicopter makes last-minute move to avoid mid-air collision with military aircraft",
-        "url": "https://www.cbsnews.com/losangeles/video/lapd-helicopter-makes-last-minute-move-to-avoid-mid-air-collision-with-military-aircraft/",
-        "source": "CBS News"
+        "title": "‘Dune 3’ Cast Says the Movie Takes ‘Departures’ From the Books, but ‘You’re Crazy If You’re Going to Pick Fault’ With It",
+        "url": "https://variety.com/2026/film/news/dune-3-changes-books-cast-1236939217/",
+        "source": "Variety"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "chipotle",
-    "titleZh": "chipotle",
-    "traffic": "1000+",
-    "started": "Wed, 4 Nov 2026 23:20:00 -0800",
-    "summary": "相关新闻主要集中在：Chipotle shares rise 7% after CEO says same-store sales growth will continue。",
-    "explanation": "Google Trends 显示“chipotle”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Chipotle shares rise 7% after CEO says same-store sales growth will continue。这些报道来自 CNBC 等媒体，因此带动了集中搜索。",
+    "title": "kylie arellano",
+    "titleZh": "kylie arellano",
+    "traffic": "100+",
+    "started": "Thu, 5 Nov 2026 23:20:00 -0800",
+    "summary": "相关新闻主要集中在：Teen missing for over a year found at home of man who sexually assaulted her, removed braces with pliers, police say。",
+    "explanation": "Google Trends 显示“kylie arellano”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Teen missing for over a year found at home of man who sexually assaulted her, removed braces with pliers, police say。这些报道来自 Action News 5 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Chipotle shares rise 7% after CEO says same-store sales growth will continue",
-        "url": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
-        "source": "CNBC"
+        "title": "Teen missing for over a year found at home of man who sexually assaulted her, removed braces with pliers, police say",
+        "url": "https://www.actionnews5.com/2026/11/05/teen-missing-over-year-found-home-man-who-sexually-assaulted-her-removed-braces-with-pliers-police-say/",
+        "source": "Action News 5"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "tennis club",
-    "titleZh": "tennis club",
+    "title": "chris pratt",
+    "titleZh": "chris pratt",
     "traffic": "200+",
-    "started": "Wed, 4 Nov 2026 23:10:00 -0800",
-    "summary": "相关新闻主要集中在：New padel courts approved despite fears for neighbouring squash club。",
-    "explanation": "Google Trends 显示“tennis club”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：New padel courts approved despite fears for neighbouring squash club。这些报道来自 Yahoo News UK 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 5 Nov 2026 23:00:00 -0800",
+    "summary": "相关新闻主要集中在：'The Terminal List' Season 3 Gets Exciting Update as Creators Tease Next Book Adaptation。",
+    "explanation": "Google Trends 显示“chris pratt”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：'The Terminal List' Season 3 Gets Exciting Update as Creators Tease Next Book Adaptation。这些报道来自 IMDb 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "New padel courts approved despite fears for neighbouring squash club",
-        "url": "https://uk.news.yahoo.com/padel-courts-approved-despite-fears-050000925.html",
-        "source": "Yahoo News UK"
+        "title": "'The Terminal List' Season 3 Gets Exciting Update as Creators Tease Next Book Adaptation",
+        "url": "https://www.imdb.com/news/ni66087983/?ref_=nmnw_art_perm",
+        "source": "IMDb"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "aliyah boston",
-    "titleZh": "aliyah boston",
-    "traffic": "100+",
-    "started": "Wed, 4 Nov 2026 23:00:00 -0800",
-    "summary": "相关新闻主要集中在：Unrivaled & Kate Martin Mutually Agree to Terminate League Contract。",
-    "explanation": "Google Trends 显示“aliyah boston”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Unrivaled & Kate Martin Mutually Agree to Terminate League Contract。这些报道来自 EssentiallySports 等媒体，因此带动了集中搜索。",
+    "title": "when is black friday",
+    "titleZh": "when is black friday",
+    "traffic": "500+",
+    "started": "Thu, 5 Nov 2026 22:50:00 -0800",
+    "summary": "相关新闻主要集中在：4 Milwaukee Tools With Deep Discounts In November 2026。",
+    "explanation": "Google Trends 显示“when is black friday”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：4 Milwaukee Tools With Deep Discounts In November 2026。这些报道来自 SlashGear 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Unrivaled & Kate Martin Mutually Agree to Terminate League Contract",
-        "url": "https://www.essentiallysports.com/wnba-basketball-news-unrivaled-kate-martin-mutually-agree-to-terminate-league-contract/",
-        "source": "EssentiallySports"
+        "title": "4 Milwaukee Tools With Deep Discounts In November 2026",
+        "url": "https://www.slashgear.com/2307034/milwaukee-tools-with-deep-discounts-in-november-2026/",
+        "source": "SlashGear"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "los angeles dodgers",
-    "titleZh": "los angeles dodgers",
+    "title": "tanker",
+    "titleZh": "tanker",
     "traffic": "200+",
-    "started": "Wed, 4 Nov 2026 22:50:00 -0800",
-    "summary": "相关新闻主要集中在：Cubs free agent target: Tarik Skubal。",
-    "explanation": "Google Trends 显示“los angeles dodgers”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Cubs free agent target: Tarik Skubal。这些报道来自 Bleed Cubbie Blue 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 5 Nov 2026 22:40:00 -0800",
+    "summary": "相关新闻主要集中在：Trump diesel deal with Russia falters as US fuel supplies hit 20-year low。",
+    "explanation": "Google Trends 显示“tanker”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Trump diesel deal with Russia falters as US fuel supplies hit 20-year low。这些报道来自 Financial Times 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Cubs free agent target: Tarik Skubal",
-        "url": "https://www.bleedcubbieblue.com/chicago-cubs-rumors/236981/cubs-free-agent-target-tarik-skubal",
-        "source": "Bleed Cubbie Blue"
+        "title": "Trump diesel deal with Russia falters as US fuel supplies hit 20-year low",
+        "url": "https://www.ft.com/content/f66ebf48-6d09-4a91-9af5-8bf7adca65ba?syn-25a6b1a6=1",
+        "source": "Financial Times"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "enzo amore",
-    "titleZh": "enzo amore",
+    "title": "anthony santander",
+    "titleZh": "anthony santander",
     "traffic": "200+",
-    "started": "Wed, 4 Nov 2026 22:40:00 -0800",
-    "summary": "相关新闻主要集中在：Big Cass Addresses Enzo Amore Buzz, WWE Rumors on Bayley, Oba Femi, Penta, Je'Von and The Vision。",
-    "explanation": "Google Trends 显示“enzo amore”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Big Cass Addresses Enzo Amore Buzz, WWE Rumors on Bayley, Oba Femi, Penta, Je'Von and The Vision。这些报道来自 Bleacher Report 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 5 Nov 2026 22:40:00 -0800",
+    "summary": "相关新闻主要集中在：MLB outfielder Anthony Santander faces backlash over Abdul El-Sayed video, Blue Jays respond。",
+    "explanation": "Google Trends 显示“anthony santander”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：MLB outfielder Anthony Santander faces backlash over Abdul El-Sayed video, Blue Jays respond。这些报道来自 Fox News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Big Cass Addresses Enzo Amore Buzz, WWE Rumors on Bayley, Oba Femi, Penta, Je'Von and The Vision",
-        "url": "https://bleacherreport.com/articles/25528065-big-cass-addresses-enzo-amore-buzz-wwe-rumors-bayley-oba-femi-penta-jevon-and-vision",
-        "source": "Bleacher Report"
+        "title": "MLB outfielder Anthony Santander faces backlash over Abdul El-Sayed video, Blue Jays respond",
+        "url": "https://www.foxnews.com/outkick-sports/mlb-outfielder-anthony-santander-faces-backlash-abdul-el-sayed-video-blue-jays-respond",
+        "source": "Fox News"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "wang xinyu",
-    "titleZh": "wang xinyu",
+    "title": "martin mcdonagh",
+    "titleZh": "martin mcdonagh",
     "traffic": "200+",
-    "started": "Wed, 4 Nov 2026 22:40:00 -0800",
-    "summary": "相关新闻主要集中在：Alexandra Eala ‘super happy’ to be back, aims to finish on high at Hong Kong Open。",
-    "explanation": "Google Trends 显示“wang xinyu”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Alexandra Eala ‘super happy’ to be back, aims to finish on high at Hong Kong Open。这些报道来自 South China Morning Post 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 5 Nov 2026 22:30:00 -0800",
+    "summary": "相关新闻主要集中在：There’s Only One Man I Want to See Win Best Actor This Year。",
+    "explanation": "Google Trends 显示“martin mcdonagh”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：There’s Only One Man I Want to See Win Best Actor This Year。这些报道来自 Slate Magazine 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Alexandra Eala ‘super happy’ to be back, aims to finish on high at Hong Kong Open",
-        "url": "https://www.scmp.com/sport/hong-kong/article/3373181/alexandra-eala-super-happy-be-back-aims-finish-season-high-hong-kong-open",
-        "source": "South China Morning Post"
+        "title": "There’s Only One Man I Want to See Win Best Actor This Year",
+        "url": "https://slate.com/culture/2026/11/wild-horse-nine-oscars-john-malkovich-sam-rockwell-movie.html",
+        "source": "Slate Magazine"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "super troopers 3",
-    "titleZh": "super troopers 3",
+    "title": "michelle obama",
+    "titleZh": "michelle obama",
     "traffic": "200+",
-    "started": "Wed, 4 Nov 2026 22:30:00 -0800",
-    "summary": "相关新闻主要集中在：Eye on Entertainment: 'Super Troopers 3' on digital platforms。",
-    "explanation": "Google Trends 显示“super troopers 3”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Eye on Entertainment: 'Super Troopers 3' on digital platforms。这些报道来自 news8000.com 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 5 Nov 2026 22:20:00 -0800",
+    "summary": "相关新闻主要集中在：A ‘unique 20th Century Israelite’ who always made sure we got it right。",
+    "explanation": "Google Trends 显示“michelle obama”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：A ‘unique 20th Century Israelite’ who always made sure we got it right。这些报道来自 The Forward 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Eye on Entertainment: 'Super Troopers 3' on digital platforms",
-        "url": "https://www.news8000.com/entertainment/eye-on-entertainment-super-troopers-3-on-digital-platforms/video_2c5e49e2-609a-5990-8247-cd245c3fe215.html",
-        "source": "news8000.com"
+        "title": "A ‘unique 20th Century Israelite’ who always made sure we got it right",
+        "url": "https://forward.com/opinion/860060/capers-funnye-remembrance-black-jewish-chicago-beth-shalom-bnai-zaken/",
+        "source": "The Forward"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "antonia ruzic",
-    "titleZh": "antonia ruzic",
-    "traffic": "500+",
-    "started": "Wed, 4 Nov 2026 22:20:00 -0800",
-    "summary": "相关新闻主要集中在：November 4, 2026: Tomas Martin Etcheverry vs Alex de Minaur: Game Spread Tennis Prediction Market。",
-    "explanation": "Google Trends 显示“antonia ruzic”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：November 4, 2026: Tomas Martin Etcheverry vs Alex de Minaur: Game Spread Tennis Prediction Market。这些报道来自 Robinhood 等媒体，因此带动了集中搜索。",
+    "title": "zeynep sonmez",
+    "titleZh": "zeynep sonmez",
+    "traffic": "1000+",
+    "started": "Thu, 5 Nov 2026 22:10:00 -0800",
+    "summary": "相关新闻主要集中在：Zeynep Sönmez Hong Kong'da çeyrek finale yükseldi。",
+    "explanation": "Google Trends 显示“zeynep sonmez”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Zeynep Sönmez Hong Kong'da çeyrek finale yükseldi。这些报道来自 Yeni Şafak 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "November 4, 2026: Tomas Martin Etcheverry vs Alex de Minaur: Game Spread Tennis Prediction Market",
-        "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/tomas-martin-etcheverry-vs-alex-de-minaur-game-spread-nov-04-2026/",
-        "source": "Robinhood"
+        "title": "Zeynep Sönmez Hong Kong'da çeyrek finale yükseldi",
+        "url": "https://www.yenisafak.com/spor/zeynep-sonmez-hong-kongda-ceyrek-finale-yukseldi-4870069",
+        "source": "Yeni Şafak"
       }
     ]
   }
