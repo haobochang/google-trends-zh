@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "yerin ha",
-    "titleZh": "yerin ha",
-    "traffic": "100+",
-    "started": "Fri, 6 Nov 2026 22:50:00 -0800",
-    "summary": "相关新闻主要集中在：Help! I Can’t Stop Blushing At Yerin Ha & Michael B. Jordan’s Holiday Campaign。",
-    "explanation": "Google Trends 显示“yerin ha”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Help! I Can’t Stop Blushing At Yerin Ha & Michael B. Jordan’s Holiday Campaign。这些报道来自 Bustle 等媒体，因此带动了集中搜索。",
+    "title": "bitcoin",
+    "titleZh": "bitcoin",
+    "traffic": "1000+",
+    "started": "Sat, 7 Nov 2026 23:00:00 -0800",
+    "summary": "相关新闻主要集中在：Bitcoin tumbles to $76,000 as post-election stock rally fades。",
+    "explanation": "Google Trends 显示“bitcoin”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Bitcoin tumbles to $76,000 as post-election stock rally fades。这些报道来自 Yahoo Finance 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Help! I Can’t Stop Blushing At Yerin Ha & Michael B. Jordan’s Holiday Campaign",
-        "url": "https://www.bustle.com/entertainment/yerin-ha-michael-b-jordan-david-yurman-ad-chemistry",
-        "source": "Bustle"
+        "title": "Bitcoin tumbles to $76,000 as post-election stock rally fades",
+        "url": "https://finance.yahoo.com/markets/article/bitcoin-tumbles-to-76000-as-post-election-stock-rally-fades-171549230.html",
+        "source": "Yahoo Finance"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "alice tubello",
-    "titleZh": "alice tubello",
+    "title": "ryan garcia",
+    "titleZh": "ryan garcia",
     "traffic": "200+",
-    "started": "Fri, 6 Nov 2026 22:40:00 -0800",
-    "summary": "相关新闻主要集中在：Alarm triggers sudden evacuation as Bianca Andreescu serves for match in Cali。",
-    "explanation": "Google Trends 显示“alice tubello”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Alarm triggers sudden evacuation as Bianca Andreescu serves for match in Cali。这些报道来自 Tennisuptodate.com 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 7 Nov 2026 22:10:00 -0800",
+    "summary": "相关新闻主要集中在：‘Maybe one more’ – Crawford teases a comeback and calls out Garcia at 160lbs。",
+    "explanation": "Google Trends 显示“ryan garcia”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：‘Maybe one more’ – Crawford teases a comeback and calls out Garcia at 160lbs。这些报道来自 British Boxing News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Alarm triggers sudden evacuation as Bianca Andreescu serves for match in Cali",
-        "url": "https://tennisuptodate.com/wta/emergency-alarm-forces-bianca-andreescus-match-to-stop-while-serving-for-victory-in-cali",
-        "source": "Tennisuptodate.com"
+        "title": "‘Maybe one more’ – Crawford teases a comeback and calls out Garcia at 160lbs",
+        "url": "https://britishboxingnews.co.uk/world-news/maybe-one-more-crawford-teases-a-comeback-and-calls-out-garcia-at-160lbs/",
+        "source": "British Boxing News"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "natalie portman",
-    "titleZh": "natalie portman",
+    "title": "sunny deol",
+    "titleZh": "sunny deol",
     "traffic": "200+",
-    "started": "Fri, 6 Nov 2026 22:40:00 -0800",
-    "summary": "相关新闻主要集中在：Jenna Ortega & Natalie Portman’s Absurd Comedy Movie With More A-Listers Gets New Trailer。",
-    "explanation": "Google Trends 显示“natalie portman”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Jenna Ortega & Natalie Portman’s Absurd Comedy Movie With More A-Listers Gets New Trailer。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 7 Nov 2026 22:00:00 -0800",
+    "summary": "相关新闻主要集中在：Sunny Deol urges every Indian to watch Ramayana: ‘No less than any Hollywood movie’。",
+    "explanation": "Google Trends 显示“sunny deol”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Sunny Deol urges every Indian to watch Ramayana: ‘No less than any Hollywood movie’。这些报道来自 The Indian Express 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Jenna Ortega & Natalie Portman’s Absurd Comedy Movie With More A-Listers Gets New Trailer",
-        "url": "https://www.yahoo.com/entertainment/movies/trailers/articles/jenna-ortega-natalie-portman-absurd-161223419.html",
-        "source": "Yahoo"
+        "title": "Sunny Deol urges every Indian to watch Ramayana: ‘No less than any Hollywood movie’",
+        "url": "https://indianexpress.com/article/entertainment/bollywood/hanuman-actor-sunny-deol-urges-every-indian-to-watch-ramayana-part-1-10955294/",
+        "source": "The Indian Express"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "cif ss football playoffs",
-    "titleZh": "cif ss football playoffs",
-    "traffic": "100+",
-    "started": "Fri, 6 Nov 2026 22:40:00 -0800",
-    "summary": "相关新闻主要集中在：CIF Southern Section Football First-Round Playoff Scores (Divisions 2-14)。",
-    "explanation": "Google Trends 显示“cif ss football playoffs”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：CIF Southern Section Football First-Round Playoff Scores (Divisions 2-14)。这些报道来自 Sports Illustrated 等媒体，因此带动了集中搜索。",
+    "title": "elon musk net worth",
+    "titleZh": "elon musk net worth",
+    "traffic": "200+",
+    "started": "Sat, 7 Nov 2026 22:00:00 -0800",
+    "summary": "相关新闻主要集中在：Dozens party outside Elon Musk's Austin home after campaign donations fell flat。",
+    "explanation": "Google Trends 显示“elon musk net worth”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Dozens party outside Elon Musk's Austin home after campaign donations fell flat。这些报道来自 Austin American-Statesman 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "CIF Southern Section Football First-Round Playoff Scores (Divisions 2-14)",
-        "url": "https://www.si.com/high-school/california/cif-southern-section-football-first-round-playoff-scores-divisions-2-14-01m6syy9wj47",
-        "source": "Sports Illustrated"
+        "title": "Dozens party outside Elon Musk's Austin home after campaign donations fell flat",
+        "url": "https://www.statesman.com/news/article/elon-musk-ausin-home-election-party-22516775.php",
+        "source": "Austin American-Statesman"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "alexandra shubladze",
-    "titleZh": "alexandra shubladze",
+    "title": "i play rocky",
+    "titleZh": "i play rocky",
     "traffic": "2000+",
-    "started": "Fri, 6 Nov 2026 22:30:00 -0800",
-    "summary": "相关新闻主要集中在：Alex Eala faces tough test vs Maria Sakkari in Hong Kong Open semis。",
-    "explanation": "Google Trends 显示“alexandra shubladze”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Alex Eala faces tough test vs Maria Sakkari in Hong Kong Open semis。这些报道来自 Inquirer.net 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 7 Nov 2026 21:50:00 -0800",
+    "summary": "相关新闻主要集中在：Rocky review – 50 years on, Stallone’s boxer remains an exhilaratingly gritty contender。",
+    "explanation": "Google Trends 显示“i play rocky”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Rocky review – 50 years on, Stallone’s boxer remains an exhilaratingly gritty contender。这些报道来自 The Guardian 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Alex Eala faces tough test vs Maria Sakkari in Hong Kong Open semis",
-        "url": "https://sports.inquirer.net/705733/alex-eala-faces-tough-test-vs-maria-sakkari-in-hong-kong-open-semis",
-        "source": "Inquirer.net"
+        "title": "Rocky review – 50 years on, Stallone’s boxer remains an exhilaratingly gritty contender",
+        "url": "https://www.theguardian.com/film/2026/nov/06/rocky-review-50-sylvester-stallone-boxer",
+        "source": "The Guardian"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "freeze warning",
-    "titleZh": "freeze warning",
-    "traffic": "5000+",
-    "started": "Fri, 6 Nov 2026 22:20:00 -0800",
-    "summary": "相关新闻主要集中在：Frosty nights, sunshine, gradual warming on the way。",
-    "explanation": "Google Trends 显示“freeze warning”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Frosty nights, sunshine, gradual warming on the way。这些报道来自 KEYC News Now 等媒体，因此带动了集中搜索。",
+    "title": "rey mysterio",
+    "titleZh": "rey mysterio",
+    "traffic": "200+",
+    "started": "Sat, 7 Nov 2026 21:40:00 -0800",
+    "summary": "相关新闻主要集中在：Cook’s AAA on FOX Review 11.7.26。",
+    "explanation": "Google Trends 显示“rey mysterio”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Cook’s AAA on FOX Review 11.7.26。这些报道来自 411Mania. 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Frosty nights, sunshine, gradual warming on the way",
-        "url": "https://www.keyc.com/2026/11/05/frosty-nights-sunshine-gradual-warming-way/",
-        "source": "KEYC News Now"
+        "title": "Cook’s AAA on FOX Review 11.7.26",
+        "url": "https://411mania.com/wrestling/cooks-aaa-on-fox-review-11-7-26/",
+        "source": "411Mania."
       }
     ]
   },
   {
     "rank": 7,
-    "title": "claire liu",
-    "titleZh": "claire liu",
-    "traffic": "5000+",
-    "started": "Fri, 6 Nov 2026 22:20:00 -0800",
-    "summary": "相关新闻主要集中在：November 5, 2026: Lorenzo Musetti vs Luca Van Assche: Set 1 Winner Tennis Prediction Market。",
-    "explanation": "Google Trends 显示“claire liu”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：November 5, 2026: Lorenzo Musetti vs Luca Van Assche: Set 1 Winner Tennis Prediction Market。这些报道来自 Robinhood 等媒体，因此带动了集中搜索。",
+    "title": "dave chappelle",
+    "titleZh": "dave chappelle",
+    "traffic": "500+",
+    "started": "Sat, 7 Nov 2026 21:40:00 -0800",
+    "summary": "相关新闻主要集中在：New York Comedy Festival returns with 100 shows and 200 comedians。",
+    "explanation": "Google Trends 显示“dave chappelle”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：New York Comedy Festival returns with 100 shows and 200 comedians。这些报道来自 ABC7 New York 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "November 5, 2026: Lorenzo Musetti vs Luca Van Assche: Set 1 Winner Tennis Prediction Market",
-        "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/lorenzo-musetti-vs-luca-van-assche-set-1-winner-nov-05-2026/",
-        "source": "Robinhood"
+        "title": "New York Comedy Festival returns with 100 shows and 200 comedians",
+        "url": "https://abc7ny.com/post/new-york-comedy-festival-returns-100-shows-200-comedians/20020639/",
+        "source": "ABC7 New York"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "jeff hiller",
-    "titleZh": "jeff hiller",
+    "title": "de'aaron fox",
+    "titleZh": "de'aaron fox",
     "traffic": "200+",
-    "started": "Fri, 6 Nov 2026 22:20:00 -0800",
-    "summary": "相关新闻主要集中在：Video: Jeff Hiller is Bringing Humor and Heart to THE EXHIBITIONIST。",
-    "explanation": "Google Trends 显示“jeff hiller”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Video: Jeff Hiller is Bringing Humor and Heart to THE EXHIBITIONIST。这些报道来自 BroadwayWorld 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 7 Nov 2026 21:40:00 -0800",
+    "summary": "相关新闻主要集中在：Former Kings guard De'Aaron Fox shares advice to young rookie Darius Acuff Jr.。",
+    "explanation": "Google Trends 显示“de'aaron fox”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Former Kings guard De'Aaron Fox shares advice to young rookie Darius Acuff Jr.。这些报道来自 NBC Sports Bay Area & California 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Video: Jeff Hiller is Bringing Humor and Heart to THE EXHIBITIONIST",
-        "url": "https://www.broadwayworld.com/article/Video-Jeff-Hiller-is-Bringing-Humor-and-Heart-to-THE-EXHIBITIONIST-20261106",
-        "source": "BroadwayWorld"
+        "title": "Former Kings guard De'Aaron Fox shares advice to young rookie Darius Acuff Jr.",
+        "url": "https://www.nbcsportsbayarea.com/video/nba/sacramento-kings/deaaron-fox-presser-watch/1977731/",
+        "source": "NBC Sports Bay Area & California"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "angelina jolie",
-    "titleZh": "angelina jolie",
+    "title": "portland weather",
+    "titleZh": "portland weather",
     "traffic": "200+",
-    "started": "Fri, 6 Nov 2026 22:10:00 -0800",
-    "summary": "相关新闻主要集中在：Angelina Jolie and Brad Pitt’s daughter Vivienne officially drops his last name。",
-    "explanation": "Google Trends 显示“angelina jolie”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Angelina Jolie and Brad Pitt’s daughter Vivienne officially drops his last name。这些报道来自 HOLA 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 7 Nov 2026 21:40:00 -0800",
+    "summary": "相关新闻主要集中在：Portland wraps up one of its driest Octobers as mild November looms。",
+    "explanation": "Google Trends 显示“portland weather”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Portland wraps up one of its driest Octobers as mild November looms。这些报道来自 WGME 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Angelina Jolie and Brad Pitt’s daughter Vivienne officially drops his last name",
-        "url": "https://www.hola.com/us/celebrities/20261103932843/angelina-jolie-brad-pitt-daughter-vivienne-drops-last-name-legally/",
-        "source": "HOLA"
+        "title": "Portland wraps up one of its driest Octobers as mild November looms",
+        "url": "https://wgme.com/news/local/portland-wraps-up-one-of-its-driest-octobers-as-mild-november-looms",
+        "source": "WGME"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "cameron diaz",
-    "titleZh": "cameron diaz",
-    "traffic": "200+",
-    "started": "Fri, 6 Nov 2026 22:10:00 -0800",
-    "summary": "相关新闻主要集中在：Cameron Diaz Explains Why She Connected With Her ‘Bad Day’ Role (Exclusive)。",
-    "explanation": "Google Trends 显示“cameron diaz”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Cameron Diaz Explains Why She Connected With Her ‘Bad Day’ Role (Exclusive)。这些报道来自 People.com 等媒体，因此带动了集中搜索。",
+    "title": "mississippi senate race election results",
+    "titleZh": "mississippi senate race election results",
+    "traffic": "5000+",
+    "started": "Sat, 7 Nov 2026 21:30:00 -0800",
+    "summary": "相关新闻主要集中在：Midterm Elections Live Updates: Democrats’ Lead in Mississippi Senate Race Grows。",
+    "explanation": "Google Trends 显示“mississippi senate race election results”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Midterm Elections Live Updates: Democrats’ Lead in Mississippi Senate Race Grows。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Cameron Diaz Explains Why She Connected With Her ‘Bad Day’ Role (Exclusive)",
-        "url": "https://people.com/cameron-diaz-bad-day-trailer-netflix-comedy-exclusive-12222383",
-        "source": "People.com"
+        "title": "Midterm Elections Live Updates: Democrats’ Lead in Mississippi Senate Race Grows",
+        "url": "https://www.nytimes.com/live/2026/11/06/us/midterm-elections-trump",
+        "source": "The New York Times"
       }
     ]
   }
