@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "bitcoin",
-    "titleZh": "bitcoin",
-    "traffic": "1000+",
-    "started": "Sat, 7 Nov 2026 23:00:00 -0800",
-    "summary": "相关新闻主要集中在：Bitcoin tumbles to $76,000 as post-election stock rally fades。",
-    "explanation": "Google Trends 显示“bitcoin”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Bitcoin tumbles to $76,000 as post-election stock rally fades。这些报道来自 Yahoo Finance 等媒体，因此带动了集中搜索。",
+    "title": "steve sarkisian texas longhorns comments",
+    "titleZh": "steve sarkisian texas longhorns comments",
+    "traffic": "100+",
+    "started": "Sun, 8 Nov 2026 23:40:00 -0800",
+    "summary": "相关新闻主要集中在：'We're big game hunters' -- It's the right time to take Texas seriously as a title contender: The First Word。",
+    "explanation": "Google Trends 显示“steve sarkisian texas longhorns comments”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：'We're big game hunters' -- It's the right time to take Texas seriously as a title contender: The First Word。这些报道来自 247Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Bitcoin tumbles to $76,000 as post-election stock rally fades",
-        "url": "https://finance.yahoo.com/markets/article/bitcoin-tumbles-to-76000-as-post-election-stock-rally-fades-171549230.html",
-        "source": "Yahoo Finance"
+        "title": "'We're big game hunters' -- It's the right time to take Texas seriously as a title contender: The First Word",
+        "url": "https://247sports.com/college/texas/article/were-big-game-hunters-its-the-right-time-to-take-texas-seriously-as-a-title-contender-the-first-word-292400210/",
+        "source": "247Sports"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "ryan garcia",
-    "titleZh": "ryan garcia",
-    "traffic": "200+",
-    "started": "Sat, 7 Nov 2026 22:10:00 -0800",
-    "summary": "相关新闻主要集中在：‘Maybe one more’ – Crawford teases a comeback and calls out Garcia at 160lbs。",
-    "explanation": "Google Trends 显示“ryan garcia”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：‘Maybe one more’ – Crawford teases a comeback and calls out Garcia at 160lbs。这些报道来自 British Boxing News 等媒体，因此带动了集中搜索。",
+    "title": "destruction allstars delisted playstation store",
+    "titleZh": "destruction allstars delisted playstation store",
+    "traffic": "100+",
+    "started": "Sun, 8 Nov 2026 23:20:00 -0800",
+    "summary": "相关新闻主要集中在：PlayStation Game is Permanently Shutting Down on November 25。",
+    "explanation": "Google Trends 显示“destruction allstars delisted playstation store”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：PlayStation Game is Permanently Shutting Down on November 25。这些报道来自 OpenCritic 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "‘Maybe one more’ – Crawford teases a comeback and calls out Garcia at 160lbs",
-        "url": "https://britishboxingnews.co.uk/world-news/maybe-one-more-crawford-teases-a-comeback-and-calls-out-garcia-at-160lbs/",
-        "source": "British Boxing News"
+        "title": "PlayStation Game is Permanently Shutting Down on November 25",
+        "url": "https://opencritic.com/news/39261/playstation-game-is-permanently-shutting-down-on-november-25",
+        "source": "OpenCritic"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "sunny deol",
-    "titleZh": "sunny deol",
-    "traffic": "200+",
-    "started": "Sat, 7 Nov 2026 22:00:00 -0800",
-    "summary": "相关新闻主要集中在：Sunny Deol urges every Indian to watch Ramayana: ‘No less than any Hollywood movie’。",
-    "explanation": "Google Trends 显示“sunny deol”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Sunny Deol urges every Indian to watch Ramayana: ‘No less than any Hollywood movie’。这些报道来自 The Indian Express 等媒体，因此带动了集中搜索。",
+    "title": "elon musk spacex telecom acquisition",
+    "titleZh": "elon musk spacex telecom acquisition",
+    "traffic": "100+",
+    "started": "Sun, 8 Nov 2026 23:00:00 -0800",
+    "summary": "相关新闻主要集中在：How Musk Plans to Shake Up the US Wireless Industry。",
+    "explanation": "Google Trends 显示“elon musk spacex telecom acquisition”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：How Musk Plans to Shake Up the US Wireless Industry。这些报道来自 Bloomberg.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Sunny Deol urges every Indian to watch Ramayana: ‘No less than any Hollywood movie’",
-        "url": "https://indianexpress.com/article/entertainment/bollywood/hanuman-actor-sunny-deol-urges-every-indian-to-watch-ramayana-part-1-10955294/",
-        "source": "The Indian Express"
+        "title": "How Musk Plans to Shake Up the US Wireless Industry",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-05/how-musk-s-starlink-can-challenge-at-t-verizon-and-t-mobile",
+        "source": "Bloomberg.com"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "elon musk net worth",
-    "titleZh": "elon musk net worth",
-    "traffic": "200+",
-    "started": "Sat, 7 Nov 2026 22:00:00 -0800",
-    "summary": "相关新闻主要集中在：Dozens party outside Elon Musk's Austin home after campaign donations fell flat。",
-    "explanation": "Google Trends 显示“elon musk net worth”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Dozens party outside Elon Musk's Austin home after campaign donations fell flat。这些报道来自 Austin American-Statesman 等媒体，因此带动了集中搜索。",
+    "title": "10",
+    "titleZh": "10",
+    "traffic": "10000+",
+    "started": "Sun, 8 Nov 2026 22:50:00 -0800",
+    "summary": "相关新闻主要集中在：Week 10 CFB Overreactions: Cash is still king, first-year coaches in trouble and Lane Kiffin's Alabama problem。",
+    "explanation": "Google Trends 显示“10”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Week 10 CFB Overreactions: Cash is still king, first-year coaches in trouble and Lane Kiffin's Alabama problem。这些报道来自 CBS Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Dozens party outside Elon Musk's Austin home after campaign donations fell flat",
-        "url": "https://www.statesman.com/news/article/elon-musk-ausin-home-election-party-22516775.php",
-        "source": "Austin American-Statesman"
+        "title": "Week 10 CFB Overreactions: Cash is still king, first-year coaches in trouble and Lane Kiffin's Alabama problem",
+        "url": "https://www.cbssports.com/college-football/news/week-10-cfb-overreactions-lane-kiffin-alabama-problem-spenders-coaches/",
+        "source": "CBS Sports"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "i play rocky",
-    "titleZh": "i play rocky",
+    "title": "joseph baena",
+    "titleZh": "joseph baena",
     "traffic": "2000+",
-    "started": "Sat, 7 Nov 2026 21:50:00 -0800",
-    "summary": "相关新闻主要集中在：Rocky review – 50 years on, Stallone’s boxer remains an exhilaratingly gritty contender。",
-    "explanation": "Google Trends 显示“i play rocky”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Rocky review – 50 years on, Stallone’s boxer remains an exhilaratingly gritty contender。这些报道来自 The Guardian 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 8 Nov 2026 22:50:00 -0800",
+    "summary": "相关新闻主要集中在：Cash Hudson (Slash's son): News and Updates。",
+    "explanation": "Google Trends 显示“joseph baena”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Cash Hudson (Slash's son): News and Updates。这些报道来自 TMZ 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Rocky review – 50 years on, Stallone’s boxer remains an exhilaratingly gritty contender",
-        "url": "https://www.theguardian.com/film/2026/nov/06/rocky-review-50-sylvester-stallone-boxer",
-        "source": "The Guardian"
+        "title": "Cash Hudson (Slash's son): News and Updates",
+        "url": "https://www.tmz.com/people/cash-hudson/",
+        "source": "TMZ"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "rey mysterio",
-    "titleZh": "rey mysterio",
-    "traffic": "200+",
-    "started": "Sat, 7 Nov 2026 21:40:00 -0800",
-    "summary": "相关新闻主要集中在：Cook’s AAA on FOX Review 11.7.26。",
-    "explanation": "Google Trends 显示“rey mysterio”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Cook’s AAA on FOX Review 11.7.26。这些报道来自 411Mania. 等媒体，因此带动了集中搜索。",
+    "title": "杭州枪击",
+    "titleZh": "杭州枪击",
+    "traffic": "500+",
+    "started": "Sun, 8 Nov 2026 22:40:00 -0800",
+    "summary": "相关新闻主要集中在：2026无界艺术时尚周开幕式暨文旅时尚产业大会在临平举行。",
+    "explanation": "Google Trends 显示“杭州枪击”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：2026无界艺术时尚周开幕式暨文旅时尚产业大会在临平举行。这些报道来自 凤凰网 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Cook’s AAA on FOX Review 11.7.26",
-        "url": "https://411mania.com/wrestling/cooks-aaa-on-fox-review-11-7-26/",
-        "source": "411Mania."
+        "title": "2026无界艺术时尚周开幕式暨文旅时尚产业大会在临平举行",
+        "url": "https://zj.ifeng.com/c/8xrjfAVyI0A",
+        "source": "凤凰网"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "dave chappelle",
-    "titleZh": "dave chappelle",
-    "traffic": "500+",
-    "started": "Sat, 7 Nov 2026 21:40:00 -0800",
-    "summary": "相关新闻主要集中在：New York Comedy Festival returns with 100 shows and 200 comedians。",
-    "explanation": "Google Trends 显示“dave chappelle”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：New York Comedy Festival returns with 100 shows and 200 comedians。这些报道来自 ABC7 New York 等媒体，因此带动了集中搜索。",
+    "title": "visionquest episode 8",
+    "titleZh": "visionquest episode 8",
+    "traffic": "1000+",
+    "started": "Sun, 8 Nov 2026 22:40:00 -0800",
+    "summary": "相关新闻主要集中在：New ‘VisionQuest’ Clip Puts Vision’s Grief Over Wanda Front and Center。",
+    "explanation": "Google Trends 显示“visionquest episode 8”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：New ‘VisionQuest’ Clip Puts Vision’s Grief Over Wanda Front and Center。这些报道来自 Comic Basics 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "New York Comedy Festival returns with 100 shows and 200 comedians",
-        "url": "https://abc7ny.com/post/new-york-comedy-festival-returns-100-shows-200-comedians/20020639/",
-        "source": "ABC7 New York"
+        "title": "New ‘VisionQuest’ Clip Puts Vision’s Grief Over Wanda Front and Center",
+        "url": "https://www.comicbasics.com/new-visionquest-clip-puts-visions-grief-over-wanda-front-and-center/",
+        "source": "Comic Basics"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "de'aaron fox",
-    "titleZh": "de'aaron fox",
-    "traffic": "200+",
-    "started": "Sat, 7 Nov 2026 21:40:00 -0800",
-    "summary": "相关新闻主要集中在：Former Kings guard De'Aaron Fox shares advice to young rookie Darius Acuff Jr.。",
-    "explanation": "Google Trends 显示“de'aaron fox”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Former Kings guard De'Aaron Fox shares advice to young rookie Darius Acuff Jr.。这些报道来自 NBC Sports Bay Area & California 等媒体，因此带动了集中搜索。",
+    "title": "michaella love is blind",
+    "titleZh": "michaella love is blind",
+    "traffic": "500+",
+    "started": "Sun, 8 Nov 2026 22:30:00 -0800",
+    "summary": "相关新闻主要集中在：Love Is Blind Season 11 Boston Beekeeper Matt, What Really Happened with Michaella, Shrooms。",
+    "explanation": "Google Trends 显示“michaella love is blind”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Love Is Blind Season 11 Boston Beekeeper Matt, What Really Happened with Michaella, Shrooms。这些报道来自 IMDb 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Former Kings guard De'Aaron Fox shares advice to young rookie Darius Acuff Jr.",
-        "url": "https://www.nbcsportsbayarea.com/video/nba/sacramento-kings/deaaron-fox-presser-watch/1977731/",
-        "source": "NBC Sports Bay Area & California"
+        "title": "Love Is Blind Season 11 Boston Beekeeper Matt, What Really Happened with Michaella, Shrooms",
+        "url": "https://www.imdb.com/news/ni66101984/?ref_=ttnw_art_perm",
+        "source": "IMDb"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "portland weather",
-    "titleZh": "portland weather",
-    "traffic": "200+",
-    "started": "Sat, 7 Nov 2026 21:40:00 -0800",
-    "summary": "相关新闻主要集中在：Portland wraps up one of its driest Octobers as mild November looms。",
-    "explanation": "Google Trends 显示“portland weather”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Portland wraps up one of its driest Octobers as mild November looms。这些报道来自 WGME 等媒体，因此带动了集中搜索。",
+    "title": "jimmy fallon",
+    "titleZh": "jimmy fallon",
+    "traffic": "100+",
+    "started": "Sun, 8 Nov 2026 22:20:00 -0800",
+    "summary": "相关新闻主要集中在：Win Tickets To Comics Come Home。",
+    "explanation": "Google Trends 显示“jimmy fallon”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Win Tickets To Comics Come Home。这些报道来自 98.5 The Sports Hub 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Portland wraps up one of its driest Octobers as mild November looms",
-        "url": "https://wgme.com/news/local/portland-wraps-up-one-of-its-driest-octobers-as-mild-november-looms",
-        "source": "WGME"
+        "title": "Win Tickets To Comics Come Home",
+        "url": "https://985thesportshub.com/2026/11/02/win-tickets-to-comics-come-home/",
+        "source": "98.5 The Sports Hub"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "mississippi senate race election results",
-    "titleZh": "mississippi senate race election results",
-    "traffic": "5000+",
-    "started": "Sat, 7 Nov 2026 21:30:00 -0800",
-    "summary": "相关新闻主要集中在：Midterm Elections Live Updates: Democrats’ Lead in Mississippi Senate Race Grows。",
-    "explanation": "Google Trends 显示“mississippi senate race election results”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Midterm Elections Live Updates: Democrats’ Lead in Mississippi Senate Race Grows。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
+    "title": "rockstar gta 6 new screenshots",
+    "titleZh": "rockstar gta 6 new screenshots",
+    "traffic": "2000+",
+    "started": "Sun, 8 Nov 2026 22:10:00 -0800",
+    "summary": "相关新闻主要集中在：Download Grand Theft Auto VI Faster and Get to Leonida Sooner With Spectrum Internet Gig。",
+    "explanation": "Google Trends 显示“rockstar gta 6 new screenshots”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Download Grand Theft Auto VI Faster and Get to Leonida Sooner With Spectrum Internet Gig。这些报道来自 Charter Communications 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Midterm Elections Live Updates: Democrats’ Lead in Mississippi Senate Race Grows",
-        "url": "https://www.nytimes.com/live/2026/11/06/us/midterm-elections-trump",
-        "source": "The New York Times"
+        "title": "Download Grand Theft Auto VI Faster and Get to Leonida Sooner With Spectrum Internet Gig",
+        "url": "https://corporate.charter.com/newsroom/spectrum-giving-free-gig-speed-lift-thanksgiving-grand-theft-auto",
+        "source": "Charter Communications"
       }
     ]
   }
