@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "黄仁勋",
-    "titleZh": "黄仁勋",
-    "traffic": "200+",
-    "started": "Thu, 12 Nov 2026 00:00:00 -0800",
-    "summary": "相关新闻主要集中在：Megaspeed什么来头？资产一年暴增近百倍，被疑走私英伟达芯片，黄乐据报曾遭新加坡限制离境。",
-    "explanation": "Google Trends 显示“黄仁勋”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Megaspeed什么来头？资产一年暴增近百倍，被疑走私英伟达芯片，黄乐据报曾遭新加坡限制离境。这些报道来自 DW.com 等媒体，因此带动了集中搜索。",
+    "title": "new zealand breakers",
+    "titleZh": "new zealand breakers",
+    "traffic": "100+",
+    "started": "Thu, 12 Nov 2026 23:40:00 -0800",
+    "summary": "相关新闻主要集中在：'Devastating for the club': Breakers dealt massive injury blow。",
+    "explanation": "Google Trends 显示“new zealand breakers”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：'Devastating for the club': Breakers dealt massive injury blow。这些报道来自 1News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Megaspeed什么来头？资产一年暴增近百倍，被疑走私英伟达芯片，黄乐据报曾遭新加坡限制离境",
-        "url": "https://www.dw.com/zh/%E9%BB%84%E4%BB%81%E5%8B%8B%E9%A3%8E%E6%B3%A2%E8%B0%83%E6%9F%A5%E9%BB%84%E4%B9%90%E4%BB%BB%E8%81%8C%E7%9A%84%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%85%AC%E5%8F%B8%E4%BB%80%E4%B9%88%E6%9D%A5%E5%A4%B4/a-79907996",
-        "source": "DW.com"
+        "title": "'Devastating for the club': Breakers dealt massive injury blow",
+        "url": "https://www.1news.co.nz/2026/11/10/devastating-for-the-club-breakers-dealt-massive-injury-blow/",
+        "source": "1News"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "weather los angeles",
-    "titleZh": "weather los angeles",
+    "title": "marvel rivals season 11 release date",
+    "titleZh": "marvel rivals season 11 release date",
     "traffic": "100+",
-    "started": "Thu, 12 Nov 2026 00:00:00 -0800",
-    "summary": "相关新闻主要集中在：Southern California braces for rain after days of unseasonable heat。",
-    "explanation": "Google Trends 显示“weather los angeles”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Southern California braces for rain after days of unseasonable heat。这些报道来自 Los Angeles Daily News 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 12 Nov 2026 23:40:00 -0800",
+    "summary": "相关新闻主要集中在：All season 11 battle pass skins in Marvel Rivals – The Incursion。",
+    "explanation": "Google Trends 显示“marvel rivals season 11 release date”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：All season 11 battle pass skins in Marvel Rivals – The Incursion。这些报道来自 Yahoo Tech 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Southern California braces for rain after days of unseasonable heat",
-        "url": "https://www.dailynews.com/2026/11/11/southern-california-braces-for-rain-after-days-of-unseasonable-heat/",
-        "source": "Los Angeles Daily News"
+        "title": "All season 11 battle pass skins in Marvel Rivals – The Incursion",
+        "url": "https://tech.yahoo.com/gaming/articles/season-11-battle-pass-skins-111835987.html",
+        "source": "Yahoo Tech"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "dhs proposed h-1b extension rule",
-    "titleZh": "dhs proposed h-1b extension rule",
-    "traffic": "200+",
-    "started": "Wed, 11 Nov 2026 23:50:00 -0800",
-    "summary": "相关新闻主要集中在：Mass. Judge Probes Impact Of DHS Student Internship Rules。",
-    "explanation": "Google Trends 显示“dhs proposed h-1b extension rule”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Mass. Judge Probes Impact Of DHS Student Internship Rules。这些报道来自 Law360 等媒体，因此带动了集中搜索。",
+    "title": "gta 6 pc",
+    "titleZh": "gta 6 pc",
+    "traffic": "2000+",
+    "started": "Thu, 12 Nov 2026 23:40:00 -0800",
+    "summary": "相关新闻主要集中在：Is Your Console Ready for Grand Theft Auto 6? Here’s What You Can Do to Make Room。",
+    "explanation": "Google Trends 显示“gta 6 pc”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Is Your Console Ready for Grand Theft Auto 6? Here’s What You Can Do to Make Room。这些报道来自 CNET 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Mass. Judge Probes Impact Of DHS Student Internship Rules",
-        "url": "https://www.law360.com/employment-authority/articles/2547284/mass-judge-probes-impact-of-dhs-student-internship-rules",
-        "source": "Law360"
+        "title": "Is Your Console Ready for Grand Theft Auto 6? Here’s What You Can Do to Make Room",
+        "url": "https://www.cnet.com/tech/gaming/get-your-console-ready-for-grand-theft-auto-6/",
+        "source": "CNET"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "katherine kealoha",
-    "titleZh": "katherine kealoha",
+    "title": "gta 6 pc release date",
+    "titleZh": "gta 6 pc release date",
     "traffic": "100+",
-    "started": "Wed, 11 Nov 2026 23:50:00 -0800",
-    "summary": "相关新闻主要集中在：Former Honolulu prosecutor Katherine Kealoha set for halfway house release after conviction in mailbox framing case。",
-    "explanation": "Google Trends 显示“katherine kealoha”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Former Honolulu prosecutor Katherine Kealoha set for halfway house release after conviction in mailbox framing case。这些报道来自 KITV 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 12 Nov 2026 23:30:00 -0800",
+    "summary": "相关新闻主要集中在：An Update On A Possible ‘GTA 6’ PC Release Date Plans, Due To AI。",
+    "explanation": "Google Trends 显示“gta 6 pc release date”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：An Update On A Possible ‘GTA 6’ PC Release Date Plans, Due To AI。这些报道来自 Forbes 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Former Honolulu prosecutor Katherine Kealoha set for halfway house release after conviction in mailbox framing case",
-        "url": "https://www.kitv.com/news/crime/former-honolulu-prosecutor-katherine-kealoha-set-for-halfway-house-release-after-conviction-in-mailbox-framing/article_fceaaae3-5836-4ecd-98fc-ff5884a4c885.html",
-        "source": "KITV"
+        "title": "An Update On A Possible ‘GTA 6’ PC Release Date Plans, Due To AI",
+        "url": "https://www.forbes.com/sites/paultassi/2026/11/07/an-update-on-a-possible-gta-6-pc-release-date-plans-due-to-ai/",
+        "source": "Forbes"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "game of thrones",
-    "titleZh": "game of thrones",
-    "traffic": "200+",
-    "started": "Wed, 11 Nov 2026 23:50:00 -0800",
-    "summary": "相关新闻主要集中在：Game of Thrones: Dragonfire now lets you build your own team of capable Commanders。",
-    "explanation": "Google Trends 显示“game of thrones”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Game of Thrones: Dragonfire now lets you build your own team of capable Commanders。这些报道来自 Pocket Gamer 等媒体，因此带动了集中搜索。",
+    "title": "friday the 13th",
+    "titleZh": "friday the 13th",
+    "traffic": "500+",
+    "started": "Thu, 12 Nov 2026 23:20:00 -0800",
+    "summary": "相关新闻主要集中在：Friday the 13th and its superstitious origins。",
+    "explanation": "Google Trends 显示“friday the 13th”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Friday the 13th and its superstitious origins。这些报道来自 Buckrail - Jackson Hole, news 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Game of Thrones: Dragonfire now lets you build your own team of capable Commanders",
-        "url": "https://www.pocketgamer.com/game-of-thrones-dragonfire/commanders-feature-implemented/",
-        "source": "Pocket Gamer"
+        "title": "Friday the 13th and its superstitious origins",
+        "url": "https://buckrail.com/friday-the-13th-and-its-superstitious-origins/",
+        "source": "Buckrail - Jackson Hole, news"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "pete davidson",
-    "titleZh": "pete davidson",
+    "title": "colman domingo",
+    "titleZh": "colman domingo",
     "traffic": "100+",
-    "started": "Wed, 11 Nov 2026 23:50:00 -0800",
-    "summary": "相关新闻主要集中在：Pete Davidson Teases Future Tattoos After “Brutal” Removal Process。",
-    "explanation": "Google Trends 显示“pete davidson”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Pete Davidson Teases Future Tattoos After “Brutal” Removal Process。这些报道来自 E! News 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 12 Nov 2026 23:10:00 -0800",
+    "summary": "相关新闻主要集中在：We’re Dangerously Close to Another #OscarsSoWhite Year. Can Zendaya, Colman Domingo, Pedro Pascal and More Prevent It?。",
+    "explanation": "Google Trends 显示“colman domingo”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：We’re Dangerously Close to Another #OscarsSoWhite Year. Can Zendaya, Colman Domingo, Pedro Pascal and More Prevent It?。这些报道来自 IMDb 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Pete Davidson Teases Future Tattoos After “Brutal” Removal Process",
-        "url": "https://www.eonline.com/videos/2520348227808/pete-davidson-teases-future-tattoos-after-brutal-removal-process",
-        "source": "E! News"
-      }
-    ]
-  },
-  {
-    "rank": 7,
-    "title": "el niño 2026",
-    "titleZh": "el niño 2026",
-    "traffic": "200+",
-    "started": "Wed, 11 Nov 2026 23:40:00 -0800",
-    "summary": "相关新闻主要集中在：Bracing for El Niño。",
-    "explanation": "Google Trends 显示“el niño 2026”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Bracing for El Niño。这些报道来自 unicef usa 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Bracing for El Niño",
-        "url": "https://www.unicefusa.org/stories/bracing-el-nino",
-        "source": "unicef usa"
-      }
-    ]
-  },
-  {
-    "rank": 8,
-    "title": "sasha obama",
-    "titleZh": "sasha obama",
-    "traffic": "100+",
-    "started": "Wed, 11 Nov 2026 23:40:00 -0800",
-    "summary": "相关新闻主要集中在：Malia and Sasha Obama Do Fall Layering Two Very Different Ways。",
-    "explanation": "Google Trends 显示“sasha obama”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Malia and Sasha Obama Do Fall Layering Two Very Different Ways。这些报道来自 Teen Vogue 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Malia and Sasha Obama Do Fall Layering Two Very Different Ways",
-        "url": "https://www.teenvogue.com/story/malia-sasha-obama-style-trench-coats-two-very-different-ways",
-        "source": "Teen Vogue"
-      }
-    ]
-  },
-  {
-    "rank": 9,
-    "title": "a24",
-    "titleZh": "a24",
-    "traffic": "100+",
-    "started": "Wed, 11 Nov 2026 23:40:00 -0800",
-    "summary": "相关新闻主要集中在：‘You Can See Everything’ Turns a Secretly Made Elizabeth Holmes Documentary Into a Box Office Phenomenon。",
-    "explanation": "Google Trends 显示“a24”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：‘You Can See Everything’ Turns a Secretly Made Elizabeth Holmes Documentary Into a Box Office Phenomenon。这些报道来自 IMDb 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "‘You Can See Everything’ Turns a Secretly Made Elizabeth Holmes Documentary Into a Box Office Phenomenon",
-        "url": "https://www.imdb.com/news/ni66101548/?ref_=ttnw_art_perm",
+        "title": "We’re Dangerously Close to Another #OscarsSoWhite Year. Can Zendaya, Colman Domingo, Pedro Pascal and More Prevent It?",
+        "url": "https://www.imdb.com/fr-ca/news/ni66108061/?ref_=tt_nwr_2",
         "source": "IMDb"
       }
     ]
   },
   {
-    "rank": 10,
-    "title": "ps6",
-    "titleZh": "ps6",
-    "traffic": "100+",
-    "started": "Wed, 11 Nov 2026 23:30:00 -0800",
-    "summary": "相关新闻主要集中在：PS6 development progress: Sony's reported update。",
-    "explanation": "Google Trends 显示“ps6”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：PS6 development progress: Sony's reported update。这些报道来自 NeoTeo 等媒体，因此带动了集中搜索。",
+    "rank": 7,
+    "title": "brisbane bullets",
+    "titleZh": "brisbane bullets",
+    "traffic": "200+",
+    "started": "Thu, 12 Nov 2026 23:00:00 -0800",
+    "summary": "相关新闻主要集中在：Brisbane Bullets @ New Zealand Breakers Half Odds。",
+    "explanation": "Google Trends 显示“brisbane bullets”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Brisbane Bullets @ New Zealand Breakers Half Odds。这些报道来自 FanDuel Sportsbook 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "PS6 development progress: Sony's reported update",
-        "url": "https://www.neoteo.com/en/sony-reportedly-says-ps6-development-is-on-schedule",
-        "source": "NeoTeo"
+        "title": "Brisbane Bullets @ New Zealand Breakers Half Odds",
+        "url": "https://sportsbook.fanduel.com/basketball/australian-nbl./brisbane-bullets-@-new-zealand-breakers-36289161?tab=half",
+        "source": "FanDuel Sportsbook"
+      }
+    ]
+  },
+  {
+    "rank": 8,
+    "title": "selena gomez",
+    "titleZh": "selena gomez",
+    "traffic": "200+",
+    "started": "Thu, 12 Nov 2026 23:00:00 -0800",
+    "summary": "相关新闻主要集中在：TV's Top Salaries: Which Streaming Stars Make $1 Million Or More Per Episode?。",
+    "explanation": "Google Trends 显示“selena gomez”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：TV's Top Salaries: Which Streaming Stars Make $1 Million Or More Per Episode?。这些报道来自 TVLine 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "TV's Top Salaries: Which Streaming Stars Make $1 Million Or More Per Episode?",
+        "url": "https://www.tvline.com/2315341/tv-top-salaries-highest-paid-actors-streaming-list/",
+        "source": "TVLine"
+      }
+    ]
+  },
+  {
+    "rank": 9,
+    "title": "kevin holland",
+    "titleZh": "kevin holland",
+    "traffic": "100+",
+    "started": "Thu, 12 Nov 2026 23:00:00 -0800",
+    "summary": "相关新闻主要集中在：Uroš Medić: 'I'm Making My Way Towards The Belt' | Polymarket UFC 334。",
+    "explanation": "Google Trends 显示“kevin holland”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Uroš Medić: 'I'm Making My Way Towards The Belt' | Polymarket UFC 334。这些报道来自 UFC.com 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Uroš Medić: 'I'm Making My Way Towards The Belt' | Polymarket UFC 334",
+        "url": "https://www.ufc.com/video/161823",
+        "source": "UFC.com"
+      }
+    ]
+  },
+  {
+    "rank": 10,
+    "title": "james webb space telescope",
+    "titleZh": "james webb space telescope",
+    "traffic": "200+",
+    "started": "Thu, 12 Nov 2026 22:50:00 -0800",
+    "summary": "相关新闻主要集中在：The most distant pair of quasars in the early Universe has been discovered。",
+    "explanation": "Google Trends 显示“james webb space telescope”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：The most distant pair of quasars in the early Universe has been discovered。这些报道来自 Universe Space Tech 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "The most distant pair of quasars in the early Universe has been discovered",
+        "url": "https://universemagazine.com/en/astronomers-discover-two-supermassive-quasars-where-they-shouldnt-exist/",
+        "source": "Universe Space Tech"
       }
     ]
   }
