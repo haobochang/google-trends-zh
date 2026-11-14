@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "new zealand breakers",
-    "titleZh": "new zealand breakers",
+    "title": "tahiti",
+    "titleZh": "tahiti",
     "traffic": "100+",
-    "started": "Thu, 12 Nov 2026 23:40:00 -0800",
-    "summary": "相关新闻主要集中在：'Devastating for the club': Breakers dealt massive injury blow。",
-    "explanation": "Google Trends 显示“new zealand breakers”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：'Devastating for the club': Breakers dealt massive injury blow。这些报道来自 1News 等媒体，因此带动了集中搜索。",
+    "started": "Fri, 13 Nov 2026 23:20:00 -0800",
+    "summary": "相关新闻主要集中在：Live Tahiti - Cook Islands Friendlies 3 de Matchs Amicaux 2026 14/11。",
+    "explanation": "Google Trends 显示“tahiti”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Live Tahiti - Cook Islands Friendlies 3 de Matchs Amicaux 2026 14/11。这些报道来自 Foot Mercato 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "'Devastating for the club': Breakers dealt massive injury blow",
-        "url": "https://www.1news.co.nz/2026/11/10/devastating-for-the-club-breakers-dealt-massive-injury-blow/",
-        "source": "1News"
+        "title": "Live Tahiti - Cook Islands Friendlies 3 de Matchs Amicaux 2026 14/11",
+        "url": "https://www.footmercato.net/live/8032090855567629765-tahiti-vs-iles-cook",
+        "source": "Foot Mercato"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "marvel rivals season 11 release date",
-    "titleZh": "marvel rivals season 11 release date",
-    "traffic": "100+",
-    "started": "Thu, 12 Nov 2026 23:40:00 -0800",
-    "summary": "相关新闻主要集中在：All season 11 battle pass skins in Marvel Rivals – The Incursion。",
-    "explanation": "Google Trends 显示“marvel rivals season 11 release date”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：All season 11 battle pass skins in Marvel Rivals – The Incursion。这些报道来自 Yahoo Tech 等媒体，因此带动了集中搜索。",
+    "title": "dune",
+    "titleZh": "dune",
+    "traffic": "200+",
+    "started": "Fri, 13 Nov 2026 23:10:00 -0800",
+    "summary": "相关新闻主要集中在：‘Dune: Part Three’ Stars Set For Very Childish BBC Prank Tonight。",
+    "explanation": "Google Trends 显示“dune”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：‘Dune: Part Three’ Stars Set For Very Childish BBC Prank Tonight。这些报道来自 Deadline 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "All season 11 battle pass skins in Marvel Rivals – The Incursion",
-        "url": "https://tech.yahoo.com/gaming/articles/season-11-battle-pass-skins-111835987.html",
-        "source": "Yahoo Tech"
+        "title": "‘Dune: Part Three’ Stars Set For Very Childish BBC Prank Tonight",
+        "url": "https://deadline.com/2026/11/chalamet-dune-part-three-prank-bbc-children-in-need-1237222621/",
+        "source": "Deadline"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "gta 6 pc",
-    "titleZh": "gta 6 pc",
-    "traffic": "2000+",
-    "started": "Thu, 12 Nov 2026 23:40:00 -0800",
-    "summary": "相关新闻主要集中在：Is Your Console Ready for Grand Theft Auto 6? Here’s What You Can Do to Make Room。",
-    "explanation": "Google Trends 显示“gta 6 pc”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Is Your Console Ready for Grand Theft Auto 6? Here’s What You Can Do to Make Room。这些报道来自 CNET 等媒体，因此带动了集中搜索。",
+    "title": "jennifer aniston",
+    "titleZh": "jennifer aniston",
+    "traffic": "200+",
+    "started": "Fri, 13 Nov 2026 23:10:00 -0800",
+    "summary": "相关新闻主要集中在：Hollywood’s Biggest TV Paychecks Revealed, and Zendaya’s ‘Euphoria’ Deal Is Only the Start。",
+    "explanation": "Google Trends 显示“jennifer aniston”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Hollywood’s Biggest TV Paychecks Revealed, and Zendaya’s ‘Euphoria’ Deal Is Only the Start。这些报道来自 IMDb 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Is Your Console Ready for Grand Theft Auto 6? Here’s What You Can Do to Make Room",
-        "url": "https://www.cnet.com/tech/gaming/get-your-console-ready-for-grand-theft-auto-6/",
-        "source": "CNET"
-      }
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "gta 6 pc release date",
-    "titleZh": "gta 6 pc release date",
-    "traffic": "100+",
-    "started": "Thu, 12 Nov 2026 23:30:00 -0800",
-    "summary": "相关新闻主要集中在：An Update On A Possible ‘GTA 6’ PC Release Date Plans, Due To AI。",
-    "explanation": "Google Trends 显示“gta 6 pc release date”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：An Update On A Possible ‘GTA 6’ PC Release Date Plans, Due To AI。这些报道来自 Forbes 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "An Update On A Possible ‘GTA 6’ PC Release Date Plans, Due To AI",
-        "url": "https://www.forbes.com/sites/paultassi/2026/11/07/an-update-on-a-possible-gta-6-pc-release-date-plans-due-to-ai/",
-        "source": "Forbes"
-      }
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "friday the 13th",
-    "titleZh": "friday the 13th",
-    "traffic": "500+",
-    "started": "Thu, 12 Nov 2026 23:20:00 -0800",
-    "summary": "相关新闻主要集中在：Friday the 13th and its superstitious origins。",
-    "explanation": "Google Trends 显示“friday the 13th”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Friday the 13th and its superstitious origins。这些报道来自 Buckrail - Jackson Hole, news 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "Friday the 13th and its superstitious origins",
-        "url": "https://buckrail.com/friday-the-13th-and-its-superstitious-origins/",
-        "source": "Buckrail - Jackson Hole, news"
-      }
-    ]
-  },
-  {
-    "rank": 6,
-    "title": "colman domingo",
-    "titleZh": "colman domingo",
-    "traffic": "100+",
-    "started": "Thu, 12 Nov 2026 23:10:00 -0800",
-    "summary": "相关新闻主要集中在：We’re Dangerously Close to Another #OscarsSoWhite Year. Can Zendaya, Colman Domingo, Pedro Pascal and More Prevent It?。",
-    "explanation": "Google Trends 显示“colman domingo”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：We’re Dangerously Close to Another #OscarsSoWhite Year. Can Zendaya, Colman Domingo, Pedro Pascal and More Prevent It?。这些报道来自 IMDb 等媒体，因此带动了集中搜索。",
-    "relatedQueries": [],
-    "sourceLinks": [
-      {
-        "title": "We’re Dangerously Close to Another #OscarsSoWhite Year. Can Zendaya, Colman Domingo, Pedro Pascal and More Prevent It?",
-        "url": "https://www.imdb.com/fr-ca/news/ni66108061/?ref_=tt_nwr_2",
+        "title": "Hollywood’s Biggest TV Paychecks Revealed, and Zendaya’s ‘Euphoria’ Deal Is Only the Start",
+        "url": "https://www.imdb.com/fr-ca/news/ni66108342/?ref_=nm_nwr_2",
         "source": "IMDb"
       }
     ]
   },
   {
-    "rank": 7,
-    "title": "brisbane bullets",
-    "titleZh": "brisbane bullets",
-    "traffic": "200+",
-    "started": "Thu, 12 Nov 2026 23:00:00 -0800",
-    "summary": "相关新闻主要集中在：Brisbane Bullets @ New Zealand Breakers Half Odds。",
-    "explanation": "Google Trends 显示“brisbane bullets”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Brisbane Bullets @ New Zealand Breakers Half Odds。这些报道来自 FanDuel Sportsbook 等媒体，因此带动了集中搜索。",
+    "rank": 4,
+    "title": "chris duncan",
+    "titleZh": "chris duncan",
+    "traffic": "100+",
+    "started": "Fri, 13 Nov 2026 23:10:00 -0800",
+    "summary": "相关新闻主要集中在：UFC 334: Drew Dober vs. Chris Duncan Predictions & Odds。",
+    "explanation": "Google Trends 显示“chris duncan”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：UFC 334: Drew Dober vs. Chris Duncan Predictions & Odds。这些报道来自 sports.betmgm.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Brisbane Bullets @ New Zealand Breakers Half Odds",
-        "url": "https://sportsbook.fanduel.com/basketball/australian-nbl./brisbane-bullets-@-new-zealand-breakers-36289161?tab=half",
-        "source": "FanDuel Sportsbook"
+        "title": "UFC 334: Drew Dober vs. Chris Duncan Predictions & Odds",
+        "url": "https://sports.betmgm.com/en/blog/ufc/334-drew-dober-chris-duncan-predictions-odds-bm05/",
+        "source": "sports.betmgm.com"
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "title": "harrison ford",
+    "titleZh": "harrison ford",
+    "traffic": "100+",
+    "started": "Fri, 13 Nov 2026 23:10:00 -0800",
+    "summary": "相关新闻主要集中在：Harrison Ford’s 2010 Box Office Flop Becomes Streaming Hit After Its 16th Anniversary。",
+    "explanation": "Google Trends 显示“harrison ford”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Harrison Ford’s 2010 Box Office Flop Becomes Streaming Hit After Its 16th Anniversary。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "Harrison Ford’s 2010 Box Office Flop Becomes Streaming Hit After Its 16th Anniversary",
+        "url": "https://www.yahoo.com/entertainment/movies/box-office-results/articles/harrison-ford-2010-box-office-144500489.html",
+        "source": "Yahoo"
+      }
+    ]
+  },
+  {
+    "rank": 6,
+    "title": "snow storm weather forecast california",
+    "titleZh": "snow storm weather forecast california",
+    "traffic": "2000+",
+    "started": "Fri, 13 Nov 2026 22:50:00 -0800",
+    "summary": "相关新闻主要集中在：California’s first big storm has arrived. Here are latest forecast updates。",
+    "explanation": "Google Trends 显示“snow storm weather forecast california”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：California’s first big storm has arrived. Here are latest forecast updates。这些报道来自 San Francisco Chronicle 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "California’s first big storm has arrived. Here are latest forecast updates",
+        "url": "https://www.sfchronicle.com/weather-forecast/article/live-storm-rain-snow-22527659.php",
+        "source": "San Francisco Chronicle"
+      }
+    ]
+  },
+  {
+    "rank": 7,
+    "title": "big 12 standings",
+    "titleZh": "big 12 standings",
+    "traffic": "500+",
+    "started": "Fri, 13 Nov 2026 22:50:00 -0800",
+    "summary": "相关新闻主要集中在：UCF-Arizona State kickoff pushed back to 5:30 p.m. due to travel issues。",
+    "explanation": "Google Trends 显示“big 12 standings”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：UCF-Arizona State kickoff pushed back to 5:30 p.m. due to travel issues。这些报道来自 Orlando Sentinel 等媒体，因此带动了集中搜索。",
+    "relatedQueries": [],
+    "sourceLinks": [
+      {
+        "title": "UCF-Arizona State kickoff pushed back to 5:30 p.m. due to travel issues",
+        "url": "https://www.orlandosentinel.com/2026/11/13/ucf-knights-big-12-football-arizona-state-sun-devils-faa-ground-stop/",
+        "source": "Orlando Sentinel"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "selena gomez",
-    "titleZh": "selena gomez",
+    "title": "japan cyber attack",
+    "titleZh": "japan cyber attack",
     "traffic": "200+",
-    "started": "Thu, 12 Nov 2026 23:00:00 -0800",
-    "summary": "相关新闻主要集中在：TV's Top Salaries: Which Streaming Stars Make $1 Million Or More Per Episode?。",
-    "explanation": "Google Trends 显示“selena gomez”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：TV's Top Salaries: Which Streaming Stars Make $1 Million Or More Per Episode?。这些报道来自 TVLine 等媒体，因此带动了集中搜索。",
+    "started": "Fri, 13 Nov 2026 22:50:00 -0800",
+    "summary": "相关新闻主要集中在：Japan's Osaka City says about 1.08 million email addresses leaked in administrative system breach via unauthorized access to contractor Arara。",
+    "explanation": "Google Trends 显示“japan cyber attack”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Japan's Osaka City says about 1.08 million email addresses leaked in administrative system breach via unauthorized access to contractor Arara。这些报道来自 BigGo Finance 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "TV's Top Salaries: Which Streaming Stars Make $1 Million Or More Per Episode?",
-        "url": "https://www.tvline.com/2315341/tv-top-salaries-highest-paid-actors-streaming-list/",
-        "source": "TVLine"
+        "title": "Japan's Osaka City says about 1.08 million email addresses leaked in administrative system breach via unauthorized access to contractor Arara",
+        "url": "https://finance.biggo.com/news/ee52bd12-cad5-4f2a-b3c1-f433066dd75e",
+        "source": "BigGo Finance"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "kevin holland",
-    "titleZh": "kevin holland",
-    "traffic": "100+",
-    "started": "Thu, 12 Nov 2026 23:00:00 -0800",
-    "summary": "相关新闻主要集中在：Uroš Medić: 'I'm Making My Way Towards The Belt' | Polymarket UFC 334。",
-    "explanation": "Google Trends 显示“kevin holland”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Uroš Medić: 'I'm Making My Way Towards The Belt' | Polymarket UFC 334。这些报道来自 UFC.com 等媒体，因此带动了集中搜索。",
+    "title": "jonathan kreiss-tomkins",
+    "titleZh": "jonathan kreiss-tomkins",
+    "traffic": "1000+",
+    "started": "Fri, 13 Nov 2026 22:50:00 -0800",
+    "summary": "相关新闻主要集中在：Democrats pick up win in Alaska governor’s race after midterms shellacking for GOP。",
+    "explanation": "Google Trends 显示“jonathan kreiss-tomkins”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Democrats pick up win in Alaska governor’s race after midterms shellacking for GOP。这些报道来自 CNN 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Uroš Medić: 'I'm Making My Way Towards The Belt' | Polymarket UFC 334",
-        "url": "https://www.ufc.com/video/161823",
-        "source": "UFC.com"
+        "title": "Democrats pick up win in Alaska governor’s race after midterms shellacking for GOP",
+        "url": "https://www.cnn.com/2026/11/12/politics/live-news/trump-congress",
+        "source": "CNN"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "james webb space telescope",
-    "titleZh": "james webb space telescope",
+    "title": "colorado football schedule",
+    "titleZh": "colorado football schedule",
     "traffic": "200+",
-    "started": "Thu, 12 Nov 2026 22:50:00 -0800",
-    "summary": "相关新闻主要集中在：The most distant pair of quasars in the early Universe has been discovered。",
-    "explanation": "Google Trends 显示“james webb space telescope”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：The most distant pair of quasars in the early Universe has been discovered。这些报道来自 Universe Space Tech 等媒体，因此带动了集中搜索。",
+    "started": "Fri, 13 Nov 2026 22:40:00 -0800",
+    "summary": "相关新闻主要集中在：Colorado State, Sam Houston cancel 2027-28 football series。",
+    "explanation": "Google Trends 显示“colorado football schedule”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Colorado State, Sam Houston cancel 2027-28 football series。这些报道来自 FBSchedules.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "The most distant pair of quasars in the early Universe has been discovered",
-        "url": "https://universemagazine.com/en/astronomers-discover-two-supermassive-quasars-where-they-shouldnt-exist/",
-        "source": "Universe Space Tech"
+        "title": "Colorado State, Sam Houston cancel 2027-28 football series",
+        "url": "https://fbschedules.com/colorado-state-sam-houston-cancel-2027-28-football-series/",
+        "source": "FBSchedules.com"
       }
     ]
   }
