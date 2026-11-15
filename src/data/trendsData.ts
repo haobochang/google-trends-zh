@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "tahiti",
-    "titleZh": "tahiti",
-    "traffic": "100+",
-    "started": "Fri, 13 Nov 2026 23:20:00 -0800",
-    "summary": "相关新闻主要集中在：Live Tahiti - Cook Islands Friendlies 3 de Matchs Amicaux 2026 14/11。",
-    "explanation": "Google Trends 显示“tahiti”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Live Tahiti - Cook Islands Friendlies 3 de Matchs Amicaux 2026 14/11。这些报道来自 Foot Mercato 等媒体，因此带动了集中搜索。",
+    "title": "earthquake",
+    "titleZh": "earthquake",
+    "traffic": "500+",
+    "started": "Sat, 14 Nov 2026 23:30:00 -0800",
+    "summary": "相关新闻主要集中在：M 4.3 earthquake reported in Wallowa County。",
+    "explanation": "Google Trends 显示“earthquake”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：M 4.3 earthquake reported in Wallowa County。这些报道来自 Elkhorn Media Group 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Live Tahiti - Cook Islands Friendlies 3 de Matchs Amicaux 2026 14/11",
-        "url": "https://www.footmercato.net/live/8032090855567629765-tahiti-vs-iles-cook",
-        "source": "Foot Mercato"
+        "title": "M 4.3 earthquake reported in Wallowa County",
+        "url": "https://elkhornmediagroup.com/m-4-3-earthquake-reported-in-wallowa-county/",
+        "source": "Elkhorn Media Group"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "dune",
-    "titleZh": "dune",
-    "traffic": "200+",
-    "started": "Fri, 13 Nov 2026 23:10:00 -0800",
-    "summary": "相关新闻主要集中在：‘Dune: Part Three’ Stars Set For Very Childish BBC Prank Tonight。",
-    "explanation": "Google Trends 显示“dune”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：‘Dune: Part Three’ Stars Set For Very Childish BBC Prank Tonight。这些报道来自 Deadline 等媒体，因此带动了集中搜索。",
+    "title": "fitness",
+    "titleZh": "fitness",
+    "traffic": "2000+",
+    "started": "Sat, 14 Nov 2026 23:10:00 -0800",
+    "summary": "相关新闻主要集中在：Want fitness results? Do this every day until 2027。",
+    "explanation": "Google Trends 显示“fitness”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Want fitness results? Do this every day until 2027。这些报道来自 The Independent 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "‘Dune: Part Three’ Stars Set For Very Childish BBC Prank Tonight",
-        "url": "https://deadline.com/2026/11/chalamet-dune-part-three-prank-bbc-children-in-need-1237222621/",
-        "source": "Deadline"
+        "title": "Want fitness results? Do this every day until 2027",
+        "url": "https://www.independent.co.uk/health-and-fitness/fitness-goals-2027-advice-better-health-b3084539.html",
+        "source": "The Independent"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "jennifer aniston",
-    "titleZh": "jennifer aniston",
-    "traffic": "200+",
-    "started": "Fri, 13 Nov 2026 23:10:00 -0800",
-    "summary": "相关新闻主要集中在：Hollywood’s Biggest TV Paychecks Revealed, and Zendaya’s ‘Euphoria’ Deal Is Only the Start。",
-    "explanation": "Google Trends 显示“jennifer aniston”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Hollywood’s Biggest TV Paychecks Revealed, and Zendaya’s ‘Euphoria’ Deal Is Only the Start。这些报道来自 IMDb 等媒体，因此带动了集中搜索。",
+    "title": "sa vs ban",
+    "titleZh": "sa vs ban",
+    "traffic": "500+",
+    "started": "Sat, 14 Nov 2026 23:10:00 -0800",
+    "summary": "相关新闻主要集中在：Bavuma backs Hamza at number three against Bangladesh。",
+    "explanation": "Google Trends 显示“sa vs ban”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Bavuma backs Hamza at number three against Bangladesh。这些报道来自 https://novanews.co.za/ 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Hollywood’s Biggest TV Paychecks Revealed, and Zendaya’s ‘Euphoria’ Deal Is Only the Start",
-        "url": "https://www.imdb.com/fr-ca/news/ni66108342/?ref_=nm_nwr_2",
-        "source": "IMDb"
+        "title": "Bavuma backs Hamza at number three against Bangladesh",
+        "url": "https://novanews.co.za/zubayr-hamza-south-africa-bangladesh-first-test/",
+        "source": "https://novanews.co.za/"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "chris duncan",
-    "titleZh": "chris duncan",
-    "traffic": "100+",
-    "started": "Fri, 13 Nov 2026 23:10:00 -0800",
-    "summary": "相关新闻主要集中在：UFC 334: Drew Dober vs. Chris Duncan Predictions & Odds。",
-    "explanation": "Google Trends 显示“chris duncan”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：UFC 334: Drew Dober vs. Chris Duncan Predictions & Odds。这些报道来自 sports.betmgm.com 等媒体，因此带动了集中搜索。",
+    "title": "dampier utah",
+    "titleZh": "dampier utah",
+    "traffic": "1000+",
+    "started": "Sat, 14 Nov 2026 23:10:00 -0800",
+    "summary": "相关新闻主要集中在：Utah Launches #SPID4HEISMAN Campaign。",
+    "explanation": "Google Trends 显示“dampier utah”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Utah Launches #SPID4HEISMAN Campaign。这些报道来自 247Sports 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "UFC 334: Drew Dober vs. Chris Duncan Predictions & Odds",
-        "url": "https://sports.betmgm.com/en/blog/ufc/334-drew-dober-chris-duncan-predictions-odds-bm05/",
-        "source": "sports.betmgm.com"
+        "title": "Utah Launches #SPID4HEISMAN Campaign",
+        "url": "https://247sports.com/article/utah-football-launches-spid4heisman-campaign-for-quarterback-devon-dampier-292607897/",
+        "source": "247Sports"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "harrison ford",
-    "titleZh": "harrison ford",
-    "traffic": "100+",
-    "started": "Fri, 13 Nov 2026 23:10:00 -0800",
-    "summary": "相关新闻主要集中在：Harrison Ford’s 2010 Box Office Flop Becomes Streaming Hit After Its 16th Anniversary。",
-    "explanation": "Google Trends 显示“harrison ford”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Harrison Ford’s 2010 Box Office Flop Becomes Streaming Hit After Its 16th Anniversary。这些报道来自 Yahoo 等媒体，因此带动了集中搜索。",
+    "title": "aiden mizell",
+    "titleZh": "aiden mizell",
+    "traffic": "200+",
+    "started": "Sat, 14 Nov 2026 23:10:00 -0800",
+    "summary": "相关新闻主要集中在：Postgame Quotes - UCLA vs. Illinois。",
+    "explanation": "Google Trends 显示“aiden mizell”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Postgame Quotes - UCLA vs. Illinois。这些报道来自 UCLA Bruins 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Harrison Ford’s 2010 Box Office Flop Becomes Streaming Hit After Its 16th Anniversary",
-        "url": "https://www.yahoo.com/entertainment/movies/box-office-results/articles/harrison-ford-2010-box-office-144500489.html",
-        "source": "Yahoo"
+        "title": "Postgame Quotes - UCLA vs. Illinois",
+        "url": "https://uclabruins.com/news/2026/11/13/postgame-quotes-ucla-vs-illinois",
+        "source": "UCLA Bruins"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "snow storm weather forecast california",
-    "titleZh": "snow storm weather forecast california",
-    "traffic": "2000+",
-    "started": "Fri, 13 Nov 2026 22:50:00 -0800",
-    "summary": "相关新闻主要集中在：California’s first big storm has arrived. Here are latest forecast updates。",
-    "explanation": "Google Trends 显示“snow storm weather forecast california”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：California’s first big storm has arrived. Here are latest forecast updates。这些报道来自 San Francisco Chronicle 等媒体，因此带动了集中搜索。",
+    "title": "karely ruiz",
+    "titleZh": "karely ruiz",
+    "traffic": "200+",
+    "started": "Sat, 14 Nov 2026 23:10:00 -0800",
+    "summary": "相关新闻主要集中在：¿Karely abandona ‘La mansión VIP 2’? Se pelea con Odette Orlena y exhiben presunta agresión a Cukis。",
+    "explanation": "Google Trends 显示“karely ruiz”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：¿Karely abandona ‘La mansión VIP 2’? Se pelea con Odette Orlena y exhiben presunta agresión a Cukis。这些报道来自 TVNotas 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "California’s first big storm has arrived. Here are latest forecast updates",
-        "url": "https://www.sfchronicle.com/weather-forecast/article/live-storm-rain-snow-22527659.php",
-        "source": "San Francisco Chronicle"
+        "title": "¿Karely abandona ‘La mansión VIP 2’? Se pelea con Odette Orlena y exhiben presunta agresión a Cukis",
+        "url": "https://www.tvnotas.com.mx/espectaculos-mexico/karely-abandona-la-mansion-vip-2-se-pelea-con-odette-orlena-y-exhiben-presunta-agresion-a-cukis",
+        "source": "TVNotas"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "big 12 standings",
-    "titleZh": "big 12 standings",
-    "traffic": "500+",
-    "started": "Fri, 13 Nov 2026 22:50:00 -0800",
-    "summary": "相关新闻主要集中在：UCF-Arizona State kickoff pushed back to 5:30 p.m. due to travel issues。",
-    "explanation": "Google Trends 显示“big 12 standings”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：UCF-Arizona State kickoff pushed back to 5:30 p.m. due to travel issues。这些报道来自 Orlando Sentinel 等媒体，因此带动了集中搜索。",
+    "title": "aidan mizell",
+    "titleZh": "aidan mizell",
+    "traffic": "200+",
+    "started": "Sat, 14 Nov 2026 23:10:00 -0800",
+    "summary": "相关新闻主要集中在：Competition breeds success for UCLA football’s Aidan Mizell, Scooter Jackson。",
+    "explanation": "Google Trends 显示“aidan mizell”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Competition breeds success for UCLA football’s Aidan Mizell, Scooter Jackson。这些报道来自 Los Angeles Daily News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "UCF-Arizona State kickoff pushed back to 5:30 p.m. due to travel issues",
-        "url": "https://www.orlandosentinel.com/2026/11/13/ucf-knights-big-12-football-arizona-state-sun-devils-faa-ground-stop/",
-        "source": "Orlando Sentinel"
+        "title": "Competition breeds success for UCLA football’s Aidan Mizell, Scooter Jackson",
+        "url": "https://www.dailynews.com/2026/11/09/competition-breeds-success-for-ucla-footballs-aidan-mizell-scooter-jackson/",
+        "source": "Los Angeles Daily News"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "japan cyber attack",
-    "titleZh": "japan cyber attack",
-    "traffic": "200+",
-    "started": "Fri, 13 Nov 2026 22:50:00 -0800",
-    "summary": "相关新闻主要集中在：Japan's Osaka City says about 1.08 million email addresses leaked in administrative system breach via unauthorized access to contractor Arara。",
-    "explanation": "Google Trends 显示“japan cyber attack”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Japan's Osaka City says about 1.08 million email addresses leaked in administrative system breach via unauthorized access to contractor Arara。这些报道来自 BigGo Finance 等媒体，因此带动了集中搜索。",
+    "title": "football games tomorrow",
+    "titleZh": "football games tomorrow",
+    "traffic": "100+",
+    "started": "Sat, 14 Nov 2026 23:00:00 -0800",
+    "summary": "相关新闻主要集中在：Purdue football team to take buses to Iowa City due to FAA ground stop。",
+    "explanation": "Google Trends 显示“football games tomorrow”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Purdue football team to take buses to Iowa City due to FAA ground stop。这些报道来自 Hawk Central 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Japan's Osaka City says about 1.08 million email addresses leaked in administrative system breach via unauthorized access to contractor Arara",
-        "url": "https://finance.biggo.com/news/ee52bd12-cad5-4f2a-b3c1-f433066dd75e",
-        "source": "BigGo Finance"
+        "title": "Purdue football team to take buses to Iowa City due to FAA ground stop",
+        "url": "https://www.hawkcentral.com/story/sports/college/iowa/football/2026/11/13/purdue-football-buses-iowa-city-faa-ground-stop/92767924007/",
+        "source": "Hawk Central"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "jonathan kreiss-tomkins",
-    "titleZh": "jonathan kreiss-tomkins",
-    "traffic": "1000+",
-    "started": "Fri, 13 Nov 2026 22:50:00 -0800",
-    "summary": "相关新闻主要集中在：Democrats pick up win in Alaska governor’s race after midterms shellacking for GOP。",
-    "explanation": "Google Trends 显示“jonathan kreiss-tomkins”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Democrats pick up win in Alaska governor’s race after midterms shellacking for GOP。这些报道来自 CNN 等媒体，因此带动了集中搜索。",
+    "title": "mike perry",
+    "titleZh": "mike perry",
+    "traffic": "100+",
+    "started": "Sat, 14 Nov 2026 23:00:00 -0800",
+    "summary": "相关新闻主要集中在：Mike Perry Re-Signs With UFC After Appearing in Anti-Doping Test Records。",
+    "explanation": "Google Trends 显示“mike perry”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Mike Perry Re-Signs With UFC After Appearing in Anti-Doping Test Records。这些报道来自 MMA Sucka 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Democrats pick up win in Alaska governor’s race after midterms shellacking for GOP",
-        "url": "https://www.cnn.com/2026/11/12/politics/live-news/trump-congress",
-        "source": "CNN"
+        "title": "Mike Perry Re-Signs With UFC After Appearing in Anti-Doping Test Records",
+        "url": "https://mmasucka.com/news/mike-perry-re-signs-with-ufc-after-appearing-in-anti-doping-test-records/",
+        "source": "MMA Sucka"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "colorado football schedule",
-    "titleZh": "colorado football schedule",
+    "title": "travis barker",
+    "titleZh": "travis barker",
     "traffic": "200+",
-    "started": "Fri, 13 Nov 2026 22:40:00 -0800",
-    "summary": "相关新闻主要集中在：Colorado State, Sam Houston cancel 2027-28 football series。",
-    "explanation": "Google Trends 显示“colorado football schedule”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Colorado State, Sam Houston cancel 2027-28 football series。这些报道来自 FBSchedules.com 等媒体，因此带动了集中搜索。",
+    "started": "Sat, 14 Nov 2026 22:40:00 -0800",
+    "summary": "相关新闻主要集中在：Phil Collins Inducted Into Rock & Roll Hall of Fame: “You Haven’t Heard the Last from Me”。",
+    "explanation": "Google Trends 显示“travis barker”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Phil Collins Inducted Into Rock & Roll Hall of Fame: “You Haven’t Heard the Last from Me”。这些报道来自 Consequence of Sound 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Colorado State, Sam Houston cancel 2027-28 football series",
-        "url": "https://fbschedules.com/colorado-state-sam-houston-cancel-2027-28-football-series/",
-        "source": "FBSchedules.com"
+        "title": "Phil Collins Inducted Into Rock & Roll Hall of Fame: “You Haven’t Heard the Last from Me”",
+        "url": "https://consequence.net/2026/11/phil-collins-rock-hall-induction-solo-artist/",
+        "source": "Consequence of Sound"
       }
     ]
   }
