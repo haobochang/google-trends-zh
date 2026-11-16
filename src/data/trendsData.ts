@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "earthquake",
-    "titleZh": "earthquake",
-    "traffic": "500+",
-    "started": "Sat, 14 Nov 2026 23:30:00 -0800",
-    "summary": "相关新闻主要集中在：M 4.3 earthquake reported in Wallowa County。",
-    "explanation": "Google Trends 显示“earthquake”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：M 4.3 earthquake reported in Wallowa County。这些报道来自 Elkhorn Media Group 等媒体，因此带动了集中搜索。",
+    "title": "sharad kapoor",
+    "titleZh": "sharad kapoor",
+    "traffic": "200+",
+    "started": "Sun, 15 Nov 2026 23:40:00 -0800",
+    "summary": "相关新闻主要集中在：Salman Khan, Sonu Sood Offer Financial Help to Sharad Kapoor; Josh Actor to Make Hollywood Debut Amid Crisis。",
+    "explanation": "Google Trends 显示“sharad kapoor”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Salman Khan, Sonu Sood Offer Financial Help to Sharad Kapoor; Josh Actor to Make Hollywood Debut Amid Crisis。这些报道来自 MensXP 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "M 4.3 earthquake reported in Wallowa County",
-        "url": "https://elkhornmediagroup.com/m-4-3-earthquake-reported-in-wallowa-county/",
-        "source": "Elkhorn Media Group"
+        "title": "Salman Khan, Sonu Sood Offer Financial Help to Sharad Kapoor; Josh Actor to Make Hollywood Debut Amid Crisis",
+        "url": "https://www.mensxp.com/entertainment/celebrities/186814-salman-khan-sonu-sood-offer-financial-help-to-sharad-kapoor-hollywood-debut.html",
+        "source": "MensXP"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "fitness",
-    "titleZh": "fitness",
-    "traffic": "2000+",
-    "started": "Sat, 14 Nov 2026 23:10:00 -0800",
-    "summary": "相关新闻主要集中在：Want fitness results? Do this every day until 2027。",
-    "explanation": "Google Trends 显示“fitness”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Want fitness results? Do this every day until 2027。这些报道来自 The Independent 等媒体，因此带动了集中搜索。",
+    "title": "colin farrell",
+    "titleZh": "colin farrell",
+    "traffic": "100+",
+    "started": "Sun, 15 Nov 2026 23:40:00 -0800",
+    "summary": "相关新闻主要集中在：Colin Farrell Admits Even He Doesn’t Know the “Depths or Nuance” of His 23-Year-Old Son’s Health Battle。",
+    "explanation": "Google Trends 显示“colin farrell”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Colin Farrell Admits Even He Doesn’t Know the “Depths or Nuance” of His 23-Year-Old Son’s Health Battle。这些报道来自 InStyle 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Want fitness results? Do this every day until 2027",
-        "url": "https://www.independent.co.uk/health-and-fitness/fitness-goals-2027-advice-better-health-b3084539.html",
-        "source": "The Independent"
+        "title": "Colin Farrell Admits Even He Doesn’t Know the “Depths or Nuance” of His 23-Year-Old Son’s Health Battle",
+        "url": "https://www.instyle.com/colin-farrell-opens-up-son-james-health-battle-angelman-syndrome-12251765",
+        "source": "InStyle"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "sa vs ban",
-    "titleZh": "sa vs ban",
+    "title": "gta vi game",
+    "titleZh": "gta vi game",
     "traffic": "500+",
-    "started": "Sat, 14 Nov 2026 23:10:00 -0800",
-    "summary": "相关新闻主要集中在：Bavuma backs Hamza at number three against Bangladesh。",
-    "explanation": "Google Trends 显示“sa vs ban”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Bavuma backs Hamza at number three against Bangladesh。这些报道来自 https://novanews.co.za/ 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 15 Nov 2026 23:30:00 -0800",
+    "summary": "相关新闻主要集中在：‘GTA VI’ Has Already Sold $1 Billion+ In Preorders—But May Not Revive Console Sales Amid AI-Driven Price Hikes。",
+    "explanation": "Google Trends 显示“gta vi game”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：‘GTA VI’ Has Already Sold $1 Billion+ In Preorders—But May Not Revive Console Sales Amid AI-Driven Price Hikes。这些报道来自 Forbes 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Bavuma backs Hamza at number three against Bangladesh",
-        "url": "https://novanews.co.za/zubayr-hamza-south-africa-bangladesh-first-test/",
-        "source": "https://novanews.co.za/"
+        "title": "‘GTA VI’ Has Already Sold $1 Billion+ In Preorders—But May Not Revive Console Sales Amid AI-Driven Price Hikes",
+        "url": "https://www.forbes.com/sites/conormurray/2026/11/14/gta-vi-has-already-sold-1-billion-in-preorders-but-may-not-revive-console-sales-amid-ai-driven-price-hikes/",
+        "source": "Forbes"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "dampier utah",
-    "titleZh": "dampier utah",
-    "traffic": "1000+",
-    "started": "Sat, 14 Nov 2026 23:10:00 -0800",
-    "summary": "相关新闻主要集中在：Utah Launches #SPID4HEISMAN Campaign。",
-    "explanation": "Google Trends 显示“dampier utah”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Utah Launches #SPID4HEISMAN Campaign。这些报道来自 247Sports 等媒体，因此带动了集中搜索。",
+    "title": "karely ruiz",
+    "titleZh": "karely ruiz",
+    "traffic": "200+",
+    "started": "Sun, 15 Nov 2026 23:10:00 -0800",
+    "summary": "相关新闻主要集中在：VIDEO: Karely Ruiz se pelea con Odette Orlena y agrediría a Cukis; sería expulsada de ‘La Mansión VIP’。",
+    "explanation": "Google Trends 显示“karely ruiz”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：VIDEO: Karely Ruiz se pelea con Odette Orlena y agrediría a Cukis; sería expulsada de ‘La Mansión VIP’。这些报道来自 La Tribuna (México) 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Utah Launches #SPID4HEISMAN Campaign",
-        "url": "https://247sports.com/article/utah-football-launches-spid4heisman-campaign-for-quarterback-devon-dampier-292607897/",
-        "source": "247Sports"
+        "title": "VIDEO: Karely Ruiz se pelea con Odette Orlena y agrediría a Cukis; sería expulsada de ‘La Mansión VIP’",
+        "url": "https://tribuna.com.mx/espectaculos/2026/11/14/video-karely-ruiz-se-pelea-con-odette-orlena-y-agrediria-a-cukis-seria-expulsada-de-la-mansion-vip_715591/",
+        "source": "La Tribuna (México)"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "aiden mizell",
-    "titleZh": "aiden mizell",
-    "traffic": "200+",
-    "started": "Sat, 14 Nov 2026 23:10:00 -0800",
-    "summary": "相关新闻主要集中在：Postgame Quotes - UCLA vs. Illinois。",
-    "explanation": "Google Trends 显示“aiden mizell”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Postgame Quotes - UCLA vs. Illinois。这些报道来自 UCLA Bruins 等媒体，因此带动了集中搜索。",
+    "title": "fitness",
+    "titleZh": "fitness",
+    "traffic": "1000+",
+    "started": "Sun, 15 Nov 2026 22:50:00 -0800",
+    "summary": "相关新闻主要集中在：Ex-Special Forces, MMA Fighter Promote Hyrox Fitness Sport。",
+    "explanation": "Google Trends 显示“fitness”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Ex-Special Forces, MMA Fighter Promote Hyrox Fitness Sport。这些报道来自 조선일보 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Postgame Quotes - UCLA vs. Illinois",
-        "url": "https://uclabruins.com/news/2026/11/13/postgame-quotes-ucla-vs-illinois",
-        "source": "UCLA Bruins"
+        "title": "Ex-Special Forces, MMA Fighter Promote Hyrox Fitness Sport",
+        "url": "https://www.chosun.com/english/sports-en/2026/11/16/2TF557FP4FBFRENGAZMTO7XEJU/",
+        "source": "조선일보"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "karely ruiz",
-    "titleZh": "karely ruiz",
+    "title": "alex bolt",
+    "titleZh": "alex bolt",
     "traffic": "200+",
-    "started": "Sat, 14 Nov 2026 23:10:00 -0800",
-    "summary": "相关新闻主要集中在：¿Karely abandona ‘La mansión VIP 2’? Se pelea con Odette Orlena y exhiben presunta agresión a Cukis。",
-    "explanation": "Google Trends 显示“karely ruiz”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：¿Karely abandona ‘La mansión VIP 2’? Se pelea con Odette Orlena y exhiben presunta agresión a Cukis。这些报道来自 TVNotas 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 15 Nov 2026 22:50:00 -0800",
+    "summary": "相关新闻主要集中在：November 17, 2026: Clement Tabur vs Daniel Altmaier Prediction Market。",
+    "explanation": "Google Trends 显示“alex bolt”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：November 17, 2026: Clement Tabur vs Daniel Altmaier Prediction Market。这些报道来自 Robinhood 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "¿Karely abandona ‘La mansión VIP 2’? Se pelea con Odette Orlena y exhiben presunta agresión a Cukis",
-        "url": "https://www.tvnotas.com.mx/espectaculos-mexico/karely-abandona-la-mansion-vip-2-se-pelea-con-odette-orlena-y-exhiben-presunta-agresion-a-cukis",
-        "source": "TVNotas"
+        "title": "November 17, 2026: Clement Tabur vs Daniel Altmaier Prediction Market",
+        "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/fd6f78fb-0f44-4d87-8745-69474056b5f8/",
+        "source": "Robinhood"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "aidan mizell",
-    "titleZh": "aidan mizell",
-    "traffic": "200+",
-    "started": "Sat, 14 Nov 2026 23:10:00 -0800",
-    "summary": "相关新闻主要集中在：Competition breeds success for UCLA football’s Aidan Mizell, Scooter Jackson。",
-    "explanation": "Google Trends 显示“aidan mizell”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Competition breeds success for UCLA football’s Aidan Mizell, Scooter Jackson。这些报道来自 Los Angeles Daily News 等媒体，因此带动了集中搜索。",
+    "title": "bill fennelly",
+    "titleZh": "bill fennelly",
+    "traffic": "100+",
+    "started": "Sun, 15 Nov 2026 22:40:00 -0800",
+    "summary": "相关新闻主要集中在：Fennelly suspended one-game for incident in Cyclones' game with UIC。",
+    "explanation": "Google Trends 显示“bill fennelly”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Fennelly suspended one-game for incident in Cyclones' game with UIC。这些报道来自 KWWL 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Competition breeds success for UCLA football’s Aidan Mizell, Scooter Jackson",
-        "url": "https://www.dailynews.com/2026/11/09/competition-breeds-success-for-ucla-footballs-aidan-mizell-scooter-jackson/",
-        "source": "Los Angeles Daily News"
+        "title": "Fennelly suspended one-game for incident in Cyclones' game with UIC",
+        "url": "https://www.kwwl.com/news/fennelly-suspended-one-game-for-incident-in-cyclones-game-with-uic/article_57395b9a-6d72-4519-a736-3c8f19b516cb.html",
+        "source": "KWWL"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "football games tomorrow",
-    "titleZh": "football games tomorrow",
-    "traffic": "100+",
-    "started": "Sat, 14 Nov 2026 23:00:00 -0800",
-    "summary": "相关新闻主要集中在：Purdue football team to take buses to Iowa City due to FAA ground stop。",
-    "explanation": "Google Trends 显示“football games tomorrow”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Purdue football team to take buses to Iowa City due to FAA ground stop。这些报道来自 Hawk Central 等媒体，因此带动了集中搜索。",
+    "title": "black friday sales",
+    "titleZh": "black friday sales",
+    "traffic": "200+",
+    "started": "Sun, 15 Nov 2026 22:30:00 -0800",
+    "summary": "相关新闻主要集中在：The Best Early Black Friday Deals That Would Make Great Gifts。",
+    "explanation": "Google Trends 显示“black friday sales”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：The Best Early Black Friday Deals That Would Make Great Gifts。这些报道来自 New York Magazine 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Purdue football team to take buses to Iowa City due to FAA ground stop",
-        "url": "https://www.hawkcentral.com/story/sports/college/iowa/football/2026/11/13/purdue-football-buses-iowa-city-faa-ground-stop/92767924007/",
-        "source": "Hawk Central"
+        "title": "The Best Early Black Friday Deals That Would Make Great Gifts",
+        "url": "https://nymag.com/strategist/article/best-early-black-friday-christmas-gift-deals-2026.html",
+        "source": "New York Magazine"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "mike perry",
-    "titleZh": "mike perry",
-    "traffic": "100+",
-    "started": "Sat, 14 Nov 2026 23:00:00 -0800",
-    "summary": "相关新闻主要集中在：Mike Perry Re-Signs With UFC After Appearing in Anti-Doping Test Records。",
-    "explanation": "Google Trends 显示“mike perry”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Mike Perry Re-Signs With UFC After Appearing in Anti-Doping Test Records。这些报道来自 MMA Sucka 等媒体，因此带动了集中搜索。",
+    "title": "future",
+    "titleZh": "future",
+    "traffic": "200+",
+    "started": "Sun, 15 Nov 2026 22:20:00 -0800",
+    "summary": "相关新闻主要集中在：The Maga extremists plotting a post-Trump America – where women lose the vote。",
+    "explanation": "Google Trends 显示“future”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：The Maga extremists plotting a post-Trump America – where women lose the vote。这些报道来自 The Independent 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Mike Perry Re-Signs With UFC After Appearing in Anti-Doping Test Records",
-        "url": "https://mmasucka.com/news/mike-perry-re-signs-with-ufc-after-appearing-in-anti-doping-test-records/",
-        "source": "MMA Sucka"
+        "title": "The Maga extremists plotting a post-Trump America – where women lose the vote",
+        "url": "https://www.the-independent.com/news/world/americas/christian-nationalist-trump-alex-jones-calvin-robinson-b3084573.html",
+        "source": "The Independent"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "travis barker",
-    "titleZh": "travis barker",
+    "title": "apec",
+    "titleZh": "apec",
     "traffic": "200+",
-    "started": "Sat, 14 Nov 2026 22:40:00 -0800",
-    "summary": "相关新闻主要集中在：Phil Collins Inducted Into Rock & Roll Hall of Fame: “You Haven’t Heard the Last from Me”。",
-    "explanation": "Google Trends 显示“travis barker”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Phil Collins Inducted Into Rock & Roll Hall of Fame: “You Haven’t Heard the Last from Me”。这些报道来自 Consequence of Sound 等媒体，因此带动了集中搜索。",
+    "started": "Sun, 15 Nov 2026 22:20:00 -0800",
+    "summary": "相关新闻主要集中在：China APEC。",
+    "explanation": "Google Trends 显示“apec”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：China APEC。这些报道来自 WV News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Phil Collins Inducted Into Rock & Roll Hall of Fame: “You Haven’t Heard the Last from Me”",
-        "url": "https://consequence.net/2026/11/phil-collins-rock-hall-induction-solo-artist/",
-        "source": "Consequence of Sound"
+        "title": "China APEC",
+        "url": "https://www.wvnews.com/newsfeed/world/china-apec/image_63172d44-c1b5-5854-a980-cc697b8eb0e2.html",
+        "source": "WV News"
       }
     ]
   }
