@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "sharad kapoor",
-    "titleZh": "sharad kapoor",
+    "title": "pluto tv",
+    "titleZh": "pluto tv",
     "traffic": "200+",
-    "started": "Sun, 15 Nov 2026 23:40:00 -0800",
-    "summary": "相关新闻主要集中在：Salman Khan, Sonu Sood Offer Financial Help to Sharad Kapoor; Josh Actor to Make Hollywood Debut Amid Crisis。",
-    "explanation": "Google Trends 显示“sharad kapoor”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Salman Khan, Sonu Sood Offer Financial Help to Sharad Kapoor; Josh Actor to Make Hollywood Debut Amid Crisis。这些报道来自 MensXP 等媒体，因此带动了集中搜索。",
+    "started": "Tue, 17 Nov 2026 00:50:00 -0800",
+    "summary": "相关新闻主要集中在：Pluto TV Adds ‘The Jamie Foxx Show,’ ‘Martin’ and ‘Two and a Half Men’ to Free Lineup。",
+    "explanation": "Google Trends 显示“pluto tv”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Pluto TV Adds ‘The Jamie Foxx Show,’ ‘Martin’ and ‘Two and a Half Men’ to Free Lineup。这些报道来自 EURweb 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Salman Khan, Sonu Sood Offer Financial Help to Sharad Kapoor; Josh Actor to Make Hollywood Debut Amid Crisis",
-        "url": "https://www.mensxp.com/entertainment/celebrities/186814-salman-khan-sonu-sood-offer-financial-help-to-sharad-kapoor-hollywood-debut.html",
-        "source": "MensXP"
+        "title": "Pluto TV Adds ‘The Jamie Foxx Show,’ ‘Martin’ and ‘Two and a Half Men’ to Free Lineup",
+        "url": "https://eurweb.com/pluto-tv-jamie-foxx-martin-wayans-two-and-a-half-men/",
+        "source": "EURweb"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "colin farrell",
-    "titleZh": "colin farrell",
-    "traffic": "100+",
-    "started": "Sun, 15 Nov 2026 23:40:00 -0800",
-    "summary": "相关新闻主要集中在：Colin Farrell Admits Even He Doesn’t Know the “Depths or Nuance” of His 23-Year-Old Son’s Health Battle。",
-    "explanation": "Google Trends 显示“colin farrell”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Colin Farrell Admits Even He Doesn’t Know the “Depths or Nuance” of His 23-Year-Old Son’s Health Battle。这些报道来自 InStyle 等媒体，因此带动了集中搜索。",
+    "title": "susan smith",
+    "titleZh": "susan smith",
+    "traffic": "200+",
+    "started": "Tue, 17 Nov 2026 00:50:00 -0800",
+    "summary": "相关新闻主要集中在：Susan Smith, Who Drowned Her 2 Young Sons 32 Years Ago, Makes Another Bid for Freedom as Boys’ Dad Fights Release。",
+    "explanation": "Google Trends 显示“susan smith”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Susan Smith, Who Drowned Her 2 Young Sons 32 Years Ago, Makes Another Bid for Freedom as Boys’ Dad Fights Release。这些报道来自 Yahoo News New Zealand 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Colin Farrell Admits Even He Doesn’t Know the “Depths or Nuance” of His 23-Year-Old Son’s Health Battle",
-        "url": "https://www.instyle.com/colin-farrell-opens-up-son-james-health-battle-angelman-syndrome-12251765",
-        "source": "InStyle"
+        "title": "Susan Smith, Who Drowned Her 2 Young Sons 32 Years Ago, Makes Another Bid for Freedom as Boys’ Dad Fights Release",
+        "url": "https://nz.news.yahoo.com/susan-smith-drowned-her-2-220539600.html",
+        "source": "Yahoo News New Zealand"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "gta vi game",
-    "titleZh": "gta vi game",
-    "traffic": "500+",
-    "started": "Sun, 15 Nov 2026 23:30:00 -0800",
-    "summary": "相关新闻主要集中在：‘GTA VI’ Has Already Sold $1 Billion+ In Preorders—But May Not Revive Console Sales Amid AI-Driven Price Hikes。",
-    "explanation": "Google Trends 显示“gta vi game”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：‘GTA VI’ Has Already Sold $1 Billion+ In Preorders—But May Not Revive Console Sales Amid AI-Driven Price Hikes。这些报道来自 Forbes 等媒体，因此带动了集中搜索。",
+    "title": "power",
+    "titleZh": "power",
+    "traffic": "100+",
+    "started": "Tue, 17 Nov 2026 00:50:00 -0800",
+    "summary": "相关新闻主要集中在：NBA Power Rankings: Celtics rise to contenders tier as injuries impact almost every team。",
+    "explanation": "Google Trends 显示“power”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：NBA Power Rankings: Celtics rise to contenders tier as injuries impact almost every team。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "‘GTA VI’ Has Already Sold $1 Billion+ In Preorders—But May Not Revive Console Sales Amid AI-Driven Price Hikes",
-        "url": "https://www.forbes.com/sites/conormurray/2026/11/14/gta-vi-has-already-sold-1-billion-in-preorders-but-may-not-revive-console-sales-amid-ai-driven-price-hikes/",
-        "source": "Forbes"
+        "title": "NBA Power Rankings: Celtics rise to contenders tier as injuries impact almost every team",
+        "url": "https://www.nytimes.com/athletic/7786874/2026/11/16/nba-power-rankings-celtics-lakers-sixers-injuries/",
+        "source": "The New York Times"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "karely ruiz",
-    "titleZh": "karely ruiz",
-    "traffic": "200+",
-    "started": "Sun, 15 Nov 2026 23:10:00 -0800",
-    "summary": "相关新闻主要集中在：VIDEO: Karely Ruiz se pelea con Odette Orlena y agrediría a Cukis; sería expulsada de ‘La Mansión VIP’。",
-    "explanation": "Google Trends 显示“karely ruiz”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：VIDEO: Karely Ruiz se pelea con Odette Orlena y agrediría a Cukis; sería expulsada de ‘La Mansión VIP’。这些报道来自 La Tribuna (México) 等媒体，因此带动了集中搜索。",
+    "title": "bangladesh vs south africa",
+    "titleZh": "bangladesh vs south africa",
+    "traffic": "500+",
+    "started": "Tue, 17 Nov 2026 00:40:00 -0800",
+    "summary": "相关新闻主要集中在：South Africa Bangladesh Cricket。",
+    "explanation": "Google Trends 显示“bangladesh vs south africa”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：South Africa Bangladesh Cricket。这些报道来自 Idaho State Journal 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "VIDEO: Karely Ruiz se pelea con Odette Orlena y agrediría a Cukis; sería expulsada de ‘La Mansión VIP’",
-        "url": "https://tribuna.com.mx/espectaculos/2026/11/14/video-karely-ruiz-se-pelea-con-odette-orlena-y-agrediria-a-cukis-seria-expulsada-de-la-mansion-vip_715591/",
-        "source": "La Tribuna (México)"
+        "title": "South Africa Bangladesh Cricket",
+        "url": "https://www.idahostatejournal.com/sports/national/south-africa-bangladesh-cricket/image_eb90475d-5309-5152-8923-c9c4ad7fe9da.html",
+        "source": "Idaho State Journal"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "fitness",
-    "titleZh": "fitness",
-    "traffic": "1000+",
-    "started": "Sun, 15 Nov 2026 22:50:00 -0800",
-    "summary": "相关新闻主要集中在：Ex-Special Forces, MMA Fighter Promote Hyrox Fitness Sport。",
-    "explanation": "Google Trends 显示“fitness”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Ex-Special Forces, MMA Fighter Promote Hyrox Fitness Sport。这些报道来自 조선일보 等媒体，因此带动了集中搜索。",
+    "title": "hailey bieber",
+    "titleZh": "hailey bieber",
+    "traffic": "100+",
+    "started": "Tue, 17 Nov 2026 00:40:00 -0800",
+    "summary": "相关新闻主要集中在：Hailey Bieber takes Rhode beyond beauty with its first fashion launch。",
+    "explanation": "Google Trends 显示“hailey bieber”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Hailey Bieber takes Rhode beyond beauty with its first fashion launch。这些报道来自 London Evening Standard 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Ex-Special Forces, MMA Fighter Promote Hyrox Fitness Sport",
-        "url": "https://www.chosun.com/english/sports-en/2026/11/16/2TF557FP4FBFRENGAZMTO7XEJU/",
-        "source": "조선일보"
+        "title": "Hailey Bieber takes Rhode beyond beauty with its first fashion launch",
+        "url": "https://www.standard.co.uk/shopping/esbest/fashion/hailey-bieber-rhode-clothing-b1305101.html",
+        "source": "London Evening Standard"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "alex bolt",
-    "titleZh": "alex bolt",
-    "traffic": "200+",
-    "started": "Sun, 15 Nov 2026 22:50:00 -0800",
-    "summary": "相关新闻主要集中在：November 17, 2026: Clement Tabur vs Daniel Altmaier Prediction Market。",
-    "explanation": "Google Trends 显示“alex bolt”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：November 17, 2026: Clement Tabur vs Daniel Altmaier Prediction Market。这些报道来自 Robinhood 等媒体，因此带动了集中搜索。",
+    "title": "owala coca-cola",
+    "titleZh": "owala coca-cola",
+    "traffic": "100+",
+    "started": "Tue, 17 Nov 2026 00:30:00 -0800",
+    "summary": "相关新闻主要集中在：Owala and Coca-Cola’s new Amazon-exclusive tumblers are made for soda lovers。",
+    "explanation": "Google Trends 显示“owala coca-cola”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Owala and Coca-Cola’s new Amazon-exclusive tumblers are made for soda lovers。这些报道来自 NJ.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "November 17, 2026: Clement Tabur vs Daniel Altmaier Prediction Market",
-        "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/fd6f78fb-0f44-4d87-8745-69474056b5f8/",
-        "source": "Robinhood"
+        "title": "Owala and Coca-Cola’s new Amazon-exclusive tumblers are made for soda lovers",
+        "url": "https://www.nj.com/shopping-deals/2026/11/owala-and-coca-colas-new-amazon-exclusive-tumblers-are-made-for-soda-lovers.html",
+        "source": "NJ.com"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "bill fennelly",
-    "titleZh": "bill fennelly",
+    "title": "government jobs",
+    "titleZh": "government jobs",
     "traffic": "100+",
-    "started": "Sun, 15 Nov 2026 22:40:00 -0800",
-    "summary": "相关新闻主要集中在：Fennelly suspended one-game for incident in Cyclones' game with UIC。",
-    "explanation": "Google Trends 显示“bill fennelly”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Fennelly suspended one-game for incident in Cyclones' game with UIC。这些报道来自 KWWL 等媒体，因此带动了集中搜索。",
+    "started": "Tue, 17 Nov 2026 00:20:00 -0800",
+    "summary": "相关新闻主要集中在：Representative James R. Walkinshaw introduces H.R. 10960: Keep Federal Tech Talent Act。",
+    "explanation": "Google Trends 显示“government jobs”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Representative James R. Walkinshaw introduces H.R. 10960: Keep Federal Tech Talent Act。这些报道来自 Quiver Quantitative 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Fennelly suspended one-game for incident in Cyclones' game with UIC",
-        "url": "https://www.kwwl.com/news/fennelly-suspended-one-game-for-incident-in-cyclones-game-with-uic/article_57395b9a-6d72-4519-a736-3c8f19b516cb.html",
-        "source": "KWWL"
+        "title": "Representative James R. Walkinshaw introduces H.R. 10960: Keep Federal Tech Talent Act",
+        "url": "https://www.quiverquant.com/news/Representative+James+R.+Walkinshaw+introduces+H.R.+10960%3A+Keep+Federal+Tech+Talent+Act",
+        "source": "Quiver Quantitative"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "black friday sales",
-    "titleZh": "black friday sales",
-    "traffic": "200+",
-    "started": "Sun, 15 Nov 2026 22:30:00 -0800",
-    "summary": "相关新闻主要集中在：The Best Early Black Friday Deals That Would Make Great Gifts。",
-    "explanation": "Google Trends 显示“black friday sales”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：The Best Early Black Friday Deals That Would Make Great Gifts。这些报道来自 New York Magazine 等媒体，因此带动了集中搜索。",
+    "title": "sam claflin",
+    "titleZh": "sam claflin",
+    "traffic": "100+",
+    "started": "Tue, 17 Nov 2026 00:10:00 -0800",
+    "summary": "相关新闻主要集中在：Nothing Prepared Sam Claflin For Seeing What Johnny Depp Would Look Like In Ebenezer, NOTHING。",
+    "explanation": "Google Trends 显示“sam claflin”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Nothing Prepared Sam Claflin For Seeing What Johnny Depp Would Look Like In Ebenezer, NOTHING。这些报道来自 Cinemablend 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "The Best Early Black Friday Deals That Would Make Great Gifts",
-        "url": "https://nymag.com/strategist/article/best-early-black-friday-christmas-gift-deals-2026.html",
-        "source": "New York Magazine"
+        "title": "Nothing Prepared Sam Claflin For Seeing What Johnny Depp Would Look Like In Ebenezer, NOTHING",
+        "url": "https://www.cinemablend.com/movies/nothing-prepared-sam-claflin-seeing-johnny-depp-ebenezer-nothing",
+        "source": "Cinemablend"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "future",
-    "titleZh": "future",
+    "title": "danielle lopez dental records confirmation",
+    "titleZh": "danielle lopez dental records confirmation",
     "traffic": "200+",
-    "started": "Sun, 15 Nov 2026 22:20:00 -0800",
-    "summary": "相关新闻主要集中在：The Maga extremists plotting a post-Trump America – where women lose the vote。",
-    "explanation": "Google Trends 显示“future”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：The Maga extremists plotting a post-Trump America – where women lose the vote。这些报道来自 The Independent 等媒体，因此带动了集中搜索。",
+    "started": "Tue, 17 Nov 2026 00:00:00 -0800",
+    "summary": "相关新闻主要集中在：Remains of missing woman found in South Jersey。",
+    "explanation": "Google Trends 显示“danielle lopez dental records confirmation”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Remains of missing woman found in South Jersey。这些报道来自 Inquirer.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "The Maga extremists plotting a post-Trump America – where women lose the vote",
-        "url": "https://www.the-independent.com/news/world/americas/christian-nationalist-trump-alex-jones-calvin-robinson-b3084573.html",
-        "source": "The Independent"
+        "title": "Remains of missing woman found in South Jersey",
+        "url": "https://www.inquirer.com/crime/daniel-lopez-missing-pine-barrens-remains-found-20261116.html",
+        "source": "Inquirer.com"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "apec",
-    "titleZh": "apec",
-    "traffic": "200+",
-    "started": "Sun, 15 Nov 2026 22:20:00 -0800",
-    "summary": "相关新闻主要集中在：China APEC。",
-    "explanation": "Google Trends 显示“apec”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：China APEC。这些报道来自 WV News 等媒体，因此带动了集中搜索。",
+    "title": "kristina bogic age",
+    "titleZh": "kristina bogic age",
+    "traffic": "100+",
+    "started": "Tue, 17 Nov 2026 00:00:00 -0800",
+    "summary": "相关新闻主要集中在：In ‘The Body,’ Kristina Bogic and Sara Boustany Have Killer Chemistry as Anya and Elise。",
+    "explanation": "Google Trends 显示“kristina bogic age”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：In ‘The Body,’ Kristina Bogic and Sara Boustany Have Killer Chemistry as Anya and Elise。这些报道来自 Teen Vogue 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "China APEC",
-        "url": "https://www.wvnews.com/newsfeed/world/china-apec/image_63172d44-c1b5-5854-a980-cc697b8eb0e2.html",
-        "source": "WV News"
+        "title": "In ‘The Body,’ Kristina Bogic and Sara Boustany Have Killer Chemistry as Anya and Elise",
+        "url": "https://www.teenvogue.com/story/the-body-stars-kristina-bogic-sara-boustany-interview",
+        "source": "Teen Vogue"
       }
     ]
   }
