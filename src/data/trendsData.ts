@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "david montgomery",
-    "titleZh": "david montgomery",
-    "traffic": "100+",
-    "started": "Wed, 18 Nov 2026 00:20:00 -0800",
-    "summary": "相关新闻主要集中在：David Montgomery (groin) trending in right direction。",
-    "explanation": "Google Trends 显示“david montgomery”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：David Montgomery (groin) trending in right direction。这些报道来自 FantasyPros 等媒体，因此带动了集中搜索。",
+    "title": "john cornyn",
+    "titleZh": "john cornyn",
+    "traffic": "2000+",
+    "started": "Thu, 19 Nov 2026 00:30:00 -0800",
+    "summary": "相关新闻主要集中在：Republican Senator Cornyn blocks Trump judicial nominee in Texas。",
+    "explanation": "Google Trends 显示“john cornyn”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Republican Senator Cornyn blocks Trump judicial nominee in Texas。这些报道来自 Reuters 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "David Montgomery (groin) trending in right direction",
-        "url": "https://www.fantasypros.com/nfl/news/620779/david-montgomery-groin-trending-right-direction.php",
-        "source": "FantasyPros"
+        "title": "Republican Senator Cornyn blocks Trump judicial nominee in Texas",
+        "url": "https://www.reuters.com/legal/government/republican-senator-cornyn-blocks-trump-judicial-nominee-texas-2026-11-18/",
+        "source": "Reuters"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "madden",
-    "titleZh": "madden",
+    "title": "trinidad",
+    "titleZh": "trinidad",
     "traffic": "200+",
-    "started": "Wed, 18 Nov 2026 00:20:00 -0800",
-    "summary": "相关新闻主要集中在：‘Madden’ Rotten Tomatoes Critics Sack Nicolas Cage’s John Madden Biopic。",
-    "explanation": "Google Trends 显示“madden”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：‘Madden’ Rotten Tomatoes Critics Sack Nicolas Cage’s John Madden Biopic。这些报道来自 Forbes 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 19 Nov 2026 00:20:00 -0800",
+    "summary": "相关新闻主要集中在：TSTT goes after $12 million Pre-action letter to recover money from tech company。",
+    "explanation": "Google Trends 显示“trinidad”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：TSTT goes after $12 million Pre-action letter to recover money from tech company。这些报道来自 WINNFM 98.9 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "‘Madden’ Rotten Tomatoes Critics Sack Nicolas Cage’s John Madden Biopic",
-        "url": "https://www.forbes.com/sites/timlammers/2026/11/17/madden-rotten-tomatoes-reviews-sack-nicolas-cages-john-madden-biopic/",
-        "source": "Forbes"
+        "title": "TSTT goes after $12 million Pre-action letter to recover money from tech company",
+        "url": "https://www.winnmediaskn.com/tstt-goes-after-12-million-pre-action-letter-to-recover-money-from-tech-company/",
+        "source": "WINNFM 98.9"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "chris evans",
-    "titleZh": "chris evans",
+    "title": "gta 6 bigfoot",
+    "titleZh": "gta 6 bigfoot",
     "traffic": "100+",
-    "started": "Wed, 18 Nov 2026 00:10:00 -0800",
-    "summary": "相关新闻主要集中在：Chris Evans Offer Clears Answer to if He’s Playing Captain America in Avengers: Doomsday。",
-    "explanation": "Google Trends 显示“chris evans”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Chris Evans Offer Clears Answer to if He’s Playing Captain America in Avengers: Doomsday。这些报道来自 AOL.com 等媒体，因此带动了集中搜索。",
+    "started": "Thu, 19 Nov 2026 00:10:00 -0800",
+    "summary": "相关新闻主要集中在：Bigfoot Is Back In GTA 6, And Apparently He Smells Revolting。",
+    "explanation": "Google Trends 显示“gta 6 bigfoot”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Bigfoot Is Back In GTA 6, And Apparently He Smells Revolting。这些报道来自 GameSpot 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Chris Evans Offer Clears Answer to if He’s Playing Captain America in Avengers: Doomsday",
-        "url": "https://www.aol.com/articles/chris-evans-offer-clears-answer-213622000.html",
-        "source": "AOL.com"
+        "title": "Bigfoot Is Back In GTA 6, And Apparently He Smells Revolting",
+        "url": "https://www.gamespot.com/articles/bigfoot-is-back-in-gta-6-and-apparently-he-smells-revolting/",
+        "source": "GameSpot"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "new zealand breakers",
-    "titleZh": "new zealand breakers",
-    "traffic": "200+",
-    "started": "Wed, 18 Nov 2026 00:00:00 -0800",
-    "summary": "相关新闻主要集中在：NBL27 Round 10 Predictions & Tips。",
-    "explanation": "Google Trends 显示“new zealand breakers”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：NBL27 Round 10 Predictions & Tips。这些报道来自 Before You Bet 等媒体，因此带动了集中搜索。",
+    "title": "housing",
+    "titleZh": "housing",
+    "traffic": "100+",
+    "started": "Thu, 19 Nov 2026 00:10:00 -0800",
+    "summary": "相关新闻主要集中在：Home contract signings hit multidecade low as buyers struggle with high rates and prices。",
+    "explanation": "Google Trends 显示“housing”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Home contract signings hit multidecade low as buyers struggle with high rates and prices。这些报道来自 Yahoo Finance 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "NBL27 Round 10 Predictions & Tips",
-        "url": "https://www.beforeyoubet.com.au/nbl27-round-10-predictions-tips",
-        "source": "Before You Bet"
+        "title": "Home contract signings hit multidecade low as buyers struggle with high rates and prices",
+        "url": "https://finance.yahoo.com/real-estate/article/home-contract-signings-hit-multidecade-low-as-buyers-struggle-with-high-rates-and-prices-151416285.html",
+        "source": "Yahoo Finance"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "ign",
-    "titleZh": "ign",
-    "traffic": "1000+",
-    "started": "Wed, 18 Nov 2026 00:00:00 -0800",
-    "summary": "相关新闻主要集中在：‘The Hunger Games: Sunrise on the Reaping’ Review: Another Tribute。",
-    "explanation": "Google Trends 显示“ign”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：‘The Hunger Games: Sunrise on the Reaping’ Review: Another Tribute。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
+    "title": "portos",
+    "titleZh": "portos",
+    "traffic": "100+",
+    "started": "Thu, 19 Nov 2026 00:10:00 -0800",
+    "summary": "相关新闻主要集中在：Portos brasileiros: tráfico em navios amplia debate sobre vigilância autônoma。",
+    "explanation": "Google Trends 显示“portos”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Portos brasileiros: tráfico em navios amplia debate sobre vigilância autônoma。这些报道来自 Defesa em Foco 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "‘The Hunger Games: Sunrise on the Reaping’ Review: Another Tribute",
-        "url": "https://www.nytimes.com/2026/11/17/movies/the-hunger-games-sunrise-on-the-reaping-review.html",
-        "source": "The New York Times"
+        "title": "Portos brasileiros: tráfico em navios amplia debate sobre vigilância autônoma",
+        "url": "https://www.defesaemfoco.com.br/portos-brasileiros-trafico-navios-vigilancia-autonoma/",
+        "source": "Defesa em Foco"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "red flag (fire weather) warning",
-    "titleZh": "red flag (fire weather) warning",
+    "title": "navajo stirling",
+    "titleZh": "navajo stirling",
     "traffic": "100+",
-    "started": "Tue, 17 Nov 2026 23:50:00 -0800",
-    "summary": "相关新闻主要集中在：Latest forecast | Denver Fire Weather Watch Wednesday ahead of mountain storm and snow。",
-    "explanation": "Google Trends 显示“red flag (fire weather) warning”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Latest forecast | Denver Fire Weather Watch Wednesday ahead of mountain storm and snow。这些报道来自 9News 等媒体，因此带动了集中搜索。",
+    "started": "Wed, 18 Nov 2026 23:50:00 -0800",
+    "summary": "相关新闻主要集中在：Navajo Stirling says Jiri Prochazka 'gets hit a lot,' expects easy work。",
+    "explanation": "Google Trends 显示“navajo stirling”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Navajo Stirling says Jiri Prochazka 'gets hit a lot,' expects easy work。这些报道来自 Sherdog 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Latest forecast | Denver Fire Weather Watch Wednesday ahead of mountain storm and snow",
-        "url": "https://www.9news.com/video/weather/forecast/denver-front-range-colorado-weather-forecast/73-5b3210b5-1788-4d80-8065-5f0464258afa",
-        "source": "9News"
+        "title": "Navajo Stirling says Jiri Prochazka 'gets hit a lot,' expects easy work",
+        "url": "https://www.sherdog.com/news/news/Navajo-Stirling-says-Jiri-Prochazka-gets-hit-a-lot-expects-easy-work-203691",
+        "source": "Sherdog"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "ps5 black friday deals",
-    "titleZh": "ps5 black friday deals",
-    "traffic": "500+",
-    "started": "Tue, 17 Nov 2026 23:50:00 -0800",
-    "summary": "相关新闻主要集中在：Amazon Officially Reveals Early Black Friday Gaming Deals。",
-    "explanation": "Google Trends 显示“ps5 black friday deals”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Amazon Officially Reveals Early Black Friday Gaming Deals。这些报道来自 Polygon.com 等媒体，因此带动了集中搜索。",
+    "title": "joe jonas",
+    "titleZh": "joe jonas",
+    "traffic": "200+",
+    "started": "Wed, 18 Nov 2026 23:40:00 -0800",
+    "summary": "相关新闻主要集中在：Joe Jonas Turns Demi Lovatos Mug Meme Into Birthday Gift。",
+    "explanation": "Google Trends 显示“joe jonas”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Joe Jonas Turns Demi Lovatos Mug Meme Into Birthday Gift。这些报道来自 Limapagi 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Amazon Officially Reveals Early Black Friday Gaming Deals",
-        "url": "https://www.polygon.com/black-friday-2026-amazon-gaming-deals-when-ps5-ps5-xbox-nintendo-switch/",
-        "source": "Polygon.com"
+        "title": "Joe Jonas Turns Demi Lovatos Mug Meme Into Birthday Gift",
+        "url": "https://www.limapagi.id/en/joe-jonas-demi-lovato-mug-gift",
+        "source": "Limapagi"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "gta 6 new screenshots",
-    "titleZh": "gta 6 new screenshots",
-    "traffic": "1000+",
-    "started": "Tue, 17 Nov 2026 23:40:00 -0800",
-    "summary": "相关新闻主要集中在：The Weather Channel Has Shared New Screenshots of GTA 6's Dynamic Weather。",
-    "explanation": "Google Trends 显示“gta 6 new screenshots”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：The Weather Channel Has Shared New Screenshots of GTA 6's Dynamic Weather。这些报道来自 80 Level 等媒体，因此带动了集中搜索。",
+    "title": "stanislaus wildlife care center",
+    "titleZh": "stanislaus wildlife care center",
+    "traffic": "100+",
+    "started": "Wed, 18 Nov 2026 23:40:00 -0800",
+    "summary": "相关新闻主要集中在：Blaze at Stanislaus Wildlife Care Center kills nearly all animals in hospital building。",
+    "explanation": "Google Trends 显示“stanislaus wildlife care center”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Blaze at Stanislaus Wildlife Care Center kills nearly all animals in hospital building。这些报道来自 Modesto Bee 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "The Weather Channel Has Shared New Screenshots of GTA 6's Dynamic Weather",
-        "url": "https://80.lv/articles/the-weather-channel-has-shared-new-screenshots-of-gta-6-s-dynamic-weather",
-        "source": "80 Level"
+        "title": "Blaze at Stanislaus Wildlife Care Center kills nearly all animals in hospital building",
+        "url": "https://www.modbee.com/news/local/article318150687.html",
+        "source": "Modesto Bee"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "google play store",
-    "titleZh": "google play store",
-    "traffic": "200+",
-    "started": "Tue, 17 Nov 2026 23:40:00 -0800",
-    "summary": "相关新闻主要集中在：CookieRun: Crumble Wins Best Casual Game in 8 Overseas Regions。",
-    "explanation": "Google Trends 显示“google play store”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：CookieRun: Crumble Wins Best Casual Game in 8 Overseas Regions。这些报道来自 Inven Global 等媒体，因此带动了集中搜索。",
+    "title": "las vegas weather",
+    "titleZh": "las vegas weather",
+    "traffic": "100+",
+    "started": "Wed, 18 Nov 2026 23:30:00 -0800",
+    "summary": "相关新闻主要集中在：Wind, rain bring ‘unsettled’ week of weather to Las Vegas。",
+    "explanation": "Google Trends 显示“las vegas weather”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Wind, rain bring ‘unsettled’ week of weather to Las Vegas。这些报道来自 Las Vegas Review-Journal 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "CookieRun: Crumble Wins Best Casual Game in 8 Overseas Regions",
-        "url": "https://www.invenglobal.com/articles/28751/cookierun-crumble-wins-best-casual-game-in-8-overseas-regions",
-        "source": "Inven Global"
+        "title": "Wind, rain bring ‘unsettled’ week of weather to Las Vegas",
+        "url": "https://www.reviewjournal.com/local/weather/wind-rain-bring-unsettled-week-of-weather-to-las-vegas-3916150/?utm_campaign=widget&utm_medium=section_row&utm_source=traffic&utm_term=Wind%2C%20rain%20bring%20%E2%80%98unsettled%E2%80%99%20week%20of%20weather%20to%20Las%20Vegas",
+        "source": "Las Vegas Review-Journal"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "nba standings",
-    "titleZh": "nba standings",
-    "traffic": "2000+",
-    "started": "Tue, 17 Nov 2026 23:20:00 -0800",
-    "summary": "相关新闻主要集中在：NBA Power Rankings: Lakers thriving behind two-way Luka Dončić, plus a new team at No. 1。",
-    "explanation": "Google Trends 显示“nba standings”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：NBA Power Rankings: Lakers thriving behind two-way Luka Dončić, plus a new team at No. 1。这些报道来自 CBS Sports 等媒体，因此带动了集中搜索。",
+    "title": "app",
+    "titleZh": "app",
+    "traffic": "200+",
+    "started": "Wed, 18 Nov 2026 23:30:00 -0800",
+    "summary": "相关新闻主要集中在：Google Play is about to crack down on app support for foldables。",
+    "explanation": "Google Trends 显示“app”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Google Play is about to crack down on app support for foldables。这些报道来自 Android Police 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "NBA Power Rankings: Lakers thriving behind two-way Luka Dončić, plus a new team at No. 1",
-        "url": "https://www.cbssports.com/nba/news/nba-power-rankings-lakers-luka-doncic-nov-11/",
-        "source": "CBS Sports"
+        "title": "Google Play is about to crack down on app support for foldables",
+        "url": "https://www.androidpolice.com/google-play-is-getting-serious-about-foldables/",
+        "source": "Android Police"
       }
     ]
   }
