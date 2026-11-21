@@ -3,171 +3,171 @@ import type { TrendItem } from '../types'
 export const trendsData: TrendItem[] = [
   {
     "rank": 1,
-    "title": "latest news",
-    "titleZh": "latest news",
-    "traffic": "2000+",
-    "started": "Fri, 20 Nov 2026 00:20:00 -0800",
-    "summary": "相关新闻主要集中在：Fish and High Prices: How Mary Peltola Triumphed in Alaska’s Senate Race。",
-    "explanation": "Google Trends 显示“latest news”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Fish and High Prices: How Mary Peltola Triumphed in Alaska’s Senate Race。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
+    "title": "jensen ackles",
+    "titleZh": "jensen ackles",
+    "traffic": "100+",
+    "started": "Sat, 21 Nov 2026 00:00:00 -0800",
+    "summary": "相关新闻主要集中在：Leighton Meester Loves Playing a Bitch: ‘Somehow It Comes Easy to Me’。",
+    "explanation": "Google Trends 显示“jensen ackles”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Leighton Meester Loves Playing a Bitch: ‘Somehow It Comes Easy to Me’。这些报道来自 ELLE 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Fish and High Prices: How Mary Peltola Triumphed in Alaska’s Senate Race",
-        "url": "https://www.nytimes.com/2026/11/18/us/politics/peltola-victory-alaska-senate.html",
-        "source": "The New York Times"
+        "title": "Leighton Meester Loves Playing a Bitch: ‘Somehow It Comes Easy to Me’",
+        "url": "https://www.elle.com/culture/movies-tv/a74458732/leighton-meester-guarding-stars-netflix-interview/",
+        "source": "ELLE"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "criminal defense lawyer",
-    "titleZh": "criminal defense lawyer",
-    "traffic": "200+",
-    "started": "Fri, 20 Nov 2026 00:00:00 -0800",
-    "summary": "相关新闻主要集中在：Top Hegseth adviser represents Libyan warlord’s son accused of torture。",
-    "explanation": "Google Trends 显示“criminal defense lawyer”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Top Hegseth adviser represents Libyan warlord’s son accused of torture。这些报道来自 Politico 等媒体，因此带动了集中搜索。",
+    "title": "quentin tarantino",
+    "titleZh": "quentin tarantino",
+    "traffic": "1000+",
+    "started": "Fri, 20 Nov 2026 23:50:00 -0800",
+    "summary": "相关新闻主要集中在：‘The Further Mis-Adventures of Cliff Booth’ Review: David Fincher’s Breezy Tarantino Spinoff Is a Disappointing Compromise Between Great Directors。",
+    "explanation": "Google Trends 显示“quentin tarantino”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：‘The Further Mis-Adventures of Cliff Booth’ Review: David Fincher’s Breezy Tarantino Spinoff Is a Disappointing Compromise Between Great Directors。这些报道来自 IndieWire 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Top Hegseth adviser represents Libyan warlord’s son accused of torture",
-        "url": "https://www.politico.com/news/2026/11/17/tim-parlatore-libya-warlord-hegseth-01168919",
-        "source": "Politico"
+        "title": "‘The Further Mis-Adventures of Cliff Booth’ Review: David Fincher’s Breezy Tarantino Spinoff Is a Disappointing Compromise Between Great Directors",
+        "url": "https://www.indiewire.com/criticism/movies/further-misadventures-of-cliff-booth-movie-review-netflix-1235229234/",
+        "source": "IndieWire"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "mobland season 2 episode 10",
-    "titleZh": "mobland season 2 episode 10",
-    "traffic": "100+",
-    "started": "Fri, 20 Nov 2026 00:00:00 -0800",
-    "summary": "相关新闻主要集中在：Tom Hardy & Guy Ritchie’s Mob Thriller Officially Peaks 3 Days Before Finale。",
-    "explanation": "Google Trends 显示“mobland season 2 episode 10”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Tom Hardy & Guy Ritchie’s Mob Thriller Officially Peaks 3 Days Before Finale。这些报道来自 ScreenRant 等媒体，因此带动了集中搜索。",
+    "title": "nvidia stock market",
+    "titleZh": "nvidia stock market",
+    "traffic": "10000+",
+    "started": "Fri, 20 Nov 2026 23:40:00 -0800",
+    "summary": "相关新闻主要集中在：Nvidia Said to Face S.E.C. Probe Into Its Accounting Practices。",
+    "explanation": "Google Trends 显示“nvidia stock market”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Nvidia Said to Face S.E.C. Probe Into Its Accounting Practices。这些报道来自 The New York Times 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Tom Hardy & Guy Ritchie’s Mob Thriller Officially Peaks 3 Days Before Finale",
-        "url": "https://screenrant.com/mobland-season-2-tom-hardy-guy-ritchie-mob-thriller-peaks-before-finale/",
-        "source": "ScreenRant"
+        "title": "Nvidia Said to Face S.E.C. Probe Into Its Accounting Practices",
+        "url": "https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html",
+        "source": "The New York Times"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "karely ruiz",
-    "titleZh": "karely ruiz",
-    "traffic": "200+",
-    "started": "Thu, 19 Nov 2026 23:50:00 -0800",
-    "summary": "相关新闻主要集中在：Enfrenta Karely Ruiz críticas tras incidentes。",
-    "explanation": "Google Trends 显示“karely ruiz”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Enfrenta Karely Ruiz críticas tras incidentes。这些报道来自 El Mañana de Reynosa 等媒体，因此带动了集中搜索。",
+    "title": "ohsaa football scores",
+    "titleZh": "ohsaa football scores",
+    "traffic": "5000+",
+    "started": "Fri, 20 Nov 2026 23:40:00 -0800",
+    "summary": "相关新闻主要集中在：First & 10: Central Ohio high school football scores | Week 4 of playoffs。",
+    "explanation": "Google Trends 显示“ohsaa football scores”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：First & 10: Central Ohio high school football scores | Week 4 of playoffs。这些报道来自 10TV 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Enfrenta Karely Ruiz críticas tras incidentes",
-        "url": "https://www.elmanana.com/escena/famosos/karely-ruiz-y-la-cukis-generan-controversia-en-la-mansion-vip-2/6210301",
-        "source": "El Mañana de Reynosa"
+        "title": "First & 10: Central Ohio high school football scores | Week 4 of playoffs",
+        "url": "https://www.10tv.com/article/sports/high-school/hs-football/central-ohio-high-school-football-scores-playoffs-week-4-2026/530-25bcccad-9dc1-4554-8a63-5816acef94f4",
+        "source": "10TV"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "app",
-    "titleZh": "app",
-    "traffic": "100+",
-    "started": "Thu, 19 Nov 2026 23:50:00 -0800",
-    "summary": "相关新闻主要集中在：Google brings back App Lock for Pixel, with a wide release set for Q1 2027。",
-    "explanation": "Google Trends 显示“app”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Google brings back App Lock for Pixel, with a wide release set for Q1 2027。这些报道来自 Digital Trends 等媒体，因此带动了集中搜索。",
+    "title": "how old is jason in gta 6",
+    "titleZh": "how old is jason in gta 6",
+    "traffic": "500+",
+    "started": "Fri, 20 Nov 2026 23:40:00 -0800",
+    "summary": "相关新闻主要集中在：The actor behind Jason in 'GTA 6' has finally been revealed. Here's where you've seen him before.。",
+    "explanation": "Google Trends 显示“how old is jason in gta 6”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：The actor behind Jason in 'GTA 6' has finally been revealed. Here's where you've seen him before.。这些报道来自 Yahoo Tech 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Google brings back App Lock for Pixel, with a wide release set for Q1 2027",
-        "url": "https://www.digitaltrends.com/phones/google-brings-back-app-lock-for-pixel-with-a-stable-release-set-for-q1-2027/",
-        "source": "Digital Trends"
+        "title": "The actor behind Jason in 'GTA 6' has finally been revealed. Here's where you've seen him before.",
+        "url": "https://tech.yahoo.com/general/breaking-news/article/the-actor-behind-jason-in-gta-6-has-finally-been-revealed-heres-where-youve-seen-him-before-150006402.html",
+        "source": "Yahoo Tech"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "one piece 1199",
-    "titleZh": "one piece 1199",
-    "traffic": "500+",
-    "started": "Thu, 19 Nov 2026 23:40:00 -0800",
-    "summary": "相关新闻主要集中在：30 Years After His Debut, Luffy Is Officially Ready To Become One Piece’s God Of Destruction。",
-    "explanation": "Google Trends 显示“one piece 1199”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：30 Years After His Debut, Luffy Is Officially Ready To Become One Piece’s God Of Destruction。这些报道来自 ScreenRant 等媒体，因此带动了集中搜索。",
+    "title": "gta 6 money glitch",
+    "titleZh": "gta 6 money glitch",
+    "traffic": "200+",
+    "started": "Fri, 20 Nov 2026 23:40:00 -0800",
+    "summary": "相关新闻主要集中在：Grand Theft Auto VI takes aim at the US banking system。",
+    "explanation": "Google Trends 显示“gta 6 money glitch”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Grand Theft Auto VI takes aim at the US banking system。这些报道来自 TheBanker.com 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "30 Years After His Debut, Luffy Is Officially Ready To Become One Piece’s God Of Destruction",
-        "url": "https://screenrant.com/one-piece-luffy-god-destruction/",
-        "source": "ScreenRant"
+        "title": "Grand Theft Auto VI takes aim at the US banking system",
+        "url": "https://www.thebanker.com/content/d00ea61c-2b0a-4fe5-be51-f3f764f5347e",
+        "source": "TheBanker.com"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "will gta 6 have online",
-    "titleZh": "will gta 6 have online",
-    "traffic": "100+",
-    "started": "Thu, 19 Nov 2026 23:40:00 -0800",
-    "summary": "相关新闻主要集中在：Where is GTA 6 Online Multiplayer? GTA Online 2 Release Window。",
-    "explanation": "Google Trends 显示“will gta 6 have online”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Where is GTA 6 Online Multiplayer? GTA Online 2 Release Window。这些报道来自 Insider Gaming 等媒体，因此带动了集中搜索。",
+    "title": "aus vs eng",
+    "titleZh": "aus vs eng",
+    "traffic": "1000+",
+    "started": "Fri, 20 Nov 2026 23:30:00 -0800",
+    "summary": "相关新闻主要集中在：Duckett and Baker help England seal 97-run victory over Australia to clinch ODI series。",
+    "explanation": "Google Trends 显示“aus vs eng”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Duckett and Baker help England seal 97-run victory over Australia to clinch ODI series。这些报道来自 Beloit Daily News 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Where is GTA 6 Online Multiplayer? GTA Online 2 Release Window",
-        "url": "https://insider-gaming.com/gta-6-online-multiplayer-release/",
-        "source": "Insider Gaming"
+        "title": "Duckett and Baker help England seal 97-run victory over Australia to clinch ODI series",
+        "url": "https://www.beloitdailynews.com/sports/pro-sports/duckett-and-baker-help-england-seal-97-run-victory-over-australia-to-clinch-odi-series/article_6deb7641-c4ea-5578-bc00-0869b90c4636.html",
+        "source": "Beloit Daily News"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "daycare",
-    "titleZh": "daycare",
-    "traffic": "500+",
-    "started": "Thu, 19 Nov 2026 23:30:00 -0800",
-    "summary": "相关新闻主要集中在：Licensable picture: Anita Palupi, head of the Little Aresha daycare center, talks with her lawyer during a verdict hearing in a child abuse case at Yogyakarta District Court in Yogyakarta。",
-    "explanation": "Google Trends 显示“daycare”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Licensable picture: Anita Palupi, head of the Little Aresha daycare center, talks with her lawyer during a verdict hearing in a child abuse case at Yogyakarta District Court in Yogyakarta。这些报道来自 Reuters Connect 等媒体，因此带动了集中搜索。",
+    "title": "is there a casino in gta 6",
+    "titleZh": "is there a casino in gta 6",
+    "traffic": "100+",
+    "started": "Fri, 20 Nov 2026 23:30:00 -0800",
+    "summary": "相关新闻主要集中在：GTA VI has two casinos, but players cannot gamble; Rockstar executive explains why | Hindustan Times。",
+    "explanation": "Google Trends 显示“is there a casino in gta 6”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：GTA VI has two casinos, but players cannot gamble; Rockstar executive explains why | Hindustan Times。这些报道来自 Hindustan Times 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Licensable picture: Anita Palupi, head of the Little Aresha daycare center, talks with her lawyer during a verdict hearing in a child abuse case at Yogyakarta District Court in Yogyakarta",
-        "url": "https://www.reutersconnect.com/item/anita-palupi-head-of-the-little-aresha-daycare-center-talks-with-her-lawyer-during-a-verdict-hearing-in-a-child-abuse-case-at-yogyakarta-district-court-in-yogyakarta/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlNRT0FTSVNOUA",
-        "source": "Reuters Connect"
+        "title": "GTA VI has two casinos, but players cannot gamble; Rockstar executive explains why | Hindustan Times",
+        "url": "https://www.hindustantimes.com/entertainment/others/gta-vi-has-two-casinos-but-players-cannot-gamble-rockstar-executive-explains-why-101795053493549.html",
+        "source": "Hindustan Times"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "sndk",
-    "titleZh": "sndk",
+    "title": "gta 6 interactive map",
+    "titleZh": "gta 6 interactive map",
     "traffic": "100+",
-    "started": "Thu, 19 Nov 2026 23:30:00 -0800",
-    "summary": "相关新闻主要集中在：Sandisk Stocks Jump 6.29% Hours Before 8-for-1 Split Takes Effect。",
-    "explanation": "Google Trends 显示“sndk”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Sandisk Stocks Jump 6.29% Hours Before 8-for-1 Split Takes Effect。这些报道来自 TradingView 等媒体，因此带动了集中搜索。",
+    "started": "Fri, 20 Nov 2026 23:20:00 -0800",
+    "summary": "相关新闻主要集中在：Italian-made GTA 6 companion offers interactive map and source-backed tracker。",
+    "explanation": "Google Trends 显示“gta 6 interactive map”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Italian-made GTA 6 companion offers interactive map and source-backed tracker。这些报道来自 Notebookcheck 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Sandisk Stocks Jump 6.29% Hours Before 8-for-1 Split Takes Effect",
-        "url": "https://www.tradingview.com/news/gurufocus:942b663a5094b:0-sandisk-stocks-jump-6-29-hours-before-8-for-1-split-takes-effect/",
-        "source": "TradingView"
+        "title": "Italian-made GTA 6 companion offers interactive map and source-backed tracker",
+        "url": "https://www.notebookcheck.net/Italian-made-GTA-6-companion-offers-interactive-map-and-source-backed-tracker.1453274.0.html",
+        "source": "Notebookcheck"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "truck accident lawyer",
-    "titleZh": "truck accident lawyer",
-    "traffic": "500+",
-    "started": "Thu, 19 Nov 2026 23:20:00 -0800",
-    "summary": "相关新闻主要集中在：Pedestrian Killed in Hit-and-Run on SR 215 Near Okanogan; Driver Sought | Okanogan Pedestrian Accident Lawyer - Call Beverly Law NOW。",
-    "explanation": "Google Trends 显示“truck accident lawyer”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：Pedestrian Killed in Hit-and-Run on SR 215 Near Okanogan; Driver Sought | Okanogan Pedestrian Accident Lawyer - Call Beverly Law NOW。这些报道来自 Beverly Law 等媒体，因此带动了集中搜索。",
+    "title": "zoe saldana",
+    "titleZh": "zoe saldana",
+    "traffic": "100+",
+    "started": "Fri, 20 Nov 2026 23:20:00 -0800",
+    "summary": "相关新闻主要集中在：When Zoe Saldana spoke about her mother’s obsession with ‘Star Trek’。",
+    "explanation": "Google Trends 显示“zoe saldana”在当天搜索量快速上升。从相关新闻看，讨论主要围绕：When Zoe Saldana spoke about her mother’s obsession with ‘Star Trek’。这些报道来自 The Hawk 等媒体，因此带动了集中搜索。",
     "relatedQueries": [],
     "sourceLinks": [
       {
-        "title": "Pedestrian Killed in Hit-and-Run on SR 215 Near Okanogan; Driver Sought | Okanogan Pedestrian Accident Lawyer - Call Beverly Law NOW",
-        "url": "https://www.beverlylaw.org/accident-news/washington/okanogan/11-17-2026-okanogan-sr-215-hit-and-run-pedestrian-accident-lawyer/",
-        "source": "Beverly Law"
+        "title": "When Zoe Saldana spoke about her mother’s obsession with ‘Star Trek’",
+        "url": "https://www.thehawk.in/news/showbiz/hollywood/when-zoe-saldana-spoke-about-her-mothers-obsession-with-star-trek",
+        "source": "The Hawk"
       }
     ]
   }
